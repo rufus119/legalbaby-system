@@ -63,9 +63,9 @@ export default function TimelinePage() {
     return () => clearInterval(timer);
   }, [dailyDates.length, playing]);
 
-  const visibleDates = dailyDates.slice(0, 6);
+  const visibleDates = useMemo(() => dailyDates.slice(0, 6), [dailyDates]);
   const currentDate = visibleDates[index] || "";
-  const currentReports = heatmapData[currentDate] || [];
+  const currentReports = useMemo(() => heatmapData[currentDate] || [], [currentDate, heatmapData]);
 
   const updatedAt = toLocalString(status?.lastDailyRun || status?.lastWeeklyRun);
   const currentInsights = buildInsights(currentReports, weeklySummary);
@@ -106,7 +106,7 @@ export default function TimelinePage() {
   }, [heatmapData, visibleDates]);
 
   return (
-    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)} alerts={currentInsights.alerts}>
+    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)}>
       {loading ? (
         <div className="grid grid-cols-1 gap-4 lg:grid-cols-2">
           <Skeleton className="h-56" />
@@ -193,7 +193,7 @@ export default function TimelinePage() {
             </ul>
           </Card>
 
-          <div className="grid grid-cols-1 gap-4 xl:grid-cols-2">
+          <div className="hidden grid-cols-1 gap-4 xl:grid-cols-2 md:grid">
             <Card className="p-5">
               <h3 className="font-display text-xl">Timeline Intelligence</h3>
               <div className="mt-3 grid grid-cols-1 gap-3 md:grid-cols-2">
@@ -246,7 +246,9 @@ export default function TimelinePage() {
             </Card>
           </div>
 
-          <AlertFeed alerts={currentInsights.alerts} title="Timeline Alerts" />
+          <div className="hidden md:block">
+            <AlertFeed alerts={currentInsights.alerts} title="Timeline Alerts" />
+          </div>
         </div>
       )}
     </PageContainer>

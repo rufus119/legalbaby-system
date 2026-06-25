@@ -83,7 +83,7 @@ export default function ChartsPage() {
   const insightData = buildInsights(filteredReports, []);
 
   return (
-    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)} alerts={insightData.alerts}>
+    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)}>
       <div className="mb-5 flex flex-wrap items-center gap-3">
         <select
           value={selectedDate}
@@ -210,7 +210,7 @@ export default function ChartsPage() {
             </ol>
           </Card>
 
-          <div className="grid grid-cols-1 gap-4 xl:grid-cols-2">
+          <div className="hidden grid-cols-1 gap-4 xl:grid-cols-2 md:grid">
             <Card className="p-5">
               <h3 className="font-display text-xl">AI Recommendations</h3>
               <div className="mt-3 grid grid-cols-1 gap-3 lg:grid-cols-3">
@@ -249,7 +249,9 @@ export default function ChartsPage() {
             </Card>
           </div>
 
-          <AlertFeed alerts={insightData.alerts} title="Charts Alerts" />
+          <div className="hidden md:block">
+            <AlertFeed alerts={insightData.alerts} title="Charts Alerts" />
+          </div>
         </motion.div>
       )}
     </PageContainer>

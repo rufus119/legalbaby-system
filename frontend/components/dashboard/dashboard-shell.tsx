@@ -1,21 +1,18 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { HeroPanel } from "@/components/dashboard/hero-panel";
 import { TopNav } from "@/components/dashboard/top-nav";
 import { ReportGrid } from "@/components/dashboard/report-grid";
 import { DetailDrawer } from "@/components/dashboard/detail-drawer";
-import { AlertFeed } from "@/components/dashboard/alert-feed";
-import { InsightsPanel } from "@/components/dashboard/insights-panel";
 import { BottomNav } from "@/components/layout/bottom-nav";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
 import { getDaily, getDates, getStatus, getWeekly } from "@/lib/api";
 import { DashboardStatus, DailyReport, DetailSelection, WeeklyReport } from "@/lib/types";
 import { countCountries, countTracks, downloadJson, getSystemStatus, toLocalString } from "@/lib/dashboard-helpers";
-import { buildInsights } from "@/lib/insights-engine";
 
 export function DashboardShell() {
   const router = useRouter();
@@ -31,9 +28,8 @@ export function DashboardShell() {
   const [message, setMessage] = useState<string>("");
 
   const systemStatus = getSystemStatus(status);
-  const insightData = buildInsights(dailyReports, weeklyReports);
 
-  async function refreshAll() {
+  const refreshAll = useCallback(async () => {
     const [dateOptions, statusData] = await Promise.all([getDates(), getStatus()]);
     const nextDailyDate = selectedDailyDate || dateOptions.daily[0] || "";
     const nextWeeklyDate = selectedWeeklyDate || dateOptions.weekly[0] || "";
@@ -51,7 +47,7 @@ export function DashboardShell() {
 
     setDailyReports(daily);
     setWeeklyReports(weekly);
-  }
+  }, [selectedDailyDate, selectedWeeklyDate]);
 
   useEffect(() => {
     let mounted = true;
@@ -72,7 +68,7 @@ export function DashboardShell() {
     return () => {
       mounted = false;
     };
-  }, []);
+  }, [refreshAll]);
 
   useEffect(() => {
     if (!selectedDailyDate) return;
@@ -128,9 +124,8 @@ export function DashboardShell() {
       <TopNav
         updatedAt={toLocalString(status?.lastDailyRun || status?.lastWeeklyRun)}
         systemStatus={systemStatus}
-        alerts={insightData.alerts}
       />
-      <main className="mx-auto flex w-full max-w-dashboard flex-col gap-6 px-6 pt-8 lg:px-8">
+      <main className="mx-auto flex w-full max-w-dashboard flex-col gap-4 px-4 pt-4 md:gap-6 md:px-6 md:pt-8 lg:px-8">
         <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.35 }}>
           <HeroPanel
             countriesMonitored={countCountries(dailyReports)}
@@ -154,7 +149,7 @@ export function DashboardShell() {
               reports={dailyReports}
               onSelect={(r) => setSelection({ kind: "daily", report: r as DailyReport })}
               controls={
-                <div className="flex items-center gap-3">
+                <div className="flex w-full flex-col gap-2 md:w-auto md:flex-row md:items-center md:gap-3">
                   <select
                     value={selectedDailyDate}
                     onChange={(e) => setSelectedDailyDate(e.target.value)}
@@ -190,11 +185,6 @@ export function DashboardShell() {
                 </select>
               }
             />
-
-            <div className="grid grid-cols-1 gap-4 xl:grid-cols-2">
-              <InsightsPanel insights={insightData.allInsights} health={insightData.allHealth} />
-              <AlertFeed alerts={insightData.alerts} title="Dashboard Alerts" />
-            </div>
           </>
         )}
 

@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { ArrowDownRight, ArrowUpRight, Minus, TrendingUp } from "lucide-react";
 import { Card } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
 import { DailyReport, WeeklyReport } from "@/lib/types";
 
 type Report = DailyReport | WeeklyReport;
@@ -14,16 +13,6 @@ type ReportCardProps = {
   onSelect: () => void;
   index: number;
 };
-
-function playlistFlag(name: string) {
-  const key = name.toLowerCase();
-  if (key.includes("nigeria")) return "🇳🇬";
-  if (key.includes("ghana")) return "🇬🇭";
-  if (key.includes("uk")) return "🇬🇧";
-  if (key.includes("us")) return "🇺🇸";
-  if (key.includes("global")) return "🌍";
-  return "🎵";
-}
 
 function sparklineNumbers(r: Report) {
   if (r.type === "daily") {
@@ -62,20 +51,18 @@ export function ReportCard({ report, type, onSelect, index }: ReportCardProps) {
 
   return (
     <motion.div
-      initial={{ opacity: 0, y: 12 }}
-      animate={{ opacity: 1, y: 0 }}
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
       transition={{ delay: index * 0.03, duration: 0.26 }}
-      whileHover={{ y: -4 }}
       onClick={onSelect}
       className="cursor-pointer"
     >
-      <Card className="group h-full rounded-xl2 border border-slate-800/70 p-5 hover:shadow-lift">
+      <Card className="group h-full rounded-xl2 border border-slate-800/70 p-4 md:p-5 md:hover:shadow-lift">
         <div className="flex items-start justify-between gap-3">
           <div>
-            <p className="text-sm text-text-secondary">{type === "daily" ? (report as DailyReport).date : (report as WeeklyReport).week}</p>
-            <h3 className="mt-1 text-xl font-semibold text-text-primary">{report.playlistName}</h3>
+            <p className="hidden text-sm text-text-secondary md:block">{type === "daily" ? (report as DailyReport).date : (report as WeeklyReport).week}</p>
+            <h3 className="mt-0 text-xl font-semibold text-text-primary md:mt-1 md:text-xl">{report.playlistName}</h3>
           </div>
-          <Badge>{playlistFlag(report.playlistName)}</Badge>
         </div>
 
         <div className="mt-5 grid grid-cols-3 gap-2">
@@ -86,15 +73,17 @@ export function ReportCard({ report, type, onSelect, index }: ReportCardProps) {
 
         <div className="mt-5 flex items-center justify-between">
           <div>
-            <p className="text-xs text-text-secondary">Change Score</p>
-            <div className="flex items-center gap-1 text-base font-semibold">
+            <p className="text-sm text-text-secondary">Change Score</p>
+            <div className="flex items-center gap-1 text-lg font-semibold">
               {direction === "up" && <ArrowUpRight size={16} className="text-primary" />}
               {direction === "mid" && <TrendingUp size={16} className="text-secondary" />}
               {direction === "down" && <ArrowDownRight size={16} className="text-rose-400" />}
               <span>{score}</span>
             </div>
           </div>
-          <Sparkline values={sparklineNumbers(report)} />
+          <div className="hidden md:block">
+            <Sparkline values={sparklineNumbers(report)} />
+          </div>
         </div>
       </Card>
     </motion.div>

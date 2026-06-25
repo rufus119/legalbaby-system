@@ -66,7 +66,7 @@ export default function GenresPage() {
   const insightData = buildInsights([], filtered);
 
   return (
-    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)} alerts={insightData.alerts}>
+    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)}>
       <div className="mb-5 flex flex-wrap gap-3">
         <select
           value={selectedDate}
@@ -135,7 +135,7 @@ export default function GenresPage() {
             ))}
           </div>
 
-          <div className="grid grid-cols-1 gap-4 xl:grid-cols-2">
+          <div className="hidden grid-cols-1 gap-4 xl:grid-cols-2 md:grid">
             <Card className="p-5">
               <h3 className="font-display text-xl">AI Recommendations</h3>
               <div className="mt-3 grid grid-cols-1 gap-3 lg:grid-cols-3">
@@ -174,7 +174,9 @@ export default function GenresPage() {
             </Card>
           </div>
 
-          <AlertFeed alerts={insightData.alerts} title="Genre Alerts" />
+          <div className="hidden md:block">
+            <AlertFeed alerts={insightData.alerts} title="Genre Alerts" />
+          </div>
         </motion.div>
       )}
     </PageContainer>

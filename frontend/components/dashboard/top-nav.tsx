@@ -2,17 +2,15 @@
 
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { Bell, Clock3, FolderCog, LifeBuoy, Settings, UserCircle2 } from "lucide-react";
+import { FolderCog, LifeBuoy, Menu, Moon, Settings, Sun, UserCircle2 } from "lucide-react";
 import { useState } from "react";
 import { Badge } from "@/components/ui/badge";
 import { BrandMark } from "@/components/layout/brand-mark";
 import { cn } from "@/lib/utils";
-import { AlertItem } from "@/lib/insights-engine";
 
 type TopNavProps = {
   updatedAt: string;
   systemStatus: "Live" | "Updating" | "Scheduled" | "Offline";
-  alerts?: AlertItem[];
 };
 
 const navItems = [
@@ -23,11 +21,11 @@ const navItems = [
   { href: "/settings", label: "Settings" },
 ];
 
-export function TopNav({ updatedAt, systemStatus, alerts = [] }: TopNavProps) {
+export function TopNav({ updatedAt, systemStatus }: TopNavProps) {
   const pathname = usePathname();
   const router = useRouter();
   const [workspaceOpen, setWorkspaceOpen] = useState(false);
-  const [notificationsOpen, setNotificationsOpen] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const statusClass =
     systemStatus === "Live"
@@ -39,14 +37,14 @@ export function TopNav({ updatedAt, systemStatus, alerts = [] }: TopNavProps) {
           : "text-danger";
 
   return (
-    <header className="sticky top-0 z-40 border-b border-slate-800/70 bg-background/80 backdrop-blur-xl">
-      <div className="mx-auto flex max-w-dashboard items-center justify-between px-6 py-4 lg:px-8">
+    <header className="sticky top-0 z-40 border-b border-slate-800/70 bg-background/95 md:bg-background/80 md:backdrop-blur-xl">
+      <div className="mx-auto flex h-16 max-w-dashboard items-center justify-between px-4 md:h-auto md:px-6 md:py-4 lg:px-8">
         <div className="flex items-center gap-8">
           <Link href="/dashboard" className="flex items-center gap-3">
-            <BrandMark className="h-10 w-10" />
+            <BrandMark className="h-10 w-10 shrink-0" />
             <div>
               <p className="text-base font-semibold tracking-tight">LEGALBABY</p>
-              <p className="text-xs text-text-secondary">Playlist Intelligence</p>
+              <p className="hidden text-xs text-text-secondary md:block">Playlist Intelligence</p>
             </div>
           </Link>
           <nav className="hidden items-center gap-2 rounded-2xl bg-card/80 p-1 md:flex">
@@ -65,69 +63,19 @@ export function TopNav({ updatedAt, systemStatus, alerts = [] }: TopNavProps) {
           </nav>
         </div>
 
-        <div className="flex items-center gap-3">
-          <Badge className="hidden items-center gap-2 md:inline-flex">
-            <Clock3 size={13} />
-            {updatedAt}
-          </Badge>
+        <div className="hidden items-center gap-3 md:flex">
           <Badge className="inline-flex items-center gap-2">
             <span className={cn("h-2 w-2 rounded-full", statusClass, "bg-current")} />
             System Status: {systemStatus}
           </Badge>
           <button
             onClick={() => {
-              setNotificationsOpen((prev) => !prev);
-              setWorkspaceOpen(false);
-            }}
-            className="relative rounded-xl border border-white/10 bg-card px-3 py-2 text-xs text-text-secondary transition hover:text-text-primary"
-          >
-            <span className="inline-flex items-center gap-1">
-              <Bell className="h-3.5 w-3.5" />
-              Alerts
-            </span>
-            {alerts.length ? (
-              <span className="absolute -right-1 -top-1 rounded-full bg-primary px-1.5 py-0.5 text-[10px] text-black">
-                {Math.min(alerts.length, 9)}
-              </span>
-            ) : null}
-          </button>
-          <button
-            onClick={() => {
               setWorkspaceOpen((prev) => !prev);
-              setNotificationsOpen(false);
             }}
             className="rounded-xl border border-white/10 bg-card px-3 py-2 text-xs text-text-secondary transition hover:text-text-primary"
           >
             Workspace Menu
           </button>
-          {notificationsOpen ? (
-            <div className="absolute right-6 top-[72px] w-80 rounded-xl border border-white/10 bg-surface p-2 shadow-card lg:right-[236px]">
-              <div className="mb-2 flex items-center justify-between px-2">
-                <p className="text-sm text-text-primary">Smart Alert Center</p>
-                <button
-                  onClick={() => {
-                    setNotificationsOpen(false);
-                    router.push("/timeline");
-                  }}
-                  className="text-xs text-primary"
-                >
-                  View Timeline
-                </button>
-              </div>
-              <ul className="max-h-72 space-y-1 overflow-auto">
-                {alerts.length ? (
-                  alerts.slice(0, 12).map((alert) => (
-                    <li key={alert.id} className="rounded-lg bg-background/50 px-2 py-2 text-xs">
-                      <p className="text-text-primary">{alert.message}</p>
-                      <p className="text-text-secondary">{alert.playlistName}</p>
-                    </li>
-                  ))
-                ) : (
-                  <li className="rounded-lg bg-background/50 px-2 py-2 text-xs text-text-secondary">No alerts yet.</li>
-                )}
-              </ul>
-            </div>
-          ) : null}
           {workspaceOpen ? (
             <div className="absolute right-6 top-[72px] w-44 rounded-xl border border-white/10 bg-surface p-2 shadow-card lg:right-8">
               <button
@@ -173,7 +121,46 @@ export function TopNav({ updatedAt, systemStatus, alerts = [] }: TopNavProps) {
             </div>
           ) : null}
         </div>
+
+        <div className="flex items-center gap-2 md:hidden">
+          <button
+            onClick={() => router.push("/settings#profile")}
+            className="inline-flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-card/80 text-text-primary"
+            aria-label="Theme settings"
+          >
+            <Sun className="h-4 w-4 dark:hidden" />
+            <Moon className="hidden h-4 w-4 dark:block" />
+          </button>
+          <button
+            onClick={() => setMobileMenuOpen((value) => !value)}
+            className="inline-flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-card/80 text-text-primary"
+            aria-label="Open menu"
+          >
+            <Menu className="h-4 w-4" />
+          </button>
+        </div>
       </div>
+
+      {mobileMenuOpen ? (
+        <div className="border-t border-white/10 bg-card/95 px-4 pb-2 pt-2 md:hidden">
+          <nav className="grid grid-cols-2 gap-2">
+            {navItems.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                onClick={() => setMobileMenuOpen(false)}
+                className={cn(
+                  "rounded-xl px-3 py-2 text-sm",
+                  pathname === item.href ? "bg-primary/20 text-primary" : "bg-surface text-text-secondary"
+                )}
+              >
+                {item.label}
+              </Link>
+            ))}
+          </nav>
+        </div>
+      ) : null}
+      <span className="sr-only">Updated at {updatedAt}</span>
     </header>
   );
 }

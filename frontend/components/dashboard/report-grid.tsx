@@ -13,9 +13,9 @@ type ReportGridProps = {
 
 export function ReportGrid({ title, type, reports, onSelect, controls }: ReportGridProps) {
   return (
-    <section className="rounded-xl3 bg-card/80 p-6 shadow-soft lg:p-8">
-      <div className="mb-6 flex flex-wrap items-center justify-between gap-4">
-        <h2 className="text-[28px] font-semibold tracking-tight">{title}</h2>
+    <section className="mobile-content-visibility rounded-xl3 bg-card/80 p-4 shadow-soft md:p-6 lg:p-8">
+      <div className="mb-4 flex flex-col gap-3 md:mb-6 md:flex-row md:flex-wrap md:items-center md:justify-between md:gap-4">
+        <h2 className="text-2xl font-semibold tracking-tight md:text-[28px]">{title}</h2>
         {controls}
       </div>
 

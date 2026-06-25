@@ -87,7 +87,7 @@ html {
 body {
   @apply bg-background text-text-primary antialiased font-sans;
   margin: 0;
-  overflow-x: clip;
+  overflow-x: hidden;
   background-image:
     radial-gradient(1100px circle at 10% -12%, rgba(255, 106, 0, 0.24), transparent 44%),
     radial-gradient(860px circle at 96% -18%, rgba(255, 142, 60, 0.14), transparent 40%),
@@ -131,6 +131,51 @@ body {
 .section-frame {
   @apply rounded-xl3 border border-white/5 bg-card/70;
   box-shadow: 0 14px 48px rgba(0, 0, 0, 0.4);
+}
+
+.mobile-swipe {
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.mobile-swipe::-webkit-scrollbar {
+  display: none;
+}
+
+.mobile-content-visibility {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 600px;
+}
+
+.safe-bottom {
+  padding-bottom: calc(env(safe-area-inset-bottom) + 8px);
+}
+
+@media (max-width: 767px) {
+  body {
+    background-image: none;
+  }
+
+  .glass,
+  .glass-panel {
+    backdrop-filter: none;
+    box-shadow: none;
+    background: rgba(13, 21, 37, 0.92);
+  }
+
+  .section-frame {
+    box-shadow: none;
+  }
+
+  .noise-overlay {
+    display: none;
+  }
+
+  * {
+    text-shadow: none !important;
+  }
 }
 
 .noise-overlay {
