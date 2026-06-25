@@ -10,38 +10,52 @@ const config: Config = {
   theme: {
     extend: {
       maxWidth: {
-        dashboard: "1440px",
+        dashboard: "1320px",
       },
       colors: {
-        background: "#070B14",
-        card: "#0F172A",
-        primary: "#00E676",
-        secondary: "#7C4DFF",
-        accent: "#00C2FF",
+        background: "#05070B",
+        card: "#09111F",
+        surface: "#0D1525",
+        primary: "#FF6A00",
+        secondary: "#FF8E3C",
+        success: "#19F08B",
+        danger: "#FF5A77",
         text: {
-          primary: "#F8FAFC",
-          secondary: "#94A3B8",
+          primary: "#F7F8FA",
+          secondary: "#95A1B5",
         },
       },
       boxShadow: {
-        soft: "0 12px 32px rgba(2, 6, 23, 0.35)",
-        lift: "0 16px 44px rgba(2, 6, 23, 0.44)",
+        glass: "0 18px 60px rgba(0, 0, 0, 0.46)",
+        glow: "0 0 0 1px rgba(255, 106, 0, 0.2), 0 18px 60px rgba(255, 106, 0, 0.14)",
+        card: "0 12px 36px rgba(0, 0, 0, 0.42)",
       },
       borderRadius: {
-        xl2: "20px",
-        xl3: "24px",
+        xl2: "18px",
+        xl3: "26px",
       },
       fontFamily: {
-        sans: ["Inter", "system-ui", "sans-serif"],
+        sans: ["var(--font-inter)", "system-ui", "sans-serif"],
+        display: ["var(--font-space)", "system-ui", "sans-serif"],
       },
       keyframes: {
-        "fade-in": {
-          "0%": { opacity: "0", transform: "translateY(8px)" },
-          "100%": { opacity: "1", transform: "translateY(0)" },
+        float: {
+          "0%, 100%": { transform: "translateY(0px)" },
+          "50%": { transform: "translateY(-10px)" },
+        },
+        shimmer: {
+          "0%": { backgroundPosition: "200% 0" },
+          "100%": { backgroundPosition: "-200% 0" },
+        },
+        pulseGlow: {
+          "0%, 100%": { boxShadow: "0 0 0 0 rgba(255, 106, 0, 0.0)" },
+          "50%": { boxShadow: "0 0 0 8px rgba(255, 106, 0, 0.12)" },
         },
       },
       animation: {
-        "fade-in": "fade-in 0.45s ease-out",
+        float: "float 5s ease-in-out infinite",
+        shimmer: "shimmer 2.5s linear infinite",
+        pulseGlow: "pulseGlow 2.8s ease-in-out infinite",
       },
     },
   },

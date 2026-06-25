@@ -1,0 +1,28 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="orangeBrand" x1="36" y1="30" x2="220" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8E3C"/>
+      <stop offset="1" stop-color="#FF6A00"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128 128) rotate(90) scale(130)">
+      <stop stop-color="#111A2B"/>
+      <stop offset="1" stop-color="#05070B"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="256" height="256" rx="56" fill="url(#bgGlow)"/>
+
+  <g filter="url(#soft)">
+    <rect x="56" y="122" width="38" height="66" rx="18" fill="url(#orangeBrand)"/>
+    <rect x="104" y="94" width="38" height="94" rx="18" fill="url(#orangeBrand)"/>
+    <rect x="152" y="66" width="38" height="122" rx="18" fill="url(#orangeBrand)"/>
+    <rect x="152" y="150" width="52" height="38" rx="18" fill="url(#orangeBrand)"/>
+  </g>
+
+  <defs>
+    <filter id="soft" x="44" y="54" width="176" height="148" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feBlend in="SourceGraphic" in2="blur" mode="normal"/>
+    </filter>
+  </defs>
+</svg>
