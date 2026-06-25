@@ -5,9 +5,11 @@ import { motion } from "framer-motion";
 import { Card } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
 import { PageContainer } from "@/components/layout/page-container";
+import { AlertFeed } from "@/components/dashboard/alert-feed";
 import { getDaily, getDates, getStatus } from "@/lib/api";
 import { DashboardStatus, DailyReport } from "@/lib/types";
 import { countryFromPlaylist, getSystemStatus, toLocalString } from "@/lib/dashboard-helpers";
+import { buildInsights } from "@/lib/insights-engine";
 
 function scoreMomentum(report: DailyReport) {
   return report.summary.newEntries * 2 + report.summary.movements - report.summary.removals;
@@ -78,9 +80,10 @@ export default function ChartsPage() {
   );
 
   const updatedAt = toLocalString(status?.lastDailyRun || status?.lastWeeklyRun);
+  const insightData = buildInsights(filteredReports, []);
 
   return (
-    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)}>
+    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)} alerts={insightData.alerts}>
       <div className="mb-5 flex flex-wrap items-center gap-3">
         <select
           value={selectedDate}
@@ -206,8 +209,68 @@ export default function ChartsPage() {
               ))}
             </ol>
           </Card>
+
+          <div className="grid grid-cols-1 gap-4 xl:grid-cols-2">
+            <Card className="p-5">
+              <h3 className="font-display text-xl">AI Recommendations</h3>
+              <div className="mt-3 grid grid-cols-1 gap-3 lg:grid-cols-3">
+                <RecommendationColumn
+                  title="Recommended Additions"
+                  items={insightData.allInsights.flatMap((item) => item.recommendedAdditions).slice(0, 8).map((item) => `${item.name} - ${item.artist}`)}
+                />
+                <RecommendationColumn
+                  title="Recommended Removals"
+                  items={insightData.allInsights.flatMap((item) => item.recommendedRemovals).slice(0, 8).map((item) => `${item.name} - ${item.artist}`)}
+                />
+                <RecommendationColumn
+                  title="Songs To Watch"
+                  items={insightData.allInsights.flatMap((item) => item.songsToWatch).slice(0, 8).map((item) => `${item.name} - ${item.artist}`)}
+                />
+              </div>
+            </Card>
+
+            <Card className="p-5">
+              <h3 className="font-display text-xl">Playlist Health Score</h3>
+              <ul className="mt-3 space-y-2 text-sm">
+                {insightData.allHealth.length ? (
+                  insightData.allHealth.map((health) => (
+                    <li key={health.playlistName} className="rounded-lg bg-surface px-3 py-2">
+                      <div className="flex items-center justify-between">
+                        <span>{health.playlistName}</span>
+                        <span className="text-primary">{health.score}</span>
+                      </div>
+                      <p className="text-xs text-text-secondary">{health.status}</p>
+                    </li>
+                  ))
+                ) : (
+                  <li className="text-text-secondary">No health score data.</li>
+                )}
+              </ul>
+            </Card>
+          </div>
+
+          <AlertFeed alerts={insightData.alerts} title="Charts Alerts" />
         </motion.div>
       )}
     </PageContainer>
+  );
+}
+
+function RecommendationColumn({ title, items }: { title: string; items: string[] }) {
+  return (
+    <div className="rounded-lg bg-surface p-3">
+      <p className="text-sm text-text-secondary">{title}</p>
+      <ul className="mt-2 space-y-1 text-sm">
+        {items.length ? (
+          items.map((item) => (
+            <li key={item} className="rounded bg-background/40 px-2 py-1">
+              {item}
+            </li>
+          ))
+        ) : (
+          <li className="text-text-secondary">No recommendations.</li>
+        )}
+      </ul>
+    </div>
   );
 }

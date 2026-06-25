@@ -9,23 +9,35 @@ import { downloadJson, getSystemStatus, toLocalString } from "@/lib/dashboard-he
 
 export default function SettingsPage() {
   const [status, setStatus] = useState<DashboardStatus | null>(null);
-  const [themeMode, setThemeMode] = useState<"default" | "contrast">("default");
+  const [themeMode, setThemeMode] = useState<"dark" | "light" | "system">("system");
   const [notifyDaily, setNotifyDaily] = useState(true);
   const [notifyWeekly, setNotifyWeekly] = useState(true);
 
   useEffect(() => {
     getStatus().then(setStatus);
-    const storedTheme = (localStorage.getItem("lb_theme") as "default" | "contrast" | null) || "default";
+    const storedTheme = (localStorage.getItem("lb_theme") as "dark" | "light" | "system" | "default" | "contrast" | null) || "system";
     const storedDaily = localStorage.getItem("lb_notify_daily");
     const storedWeekly = localStorage.getItem("lb_notify_weekly");
-    setThemeMode(storedTheme);
+    if (storedTheme === "default") {
+      setThemeMode("dark");
+    } else if (storedTheme === "contrast") {
+      setThemeMode("light");
+    } else {
+      setThemeMode(storedTheme);
+    }
     setNotifyDaily(storedDaily !== "false");
     setNotifyWeekly(storedWeekly !== "false");
   }, []);
 
   useEffect(() => {
     localStorage.setItem("lb_theme", themeMode);
-    document.documentElement.setAttribute("data-theme", themeMode);
+
+    const preferredDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const resolvedTheme = themeMode === "system" ? (preferredDark ? "dark" : "light") : themeMode;
+
+    document.documentElement.setAttribute("data-theme", resolvedTheme);
+    document.documentElement.classList.remove("light", "dark");
+    document.documentElement.classList.add(resolvedTheme);
   }, [themeMode]);
 
   useEffect(() => {
@@ -59,16 +71,22 @@ export default function SettingsPage() {
           <h2 className="font-display text-2xl">Theme</h2>
           <div className="mt-3 flex gap-2">
             <button
-              onClick={() => setThemeMode("default")}
-              className={`rounded-xl px-3 py-2 text-sm ${themeMode === "default" ? "bg-primary/20 text-primary" : "bg-surface"}`}
+              onClick={() => setThemeMode("dark")}
+              className={`rounded-xl px-3 py-2 text-sm ${themeMode === "dark" ? "bg-primary/20 text-primary" : "bg-surface"}`}
             >
-              Default
+              Dark
             </button>
             <button
-              onClick={() => setThemeMode("contrast")}
-              className={`rounded-xl px-3 py-2 text-sm ${themeMode === "contrast" ? "bg-primary/20 text-primary" : "bg-surface"}`}
+              onClick={() => setThemeMode("light")}
+              className={`rounded-xl px-3 py-2 text-sm ${themeMode === "light" ? "bg-primary/20 text-primary" : "bg-surface"}`}
             >
-              Contrast
+              Light
+            </button>
+            <button
+              onClick={() => setThemeMode("system")}
+              className={`rounded-xl px-3 py-2 text-sm ${themeMode === "system" ? "bg-primary/20 text-primary" : "bg-surface"}`}
+            >
+              System
             </button>
           </div>
         </Card>

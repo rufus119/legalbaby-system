@@ -5,9 +5,11 @@ import { useRouter } from "next/navigation";
 import { Card } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
 import { PageContainer } from "@/components/layout/page-container";
+import { AlertFeed } from "@/components/dashboard/alert-feed";
 import { getDaily, getDates, getStatus, getWeekly } from "@/lib/api";
 import { DashboardStatus, DailyReport, WeeklyReport } from "@/lib/types";
 import { downloadJson, getSystemStatus, toLocalString } from "@/lib/dashboard-helpers";
+import { buildInsights } from "@/lib/insights-engine";
 
 export default function TimelinePage() {
   const router = useRouter();
@@ -66,6 +68,31 @@ export default function TimelinePage() {
   const currentReports = heatmapData[currentDate] || [];
 
   const updatedAt = toLocalString(status?.lastDailyRun || status?.lastWeeklyRun);
+  const currentInsights = buildInsights(currentReports, weeklySummary);
+
+  const risingTracks = useMemo(() => {
+    return currentReports
+      .flatMap((report) => report.movements || [])
+      .map((track) => ({
+        name: track.name,
+        climb: Number(track.from) - Number(track.to),
+      }))
+      .filter((track) => Number.isFinite(track.climb) && track.climb > 0)
+      .sort((a, b) => b.climb - a.climb)
+      .slice(0, 8);
+  }, [currentReports]);
+
+  const fallingTracks = useMemo(() => {
+    return currentReports
+      .flatMap((report) => report.movements || [])
+      .map((track) => ({
+        name: track.name,
+        drop: Number(track.to) - Number(track.from),
+      }))
+      .filter((track) => Number.isFinite(track.drop) && track.drop > 0)
+      .sort((a, b) => b.drop - a.drop)
+      .slice(0, 8);
+  }, [currentReports]);
 
   const heatRows = useMemo(() => {
     const playlists = Array.from(new Set(Object.values(heatmapData).flatMap((reports) => reports.map((report) => report.playlistName))));
@@ -79,7 +106,7 @@ export default function TimelinePage() {
   }, [heatmapData, visibleDates]);
 
   return (
-    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)}>
+    <PageContainer updatedAt={updatedAt} systemStatus={getSystemStatus(status)} alerts={currentInsights.alerts}>
       {loading ? (
         <div className="grid grid-cols-1 gap-4 lg:grid-cols-2">
           <Skeleton className="h-56" />
@@ -165,8 +192,82 @@ export default function TimelinePage() {
               ))}
             </ul>
           </Card>
+
+          <div className="grid grid-cols-1 gap-4 xl:grid-cols-2">
+            <Card className="p-5">
+              <h3 className="font-display text-xl">Timeline Intelligence</h3>
+              <div className="mt-3 grid grid-cols-1 gap-3 md:grid-cols-2">
+                <InsightList
+                  title="Biggest Gainers"
+                  items={risingTracks.map((track) => `${track.name} (+${track.climb})`)}
+                  empty="No gainers for this snapshot."
+                />
+                <InsightList
+                  title="Biggest Fallers"
+                  items={fallingTracks.map((track) => `${track.name} (-${track.drop})`)}
+                  empty="No fallers for this snapshot."
+                />
+                <InsightList
+                  title="Most Consistent"
+                  items={currentInsights.allInsights
+                    .sort((a, b) => b.consistencyScore - a.consistencyScore)
+                    .slice(0, 8)
+                    .map((item) => `${item.playlistName} (${item.consistencyScore})`)}
+                  empty="No consistency metrics yet."
+                />
+                <InsightList
+                  title="Cross-Playlist Trends"
+                  items={currentInsights.allInsights
+                    .sort((a, b) => b.crossPlaylistPresence - a.crossPlaylistPresence)
+                    .slice(0, 8)
+                    .map((item) => `${item.playlistName} (${item.crossPlaylistPresence})`)}
+                  empty="No trend signals yet."
+                />
+              </div>
+            </Card>
+
+            <Card className="p-5">
+              <h3 className="font-display text-xl">Playlist Health</h3>
+              <ul className="mt-3 space-y-2 text-sm">
+                {currentInsights.allHealth.length ? (
+                  currentInsights.allHealth.map((health) => (
+                    <li key={health.playlistName} className="rounded-lg bg-surface px-3 py-2">
+                      <div className="flex items-center justify-between">
+                        <span>{health.playlistName}</span>
+                        <span className="text-primary">{health.score}</span>
+                      </div>
+                      <p className="text-xs text-text-secondary">{health.status}</p>
+                    </li>
+                  ))
+                ) : (
+                  <li className="text-text-secondary">No health score data.</li>
+                )}
+              </ul>
+            </Card>
+          </div>
+
+          <AlertFeed alerts={currentInsights.alerts} title="Timeline Alerts" />
         </div>
       )}
     </PageContainer>
+  );
+}
+
+function InsightList({ title, items, empty }: { title: string; items: string[]; empty: string }) {
+  return (
+    <div className="rounded-lg bg-surface p-3">
+      <p className="text-sm text-text-secondary">{title}</p>
+      <ul className="mt-2 space-y-1 text-sm">
+        {items.length ? (
+          items.map((item, index) => (
+            <li key={`${item}-${index}`} className="rounded bg-background/40 px-2 py-1">
+              {item}
+            </li>
+          ))
+        ) : (
+          <li className="text-text-secondary">{empty}</li>
+        )}
+      </ul>
+    </div>
   );
 }

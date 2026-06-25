@@ -2,15 +2,17 @@
 
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { Clock3, FolderCog, LifeBuoy, Settings, UserCircle2 } from "lucide-react";
+import { Bell, Clock3, FolderCog, LifeBuoy, Settings, UserCircle2 } from "lucide-react";
 import { useState } from "react";
 import { Badge } from "@/components/ui/badge";
 import { BrandMark } from "@/components/layout/brand-mark";
 import { cn } from "@/lib/utils";
+import { AlertItem } from "@/lib/insights-engine";
 
 type TopNavProps = {
   updatedAt: string;
   systemStatus: "Live" | "Updating" | "Scheduled" | "Offline";
+  alerts?: AlertItem[];
 };
 
 const navItems = [
@@ -21,10 +23,11 @@ const navItems = [
   { href: "/settings", label: "Settings" },
 ];
 
-export function TopNav({ updatedAt, systemStatus }: TopNavProps) {
+export function TopNav({ updatedAt, systemStatus, alerts = [] }: TopNavProps) {
   const pathname = usePathname();
   const router = useRouter();
   const [workspaceOpen, setWorkspaceOpen] = useState(false);
+  const [notificationsOpen, setNotificationsOpen] = useState(false);
 
   const statusClass =
     systemStatus === "Live"
@@ -72,11 +75,59 @@ export function TopNav({ updatedAt, systemStatus }: TopNavProps) {
             System Status: {systemStatus}
           </Badge>
           <button
-            onClick={() => setWorkspaceOpen((prev) => !prev)}
+            onClick={() => {
+              setNotificationsOpen((prev) => !prev);
+              setWorkspaceOpen(false);
+            }}
+            className="relative rounded-xl border border-white/10 bg-card px-3 py-2 text-xs text-text-secondary transition hover:text-text-primary"
+          >
+            <span className="inline-flex items-center gap-1">
+              <Bell className="h-3.5 w-3.5" />
+              Alerts
+            </span>
+            {alerts.length ? (
+              <span className="absolute -right-1 -top-1 rounded-full bg-primary px-1.5 py-0.5 text-[10px] text-black">
+                {Math.min(alerts.length, 9)}
+              </span>
+            ) : null}
+          </button>
+          <button
+            onClick={() => {
+              setWorkspaceOpen((prev) => !prev);
+              setNotificationsOpen(false);
+            }}
             className="rounded-xl border border-white/10 bg-card px-3 py-2 text-xs text-text-secondary transition hover:text-text-primary"
           >
             Workspace Menu
           </button>
+          {notificationsOpen ? (
+            <div className="absolute right-6 top-[72px] w-80 rounded-xl border border-white/10 bg-surface p-2 shadow-card lg:right-[236px]">
+              <div className="mb-2 flex items-center justify-between px-2">
+                <p className="text-sm text-text-primary">Smart Alert Center</p>
+                <button
+                  onClick={() => {
+                    setNotificationsOpen(false);
+                    router.push("/timeline");
+                  }}
+                  className="text-xs text-primary"
+                >
+                  View Timeline
+                </button>
+              </div>
+              <ul className="max-h-72 space-y-1 overflow-auto">
+                {alerts.length ? (
+                  alerts.slice(0, 12).map((alert) => (
+                    <li key={alert.id} className="rounded-lg bg-background/50 px-2 py-2 text-xs">
+                      <p className="text-text-primary">{alert.message}</p>
+                      <p className="text-text-secondary">{alert.playlistName}</p>
+                    </li>
+                  ))
+                ) : (
+                  <li className="rounded-lg bg-background/50 px-2 py-2 text-xs text-text-secondary">No alerts yet.</li>
+                )}
+              </ul>
+            </div>
+          ) : null}
           {workspaceOpen ? (
             <div className="absolute right-6 top-[72px] w-44 rounded-xl border border-white/10 bg-surface p-2 shadow-card lg:right-8">
               <button

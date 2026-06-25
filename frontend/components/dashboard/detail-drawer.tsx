@@ -4,6 +4,7 @@ import { useRouter } from "next/navigation";
 import { AnimatePresence, motion } from "framer-motion";
 import { X } from "lucide-react";
 import { downloadJson } from "@/lib/dashboard-helpers";
+import { buildInsights } from "@/lib/insights-engine";
 import { DetailSelection, DailyReport, WeeklyReport } from "@/lib/types";
 
 type DetailDrawerProps = {
@@ -87,6 +88,9 @@ function ActionList({ title, items }: { title: string; items: string[] }) {
 }
 
 function DailyBody({ report }: { report: DailyReport }) {
+  const intelligence = buildInsights([report], []);
+  const insights = intelligence.insightsByPlaylist.get(report.playlistName);
+  const health = intelligence.healthByPlaylist.get(report.playlistName);
   const baseline = report.mode === "baseline";
   const country = report.playlistName.split(" ").at(-1) || "Global";
   const additions = baseline
@@ -111,11 +115,30 @@ function DailyBody({ report }: { report: DailyReport }) {
       <ActionList title="Removals" items={removals} />
       <ActionList
         title="Recommendations"
-        items={[
-          "Apply additions first in rank order",
-          "Review high-movement tracks for playlist momentum",
-          "Validate removals before final publish",
-        ]}
+        items={
+          insights
+            ? [
+                ...insights.recommendedAdditions.slice(0, 3).map((item) => `ADD ${item.name} - ${item.artist}`),
+                ...insights.recommendedRemovals.slice(0, 2).map((item) => `REMOVE ${item.name} - ${item.artist}`),
+                ...insights.songsToWatch.slice(0, 2).map((item) => `WATCH ${item.name} - ${item.artist}`),
+              ]
+            : ["No recommendation data available"]
+        }
+      />
+      <ActionList
+        title="Health Score"
+        items={
+          health
+            ? [
+                `Score: ${health.score}`,
+                `Status: ${health.status}`,
+                `Freshness: ${health.freshness}`,
+                `Momentum: ${health.momentum}`,
+                `Diversity: ${health.diversity}`,
+                `Recent Updates: ${health.recentUpdates}`,
+              ]
+            : ["Health unavailable"]
+        }
       />
       <ActionList title="Timeline" items={[`Snapshot Date: ${report.date}`, `Mode: ${report.mode || "delta"}`]} />
     </div>
@@ -123,6 +146,9 @@ function DailyBody({ report }: { report: DailyReport }) {
 }
 
 function WeeklyBody({ report }: { report: WeeklyReport }) {
+  const intelligence = buildInsights([], [report]);
+  const insights = intelligence.insightsByPlaylist.get(report.playlistName);
+  const health = intelligence.healthByPlaylist.get(report.playlistName);
   const baseline = report.mode === "baseline";
   const country = "Genre";
   const additions = baseline
@@ -148,11 +174,30 @@ function WeeklyBody({ report }: { report: WeeklyReport }) {
       <ActionList title="Top New Entries" items={additions.slice(0, 10)} />
       <ActionList
         title="Recommendations"
-        items={[
-          "Apply additions first in exact rank order",
-          "Apply movement changes next",
-          "Remove stale tracks last",
-        ]}
+        items={
+          insights
+            ? [
+                ...insights.recommendedAdditions.slice(0, 3).map((item) => `ADD ${item.name} - ${item.artist}`),
+                ...insights.recommendedRemovals.slice(0, 2).map((item) => `REMOVE ${item.name} - ${item.artist}`),
+                ...insights.songsToWatch.slice(0, 2).map((item) => `WATCH ${item.name} - ${item.artist}`),
+              ]
+            : ["No recommendation data available"]
+        }
+      />
+      <ActionList
+        title="Health Score"
+        items={
+          health
+            ? [
+                `Score: ${health.score}`,
+                `Status: ${health.status}`,
+                `Freshness: ${health.freshness}`,
+                `Momentum: ${health.momentum}`,
+                `Diversity: ${health.diversity}`,
+                `Recent Updates: ${health.recentUpdates}`,
+              ]
+            : ["Health unavailable"]
+        }
       />
       <ActionList title="Timeline" items={[`Week: ${report.week}`, `Mode: ${report.mode || "delta"}`]} />
     </div>
