@@ -1,0 +1,1268 @@
+{
+  "playlistName": "Gospel",
+  "timestamp": "2026-06-25T01:39:32.849Z",
+  "baselineRun": true,
+  "trackCount": 50,
+  "tracks": [
+    {
+      "id": "shine-kierra-sheard",
+      "name": "Shine",
+      "artist": "Kierra Sheard",
+      "performanceScore": 48.63,
+      "appearances": 1,
+      "totalScore": 98.63,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 1,
+      "score": 36
+    },
+    {
+      "id": "final-say-(live)-tasha-cobbs-leonard",
+      "name": "Final Say (Live)",
+      "artist": "Tasha Cobbs Leonard",
+      "performanceScore": 47.07,
+      "appearances": 1,
+      "totalScore": 97.07,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 2,
+      "score": 36
+    },
+    {
+      "id": "gotta-be-us-(be-the-people)-(feat.-luke-borchelt,-sadie-rose-van-&-black-awakening-choir-at-vcu)-momo-boyd",
+      "name": "Gotta Be Us (Be The People) (feat. Luke Borchelt, Sadie Rose Van & Black Awakening Choir at VCU)",
+      "artist": "Momo Boyd",
+      "performanceScore": 42.77,
+      "appearances": 1,
+      "totalScore": 82.77000000000001,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 3,
+      "score": 36
+    },
+    {
+      "id": "act-up-dante’-pride",
+      "name": "Act Up",
+      "artist": "Dante’ Pride",
+      "performanceScore": 41.72,
+      "appearances": 1,
+      "totalScore": 81.72,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 4,
+      "score": 36
+    },
+    {
+      "id": "favor-hezekiah-walker",
+      "name": "Favor",
+      "artist": "Hezekiah Walker",
+      "performanceScore": 39.04,
+      "appearances": 1,
+      "totalScore": 69.03999999999999,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 5,
+      "score": 36
+    },
+    {
+      "id": "nobody-but-jesus-(feat.-genavieve-linkowski-&-nick-day)-maverick-city-music",
+      "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+      "artist": "Maverick City Music",
+      "performanceScore": 37,
+      "appearances": 1,
+      "totalScore": 57,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 6,
+      "score": 36
+    },
+    {
+      "id": "made-you-well-(feat.-tauren-wells)-lakewood-music",
+      "name": "Made You Well (feat. Tauren Wells)",
+      "artist": "Lakewood Music",
+      "performanceScore": 37,
+      "appearances": 1,
+      "totalScore": 57,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 7,
+      "score": 36
+    },
+    {
+      "id": "your-love-(acoustic)-moses-bliss",
+      "name": "Your Love (Acoustic)",
+      "artist": "Moses Bliss",
+      "performanceScore": 36.1,
+      "appearances": 1,
+      "totalScore": 56.1,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 8,
+      "score": 36
+    },
+    {
+      "id": "rewritten-(edit)-[feat.-lejuene-thompson-&-jason-nelson]-donald-lawrence",
+      "name": "Rewritten (Edit) [feat. Lejuene Thompson & Jason Nelson]",
+      "artist": "Donald Lawrence",
+      "performanceScore": 35.76,
+      "appearances": 1,
+      "totalScore": 45.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 9,
+      "score": 36
+    },
+    {
+      "id": "joy-(feat.-victor-thompson)-pita",
+      "name": "Joy (feat. Victor Thompson)",
+      "artist": "PITA",
+      "performanceScore": 35.76,
+      "appearances": 1,
+      "totalScore": 45.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 10,
+      "score": 36
+    },
+    {
+      "id": "never-scared-canon",
+      "name": "Never Scared",
+      "artist": "Canon",
+      "performanceScore": 35.76,
+      "appearances": 1,
+      "totalScore": 45.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 11,
+      "score": 36
+    },
+    {
+      "id": "no-longer-bound-(i'm-free)-maverick-city-music",
+      "name": "No Longer Bound (I'm Free)",
+      "artist": "Maverick City Music",
+      "performanceScore": 35.76,
+      "appearances": 1,
+      "totalScore": 45.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 12,
+      "score": 36
+    },
+    {
+      "id": "choices-eris-ford",
+      "name": "Choices",
+      "artist": "Eris Ford",
+      "performanceScore": 35.76,
+      "appearances": 1,
+      "totalScore": 45.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 13,
+      "score": 36
+    },
+    {
+      "id": "possessions-gospel-hints",
+      "name": "POSSESSIONS",
+      "artist": "Gospel hints",
+      "performanceScore": 35.76,
+      "appearances": 1,
+      "totalScore": 45.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 14,
+      "score": 36
+    },
+    {
+      "id": "praise-him-in-advance-marvin-sapp",
+      "name": "Praise Him In Advance",
+      "artist": "Marvin Sapp",
+      "performanceScore": 35.16,
+      "appearances": 1,
+      "totalScore": 45.16,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 15,
+      "score": 36
+    },
+    {
+      "id": "all-in-me-(feat.-miles-minnick-&-brea-miles)-camp8republic",
+      "name": "All In Me (feat. Miles Minnick & Brea Miles)",
+      "artist": "Camp8Republic",
+      "performanceScore": 35.16,
+      "appearances": 1,
+      "totalScore": 45.16,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 16,
+      "score": 36
+    },
+    {
+      "id": "could've-been-me-pj-morton",
+      "name": "Could've Been Me",
+      "artist": "PJ Morton",
+      "performanceScore": 35.16,
+      "appearances": 1,
+      "totalScore": 45.16,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 17,
+      "score": 36
+    },
+    {
+      "id": "joy-is-coming-(feat.-travis-greene)-todd-galberth",
+      "name": "Joy is Coming (feat. Travis Greene)",
+      "artist": "Todd Galberth",
+      "performanceScore": 35.16,
+      "appearances": 1,
+      "totalScore": 45.16,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 18,
+      "score": 36
+    },
+    {
+      "id": "icl-bridge-music",
+      "name": "ICL",
+      "artist": "Bridge Music",
+      "performanceScore": 35.16,
+      "appearances": 1,
+      "totalScore": 45.16,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 19,
+      "score": 36
+    },
+    {
+      "id": "there-is-none-like-you/agnus-dei-(acoustic)-stephen-mcwhirter",
+      "name": "There Is None Like You/Agnus Dei (Acoustic)",
+      "artist": "Stephen McWhirter",
+      "performanceScore": 34.9,
+      "appearances": 1,
+      "totalScore": 54.9,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 20,
+      "score": 36
+    },
+    {
+      "id": "revelations-19:1-sunday-service-choir",
+      "name": "Revelations 19:1",
+      "artist": "Sunday Service Choir",
+      "performanceScore": 34.56,
+      "appearances": 1,
+      "totalScore": 44.56,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 21,
+      "score": 36
+    },
+    {
+      "id": "jesus-iye-nathaniel-bassey",
+      "name": "Jesus Iye",
+      "artist": "Nathaniel Bassey",
+      "performanceScore": 34.56,
+      "appearances": 1,
+      "totalScore": 44.56,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 22,
+      "score": 36
+    },
+    {
+      "id": "love-got-me-like-king-cyz",
+      "name": "Love Got Me Like",
+      "artist": "King Cyz",
+      "performanceScore": 34.56,
+      "appearances": 1,
+      "totalScore": 44.56,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 23,
+      "score": 36
+    },
+    {
+      "id": "celebrate-evan-ford",
+      "name": "Celebrate",
+      "artist": "Evan Ford",
+      "performanceScore": 34.56,
+      "appearances": 1,
+      "totalScore": 44.56,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 24,
+      "score": 36
+    },
+    {
+      "id": "just-believe-dante’-pride",
+      "name": "Just Believe",
+      "artist": "Dante’ Pride",
+      "performanceScore": 34.56,
+      "appearances": 1,
+      "totalScore": 44.56,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 25,
+      "score": 36
+    },
+    {
+      "id": "manna-princeton-south",
+      "name": "Manna",
+      "artist": "Princeton South",
+      "performanceScore": 34.56,
+      "appearances": 1,
+      "totalScore": 44.56,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 26,
+      "score": 36
+    },
+    {
+      "id": "in-the-midst-of-it-all-yolanda-adams",
+      "name": "In the Midst of It All",
+      "artist": "Yolanda Adams",
+      "performanceScore": 33.96,
+      "appearances": 1,
+      "totalScore": 43.96,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 27,
+      "score": 36
+    },
+    {
+      "id": "automatic-hulvey",
+      "name": "AUTOMATIC",
+      "artist": "Hulvey",
+      "performanceScore": 33.96,
+      "appearances": 1,
+      "totalScore": 43.96,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 28,
+      "score": 36
+    },
+    {
+      "id": "bout-my-father's-business-cèjae",
+      "name": "Bout My Father's Business",
+      "artist": "CèJae",
+      "performanceScore": 33.96,
+      "appearances": 1,
+      "totalScore": 43.96,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 29,
+      "score": 36
+    },
+    {
+      "id": "all-the-glory-is-yours-(feat.-latrice-pace)-[live]-darwin-hobbs",
+      "name": "All The Glory Is Yours (feat. Latrice Pace) [Live]",
+      "artist": "Darwin Hobbs",
+      "performanceScore": 33.96,
+      "appearances": 1,
+      "totalScore": 43.96,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 30,
+      "score": 36
+    },
+    {
+      "id": "mercy-julie-melucci",
+      "name": "Mercy",
+      "artist": "Julie Melucci",
+      "performanceScore": 33.96,
+      "appearances": 1,
+      "totalScore": 43.96,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 31,
+      "score": 36
+    },
+    {
+      "id": "umbrella-(feat.-s.o.n-music,-neeja,-membrane,-doris-joseph,-ajay-asika-&-godfrey-gad)-moses-bliss",
+      "name": "Umbrella (feat. S.O.N Music, Neeja, Membrane, Doris Joseph, Ajay Asika & Godfrey Gad)",
+      "artist": "Moses Bliss",
+      "performanceScore": 33.96,
+      "appearances": 1,
+      "totalScore": 43.96,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 32,
+      "score": 36
+    },
+    {
+      "id": "jesus-has-won-joepraize",
+      "name": "Jesus Has Won",
+      "artist": "Joepraize",
+      "performanceScore": 33.7,
+      "appearances": 1,
+      "totalScore": 53.7,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 33,
+      "score": 36
+    },
+    {
+      "id": "well-done-deitrick-haddon",
+      "name": "Well Done",
+      "artist": "Deitrick Haddon",
+      "performanceScore": 33.36,
+      "appearances": 1,
+      "totalScore": 43.36,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 34,
+      "score": 36
+    },
+    {
+      "id": "gratitude-anendlessocean",
+      "name": "Gratitude",
+      "artist": "Anendlessocean",
+      "performanceScore": 33.36,
+      "appearances": 1,
+      "totalScore": 43.36,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 35,
+      "score": 36
+    },
+    {
+      "id": "honeycomb-madison-ryann-ward",
+      "name": "Honeycomb",
+      "artist": "Madison Ryann Ward",
+      "performanceScore": 33.36,
+      "appearances": 1,
+      "totalScore": 43.36,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 36,
+      "score": 36
+    },
+    {
+      "id": "forgiveness-marvin-winans",
+      "name": "FORGIVENESS",
+      "artist": "Marvin Winans",
+      "performanceScore": 33.36,
+      "appearances": 1,
+      "totalScore": 43.36,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 37,
+      "score": 36
+    },
+    {
+      "id": "mercy-sound-of-salem",
+      "name": "Mercy",
+      "artist": "Sound Of Salem",
+      "performanceScore": 33.36,
+      "appearances": 1,
+      "totalScore": 43.36,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 38,
+      "score": 36
+    },
+    {
+      "id": "total-praise-(acoustic-version)-[feat.-carvena-jones]-travis-malloy",
+      "name": "Total Praise (Acoustic Version) [feat. Carvena Jones]",
+      "artist": "Travis Malloy",
+      "performanceScore": 33.24,
+      "appearances": 1,
+      "totalScore": 63.24,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 39,
+      "score": 36
+    },
+    {
+      "id": "not-alone-pj-morton",
+      "name": "Not Alone",
+      "artist": "PJ Morton",
+      "performanceScore": 33.1,
+      "appearances": 1,
+      "totalScore": 53.1,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 40,
+      "score": 36
+    },
+    {
+      "id": "for-christ-alone-(behold)-2819-worship",
+      "name": "For Christ Alone (Behold)",
+      "artist": "2819 Worship",
+      "performanceScore": 33.04,
+      "appearances": 1,
+      "totalScore": 63.04,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 41,
+      "score": 36
+    },
+    {
+      "id": "amazing-grace-cece-winans",
+      "name": "Amazing Grace",
+      "artist": "CeCe Winans",
+      "performanceScore": 33.02,
+      "appearances": 1,
+      "totalScore": 73.02000000000001,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 42,
+      "score": 36
+    },
+    {
+      "id": "your-power-lecrae",
+      "name": "Your Power",
+      "artist": "Lecrae",
+      "performanceScore": 32.8,
+      "appearances": 1,
+      "totalScore": 52.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 43,
+      "score": 36
+    },
+    {
+      "id": "withholding-nothing-william-mcdowell",
+      "name": "Withholding Nothing",
+      "artist": "William McDowell",
+      "performanceScore": 32.76,
+      "appearances": 1,
+      "totalScore": 42.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 44,
+      "score": 36
+    },
+    {
+      "id": "dungeon-tedashii",
+      "name": "Dungeon",
+      "artist": "Tedashii",
+      "performanceScore": 32.76,
+      "appearances": 1,
+      "totalScore": 42.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 45,
+      "score": 36
+    },
+    {
+      "id": "evergreen-taylor-charmayne",
+      "name": "evergreen",
+      "artist": "taylor charmayne",
+      "performanceScore": 32.76,
+      "appearances": 1,
+      "totalScore": 42.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 46,
+      "score": 36
+    },
+    {
+      "id": "hallelujah-to-the-lamb-brvndonp",
+      "name": "Hallelujah to the Lamb",
+      "artist": "BrvndonP",
+      "performanceScore": 32.76,
+      "appearances": 1,
+      "totalScore": 42.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 47,
+      "score": 36
+    },
+    {
+      "id": "hallelujah-(praise-be-to-god)-[live]-darwin-hobbs",
+      "name": "Hallelujah (Praise Be To God) [Live]",
+      "artist": "Darwin Hobbs",
+      "performanceScore": 32.76,
+      "appearances": 1,
+      "totalScore": 42.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 48,
+      "score": 36
+    },
+    {
+      "id": "grace-(feat.-gil-joe)-limoblaze",
+      "name": "Grace (feat. Gil Joe)",
+      "artist": "Limoblaze",
+      "performanceScore": 32.76,
+      "appearances": 1,
+      "totalScore": 42.76,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 49,
+      "score": 36
+    },
+    {
+      "id": "more-than-anything-sunday-service-choir",
+      "name": "More Than Anything",
+      "artist": "Sunday Service Choir",
+      "performanceScore": 32.16,
+      "appearances": 1,
+      "totalScore": 42.16,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 50,
+      "score": 36
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Shine",
+        "artist": "Kierra Sheard",
+        "position": 1,
+        "score": 36
+      },
+      {
+        "name": "Final Say (Live)",
+        "artist": "Tasha Cobbs Leonard",
+        "position": 2,
+        "score": 36
+      },
+      {
+        "name": "Gotta Be Us (Be The People) (feat. Luke Borchelt, Sadie Rose Van & Black Awakening Choir at VCU)",
+        "artist": "Momo Boyd",
+        "position": 3,
+        "score": 36
+      },
+      {
+        "name": "Act Up",
+        "artist": "Dante’ Pride",
+        "position": 4,
+        "score": 36
+      },
+      {
+        "name": "Favor",
+        "artist": "Hezekiah Walker",
+        "position": 5,
+        "score": 36
+      },
+      {
+        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+        "artist": "Maverick City Music",
+        "position": 6,
+        "score": 36
+      },
+      {
+        "name": "Made You Well (feat. Tauren Wells)",
+        "artist": "Lakewood Music",
+        "position": 7,
+        "score": 36
+      },
+      {
+        "name": "Your Love (Acoustic)",
+        "artist": "Moses Bliss",
+        "position": 8,
+        "score": 36
+      },
+      {
+        "name": "Rewritten (Edit) [feat. Lejuene Thompson & Jason Nelson]",
+        "artist": "Donald Lawrence",
+        "position": 9,
+        "score": 36
+      },
+      {
+        "name": "Joy (feat. Victor Thompson)",
+        "artist": "PITA",
+        "position": 10,
+        "score": 36
+      },
+      {
+        "name": "Never Scared",
+        "artist": "Canon",
+        "position": 11,
+        "score": 36
+      },
+      {
+        "name": "No Longer Bound (I'm Free)",
+        "artist": "Maverick City Music",
+        "position": 12,
+        "score": 36
+      },
+      {
+        "name": "Choices",
+        "artist": "Eris Ford",
+        "position": 13,
+        "score": 36
+      },
+      {
+        "name": "POSSESSIONS",
+        "artist": "Gospel hints",
+        "position": 14,
+        "score": 36
+      },
+      {
+        "name": "Praise Him In Advance",
+        "artist": "Marvin Sapp",
+        "position": 15,
+        "score": 36
+      },
+      {
+        "name": "All In Me (feat. Miles Minnick & Brea Miles)",
+        "artist": "Camp8Republic",
+        "position": 16,
+        "score": 36
+      },
+      {
+        "name": "Could've Been Me",
+        "artist": "PJ Morton",
+        "position": 17,
+        "score": 36
+      },
+      {
+        "name": "Joy is Coming (feat. Travis Greene)",
+        "artist": "Todd Galberth",
+        "position": 18,
+        "score": 36
+      },
+      {
+        "name": "ICL",
+        "artist": "Bridge Music",
+        "position": 19,
+        "score": 36
+      },
+      {
+        "name": "There Is None Like You/Agnus Dei (Acoustic)",
+        "artist": "Stephen McWhirter",
+        "position": 20,
+        "score": 36
+      },
+      {
+        "name": "Revelations 19:1",
+        "artist": "Sunday Service Choir",
+        "position": 21,
+        "score": 36
+      },
+      {
+        "name": "Jesus Iye",
+        "artist": "Nathaniel Bassey",
+        "position": 22,
+        "score": 36
+      },
+      {
+        "name": "Love Got Me Like",
+        "artist": "King Cyz",
+        "position": 23,
+        "score": 36
+      },
+      {
+        "name": "Celebrate",
+        "artist": "Evan Ford",
+        "position": 24,
+        "score": 36
+      },
+      {
+        "name": "Just Believe",
+        "artist": "Dante’ Pride",
+        "position": 25,
+        "score": 36
+      },
+      {
+        "name": "Manna",
+        "artist": "Princeton South",
+        "position": 26,
+        "score": 36
+      },
+      {
+        "name": "In the Midst of It All",
+        "artist": "Yolanda Adams",
+        "position": 27,
+        "score": 36
+      },
+      {
+        "name": "AUTOMATIC",
+        "artist": "Hulvey",
+        "position": 28,
+        "score": 36
+      },
+      {
+        "name": "Bout My Father's Business",
+        "artist": "CèJae",
+        "position": 29,
+        "score": 36
+      },
+      {
+        "name": "All The Glory Is Yours (feat. Latrice Pace) [Live]",
+        "artist": "Darwin Hobbs",
+        "position": 30,
+        "score": 36
+      },
+      {
+        "name": "Mercy",
+        "artist": "Julie Melucci",
+        "position": 31,
+        "score": 36
+      },
+      {
+        "name": "Umbrella (feat. S.O.N Music, Neeja, Membrane, Doris Joseph, Ajay Asika & Godfrey Gad)",
+        "artist": "Moses Bliss",
+        "position": 32,
+        "score": 36
+      },
+      {
+        "name": "Jesus Has Won",
+        "artist": "Joepraize",
+        "position": 33,
+        "score": 36
+      },
+      {
+        "name": "Well Done",
+        "artist": "Deitrick Haddon",
+        "position": 34,
+        "score": 36
+      },
+      {
+        "name": "Gratitude",
+        "artist": "Anendlessocean",
+        "position": 35,
+        "score": 36
+      },
+      {
+        "name": "Honeycomb",
+        "artist": "Madison Ryann Ward",
+        "position": 36,
+        "score": 36
+      },
+      {
+        "name": "FORGIVENESS",
+        "artist": "Marvin Winans",
+        "position": 37,
+        "score": 36
+      },
+      {
+        "name": "Mercy",
+        "artist": "Sound Of Salem",
+        "position": 38,
+        "score": 36
+      },
+      {
+        "name": "Total Praise (Acoustic Version) [feat. Carvena Jones]",
+        "artist": "Travis Malloy",
+        "position": 39,
+        "score": 36
+      },
+      {
+        "name": "Not Alone",
+        "artist": "PJ Morton",
+        "position": 40,
+        "score": 36
+      },
+      {
+        "name": "For Christ Alone (Behold)",
+        "artist": "2819 Worship",
+        "position": 41,
+        "score": 36
+      },
+      {
+        "name": "Amazing Grace",
+        "artist": "CeCe Winans",
+        "position": 42,
+        "score": 36
+      },
+      {
+        "name": "Your Power",
+        "artist": "Lecrae",
+        "position": 43,
+        "score": 36
+      },
+      {
+        "name": "Withholding Nothing",
+        "artist": "William McDowell",
+        "position": 44,
+        "score": 36
+      },
+      {
+        "name": "Dungeon",
+        "artist": "Tedashii",
+        "position": 45,
+        "score": 36
+      },
+      {
+        "name": "evergreen",
+        "artist": "taylor charmayne",
+        "position": 46,
+        "score": 36
+      },
+      {
+        "name": "Hallelujah to the Lamb",
+        "artist": "BrvndonP",
+        "position": 47,
+        "score": 36
+      },
+      {
+        "name": "Hallelujah (Praise Be To God) [Live]",
+        "artist": "Darwin Hobbs",
+        "position": 48,
+        "score": 36
+      },
+      {
+        "name": "Grace (feat. Gil Joe)",
+        "artist": "Limoblaze",
+        "position": 49,
+        "score": 36
+      },
+      {
+        "name": "More Than Anything",
+        "artist": "Sunday Service Choir",
+        "position": 50,
+        "score": 36
+      }
+    ],
+    "removed": [],
+    "moved": [],
+    "stale": [],
+    "timestamp": "2026-06-25T01:39:32.849Z",
+    "playlistName": "Gospel"
+  },
+  "sources": 11
+}

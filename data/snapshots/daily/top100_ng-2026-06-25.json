@@ -1,0 +1,1317 @@
+{
+  "playlistName": "Top 100 Nigeria",
+  "timestamp": "2026-06-25T01:36:54.985Z",
+  "baselineRun": true,
+  "trackCount": 100,
+  "tracks": [
+    {
+      "id": "forgiveness-asake",
+      "name": "Forgiveness",
+      "artist": "Asake",
+      "performanceScore": 99.4,
+      "appearances": 1
+    },
+    {
+      "id": "gratitude-asake",
+      "name": "Gratitude",
+      "artist": "Asake",
+      "performanceScore": 98.8,
+      "appearances": 1
+    },
+    {
+      "id": "chanel-(feat.-asake)-blaqbonez",
+      "name": "Chanel (feat. Asake)",
+      "artist": "Blaqbonez",
+      "performanceScore": 98.2,
+      "appearances": 1
+    },
+    {
+      "id": "why-love-asake",
+      "name": "WHY LOVE",
+      "artist": "Asake",
+      "performanceScore": 97.6,
+      "appearances": 1
+    },
+    {
+      "id": "elumelu-young-jonn",
+      "name": "Elumelu",
+      "artist": "Young Jonn",
+      "performanceScore": 97,
+      "appearances": 1
+    },
+    {
+      "id": "mcbh-asake",
+      "name": "MCBH",
+      "artist": "Asake",
+      "performanceScore": 96.4,
+      "appearances": 1
+    },
+    {
+      "id": "back-outside-bnxn",
+      "name": "Back Outside",
+      "artist": "BNXN",
+      "performanceScore": 95.8,
+      "appearances": 1
+    },
+    {
+      "id": "worship-asake",
+      "name": "WORSHIP",
+      "artist": "Asake",
+      "performanceScore": 95.2,
+      "appearances": 1
+    },
+    {
+      "id": "wa-asake",
+      "name": "Wa",
+      "artist": "Asake",
+      "performanceScore": 94.6,
+      "appearances": 1
+    },
+    {
+      "id": "big-bum-bum-kidd-carder",
+      "name": "Big Bum Bum",
+      "artist": "Kidd Carder",
+      "performanceScore": 94,
+      "appearances": 1
+    },
+    {
+      "id": "dem-dey-burna-boy",
+      "name": "Dem Dey",
+      "artist": "Burna Boy",
+      "performanceScore": 93.4,
+      "appearances": 1
+    },
+    {
+      "id": "rora-asake",
+      "name": "Rora",
+      "artist": "Asake",
+      "performanceScore": 92.8,
+      "appearances": 1
+    },
+    {
+      "id": "i-am-omah-lay",
+      "name": "I AM",
+      "artist": "OMAH LAY",
+      "performanceScore": 92.2,
+      "appearances": 1
+    },
+    {
+      "id": "oba-asake",
+      "name": "Oba",
+      "artist": "Asake",
+      "performanceScore": 91.6,
+      "appearances": 1
+    },
+    {
+      "id": "amen-asake",
+      "name": "Amen",
+      "artist": "Asake",
+      "performanceScore": 91,
+      "appearances": 1
+    },
+    {
+      "id": "asambe-asake",
+      "name": "Asambe",
+      "artist": "Asake",
+      "performanceScore": 90.4,
+      "appearances": 1
+    },
+    {
+      "id": "badman-gangsta-asake",
+      "name": "BADMAN GANGSTA",
+      "artist": "Asake",
+      "performanceScore": 89.8,
+      "appearances": 1
+    },
+    {
+      "id": "motion-sickness-(feat.-zlatan)-odumodublvck",
+      "name": "MOTION SICKNESS (feat. Zlatan)",
+      "artist": "ODUMODUBLVCK",
+      "performanceScore": 89.2,
+      "appearances": 1
+    },
+    {
+      "id": "tornado-ayra-starr",
+      "name": "Tornado",
+      "artist": "Ayra Starr",
+      "performanceScore": 88.6,
+      "appearances": 1
+    },
+    {
+      "id": "come-closer-(feat.-drake)-wizkid",
+      "name": "Come Closer (feat. Drake)",
+      "artist": "Wizkid",
+      "performanceScore": 88,
+      "appearances": 1
+    },
+    {
+      "id": "change-your-mind-(feat.-shaboozey)-burna-boy",
+      "name": "Change Your Mind (feat. Shaboozey)",
+      "artist": "Burna Boy",
+      "performanceScore": 87.4,
+      "appearances": 1
+    },
+    {
+      "id": "skilful-asake",
+      "name": "Skilful",
+      "artist": "Asake",
+      "performanceScore": 86.8,
+      "appearances": 1
+    },
+    {
+      "id": "pidgin-&-english-bnxn",
+      "name": "Pidgin & English",
+      "artist": "BNXN",
+      "performanceScore": 86.2,
+      "appearances": 1
+    },
+    {
+      "id": "already-bnxn",
+      "name": "Already",
+      "artist": "BNXN",
+      "performanceScore": 85.6,
+      "appearances": 1
+    },
+    {
+      "id": "ginger-(feat.-burna-boy)-wizkid",
+      "name": "Ginger (feat. Burna Boy)",
+      "artist": "Wizkid",
+      "performanceScore": 85,
+      "appearances": 1
+    },
+    {
+      "id": "fine-ting-(fine-$hit)-fola",
+      "name": "fine ting (fine $hit)",
+      "artist": "FOLA",
+      "performanceScore": 84.4,
+      "appearances": 1
+    },
+    {
+      "id": "amapiano-asake",
+      "name": "Amapiano",
+      "artist": "Asake",
+      "performanceScore": 83.8,
+      "appearances": 1
+    },
+    {
+      "id": "joro-wizkid",
+      "name": "Joro",
+      "artist": "Wizkid",
+      "performanceScore": 83.2,
+      "appearances": 1
+    },
+    {
+      "id": "very-soon-bnxn",
+      "name": "Very Soon",
+      "artist": "BNXN",
+      "performanceScore": 82.6,
+      "appearances": 1
+    },
+    {
+      "id": "unavailable-(feat.-musa-keys)-davido",
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "artist": "Davido",
+      "performanceScore": 82,
+      "appearances": 1
+    },
+    {
+      "id": "aura-salad-sssoundgawd",
+      "name": "Aura Salad",
+      "artist": "SSSoundGawd",
+      "performanceScore": 81.4,
+      "appearances": 1
+    },
+    {
+      "id": "aanu-ni-bisimanuel",
+      "name": "Aanu Ni",
+      "artist": "BisiManuel",
+      "performanceScore": 80.8,
+      "appearances": 1
+    },
+    {
+      "id": "fre$h-victony",
+      "name": "FRE$H",
+      "artist": "Victony",
+      "performanceScore": 80.2,
+      "appearances": 1
+    },
+    {
+      "id": "mms-asake",
+      "name": "MMS",
+      "artist": "Asake",
+      "performanceScore": 79.6,
+      "appearances": 1
+    },
+    {
+      "id": "money-constant-dj-maphorisa",
+      "name": "MONEY CONSTANT",
+      "artist": "DJ Maphorisa",
+      "performanceScore": 79,
+      "appearances": 1
+    },
+    {
+      "id": "opera-mini-poco-lee",
+      "name": "OPERA MINI",
+      "artist": "Poco Lee",
+      "performanceScore": 78.4,
+      "appearances": 1
+    },
+    {
+      "id": "holy-ground-(feat.-nicki-minaj)-davido",
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "artist": "Davido",
+      "performanceScore": 77.8,
+      "appearances": 1
+    },
+    {
+      "id": "mofe-mavo",
+      "name": "Mofe",
+      "artist": "Mavo",
+      "performanceScore": 77.2,
+      "appearances": 1
+    },
+    {
+      "id": "juice-&-liquor-magixx",
+      "name": "Juice & Liquor",
+      "artist": "Magixx",
+      "performanceScore": 76.6,
+      "appearances": 1
+    },
+    {
+      "id": "my-healer-seyi-vibez",
+      "name": "MY HEALER",
+      "artist": "Seyi Vibez",
+      "performanceScore": 76,
+      "appearances": 1
+    },
+    {
+      "id": "turbulence-wizkid",
+      "name": "Turbulence",
+      "artist": "Wizkid",
+      "performanceScore": 75.4,
+      "appearances": 1
+    },
+    {
+      "id": "man-on-a-mission-(feat.-wizkid)-chris-brown",
+      "name": "Man On A Mission (feat. Wizkid)",
+      "artist": "Chris Brown",
+      "performanceScore": 74.8,
+      "appearances": 1
+    },
+    {
+      "id": "ripper's-fate-6uff",
+      "name": "Ripper's Fate",
+      "artist": "6uff",
+      "performanceScore": 74.2,
+      "appearances": 1
+    },
+    {
+      "id": "you-fola",
+      "name": "you",
+      "artist": "FOLA",
+      "performanceScore": 73.6,
+      "appearances": 1
+    },
+    {
+      "id": "ama-seyi-vibez",
+      "name": "AMA",
+      "artist": "Seyi Vibez",
+      "performanceScore": 73,
+      "appearances": 1
+    },
+    {
+      "id": "colorado-johnny-drille",
+      "name": "Colorado",
+      "artist": "Johnny Drille",
+      "performanceScore": 72.4,
+      "appearances": 1
+    },
+    {
+      "id": "moving-omah-lay",
+      "name": "Moving",
+      "artist": "OMAH LAY",
+      "performanceScore": 71.8,
+      "appearances": 1
+    },
+    {
+      "id": "for-days-bnxn",
+      "name": "For Days",
+      "artist": "BNXN",
+      "performanceScore": 71.2,
+      "appearances": 1
+    },
+    {
+      "id": "tumo-weto-mavo",
+      "name": "Tumo Weto",
+      "artist": "Mavo",
+      "performanceScore": 70.6,
+      "appearances": 1
+    },
+    {
+      "id": "fuji-moto-seyi-vibez",
+      "name": "FUJI MOTO",
+      "artist": "Seyi Vibez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "dog-eat-dog-ii-(feat.-cruel-santino-&-bella-shmurda)-odumodublvck",
+      "name": "DOG EAT DOG II (feat. Cruel Santino & Bella Shmurda)",
+      "artist": "ODUMODUBLVCK",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "ye-burna-boy",
+      "name": "Ye",
+      "artist": "Burna Boy",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "bad-influence-omah-lay",
+      "name": "Bad Influence",
+      "artist": "OMAH LAY",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "emotional-high-bnxn",
+      "name": "Emotional High",
+      "artist": "BNXN",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "stay-for-the-night-vybz-kartel",
+      "name": "Stay For The Night",
+      "artist": "Vybz Kartel",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "jies-bnxn",
+      "name": "Jies",
+      "artist": "BNXN",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "pray-bnxn",
+      "name": "PRAY",
+      "artist": "BNXN",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "99-(feat.-daecolm)-olamide",
+      "name": "99 (feat. Daecolm)",
+      "artist": "Olamide",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "on-the-low-burna-boy",
+      "name": "On the Low",
+      "artist": "Burna Boy",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "caricature-fola",
+      "name": "caricature",
+      "artist": "FOLA",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "janice-stfu-drake",
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "nakupenda-(feat.-al-xapo-&-zlatan)-txc",
+      "name": "Nakupenda (feat. Al Xapo & Zlatan)",
+      "artist": "TxC",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "waist-omah-lay",
+      "name": "Waist",
+      "artist": "OMAH LAY",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "outside-bnxn",
+      "name": "Outside",
+      "artist": "BNXN",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "one-condition-dj-tunez",
+      "name": "One Condition",
+      "artist": "DJ Tunez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "ten-times-young-jonn",
+      "name": "Ten Times",
+      "artist": "Young Jonn",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "laye-mi-bnxn",
+      "name": "Laye Mi",
+      "artist": "BNXN",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "state-of-mind-dj-tunez",
+      "name": "STATE OF MIND",
+      "artist": "DJ Tunez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "karma-seyi-vibez",
+      "name": "Karma",
+      "artist": "Seyi Vibez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "intro-asake",
+      "name": "Intro",
+      "artist": "Asake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "don't-love-me-omah-lay",
+      "name": "DON'T LOVE ME",
+      "artist": "OMAH LAY",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "infinity-(feat.-omah-lay)-olamide",
+      "name": "Infinity (feat. Omah Lay)",
+      "artist": "Olamide",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "big-time-odumodublvck",
+      "name": "BIG TIME",
+      "artist": "ODUMODUBLVCK",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "coping-mechanism-omah-lay",
+      "name": "COPING MECHANISM",
+      "artist": "OMAH LAY",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "raindance-dave",
+      "name": "Raindance",
+      "artist": "Dave",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "shabang-drake",
+      "name": "Shabang",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "pami-(feat.-wizkid,-adekunle-gold-&-omah-lay)-dj-tunez",
+      "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+      "artist": "DJ Tunez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "lost-fola",
+      "name": "lost",
+      "artist": "FOLA",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "eko-fola",
+      "name": "eko",
+      "artist": "FOLA",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "gbona-burna-boy",
+      "name": "Gbona",
+      "artist": "Burna Boy",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "rum-&-soda-bnxn",
+      "name": "Rum & Soda",
+      "artist": "BNXN",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "fa-mi-lo-shaiboy",
+      "name": "Fa Mi Lo",
+      "artist": "Shaiboy",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "go-go!-khaid",
+      "name": "GO GO!",
+      "artist": "Khaid",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "jogodo-wizkid",
+      "name": "Jogodo",
+      "artist": "Wizkid",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "set-up-bnxn",
+      "name": "Set Up",
+      "artist": "BNXN",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "bahamas-young-jonn",
+      "name": "Bahamas",
+      "artist": "Young Jonn",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "legolas-odumodublvck",
+      "name": "LEGOLAS",
+      "artist": "ODUMODUBLVCK",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "slow-(feat.-anais-cardot)-wizkid",
+      "name": "Slow (feat. Anais Cardot)",
+      "artist": "Wizkid",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "champion-sound-davido",
+      "name": "Champion Sound",
+      "artist": "Davido",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "ilashe-vibe-(feat.-makothevibe,-gabbeegram,-boi-drixx-&-wahala-music)-wrldleadin",
+      "name": "Ilashe Vibe (feat. MakoTheVibe, GABBEEGRAM, Boi Drixx & Wahala Music)",
+      "artist": "Wrldleadin",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "zion-teni",
+      "name": "Zion",
+      "artist": "Teni",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "pressure-seyi-vibez",
+      "name": "Pressure",
+      "artist": "Seyi Vibez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "alaye-wizkid",
+      "name": "Alaye",
+      "artist": "Wizkid",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "today-seyi-vibez",
+      "name": "Today",
+      "artist": "Seyi Vibez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "bandana-fireboy-dml",
+      "name": "Bandana",
+      "artist": "Fireboy DML",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "paparazzi-shoday",
+      "name": "Paparazzi",
+      "artist": "Shoday",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "energy-tiwa-savage",
+      "name": "Energy",
+      "artist": "Tiwa Savage",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "b’s-on-the-table-drake",
+      "name": "B’s On The Table",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "chose-me-famous-pluto",
+      "name": "Chose Me",
+      "artist": "Famous Pluto",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "mario-kart-seyi-vibez",
+      "name": "MARIO KART",
+      "artist": "Seyi Vibez",
+      "performanceScore": 70,
+      "appearances": 1
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Forgiveness",
+        "artist": "Asake",
+        "position": 1,
+        "score": 99.4
+      },
+      {
+        "name": "Gratitude",
+        "artist": "Asake",
+        "position": 2,
+        "score": 98.8
+      },
+      {
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez",
+        "position": 3,
+        "score": 98.2
+      },
+      {
+        "name": "WHY LOVE",
+        "artist": "Asake",
+        "position": 4,
+        "score": 97.6
+      },
+      {
+        "name": "Elumelu",
+        "artist": "Young Jonn",
+        "position": 5,
+        "score": 97
+      },
+      {
+        "name": "MCBH",
+        "artist": "Asake",
+        "position": 6,
+        "score": 96.4
+      },
+      {
+        "name": "Back Outside",
+        "artist": "BNXN",
+        "position": 7,
+        "score": 95.8
+      },
+      {
+        "name": "WORSHIP",
+        "artist": "Asake",
+        "position": 8,
+        "score": 95.2
+      },
+      {
+        "name": "Wa",
+        "artist": "Asake",
+        "position": 9,
+        "score": 94.6
+      },
+      {
+        "name": "Big Bum Bum",
+        "artist": "Kidd Carder",
+        "position": 10,
+        "score": 94
+      },
+      {
+        "name": "Dem Dey",
+        "artist": "Burna Boy",
+        "position": 11,
+        "score": 93.4
+      },
+      {
+        "name": "Rora",
+        "artist": "Asake",
+        "position": 12,
+        "score": 92.8
+      },
+      {
+        "name": "I AM",
+        "artist": "OMAH LAY",
+        "position": 13,
+        "score": 92.2
+      },
+      {
+        "name": "Oba",
+        "artist": "Asake",
+        "position": 14,
+        "score": 91.6
+      },
+      {
+        "name": "Amen",
+        "artist": "Asake",
+        "position": 15,
+        "score": 91
+      },
+      {
+        "name": "Asambe",
+        "artist": "Asake",
+        "position": 16,
+        "score": 90.4
+      },
+      {
+        "name": "BADMAN GANGSTA",
+        "artist": "Asake",
+        "position": 17,
+        "score": 89.8
+      },
+      {
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK",
+        "position": 18,
+        "score": 89.2
+      },
+      {
+        "name": "Tornado",
+        "artist": "Ayra Starr",
+        "position": 19,
+        "score": 88.6
+      },
+      {
+        "name": "Come Closer (feat. Drake)",
+        "artist": "Wizkid",
+        "position": 20,
+        "score": 88
+      },
+      {
+        "name": "Change Your Mind (feat. Shaboozey)",
+        "artist": "Burna Boy",
+        "position": 21,
+        "score": 87.4
+      },
+      {
+        "name": "Skilful",
+        "artist": "Asake",
+        "position": 22,
+        "score": 86.8
+      },
+      {
+        "name": "Pidgin & English",
+        "artist": "BNXN",
+        "position": 23,
+        "score": 86.2
+      },
+      {
+        "name": "Already",
+        "artist": "BNXN",
+        "position": 24,
+        "score": 85.6
+      },
+      {
+        "name": "Ginger (feat. Burna Boy)",
+        "artist": "Wizkid",
+        "position": 25,
+        "score": 85
+      },
+      {
+        "name": "fine ting (fine $hit)",
+        "artist": "FOLA",
+        "position": 26,
+        "score": 84.4
+      },
+      {
+        "name": "Amapiano",
+        "artist": "Asake",
+        "position": 27,
+        "score": 83.8
+      },
+      {
+        "name": "Joro",
+        "artist": "Wizkid",
+        "position": 28,
+        "score": 83.2
+      },
+      {
+        "name": "Very Soon",
+        "artist": "BNXN",
+        "position": 29,
+        "score": 82.6
+      },
+      {
+        "name": "UNAVAILABLE (feat. Musa Keys)",
+        "artist": "Davido",
+        "position": 30,
+        "score": 82
+      },
+      {
+        "name": "Aura Salad",
+        "artist": "SSSoundGawd",
+        "position": 31,
+        "score": 81.4
+      },
+      {
+        "name": "Aanu Ni",
+        "artist": "BisiManuel",
+        "position": 32,
+        "score": 80.8
+      },
+      {
+        "name": "FRE$H",
+        "artist": "Victony",
+        "position": 33,
+        "score": 80.2
+      },
+      {
+        "name": "MMS",
+        "artist": "Asake",
+        "position": 34,
+        "score": 79.6
+      },
+      {
+        "name": "MONEY CONSTANT",
+        "artist": "DJ Maphorisa",
+        "position": 35,
+        "score": 79
+      },
+      {
+        "name": "OPERA MINI",
+        "artist": "Poco Lee",
+        "position": 36,
+        "score": 78.4
+      },
+      {
+        "name": "Holy Ground (feat. Nicki Minaj)",
+        "artist": "Davido",
+        "position": 37,
+        "score": 77.8
+      },
+      {
+        "name": "Mofe",
+        "artist": "Mavo",
+        "position": 38,
+        "score": 77.2
+      },
+      {
+        "name": "Juice & Liquor",
+        "artist": "Magixx",
+        "position": 39,
+        "score": 76.6
+      },
+      {
+        "name": "MY HEALER",
+        "artist": "Seyi Vibez",
+        "position": 40,
+        "score": 76
+      },
+      {
+        "name": "Turbulence",
+        "artist": "Wizkid",
+        "position": 41,
+        "score": 75.4
+      },
+      {
+        "name": "Man On A Mission (feat. Wizkid)",
+        "artist": "Chris Brown",
+        "position": 42,
+        "score": 74.8
+      },
+      {
+        "name": "Ripper's Fate",
+        "artist": "6uff",
+        "position": 43,
+        "score": 74.2
+      },
+      {
+        "name": "you",
+        "artist": "FOLA",
+        "position": 44,
+        "score": 73.6
+      },
+      {
+        "name": "AMA",
+        "artist": "Seyi Vibez",
+        "position": 45,
+        "score": 73
+      },
+      {
+        "name": "Colorado",
+        "artist": "Johnny Drille",
+        "position": 46,
+        "score": 72.4
+      },
+      {
+        "name": "Moving",
+        "artist": "OMAH LAY",
+        "position": 47,
+        "score": 71.8
+      },
+      {
+        "name": "For Days",
+        "artist": "BNXN",
+        "position": 48,
+        "score": 71.2
+      },
+      {
+        "name": "Tumo Weto",
+        "artist": "Mavo",
+        "position": 49,
+        "score": 70.6
+      },
+      {
+        "name": "FUJI MOTO",
+        "artist": "Seyi Vibez",
+        "position": 50,
+        "score": 70
+      },
+      {
+        "name": "DOG EAT DOG II (feat. Cruel Santino & Bella Shmurda)",
+        "artist": "ODUMODUBLVCK",
+        "position": 51,
+        "score": 70
+      },
+      {
+        "name": "Ye",
+        "artist": "Burna Boy",
+        "position": 52,
+        "score": 70
+      },
+      {
+        "name": "Bad Influence",
+        "artist": "OMAH LAY",
+        "position": 53,
+        "score": 70
+      },
+      {
+        "name": "Emotional High",
+        "artist": "BNXN",
+        "position": 54,
+        "score": 70
+      },
+      {
+        "name": "Stay For The Night",
+        "artist": "Vybz Kartel",
+        "position": 55,
+        "score": 70
+      },
+      {
+        "name": "Jies",
+        "artist": "BNXN",
+        "position": 56,
+        "score": 70
+      },
+      {
+        "name": "PRAY",
+        "artist": "BNXN",
+        "position": 57,
+        "score": 70
+      },
+      {
+        "name": "99 (feat. Daecolm)",
+        "artist": "Olamide",
+        "position": 58,
+        "score": 70
+      },
+      {
+        "name": "On the Low",
+        "artist": "Burna Boy",
+        "position": 59,
+        "score": 70
+      },
+      {
+        "name": "caricature",
+        "artist": "FOLA",
+        "position": 60,
+        "score": 70
+      },
+      {
+        "name": "Janice STFU",
+        "artist": "Drake",
+        "position": 61,
+        "score": 70
+      },
+      {
+        "name": "Nakupenda (feat. Al Xapo & Zlatan)",
+        "artist": "TxC",
+        "position": 62,
+        "score": 70
+      },
+      {
+        "name": "Waist",
+        "artist": "OMAH LAY",
+        "position": 63,
+        "score": 70
+      },
+      {
+        "name": "Outside",
+        "artist": "BNXN",
+        "position": 64,
+        "score": 70
+      },
+      {
+        "name": "One Condition",
+        "artist": "DJ Tunez",
+        "position": 65,
+        "score": 70
+      },
+      {
+        "name": "Ten Times",
+        "artist": "Young Jonn",
+        "position": 66,
+        "score": 70
+      },
+      {
+        "name": "Laye Mi",
+        "artist": "BNXN",
+        "position": 67,
+        "score": 70
+      },
+      {
+        "name": "STATE OF MIND",
+        "artist": "DJ Tunez",
+        "position": 68,
+        "score": 70
+      },
+      {
+        "name": "Karma",
+        "artist": "Seyi Vibez",
+        "position": 69,
+        "score": 70
+      },
+      {
+        "name": "Intro",
+        "artist": "Asake",
+        "position": 70,
+        "score": 70
+      },
+      {
+        "name": "DON'T LOVE ME",
+        "artist": "OMAH LAY",
+        "position": 71,
+        "score": 70
+      },
+      {
+        "name": "Infinity (feat. Omah Lay)",
+        "artist": "Olamide",
+        "position": 72,
+        "score": 70
+      },
+      {
+        "name": "BIG TIME",
+        "artist": "ODUMODUBLVCK",
+        "position": 73,
+        "score": 70
+      },
+      {
+        "name": "COPING MECHANISM",
+        "artist": "OMAH LAY",
+        "position": 74,
+        "score": 70
+      },
+      {
+        "name": "Raindance",
+        "artist": "Dave",
+        "position": 75,
+        "score": 70
+      },
+      {
+        "name": "Shabang",
+        "artist": "Drake",
+        "position": 76,
+        "score": 70
+      },
+      {
+        "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+        "artist": "DJ Tunez",
+        "position": 77,
+        "score": 70
+      },
+      {
+        "name": "lost",
+        "artist": "FOLA",
+        "position": 78,
+        "score": 70
+      },
+      {
+        "name": "eko",
+        "artist": "FOLA",
+        "position": 79,
+        "score": 70
+      },
+      {
+        "name": "Gbona",
+        "artist": "Burna Boy",
+        "position": 80,
+        "score": 70
+      },
+      {
+        "name": "Rum & Soda",
+        "artist": "BNXN",
+        "position": 81,
+        "score": 70
+      },
+      {
+        "name": "Fa Mi Lo",
+        "artist": "Shaiboy",
+        "position": 82,
+        "score": 70
+      },
+      {
+        "name": "GO GO!",
+        "artist": "Khaid",
+        "position": 83,
+        "score": 70
+      },
+      {
+        "name": "Jogodo",
+        "artist": "Wizkid",
+        "position": 84,
+        "score": 70
+      },
+      {
+        "name": "Set Up",
+        "artist": "BNXN",
+        "position": 85,
+        "score": 70
+      },
+      {
+        "name": "Bahamas",
+        "artist": "Young Jonn",
+        "position": 86,
+        "score": 70
+      },
+      {
+        "name": "LEGOLAS",
+        "artist": "ODUMODUBLVCK",
+        "position": 87,
+        "score": 70
+      },
+      {
+        "name": "Slow (feat. Anais Cardot)",
+        "artist": "Wizkid",
+        "position": 88,
+        "score": 70
+      },
+      {
+        "name": "Champion Sound",
+        "artist": "Davido",
+        "position": 89,
+        "score": 70
+      },
+      {
+        "name": "Ilashe Vibe (feat. MakoTheVibe, GABBEEGRAM, Boi Drixx & Wahala Music)",
+        "artist": "Wrldleadin",
+        "position": 90,
+        "score": 70
+      },
+      {
+        "name": "Zion",
+        "artist": "Teni",
+        "position": 91,
+        "score": 70
+      },
+      {
+        "name": "Pressure",
+        "artist": "Seyi Vibez",
+        "position": 92,
+        "score": 70
+      },
+      {
+        "name": "Alaye",
+        "artist": "Wizkid",
+        "position": 93,
+        "score": 70
+      },
+      {
+        "name": "Today",
+        "artist": "Seyi Vibez",
+        "position": 94,
+        "score": 70
+      },
+      {
+        "name": "Bandana",
+        "artist": "Fireboy DML",
+        "position": 95,
+        "score": 70
+      },
+      {
+        "name": "Paparazzi",
+        "artist": "Shoday",
+        "position": 96,
+        "score": 70
+      },
+      {
+        "name": "Energy",
+        "artist": "Tiwa Savage",
+        "position": 97,
+        "score": 70
+      },
+      {
+        "name": "B’s On The Table",
+        "artist": "Drake",
+        "position": 98,
+        "score": 70
+      },
+      {
+        "name": "Chose Me",
+        "artist": "Famous Pluto",
+        "position": 99,
+        "score": 70
+      },
+      {
+        "name": "MARIO KART",
+        "artist": "Seyi Vibez",
+        "position": 100,
+        "score": 70
+      }
+    ],
+    "removed": [],
+    "moved": [],
+    "stale": [],
+    "timestamp": "2026-06-25T01:36:54.985Z",
+    "playlistName": "Top 100 Nigeria"
+  }
+}

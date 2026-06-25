@@ -1,0 +1,42 @@
+name: Playlist Update - Midnight Daily
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    # Adjust timezone as needed
+    - cron: '0 0 * * *'
+  
+  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+
+jobs:
+  update-playlists:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Run playlist updates
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          APPLE_MUSIC_TOKEN: ${{ secrets.APPLE_MUSIC_TOKEN }}
+        run: node index.js --now
+      
+      - name: Log completion
+        if: success()
+        run: echo "✓ Playlists updated successfully at $(date)"
+      
+      - name: Log failure
+        if: failure()
+        run: echo "✗ Playlist update failed" && exit 1

@@ -1,0 +1,1268 @@
+{
+  "playlistName": "Amapiano",
+  "timestamp": "2026-06-25T01:45:45.436Z",
+  "baselineRun": true,
+  "trackCount": 50,
+  "tracks": [
+    {
+      "id": "sasezola-novex",
+      "name": "SASEZOLA",
+      "artist": "Novex",
+      "performanceScore": 53.54,
+      "appearances": 1,
+      "totalScore": 93.53999999999999,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 1,
+      "score": 36
+    },
+    {
+      "id": "fosta-fosta-al-xapo",
+      "name": "FOSTA FOSTA",
+      "artist": "Al Xapo",
+      "performanceScore": 47.23,
+      "appearances": 1,
+      "totalScore": 77.22999999999999,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 2,
+      "score": 36
+    },
+    {
+      "id": "mngani-wami-(jaydecai)-jayjayy",
+      "name": "Mngani Wami (Jaydecai)",
+      "artist": "JayJayy",
+      "performanceScore": 44.63,
+      "appearances": 1,
+      "totalScore": 74.63,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 3,
+      "score": 36
+    },
+    {
+      "id": "too-cool-uncle-waffles",
+      "name": "Too Cool",
+      "artist": "Uncle Waffles",
+      "performanceScore": 43.91,
+      "appearances": 1,
+      "totalScore": 63.91,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 4,
+      "score": 36
+    },
+    {
+      "id": "amalanga-(feat.-major-league-djz,-tracy-&-pyy-log-drum-king)-piano-city",
+      "name": "Amalanga (feat. Major League Djz, Tracy & PYY Log Drum King)",
+      "artist": "Piano City",
+      "performanceScore": 43.01,
+      "appearances": 1,
+      "totalScore": 63.01,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 5,
+      "score": 36
+    },
+    {
+      "id": "ikhekhe-(feat.-shoes-meister-&-dooushii)-eeque",
+      "name": "iKhekhe (feat. Shoes Meister & Dooushii)",
+      "artist": "EeQue",
+      "performanceScore": 42.71,
+      "appearances": 1,
+      "totalScore": 62.71,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 6,
+      "score": 36
+    },
+    {
+      "id": "fast-fast-(feat.-roscosteazy,-optimist-music-za-&-jussgigi)-031choppa",
+      "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+      "artist": "031choppa",
+      "performanceScore": 42.11,
+      "appearances": 1,
+      "totalScore": 62.11,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 7,
+      "score": 36
+    },
+    {
+      "id": "ngithandiwe-(feat.-viwe-&-ticozet)-sam-kot-kot",
+      "name": "Ngithandiwe (feat. Viwe & Ticozet)",
+      "artist": "Sam Kot Kot",
+      "performanceScore": 42.11,
+      "appearances": 1,
+      "totalScore": 62.11,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 8,
+      "score": 36
+    },
+    {
+      "id": "ithuba-(feat.-q-bonke)-felo-le-tee",
+      "name": "Ithuba (feat. Q Bonke)",
+      "artist": "Felo Le Tee",
+      "performanceScore": 41.23,
+      "appearances": 1,
+      "totalScore": 71.22999999999999,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 9,
+      "score": 36
+    },
+    {
+      "id": "bang'bonile-(feat.-djy-vino,-mbuzi-&-seun1401)-xduppy",
+      "name": "Bang'bonile (feat. Djy Vino, MBUZI & Seun1401)",
+      "artist": "Xduppy",
+      "performanceScore": 40.83,
+      "appearances": 1,
+      "totalScore": 70.83,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 10,
+      "score": 36
+    },
+    {
+      "id": "uthembeni-sipho-magudulela",
+      "name": "Uthembeni",
+      "artist": "Sipho Magudulela",
+      "performanceScore": 40.61,
+      "appearances": 1,
+      "totalScore": 60.61,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 11,
+      "score": 36
+    },
+    {
+      "id": "deep-currency-(feat.-kabza-de-small)-deeper-phil",
+      "name": "Deep Currency (feat. Kabza De Small)",
+      "artist": "Deeper Phil",
+      "performanceScore": 40.61,
+      "appearances": 1,
+      "totalScore": 60.61,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 12,
+      "score": 36
+    },
+    {
+      "id": "paparazzi-shoday",
+      "name": "Paparazzi",
+      "artist": "Shoday",
+      "performanceScore": 39.4,
+      "appearances": 1,
+      "totalScore": 49.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 13,
+      "score": 36
+    },
+    {
+      "id": "re-jimile-dj-dadaman",
+      "name": "Re jimile",
+      "artist": "DJ DADAMAN",
+      "performanceScore": 39.4,
+      "appearances": 1,
+      "totalScore": 49.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 14,
+      "score": 36
+    },
+    {
+      "id": "ulwa-no-bani-(feat.-mashudu-&-cowboii)-mordecai",
+      "name": "Ulwa No Bani (feat. Mashudu & CowBoii)",
+      "artist": "Mordecai",
+      "performanceScore": 39.4,
+      "appearances": 1,
+      "totalScore": 49.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 15,
+      "score": 36
+    },
+    {
+      "id": "abantwana-bakho-(feat.-thatohatsi,-young-stunna-&-nkosazana-daughter)-dj-maphorisa",
+      "name": "Abantwana Bakho (feat. Thatohatsi, Young Stunna & Nkosazana Daughter)",
+      "artist": "DJ Maphorisa",
+      "performanceScore": 39.4,
+      "appearances": 1,
+      "totalScore": 49.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 16,
+      "score": 36
+    },
+    {
+      "id": "mzala-(feat.-tango-supreme)-shakes-&-les",
+      "name": "Mzala (feat. Tango Supreme)",
+      "artist": "Shakes & Les",
+      "performanceScore": 39.11,
+      "appearances": 1,
+      "totalScore": 59.11,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 17,
+      "score": 36
+    },
+    {
+      "id": "gbesunmo-wande-coal",
+      "name": "GBESUNMO",
+      "artist": "Wande Coal",
+      "performanceScore": 38.8,
+      "appearances": 1,
+      "totalScore": 48.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 18,
+      "score": 36
+    },
+    {
+      "id": "mashonisa-bigballer_ceo",
+      "name": "Mashonisa",
+      "artist": "BigBaller_Ceo",
+      "performanceScore": 38.8,
+      "appearances": 1,
+      "totalScore": 48.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 19,
+      "score": 36
+    },
+    {
+      "id": "sihole-(feat.-sandilae)-vico-da-sporo",
+      "name": "Sihole (feat. Sandilae)",
+      "artist": "Vico Da Sporo",
+      "performanceScore": 38.8,
+      "appearances": 1,
+      "totalScore": 48.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 20,
+      "score": 36
+    },
+    {
+      "id": "phola-inhliziyo-(feat.-smileykeys)-baby-momo",
+      "name": "Phola Inhliziyo (feat. SmileyKeys)",
+      "artist": "Baby Momo",
+      "performanceScore": 38.8,
+      "appearances": 1,
+      "totalScore": 48.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 21,
+      "score": 36
+    },
+    {
+      "id": "motion-sickness-(feat.-zlatan)-odumodublvck",
+      "name": "MOTION SICKNESS (feat. Zlatan)",
+      "artist": "ODUMODUBLVCK",
+      "performanceScore": 38.2,
+      "appearances": 1,
+      "totalScore": 48.2,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 22,
+      "score": 36
+    },
+    {
+      "id": "izintaba-nobuhle",
+      "name": "Izintaba",
+      "artist": "Nobuhle",
+      "performanceScore": 38.2,
+      "appearances": 1,
+      "totalScore": 48.2,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 23,
+      "score": 36
+    },
+    {
+      "id": "mopepe-bukzin-keyz",
+      "name": "Mopepe",
+      "artist": "Bukzin Keyz",
+      "performanceScore": 37.61,
+      "appearances": 1,
+      "totalScore": 57.61,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 24,
+      "score": 36
+    },
+    {
+      "id": "mabebuza-(mdu-aka-trp-remix)-maline-aura",
+      "name": "Mabebuza (Mdu aka TRP Remix)",
+      "artist": "Maline Aura",
+      "performanceScore": 37.61,
+      "appearances": 1,
+      "totalScore": 57.61,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 25,
+      "score": 36
+    },
+    {
+      "id": "aura-salad-sssoundgawd",
+      "name": "Aura Salad",
+      "artist": "SSSoundGawd",
+      "performanceScore": 37.6,
+      "appearances": 1,
+      "totalScore": 47.6,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 26,
+      "score": 36
+    },
+    {
+      "id": "woe$kii-straffitti",
+      "name": "WOE$KII",
+      "artist": "Straffitti",
+      "performanceScore": 37,
+      "appearances": 1,
+      "totalScore": 47,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 27,
+      "score": 36
+    },
+    {
+      "id": "ramasedi-mhaw-keys",
+      "name": "Ramasedi",
+      "artist": "Mhaw Keys",
+      "performanceScore": 37,
+      "appearances": 1,
+      "totalScore": 47,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 28,
+      "score": 36
+    },
+    {
+      "id": "yoh-hai-m00tion",
+      "name": "YOH HAI",
+      "artist": "M00tion",
+      "performanceScore": 37,
+      "appearances": 1,
+      "totalScore": 47,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 29,
+      "score": 36
+    },
+    {
+      "id": "ka-di-weekend-trechyson-molly-vx",
+      "name": "Ka Di Weekend",
+      "artist": "Trechyson Molly vx",
+      "performanceScore": 36.41,
+      "appearances": 1,
+      "totalScore": 56.41,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 30,
+      "score": 36
+    },
+    {
+      "id": "money-constant-dj-maphorisa",
+      "name": "MONEY CONSTANT",
+      "artist": "DJ Maphorisa",
+      "performanceScore": 36.4,
+      "appearances": 1,
+      "totalScore": 46.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 31,
+      "score": 36
+    },
+    {
+      "id": "jiva-2.0-(bacardi-remix)-brenda-fassie",
+      "name": "Jiva 2.0 (Bacardi Remix)",
+      "artist": "Brenda Fassie",
+      "performanceScore": 36.4,
+      "appearances": 1,
+      "totalScore": 46.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 32,
+      "score": 36
+    },
+    {
+      "id": "esandleni-(feat.-shaunmusiq)-thatohatsi",
+      "name": "Esandleni (feat. ShaunMusiq)",
+      "artist": "Thatohatsi",
+      "performanceScore": 36.4,
+      "appearances": 1,
+      "totalScore": 46.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 33,
+      "score": 36
+    },
+    {
+      "id": "lwetse-(feat.-dj-maphorisa-&-mluusician)-xduppy",
+      "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+      "artist": "Xduppy",
+      "performanceScore": 36.4,
+      "appearances": 1,
+      "totalScore": 46.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 34,
+      "score": 36
+    },
+    {
+      "id": "paris-(feat.-scotts-maphuma-&-cowboii)-dynamic-duo",
+      "name": "Paris (feat. Scotts Maphuma & CowBoii)",
+      "artist": "Dynamic Duo",
+      "performanceScore": 36.4,
+      "appearances": 1,
+      "totalScore": 46.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 35,
+      "score": 36
+    },
+    {
+      "id": "lwetse-2.0-(feat.-uncle-waffles,-dj-maphorisa-&-mluusician)-xduppy",
+      "name": "Lwetse 2.0 (feat. Uncle Waffles, DJ Maphorisa & Mluusician)",
+      "artist": "Xduppy",
+      "performanceScore": 36.4,
+      "appearances": 1,
+      "totalScore": 46.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 36,
+      "score": 36
+    },
+    {
+      "id": "amanxeba-sami-kay",
+      "name": "Amanxeba",
+      "artist": "sami kay",
+      "performanceScore": 35.81,
+      "appearances": 1,
+      "totalScore": 55.81,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 37,
+      "score": 36
+    },
+    {
+      "id": "opera-mini-poco-lee",
+      "name": "OPERA MINI",
+      "artist": "Poco Lee",
+      "performanceScore": 35.8,
+      "appearances": 1,
+      "totalScore": 45.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 38,
+      "score": 36
+    },
+    {
+      "id": "ama-1k-nama-2k-(feat.-optimist-music-za-&-beekay-da-deejay)-chlè",
+      "name": "Ama 1K Nama 2K (feat. Optimist Music ZA & Beekay Da Deejay)",
+      "artist": "Chlè",
+      "performanceScore": 35.8,
+      "appearances": 1,
+      "totalScore": 45.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 39,
+      "score": 36
+    },
+    {
+      "id": "agbara-mi-major-league-djz",
+      "name": "Agbara Mi",
+      "artist": "Major League DJz",
+      "performanceScore": 35.8,
+      "appearances": 1,
+      "totalScore": 45.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 40,
+      "score": 36
+    },
+    {
+      "id": "bona-senzani-(feat.-siya-sa-&-kya-lami)-house-of-esama",
+      "name": "Bona Senzani (feat. Siya SA & Kya Lami)",
+      "artist": "House Of ESAMA",
+      "performanceScore": 35.8,
+      "appearances": 1,
+      "totalScore": 45.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 41,
+      "score": 36
+    },
+    {
+      "id": "ngbambe-duze-(feat.-mfr-souls-&-dj-maphorisa)-maero",
+      "name": "Ngbambe Duze (feat. MFR Souls & DJ Maphorisa)",
+      "artist": "Maero",
+      "performanceScore": 35.63,
+      "appearances": 1,
+      "totalScore": 65.63,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 42,
+      "score": 36
+    },
+    {
+      "id": "head-movement-ez-maestro",
+      "name": "Head Movement",
+      "artist": "Ez Maestro",
+      "performanceScore": 35.21,
+      "appearances": 1,
+      "totalScore": 55.21,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 43,
+      "score": 36
+    },
+    {
+      "id": "ijoba-naira-marley",
+      "name": "Ijoba",
+      "artist": "Naira Marley",
+      "performanceScore": 35.2,
+      "appearances": 1,
+      "totalScore": 45.2,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 44,
+      "score": 36
+    },
+    {
+      "id": "bacardi-ke-tribe-(feat.-phalacore,-south-plxya-&-dimphowadiwave)-nerdfnd",
+      "name": "Bacardi Ke Tribe (feat. Phalacore, South Plxya & Dimphowadiwave)",
+      "artist": "NerdFND",
+      "performanceScore": 35.2,
+      "appearances": 1,
+      "totalScore": 45.2,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 45,
+      "score": 36
+    },
+    {
+      "id": "zan'ten-mid9t",
+      "name": "Zan'Ten",
+      "artist": "Mid9t",
+      "performanceScore": 35.2,
+      "appearances": 1,
+      "totalScore": 45.2,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 46,
+      "score": 36
+    },
+    {
+      "id": "injabulo-thatohatsi",
+      "name": "Injabulo",
+      "artist": "Thatohatsi",
+      "performanceScore": 34.61,
+      "appearances": 1,
+      "totalScore": 54.61,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 47,
+      "score": 36
+    },
+    {
+      "id": "too-hot-no11",
+      "name": "TOO HOT",
+      "artist": "NO11",
+      "performanceScore": 34.6,
+      "appearances": 1,
+      "totalScore": 44.6,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 48,
+      "score": 36
+    },
+    {
+      "id": "the-watchman-dj-dadaman",
+      "name": "THE WATCHMAN",
+      "artist": "DJ DADAMAN",
+      "performanceScore": 34.6,
+      "appearances": 1,
+      "totalScore": 44.6,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 49,
+      "score": 36
+    },
+    {
+      "id": "let's-just,-let-it-go-(feat.-fate)-vico-da-sporo",
+      "name": "Let's just, let it go (feat. FATE)",
+      "artist": "Vico Da Sporo",
+      "performanceScore": 34.6,
+      "appearances": 1,
+      "totalScore": 44.6,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 50,
+      "score": 36
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "SASEZOLA",
+        "artist": "Novex",
+        "position": 1,
+        "score": 36
+      },
+      {
+        "name": "FOSTA FOSTA",
+        "artist": "Al Xapo",
+        "position": 2,
+        "score": 36
+      },
+      {
+        "name": "Mngani Wami (Jaydecai)",
+        "artist": "JayJayy",
+        "position": 3,
+        "score": 36
+      },
+      {
+        "name": "Too Cool",
+        "artist": "Uncle Waffles",
+        "position": 4,
+        "score": 36
+      },
+      {
+        "name": "Amalanga (feat. Major League Djz, Tracy & PYY Log Drum King)",
+        "artist": "Piano City",
+        "position": 5,
+        "score": 36
+      },
+      {
+        "name": "iKhekhe (feat. Shoes Meister & Dooushii)",
+        "artist": "EeQue",
+        "position": 6,
+        "score": 36
+      },
+      {
+        "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+        "artist": "031choppa",
+        "position": 7,
+        "score": 36
+      },
+      {
+        "name": "Ngithandiwe (feat. Viwe & Ticozet)",
+        "artist": "Sam Kot Kot",
+        "position": 8,
+        "score": 36
+      },
+      {
+        "name": "Ithuba (feat. Q Bonke)",
+        "artist": "Felo Le Tee",
+        "position": 9,
+        "score": 36
+      },
+      {
+        "name": "Bang'bonile (feat. Djy Vino, MBUZI & Seun1401)",
+        "artist": "Xduppy",
+        "position": 10,
+        "score": 36
+      },
+      {
+        "name": "Uthembeni",
+        "artist": "Sipho Magudulela",
+        "position": 11,
+        "score": 36
+      },
+      {
+        "name": "Deep Currency (feat. Kabza De Small)",
+        "artist": "Deeper Phil",
+        "position": 12,
+        "score": 36
+      },
+      {
+        "name": "Paparazzi",
+        "artist": "Shoday",
+        "position": 13,
+        "score": 36
+      },
+      {
+        "name": "Re jimile",
+        "artist": "DJ DADAMAN",
+        "position": 14,
+        "score": 36
+      },
+      {
+        "name": "Ulwa No Bani (feat. Mashudu & CowBoii)",
+        "artist": "Mordecai",
+        "position": 15,
+        "score": 36
+      },
+      {
+        "name": "Abantwana Bakho (feat. Thatohatsi, Young Stunna & Nkosazana Daughter)",
+        "artist": "DJ Maphorisa",
+        "position": 16,
+        "score": 36
+      },
+      {
+        "name": "Mzala (feat. Tango Supreme)",
+        "artist": "Shakes & Les",
+        "position": 17,
+        "score": 36
+      },
+      {
+        "name": "GBESUNMO",
+        "artist": "Wande Coal",
+        "position": 18,
+        "score": 36
+      },
+      {
+        "name": "Mashonisa",
+        "artist": "BigBaller_Ceo",
+        "position": 19,
+        "score": 36
+      },
+      {
+        "name": "Sihole (feat. Sandilae)",
+        "artist": "Vico Da Sporo",
+        "position": 20,
+        "score": 36
+      },
+      {
+        "name": "Phola Inhliziyo (feat. SmileyKeys)",
+        "artist": "Baby Momo",
+        "position": 21,
+        "score": 36
+      },
+      {
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK",
+        "position": 22,
+        "score": 36
+      },
+      {
+        "name": "Izintaba",
+        "artist": "Nobuhle",
+        "position": 23,
+        "score": 36
+      },
+      {
+        "name": "Mopepe",
+        "artist": "Bukzin Keyz",
+        "position": 24,
+        "score": 36
+      },
+      {
+        "name": "Mabebuza (Mdu aka TRP Remix)",
+        "artist": "Maline Aura",
+        "position": 25,
+        "score": 36
+      },
+      {
+        "name": "Aura Salad",
+        "artist": "SSSoundGawd",
+        "position": 26,
+        "score": 36
+      },
+      {
+        "name": "WOE$KII",
+        "artist": "Straffitti",
+        "position": 27,
+        "score": 36
+      },
+      {
+        "name": "Ramasedi",
+        "artist": "Mhaw Keys",
+        "position": 28,
+        "score": 36
+      },
+      {
+        "name": "YOH HAI",
+        "artist": "M00tion",
+        "position": 29,
+        "score": 36
+      },
+      {
+        "name": "Ka Di Weekend",
+        "artist": "Trechyson Molly vx",
+        "position": 30,
+        "score": 36
+      },
+      {
+        "name": "MONEY CONSTANT",
+        "artist": "DJ Maphorisa",
+        "position": 31,
+        "score": 36
+      },
+      {
+        "name": "Jiva 2.0 (Bacardi Remix)",
+        "artist": "Brenda Fassie",
+        "position": 32,
+        "score": 36
+      },
+      {
+        "name": "Esandleni (feat. ShaunMusiq)",
+        "artist": "Thatohatsi",
+        "position": 33,
+        "score": 36
+      },
+      {
+        "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+        "artist": "Xduppy",
+        "position": 34,
+        "score": 36
+      },
+      {
+        "name": "Paris (feat. Scotts Maphuma & CowBoii)",
+        "artist": "Dynamic Duo",
+        "position": 35,
+        "score": 36
+      },
+      {
+        "name": "Lwetse 2.0 (feat. Uncle Waffles, DJ Maphorisa & Mluusician)",
+        "artist": "Xduppy",
+        "position": 36,
+        "score": 36
+      },
+      {
+        "name": "Amanxeba",
+        "artist": "sami kay",
+        "position": 37,
+        "score": 36
+      },
+      {
+        "name": "OPERA MINI",
+        "artist": "Poco Lee",
+        "position": 38,
+        "score": 36
+      },
+      {
+        "name": "Ama 1K Nama 2K (feat. Optimist Music ZA & Beekay Da Deejay)",
+        "artist": "Chlè",
+        "position": 39,
+        "score": 36
+      },
+      {
+        "name": "Agbara Mi",
+        "artist": "Major League DJz",
+        "position": 40,
+        "score": 36
+      },
+      {
+        "name": "Bona Senzani (feat. Siya SA & Kya Lami)",
+        "artist": "House Of ESAMA",
+        "position": 41,
+        "score": 36
+      },
+      {
+        "name": "Ngbambe Duze (feat. MFR Souls & DJ Maphorisa)",
+        "artist": "Maero",
+        "position": 42,
+        "score": 36
+      },
+      {
+        "name": "Head Movement",
+        "artist": "Ez Maestro",
+        "position": 43,
+        "score": 36
+      },
+      {
+        "name": "Ijoba",
+        "artist": "Naira Marley",
+        "position": 44,
+        "score": 36
+      },
+      {
+        "name": "Bacardi Ke Tribe (feat. Phalacore, South Plxya & Dimphowadiwave)",
+        "artist": "NerdFND",
+        "position": 45,
+        "score": 36
+      },
+      {
+        "name": "Zan'Ten",
+        "artist": "Mid9t",
+        "position": 46,
+        "score": 36
+      },
+      {
+        "name": "Injabulo",
+        "artist": "Thatohatsi",
+        "position": 47,
+        "score": 36
+      },
+      {
+        "name": "TOO HOT",
+        "artist": "NO11",
+        "position": 48,
+        "score": 36
+      },
+      {
+        "name": "THE WATCHMAN",
+        "artist": "DJ DADAMAN",
+        "position": 49,
+        "score": 36
+      },
+      {
+        "name": "Let's just, let it go (feat. FATE)",
+        "artist": "Vico Da Sporo",
+        "position": 50,
+        "score": 36
+      }
+    ],
+    "removed": [],
+    "moved": [],
+    "stale": [],
+    "timestamp": "2026-06-25T01:45:45.435Z",
+    "playlistName": "Amapiano"
+  },
+  "sources": 7
+}

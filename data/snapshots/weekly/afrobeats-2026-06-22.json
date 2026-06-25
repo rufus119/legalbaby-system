@@ -1,0 +1,1268 @@
+{
+  "playlistName": "Afrobeats",
+  "timestamp": "2026-06-25T01:41:01.456Z",
+  "baselineRun": true,
+  "trackCount": 50,
+  "tracks": [
+    {
+      "id": "elumelu-young-jonn",
+      "name": "Elumelu",
+      "artist": "Young Jonn",
+      "performanceScore": 62.84,
+      "appearances": 1,
+      "totalScore": 132.84,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 1,
+      "score": 36
+    },
+    {
+      "id": "fre$h-victony",
+      "name": "FRE$H",
+      "artist": "Victony",
+      "performanceScore": 56.25,
+      "appearances": 1,
+      "totalScore": 116.25,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 2,
+      "score": 36
+    },
+    {
+      "id": "gbesunmo-wande-coal",
+      "name": "GBESUNMO",
+      "artist": "Wande Coal",
+      "performanceScore": 54.91,
+      "appearances": 1,
+      "totalScore": 104.91,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 3,
+      "score": 36
+    },
+    {
+      "id": "back-outside-bnxn",
+      "name": "Back Outside",
+      "artist": "BNXN",
+      "performanceScore": 53.65,
+      "appearances": 1,
+      "totalScore": 113.65,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 4,
+      "score": 36
+    },
+    {
+      "id": "go-go!-khaid",
+      "name": "GO GO!",
+      "artist": "Khaid",
+      "performanceScore": 51.67,
+      "appearances": 1,
+      "totalScore": 101.67,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 5,
+      "score": 36
+    },
+    {
+      "id": "chanel-(feat.-asake)-blaqbonez",
+      "name": "Chanel (feat. Asake)",
+      "artist": "Blaqbonez",
+      "performanceScore": 51.05,
+      "appearances": 1,
+      "totalScore": 91.05,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 6,
+      "score": 36
+    },
+    {
+      "id": "energy-tiwa-savage",
+      "name": "Energy",
+      "artist": "Tiwa Savage",
+      "performanceScore": 50.75,
+      "appearances": 1,
+      "totalScore": 110.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 7,
+      "score": 36
+    },
+    {
+      "id": "tornado-ayra-starr",
+      "name": "Tornado",
+      "artist": "Ayra Starr",
+      "performanceScore": 50.23,
+      "appearances": 1,
+      "totalScore": 100.22999999999999,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 8,
+      "score": 36
+    },
+    {
+      "id": "i-am-omah-lay",
+      "name": "I AM",
+      "artist": "OMAH LAY",
+      "performanceScore": 49.15,
+      "appearances": 1,
+      "totalScore": 99.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 9,
+      "score": 36
+    },
+    {
+      "id": "big-bum-bum-kidd-carder",
+      "name": "Big Bum Bum",
+      "artist": "Kidd Carder",
+      "performanceScore": 48.55,
+      "appearances": 1,
+      "totalScore": 98.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 10,
+      "score": 36
+    },
+    {
+      "id": "forgiveness-asake",
+      "name": "Forgiveness",
+      "artist": "Asake",
+      "performanceScore": 48.25,
+      "appearances": 1,
+      "totalScore": 108.25,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 11,
+      "score": 36
+    },
+    {
+      "id": "gratitude-asake",
+      "name": "Gratitude",
+      "artist": "Asake",
+      "performanceScore": 47.9,
+      "appearances": 1,
+      "totalScore": 87.9,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 12,
+      "score": 36
+    },
+    {
+      "id": "jogodo-wizkid",
+      "name": "Jogodo",
+      "artist": "Wizkid",
+      "performanceScore": 47.47,
+      "appearances": 1,
+      "totalScore": 97.47,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 13,
+      "score": 36
+    },
+    {
+      "id": "fine-ting-(fine-$hit)-fola",
+      "name": "fine ting (fine $hit)",
+      "artist": "FOLA",
+      "performanceScore": 45.8,
+      "appearances": 1,
+      "totalScore": 85.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 14,
+      "score": 36
+    },
+    {
+      "id": "motion-sickness-(feat.-zlatan)-odumodublvck",
+      "name": "MOTION SICKNESS (feat. Zlatan)",
+      "artist": "ODUMODUBLVCK",
+      "performanceScore": 45.5,
+      "appearances": 1,
+      "totalScore": 85.5,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 15,
+      "score": 36
+    },
+    {
+      "id": "dance-fave",
+      "name": "Dance",
+      "artist": "FAVE",
+      "performanceScore": 45.07,
+      "appearances": 1,
+      "totalScore": 95.07,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 16,
+      "score": 36
+    },
+    {
+      "id": "skilful-asake",
+      "name": "Skilful",
+      "artist": "Asake",
+      "performanceScore": 42.65,
+      "appearances": 1,
+      "totalScore": 82.65,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 17,
+      "score": 36
+    },
+    {
+      "id": "spacefuji-bloody-civilian",
+      "name": "SpaceFuji",
+      "artist": "Bloody Civilian",
+      "performanceScore": 41.6,
+      "appearances": 1,
+      "totalScore": 81.6,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 18,
+      "score": 36
+    },
+    {
+      "id": "where-do-we-go-ayra-starr",
+      "name": "Where Do We Go",
+      "artist": "Ayra Starr",
+      "performanceScore": 41.35,
+      "appearances": 1,
+      "totalScore": 71.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 19,
+      "score": 36
+    },
+    {
+      "id": "dem-dey-burna-boy",
+      "name": "Dem Dey",
+      "artist": "Burna Boy",
+      "performanceScore": 40.99,
+      "appearances": 1,
+      "totalScore": 90.99000000000001,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 20,
+      "score": 36
+    },
+    {
+      "id": "what-you-need-tems",
+      "name": "What You Need",
+      "artist": "Tems",
+      "performanceScore": 40.15,
+      "appearances": 1,
+      "totalScore": 60.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 21,
+      "score": 36
+    },
+    {
+      "id": "energy-g4zi",
+      "name": "Energy",
+      "artist": "G4ZI",
+      "performanceScore": 39.43,
+      "appearances": 1,
+      "totalScore": 89.43,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 22,
+      "score": 36
+    },
+    {
+      "id": "lady-kfmd",
+      "name": "Lady",
+      "artist": "KFMD",
+      "performanceScore": 38.35,
+      "appearances": 1,
+      "totalScore": 88.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 23,
+      "score": 36
+    },
+    {
+      "id": "kese-(dance)-wizkid",
+      "name": "Kese (Dance)",
+      "artist": "Wizkid",
+      "performanceScore": 38.15,
+      "appearances": 1,
+      "totalScore": 48.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 24,
+      "score": 36
+    },
+    {
+      "id": "raindance-dave",
+      "name": "Raindance",
+      "artist": "Dave",
+      "performanceScore": 38.15,
+      "appearances": 1,
+      "totalScore": 48.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 25,
+      "score": 36
+    },
+    {
+      "id": "with-you-(feat.-omah-lay)-davido",
+      "name": "With You (feat. Omah Lay)",
+      "artist": "Davido",
+      "performanceScore": 38,
+      "appearances": 1,
+      "totalScore": 78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 26,
+      "score": 36
+    },
+    {
+      "id": "allergies-shallipopi",
+      "name": "Allergies",
+      "artist": "Shallipopi",
+      "performanceScore": 37.75,
+      "appearances": 1,
+      "totalScore": 67.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 27,
+      "score": 36
+    },
+    {
+      "id": "unavailable-spyro",
+      "name": "Unavailable",
+      "artist": "Spyro",
+      "performanceScore": 37.75,
+      "appearances": 1,
+      "totalScore": 67.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 28,
+      "score": 36
+    },
+    {
+      "id": "till-the-wheels-fall-off-leostaytrill",
+      "name": "Till The Wheels Fall Off",
+      "artist": "LeoStayTrill",
+      "performanceScore": 37.75,
+      "appearances": 1,
+      "totalScore": 67.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 29,
+      "score": 36
+    },
+    {
+      "id": "is-it-love-tyla",
+      "name": "IS IT LOVE",
+      "artist": "Tyla",
+      "performanceScore": 37.55,
+      "appearances": 1,
+      "totalScore": 47.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 30,
+      "score": 36
+    },
+    {
+      "id": "active-asake",
+      "name": "Active",
+      "artist": "Asake",
+      "performanceScore": 37.55,
+      "appearances": 1,
+      "totalScore": 47.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 31,
+      "score": 36
+    },
+    {
+      "id": "if-you-leave-salle",
+      "name": "If You Leave",
+      "artist": "Salle",
+      "performanceScore": 36.95,
+      "appearances": 1,
+      "totalScore": 46.95,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 32,
+      "score": 36
+    },
+    {
+      "id": "me-+-u-(destiny)-ziibeats",
+      "name": "Me + U (Destiny)",
+      "artist": "ZiiBeats",
+      "performanceScore": 36.55,
+      "appearances": 1,
+      "totalScore": 56.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 33,
+      "score": 36
+    },
+    {
+      "id": "magaa-l.a.x",
+      "name": "MAGAA",
+      "artist": "L.A.X",
+      "performanceScore": 36.55,
+      "appearances": 1,
+      "totalScore": 56.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 34,
+      "score": 36
+    },
+    {
+      "id": "love-like-this-ossi-grace",
+      "name": "Love Like This",
+      "artist": "Ossi Grace",
+      "performanceScore": 36.35,
+      "appearances": 1,
+      "totalScore": 46.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 35,
+      "score": 36
+    },
+    {
+      "id": "up-sarz",
+      "name": "Up",
+      "artist": "Sarz",
+      "performanceScore": 36.35,
+      "appearances": 1,
+      "totalScore": 46.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 36,
+      "score": 36
+    },
+    {
+      "id": "signature-kidi",
+      "name": "Signature",
+      "artist": "KiDi",
+      "performanceScore": 36.05,
+      "appearances": 1,
+      "totalScore": 76.05,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 37,
+      "score": 36
+    },
+    {
+      "id": "like-magic-kotrell",
+      "name": "Like Magic",
+      "artist": "Kotrell",
+      "performanceScore": 35.75,
+      "appearances": 1,
+      "totalScore": 45.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 38,
+      "score": 36
+    },
+    {
+      "id": "gravity-emo-grae",
+      "name": "Gravity",
+      "artist": "EMO Grae",
+      "performanceScore": 35.35,
+      "appearances": 1,
+      "totalScore": 65.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 39,
+      "score": 36
+    },
+    {
+      "id": "go-crazy-blaqbonez",
+      "name": "Go Crazy",
+      "artist": "Blaqbonez",
+      "performanceScore": 35.15,
+      "appearances": 1,
+      "totalScore": 45.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 40,
+      "score": 36
+    },
+    {
+      "id": "already-bnxn",
+      "name": "Already",
+      "artist": "BNXN",
+      "performanceScore": 34.55,
+      "appearances": 1,
+      "totalScore": 64.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 41,
+      "score": 36
+    },
+    {
+      "id": "phony-camidoh",
+      "name": "Phony",
+      "artist": "Camidoh",
+      "performanceScore": 34.55,
+      "appearances": 1,
+      "totalScore": 44.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 42,
+      "score": 36
+    },
+    {
+      "id": "kante-(feat.-fave)-davido",
+      "name": "KANTE (feat. Fave)",
+      "artist": "Davido",
+      "performanceScore": 34.55,
+      "appearances": 1,
+      "totalScore": 44.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 43,
+      "score": 36
+    },
+    {
+      "id": "rock-me-gentle-olamide",
+      "name": "Rock Me Gentle",
+      "artist": "Olamide",
+      "performanceScore": 34.03,
+      "appearances": 1,
+      "totalScore": 84.03,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 44,
+      "score": 36
+    },
+    {
+      "id": "opera-mini-poco-lee",
+      "name": "OPERA MINI",
+      "artist": "Poco Lee",
+      "performanceScore": 33.95,
+      "appearances": 1,
+      "totalScore": 63.95,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 45,
+      "score": 36
+    },
+    {
+      "id": "colorado-johnny-drille",
+      "name": "Colorado",
+      "artist": "Johnny Drille",
+      "performanceScore": 33.91,
+      "appearances": 1,
+      "totalScore": 83.91,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 46,
+      "score": 36
+    },
+    {
+      "id": "feeling-alright-qing-madi",
+      "name": "Feeling Alright",
+      "artist": "Qing Madi",
+      "performanceScore": 33.35,
+      "appearances": 1,
+      "totalScore": 43.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 47,
+      "score": 36
+    },
+    {
+      "id": "juju-(feat.-shallipopi)-smur-lee",
+      "name": "JUJU (feat. Shallipopi)",
+      "artist": "Smur Lee",
+      "performanceScore": 33.35,
+      "appearances": 1,
+      "totalScore": 43.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 48,
+      "score": 36
+    },
+    {
+      "id": "1942-balloranking",
+      "name": "1942",
+      "artist": "Balloranking",
+      "performanceScore": 33.25,
+      "appearances": 1,
+      "totalScore": 53.25,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 49,
+      "score": 36
+    },
+    {
+      "id": "state-of-mind-dj-tunez",
+      "name": "STATE OF MIND",
+      "artist": "DJ Tunez",
+      "performanceScore": 32.83,
+      "appearances": 1,
+      "totalScore": 82.83,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 50,
+      "score": 36
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Elumelu",
+        "artist": "Young Jonn",
+        "position": 1,
+        "score": 36
+      },
+      {
+        "name": "FRE$H",
+        "artist": "Victony",
+        "position": 2,
+        "score": 36
+      },
+      {
+        "name": "GBESUNMO",
+        "artist": "Wande Coal",
+        "position": 3,
+        "score": 36
+      },
+      {
+        "name": "Back Outside",
+        "artist": "BNXN",
+        "position": 4,
+        "score": 36
+      },
+      {
+        "name": "GO GO!",
+        "artist": "Khaid",
+        "position": 5,
+        "score": 36
+      },
+      {
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez",
+        "position": 6,
+        "score": 36
+      },
+      {
+        "name": "Energy",
+        "artist": "Tiwa Savage",
+        "position": 7,
+        "score": 36
+      },
+      {
+        "name": "Tornado",
+        "artist": "Ayra Starr",
+        "position": 8,
+        "score": 36
+      },
+      {
+        "name": "I AM",
+        "artist": "OMAH LAY",
+        "position": 9,
+        "score": 36
+      },
+      {
+        "name": "Big Bum Bum",
+        "artist": "Kidd Carder",
+        "position": 10,
+        "score": 36
+      },
+      {
+        "name": "Forgiveness",
+        "artist": "Asake",
+        "position": 11,
+        "score": 36
+      },
+      {
+        "name": "Gratitude",
+        "artist": "Asake",
+        "position": 12,
+        "score": 36
+      },
+      {
+        "name": "Jogodo",
+        "artist": "Wizkid",
+        "position": 13,
+        "score": 36
+      },
+      {
+        "name": "fine ting (fine $hit)",
+        "artist": "FOLA",
+        "position": 14,
+        "score": 36
+      },
+      {
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK",
+        "position": 15,
+        "score": 36
+      },
+      {
+        "name": "Dance",
+        "artist": "FAVE",
+        "position": 16,
+        "score": 36
+      },
+      {
+        "name": "Skilful",
+        "artist": "Asake",
+        "position": 17,
+        "score": 36
+      },
+      {
+        "name": "SpaceFuji",
+        "artist": "Bloody Civilian",
+        "position": 18,
+        "score": 36
+      },
+      {
+        "name": "Where Do We Go",
+        "artist": "Ayra Starr",
+        "position": 19,
+        "score": 36
+      },
+      {
+        "name": "Dem Dey",
+        "artist": "Burna Boy",
+        "position": 20,
+        "score": 36
+      },
+      {
+        "name": "What You Need",
+        "artist": "Tems",
+        "position": 21,
+        "score": 36
+      },
+      {
+        "name": "Energy",
+        "artist": "G4ZI",
+        "position": 22,
+        "score": 36
+      },
+      {
+        "name": "Lady",
+        "artist": "KFMD",
+        "position": 23,
+        "score": 36
+      },
+      {
+        "name": "Kese (Dance)",
+        "artist": "Wizkid",
+        "position": 24,
+        "score": 36
+      },
+      {
+        "name": "Raindance",
+        "artist": "Dave",
+        "position": 25,
+        "score": 36
+      },
+      {
+        "name": "With You (feat. Omah Lay)",
+        "artist": "Davido",
+        "position": 26,
+        "score": 36
+      },
+      {
+        "name": "Allergies",
+        "artist": "Shallipopi",
+        "position": 27,
+        "score": 36
+      },
+      {
+        "name": "Unavailable",
+        "artist": "Spyro",
+        "position": 28,
+        "score": 36
+      },
+      {
+        "name": "Till The Wheels Fall Off",
+        "artist": "LeoStayTrill",
+        "position": 29,
+        "score": 36
+      },
+      {
+        "name": "IS IT LOVE",
+        "artist": "Tyla",
+        "position": 30,
+        "score": 36
+      },
+      {
+        "name": "Active",
+        "artist": "Asake",
+        "position": 31,
+        "score": 36
+      },
+      {
+        "name": "If You Leave",
+        "artist": "Salle",
+        "position": 32,
+        "score": 36
+      },
+      {
+        "name": "Me + U (Destiny)",
+        "artist": "ZiiBeats",
+        "position": 33,
+        "score": 36
+      },
+      {
+        "name": "MAGAA",
+        "artist": "L.A.X",
+        "position": 34,
+        "score": 36
+      },
+      {
+        "name": "Love Like This",
+        "artist": "Ossi Grace",
+        "position": 35,
+        "score": 36
+      },
+      {
+        "name": "Up",
+        "artist": "Sarz",
+        "position": 36,
+        "score": 36
+      },
+      {
+        "name": "Signature",
+        "artist": "KiDi",
+        "position": 37,
+        "score": 36
+      },
+      {
+        "name": "Like Magic",
+        "artist": "Kotrell",
+        "position": 38,
+        "score": 36
+      },
+      {
+        "name": "Gravity",
+        "artist": "EMO Grae",
+        "position": 39,
+        "score": 36
+      },
+      {
+        "name": "Go Crazy",
+        "artist": "Blaqbonez",
+        "position": 40,
+        "score": 36
+      },
+      {
+        "name": "Already",
+        "artist": "BNXN",
+        "position": 41,
+        "score": 36
+      },
+      {
+        "name": "Phony",
+        "artist": "Camidoh",
+        "position": 42,
+        "score": 36
+      },
+      {
+        "name": "KANTE (feat. Fave)",
+        "artist": "Davido",
+        "position": 43,
+        "score": 36
+      },
+      {
+        "name": "Rock Me Gentle",
+        "artist": "Olamide",
+        "position": 44,
+        "score": 36
+      },
+      {
+        "name": "OPERA MINI",
+        "artist": "Poco Lee",
+        "position": 45,
+        "score": 36
+      },
+      {
+        "name": "Colorado",
+        "artist": "Johnny Drille",
+        "position": 46,
+        "score": 36
+      },
+      {
+        "name": "Feeling Alright",
+        "artist": "Qing Madi",
+        "position": 47,
+        "score": 36
+      },
+      {
+        "name": "JUJU (feat. Shallipopi)",
+        "artist": "Smur Lee",
+        "position": 48,
+        "score": 36
+      },
+      {
+        "name": "1942",
+        "artist": "Balloranking",
+        "position": 49,
+        "score": 36
+      },
+      {
+        "name": "STATE OF MIND",
+        "artist": "DJ Tunez",
+        "position": 50,
+        "score": 36
+      }
+    ],
+    "removed": [],
+    "moved": [],
+    "stale": [],
+    "timestamp": "2026-06-25T01:41:01.455Z",
+    "playlistName": "Afrobeats"
+  },
+  "sources": 8
+}

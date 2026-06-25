@@ -1,0 +1,5642 @@
+[
+  {
+    "type": "weekly",
+    "playlistName": "Gospel",
+    "week": "2026-06-22 to 2026-06-28",
+    "timestamp": "2026-06-25T01:39:32.854Z",
+    "summary": {
+      "totalTracks": 50,
+      "newHotSongs": 50,
+      "removedSongs": 0,
+      "positionChanges": 0
+    },
+    "hotNewSongs": [
+      {
+        "name": "Shine",
+        "artist": "Kierra Sheard",
+        "position": 1,
+        "action": "ADD at #1"
+      },
+      {
+        "name": "Final Say (Live)",
+        "artist": "Tasha Cobbs Leonard",
+        "position": 2,
+        "action": "ADD at #2"
+      },
+      {
+        "name": "Gotta Be Us (Be The People) (feat. Luke Borchelt, Sadie Rose Van & Black Awakening Choir at VCU)",
+        "artist": "Momo Boyd",
+        "position": 3,
+        "action": "ADD at #3"
+      },
+      {
+        "name": "Act Up",
+        "artist": "Dante’ Pride",
+        "position": 4,
+        "action": "ADD at #4"
+      },
+      {
+        "name": "Favor",
+        "artist": "Hezekiah Walker",
+        "position": 5,
+        "action": "ADD at #5"
+      },
+      {
+        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+        "artist": "Maverick City Music",
+        "position": 6,
+        "action": "ADD at #6"
+      },
+      {
+        "name": "Made You Well (feat. Tauren Wells)",
+        "artist": "Lakewood Music",
+        "position": 7,
+        "action": "ADD at #7"
+      },
+      {
+        "name": "Your Love (Acoustic)",
+        "artist": "Moses Bliss",
+        "position": 8,
+        "action": "ADD at #8"
+      },
+      {
+        "name": "Rewritten (Edit) [feat. Lejuene Thompson & Jason Nelson]",
+        "artist": "Donald Lawrence",
+        "position": 9,
+        "action": "ADD at #9"
+      },
+      {
+        "name": "Joy (feat. Victor Thompson)",
+        "artist": "PITA",
+        "position": 10,
+        "action": "ADD at #10"
+      },
+      {
+        "name": "Never Scared",
+        "artist": "Canon",
+        "position": 11,
+        "action": "ADD at #11"
+      },
+      {
+        "name": "No Longer Bound (I'm Free)",
+        "artist": "Maverick City Music",
+        "position": 12,
+        "action": "ADD at #12"
+      },
+      {
+        "name": "Choices",
+        "artist": "Eris Ford",
+        "position": 13,
+        "action": "ADD at #13"
+      },
+      {
+        "name": "POSSESSIONS",
+        "artist": "Gospel hints",
+        "position": 14,
+        "action": "ADD at #14"
+      },
+      {
+        "name": "Praise Him In Advance",
+        "artist": "Marvin Sapp",
+        "position": 15,
+        "action": "ADD at #15"
+      },
+      {
+        "name": "All In Me (feat. Miles Minnick & Brea Miles)",
+        "artist": "Camp8Republic",
+        "position": 16,
+        "action": "ADD at #16"
+      },
+      {
+        "name": "Could've Been Me",
+        "artist": "PJ Morton",
+        "position": 17,
+        "action": "ADD at #17"
+      },
+      {
+        "name": "Joy is Coming (feat. Travis Greene)",
+        "artist": "Todd Galberth",
+        "position": 18,
+        "action": "ADD at #18"
+      },
+      {
+        "name": "ICL",
+        "artist": "Bridge Music",
+        "position": 19,
+        "action": "ADD at #19"
+      },
+      {
+        "name": "There Is None Like You/Agnus Dei (Acoustic)",
+        "artist": "Stephen McWhirter",
+        "position": 20,
+        "action": "ADD at #20"
+      },
+      {
+        "name": "Revelations 19:1",
+        "artist": "Sunday Service Choir",
+        "position": 21,
+        "action": "ADD at #21"
+      },
+      {
+        "name": "Jesus Iye",
+        "artist": "Nathaniel Bassey",
+        "position": 22,
+        "action": "ADD at #22"
+      },
+      {
+        "name": "Love Got Me Like",
+        "artist": "King Cyz",
+        "position": 23,
+        "action": "ADD at #23"
+      },
+      {
+        "name": "Celebrate",
+        "artist": "Evan Ford",
+        "position": 24,
+        "action": "ADD at #24"
+      },
+      {
+        "name": "Just Believe",
+        "artist": "Dante’ Pride",
+        "position": 25,
+        "action": "ADD at #25"
+      },
+      {
+        "name": "Manna",
+        "artist": "Princeton South",
+        "position": 26,
+        "action": "ADD at #26"
+      },
+      {
+        "name": "In the Midst of It All",
+        "artist": "Yolanda Adams",
+        "position": 27,
+        "action": "ADD at #27"
+      },
+      {
+        "name": "AUTOMATIC",
+        "artist": "Hulvey",
+        "position": 28,
+        "action": "ADD at #28"
+      },
+      {
+        "name": "Bout My Father's Business",
+        "artist": "CèJae",
+        "position": 29,
+        "action": "ADD at #29"
+      },
+      {
+        "name": "All The Glory Is Yours (feat. Latrice Pace) [Live]",
+        "artist": "Darwin Hobbs",
+        "position": 30,
+        "action": "ADD at #30"
+      },
+      {
+        "name": "Mercy",
+        "artist": "Julie Melucci",
+        "position": 31,
+        "action": "ADD at #31"
+      },
+      {
+        "name": "Umbrella (feat. S.O.N Music, Neeja, Membrane, Doris Joseph, Ajay Asika & Godfrey Gad)",
+        "artist": "Moses Bliss",
+        "position": 32,
+        "action": "ADD at #32"
+      },
+      {
+        "name": "Jesus Has Won",
+        "artist": "Joepraize",
+        "position": 33,
+        "action": "ADD at #33"
+      },
+      {
+        "name": "Well Done",
+        "artist": "Deitrick Haddon",
+        "position": 34,
+        "action": "ADD at #34"
+      },
+      {
+        "name": "Gratitude",
+        "artist": "Anendlessocean",
+        "position": 35,
+        "action": "ADD at #35"
+      },
+      {
+        "name": "Honeycomb",
+        "artist": "Madison Ryann Ward",
+        "position": 36,
+        "action": "ADD at #36"
+      },
+      {
+        "name": "FORGIVENESS",
+        "artist": "Marvin Winans",
+        "position": 37,
+        "action": "ADD at #37"
+      },
+      {
+        "name": "Mercy",
+        "artist": "Sound Of Salem",
+        "position": 38,
+        "action": "ADD at #38"
+      },
+      {
+        "name": "Total Praise (Acoustic Version) [feat. Carvena Jones]",
+        "artist": "Travis Malloy",
+        "position": 39,
+        "action": "ADD at #39"
+      },
+      {
+        "name": "Not Alone",
+        "artist": "PJ Morton",
+        "position": 40,
+        "action": "ADD at #40"
+      },
+      {
+        "name": "For Christ Alone (Behold)",
+        "artist": "2819 Worship",
+        "position": 41,
+        "action": "ADD at #41"
+      },
+      {
+        "name": "Amazing Grace",
+        "artist": "CeCe Winans",
+        "position": 42,
+        "action": "ADD at #42"
+      },
+      {
+        "name": "Your Power",
+        "artist": "Lecrae",
+        "position": 43,
+        "action": "ADD at #43"
+      },
+      {
+        "name": "Withholding Nothing",
+        "artist": "William McDowell",
+        "position": 44,
+        "action": "ADD at #44"
+      },
+      {
+        "name": "Dungeon",
+        "artist": "Tedashii",
+        "position": 45,
+        "action": "ADD at #45"
+      },
+      {
+        "name": "evergreen",
+        "artist": "taylor charmayne",
+        "position": 46,
+        "action": "ADD at #46"
+      },
+      {
+        "name": "Hallelujah to the Lamb",
+        "artist": "BrvndonP",
+        "position": 47,
+        "action": "ADD at #47"
+      },
+      {
+        "name": "Hallelujah (Praise Be To God) [Live]",
+        "artist": "Darwin Hobbs",
+        "position": 48,
+        "action": "ADD at #48"
+      },
+      {
+        "name": "Grace (feat. Gil Joe)",
+        "artist": "Limoblaze",
+        "position": 49,
+        "action": "ADD at #49"
+      },
+      {
+        "name": "More Than Anything",
+        "artist": "Sunday Service Choir",
+        "position": 50,
+        "action": "ADD at #50"
+      }
+    ],
+    "songsToRemove": [],
+    "positionAdjustments": [],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 50,
+        "items": [
+          {
+            "track": "Shine",
+            "artist": "Kierra Sheard",
+            "position": 1
+          },
+          {
+            "track": "Final Say (Live)",
+            "artist": "Tasha Cobbs Leonard",
+            "position": 2
+          },
+          {
+            "track": "Gotta Be Us (Be The People) (feat. Luke Borchelt, Sadie Rose Van & Black Awakening Choir at VCU)",
+            "artist": "Momo Boyd",
+            "position": 3
+          },
+          {
+            "track": "Act Up",
+            "artist": "Dante’ Pride",
+            "position": 4
+          },
+          {
+            "track": "Favor",
+            "artist": "Hezekiah Walker",
+            "position": 5
+          },
+          {
+            "track": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+            "artist": "Maverick City Music",
+            "position": 6
+          },
+          {
+            "track": "Made You Well (feat. Tauren Wells)",
+            "artist": "Lakewood Music",
+            "position": 7
+          },
+          {
+            "track": "Your Love (Acoustic)",
+            "artist": "Moses Bliss",
+            "position": 8
+          },
+          {
+            "track": "Rewritten (Edit) [feat. Lejuene Thompson & Jason Nelson]",
+            "artist": "Donald Lawrence",
+            "position": 9
+          },
+          {
+            "track": "Joy (feat. Victor Thompson)",
+            "artist": "PITA",
+            "position": 10
+          },
+          {
+            "track": "Never Scared",
+            "artist": "Canon",
+            "position": 11
+          },
+          {
+            "track": "No Longer Bound (I'm Free)",
+            "artist": "Maverick City Music",
+            "position": 12
+          },
+          {
+            "track": "Choices",
+            "artist": "Eris Ford",
+            "position": 13
+          },
+          {
+            "track": "POSSESSIONS",
+            "artist": "Gospel hints",
+            "position": 14
+          },
+          {
+            "track": "Praise Him In Advance",
+            "artist": "Marvin Sapp",
+            "position": 15
+          },
+          {
+            "track": "All In Me (feat. Miles Minnick & Brea Miles)",
+            "artist": "Camp8Republic",
+            "position": 16
+          },
+          {
+            "track": "Could've Been Me",
+            "artist": "PJ Morton",
+            "position": 17
+          },
+          {
+            "track": "Joy is Coming (feat. Travis Greene)",
+            "artist": "Todd Galberth",
+            "position": 18
+          },
+          {
+            "track": "ICL",
+            "artist": "Bridge Music",
+            "position": 19
+          },
+          {
+            "track": "There Is None Like You/Agnus Dei (Acoustic)",
+            "artist": "Stephen McWhirter",
+            "position": 20
+          },
+          {
+            "track": "Revelations 19:1",
+            "artist": "Sunday Service Choir",
+            "position": 21
+          },
+          {
+            "track": "Jesus Iye",
+            "artist": "Nathaniel Bassey",
+            "position": 22
+          },
+          {
+            "track": "Love Got Me Like",
+            "artist": "King Cyz",
+            "position": 23
+          },
+          {
+            "track": "Celebrate",
+            "artist": "Evan Ford",
+            "position": 24
+          },
+          {
+            "track": "Just Believe",
+            "artist": "Dante’ Pride",
+            "position": 25
+          },
+          {
+            "track": "Manna",
+            "artist": "Princeton South",
+            "position": 26
+          },
+          {
+            "track": "In the Midst of It All",
+            "artist": "Yolanda Adams",
+            "position": 27
+          },
+          {
+            "track": "AUTOMATIC",
+            "artist": "Hulvey",
+            "position": 28
+          },
+          {
+            "track": "Bout My Father's Business",
+            "artist": "CèJae",
+            "position": 29
+          },
+          {
+            "track": "All The Glory Is Yours (feat. Latrice Pace) [Live]",
+            "artist": "Darwin Hobbs",
+            "position": 30
+          },
+          {
+            "track": "Mercy",
+            "artist": "Julie Melucci",
+            "position": 31
+          },
+          {
+            "track": "Umbrella (feat. S.O.N Music, Neeja, Membrane, Doris Joseph, Ajay Asika & Godfrey Gad)",
+            "artist": "Moses Bliss",
+            "position": 32
+          },
+          {
+            "track": "Jesus Has Won",
+            "artist": "Joepraize",
+            "position": 33
+          },
+          {
+            "track": "Well Done",
+            "artist": "Deitrick Haddon",
+            "position": 34
+          },
+          {
+            "track": "Gratitude",
+            "artist": "Anendlessocean",
+            "position": 35
+          },
+          {
+            "track": "Honeycomb",
+            "artist": "Madison Ryann Ward",
+            "position": 36
+          },
+          {
+            "track": "FORGIVENESS",
+            "artist": "Marvin Winans",
+            "position": 37
+          },
+          {
+            "track": "Mercy",
+            "artist": "Sound Of Salem",
+            "position": 38
+          },
+          {
+            "track": "Total Praise (Acoustic Version) [feat. Carvena Jones]",
+            "artist": "Travis Malloy",
+            "position": 39
+          },
+          {
+            "track": "Not Alone",
+            "artist": "PJ Morton",
+            "position": 40
+          },
+          {
+            "track": "For Christ Alone (Behold)",
+            "artist": "2819 Worship",
+            "position": 41
+          },
+          {
+            "track": "Amazing Grace",
+            "artist": "CeCe Winans",
+            "position": 42
+          },
+          {
+            "track": "Your Power",
+            "artist": "Lecrae",
+            "position": 43
+          },
+          {
+            "track": "Withholding Nothing",
+            "artist": "William McDowell",
+            "position": 44
+          },
+          {
+            "track": "Dungeon",
+            "artist": "Tedashii",
+            "position": 45
+          },
+          {
+            "track": "evergreen",
+            "artist": "taylor charmayne",
+            "position": 46
+          },
+          {
+            "track": "Hallelujah to the Lamb",
+            "artist": "BrvndonP",
+            "position": 47
+          },
+          {
+            "track": "Hallelujah (Praise Be To God) [Live]",
+            "artist": "Darwin Hobbs",
+            "position": 48
+          },
+          {
+            "track": "Grace (feat. Gil Joe)",
+            "artist": "Limoblaze",
+            "position": 49
+          },
+          {
+            "track": "More Than Anything",
+            "artist": "Sunday Service Choir",
+            "position": 50
+          }
+        ]
+      }
+    ],
+    "topNewSongs": [
+      {
+        "name": "Shine",
+        "artist": "Kierra Sheard",
+        "suggestedPosition": 1,
+        "momentum": "new"
+      },
+      {
+        "name": "Final Say (Live)",
+        "artist": "Tasha Cobbs Leonard",
+        "suggestedPosition": 2,
+        "momentum": "new"
+      },
+      {
+        "name": "Gotta Be Us (Be The People) (feat. Luke Borchelt, Sadie Rose Van & Black Awakening Choir at VCU)",
+        "artist": "Momo Boyd",
+        "suggestedPosition": 3,
+        "momentum": "new"
+      },
+      {
+        "name": "Act Up",
+        "artist": "Dante’ Pride",
+        "suggestedPosition": 4,
+        "momentum": "new"
+      },
+      {
+        "name": "Favor",
+        "artist": "Hezekiah Walker",
+        "suggestedPosition": 5,
+        "momentum": "new"
+      },
+      {
+        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+        "artist": "Maverick City Music",
+        "suggestedPosition": 6,
+        "momentum": "new"
+      },
+      {
+        "name": "Made You Well (feat. Tauren Wells)",
+        "artist": "Lakewood Music",
+        "suggestedPosition": 7,
+        "momentum": "new"
+      },
+      {
+        "name": "Your Love (Acoustic)",
+        "artist": "Moses Bliss",
+        "suggestedPosition": 8,
+        "momentum": "new"
+      },
+      {
+        "name": "Rewritten (Edit) [feat. Lejuene Thompson & Jason Nelson]",
+        "artist": "Donald Lawrence",
+        "suggestedPosition": 9,
+        "momentum": "new"
+      },
+      {
+        "name": "Joy (feat. Victor Thompson)",
+        "artist": "PITA",
+        "suggestedPosition": 10,
+        "momentum": "new"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Shine",
+        "artist": "Kierra Sheard",
+        "score": 36
+      },
+      {
+        "position": 2,
+        "name": "Final Say (Live)",
+        "artist": "Tasha Cobbs Leonard",
+        "score": 36
+      },
+      {
+        "position": 3,
+        "name": "Gotta Be Us (Be The People) (feat. Luke Borchelt, Sadie Rose Van & Black Awakening Choir at VCU)",
+        "artist": "Momo Boyd",
+        "score": 36
+      },
+      {
+        "position": 4,
+        "name": "Act Up",
+        "artist": "Dante’ Pride",
+        "score": 36
+      },
+      {
+        "position": 5,
+        "name": "Favor",
+        "artist": "Hezekiah Walker",
+        "score": 36
+      },
+      {
+        "position": 6,
+        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+        "artist": "Maverick City Music",
+        "score": 36
+      },
+      {
+        "position": 7,
+        "name": "Made You Well (feat. Tauren Wells)",
+        "artist": "Lakewood Music",
+        "score": 36
+      },
+      {
+        "position": 8,
+        "name": "Your Love (Acoustic)",
+        "artist": "Moses Bliss",
+        "score": 36
+      },
+      {
+        "position": 9,
+        "name": "Rewritten (Edit) [feat. Lejuene Thompson & Jason Nelson]",
+        "artist": "Donald Lawrence",
+        "score": 36
+      },
+      {
+        "position": 10,
+        "name": "Joy (feat. Victor Thompson)",
+        "artist": "PITA",
+        "score": 36
+      },
+      {
+        "position": 11,
+        "name": "Never Scared",
+        "artist": "Canon",
+        "score": 36
+      },
+      {
+        "position": 12,
+        "name": "No Longer Bound (I'm Free)",
+        "artist": "Maverick City Music",
+        "score": 36
+      },
+      {
+        "position": 13,
+        "name": "Choices",
+        "artist": "Eris Ford",
+        "score": 36
+      },
+      {
+        "position": 14,
+        "name": "POSSESSIONS",
+        "artist": "Gospel hints",
+        "score": 36
+      },
+      {
+        "position": 15,
+        "name": "Praise Him In Advance",
+        "artist": "Marvin Sapp",
+        "score": 36
+      },
+      {
+        "position": 16,
+        "name": "All In Me (feat. Miles Minnick & Brea Miles)",
+        "artist": "Camp8Republic",
+        "score": 36
+      },
+      {
+        "position": 17,
+        "name": "Could've Been Me",
+        "artist": "PJ Morton",
+        "score": 36
+      },
+      {
+        "position": 18,
+        "name": "Joy is Coming (feat. Travis Greene)",
+        "artist": "Todd Galberth",
+        "score": 36
+      },
+      {
+        "position": 19,
+        "name": "ICL",
+        "artist": "Bridge Music",
+        "score": 36
+      },
+      {
+        "position": 20,
+        "name": "There Is None Like You/Agnus Dei (Acoustic)",
+        "artist": "Stephen McWhirter",
+        "score": 36
+      },
+      {
+        "position": 21,
+        "name": "Revelations 19:1",
+        "artist": "Sunday Service Choir",
+        "score": 36
+      },
+      {
+        "position": 22,
+        "name": "Jesus Iye",
+        "artist": "Nathaniel Bassey",
+        "score": 36
+      },
+      {
+        "position": 23,
+        "name": "Love Got Me Like",
+        "artist": "King Cyz",
+        "score": 36
+      },
+      {
+        "position": 24,
+        "name": "Celebrate",
+        "artist": "Evan Ford",
+        "score": 36
+      },
+      {
+        "position": 25,
+        "name": "Just Believe",
+        "artist": "Dante’ Pride",
+        "score": 36
+      },
+      {
+        "position": 26,
+        "name": "Manna",
+        "artist": "Princeton South",
+        "score": 36
+      },
+      {
+        "position": 27,
+        "name": "In the Midst of It All",
+        "artist": "Yolanda Adams",
+        "score": 36
+      },
+      {
+        "position": 28,
+        "name": "AUTOMATIC",
+        "artist": "Hulvey",
+        "score": 36
+      },
+      {
+        "position": 29,
+        "name": "Bout My Father's Business",
+        "artist": "CèJae",
+        "score": 36
+      },
+      {
+        "position": 30,
+        "name": "All The Glory Is Yours (feat. Latrice Pace) [Live]",
+        "artist": "Darwin Hobbs",
+        "score": 36
+      },
+      {
+        "position": 31,
+        "name": "Mercy",
+        "artist": "Julie Melucci",
+        "score": 36
+      },
+      {
+        "position": 32,
+        "name": "Umbrella (feat. S.O.N Music, Neeja, Membrane, Doris Joseph, Ajay Asika & Godfrey Gad)",
+        "artist": "Moses Bliss",
+        "score": 36
+      },
+      {
+        "position": 33,
+        "name": "Jesus Has Won",
+        "artist": "Joepraize",
+        "score": 36
+      },
+      {
+        "position": 34,
+        "name": "Well Done",
+        "artist": "Deitrick Haddon",
+        "score": 36
+      },
+      {
+        "position": 35,
+        "name": "Gratitude",
+        "artist": "Anendlessocean",
+        "score": 36
+      },
+      {
+        "position": 36,
+        "name": "Honeycomb",
+        "artist": "Madison Ryann Ward",
+        "score": 36
+      },
+      {
+        "position": 37,
+        "name": "FORGIVENESS",
+        "artist": "Marvin Winans",
+        "score": 36
+      },
+      {
+        "position": 38,
+        "name": "Mercy",
+        "artist": "Sound Of Salem",
+        "score": 36
+      },
+      {
+        "position": 39,
+        "name": "Total Praise (Acoustic Version) [feat. Carvena Jones]",
+        "artist": "Travis Malloy",
+        "score": 36
+      },
+      {
+        "position": 40,
+        "name": "Not Alone",
+        "artist": "PJ Morton",
+        "score": 36
+      },
+      {
+        "position": 41,
+        "name": "For Christ Alone (Behold)",
+        "artist": "2819 Worship",
+        "score": 36
+      },
+      {
+        "position": 42,
+        "name": "Amazing Grace",
+        "artist": "CeCe Winans",
+        "score": 36
+      },
+      {
+        "position": 43,
+        "name": "Your Power",
+        "artist": "Lecrae",
+        "score": 36
+      },
+      {
+        "position": 44,
+        "name": "Withholding Nothing",
+        "artist": "William McDowell",
+        "score": 36
+      },
+      {
+        "position": 45,
+        "name": "Dungeon",
+        "artist": "Tedashii",
+        "score": 36
+      },
+      {
+        "position": 46,
+        "name": "evergreen",
+        "artist": "taylor charmayne",
+        "score": 36
+      },
+      {
+        "position": 47,
+        "name": "Hallelujah to the Lamb",
+        "artist": "BrvndonP",
+        "score": 36
+      },
+      {
+        "position": 48,
+        "name": "Hallelujah (Praise Be To God) [Live]",
+        "artist": "Darwin Hobbs",
+        "score": 36
+      },
+      {
+        "position": 49,
+        "name": "Grace (feat. Gil Joe)",
+        "artist": "Limoblaze",
+        "score": 36
+      },
+      {
+        "position": 50,
+        "name": "More Than Anything",
+        "artist": "Sunday Service Choir",
+        "score": 36
+      }
+    ],
+    "baselineRun": true,
+    "mode": "baseline"
+  },
+  {
+    "type": "weekly",
+    "playlistName": "Afrobeats",
+    "week": "2026-06-22 to 2026-06-28",
+    "timestamp": "2026-06-25T01:41:01.462Z",
+    "summary": {
+      "totalTracks": 50,
+      "newHotSongs": 50,
+      "removedSongs": 0,
+      "positionChanges": 0
+    },
+    "hotNewSongs": [
+      {
+        "name": "Elumelu",
+        "artist": "Young Jonn",
+        "position": 1,
+        "action": "ADD at #1"
+      },
+      {
+        "name": "FRE$H",
+        "artist": "Victony",
+        "position": 2,
+        "action": "ADD at #2"
+      },
+      {
+        "name": "GBESUNMO",
+        "artist": "Wande Coal",
+        "position": 3,
+        "action": "ADD at #3"
+      },
+      {
+        "name": "Back Outside",
+        "artist": "BNXN",
+        "position": 4,
+        "action": "ADD at #4"
+      },
+      {
+        "name": "GO GO!",
+        "artist": "Khaid",
+        "position": 5,
+        "action": "ADD at #5"
+      },
+      {
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez",
+        "position": 6,
+        "action": "ADD at #6"
+      },
+      {
+        "name": "Energy",
+        "artist": "Tiwa Savage",
+        "position": 7,
+        "action": "ADD at #7"
+      },
+      {
+        "name": "Tornado",
+        "artist": "Ayra Starr",
+        "position": 8,
+        "action": "ADD at #8"
+      },
+      {
+        "name": "I AM",
+        "artist": "OMAH LAY",
+        "position": 9,
+        "action": "ADD at #9"
+      },
+      {
+        "name": "Big Bum Bum",
+        "artist": "Kidd Carder",
+        "position": 10,
+        "action": "ADD at #10"
+      },
+      {
+        "name": "Forgiveness",
+        "artist": "Asake",
+        "position": 11,
+        "action": "ADD at #11"
+      },
+      {
+        "name": "Gratitude",
+        "artist": "Asake",
+        "position": 12,
+        "action": "ADD at #12"
+      },
+      {
+        "name": "Jogodo",
+        "artist": "Wizkid",
+        "position": 13,
+        "action": "ADD at #13"
+      },
+      {
+        "name": "fine ting (fine $hit)",
+        "artist": "FOLA",
+        "position": 14,
+        "action": "ADD at #14"
+      },
+      {
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK",
+        "position": 15,
+        "action": "ADD at #15"
+      },
+      {
+        "name": "Dance",
+        "artist": "FAVE",
+        "position": 16,
+        "action": "ADD at #16"
+      },
+      {
+        "name": "Skilful",
+        "artist": "Asake",
+        "position": 17,
+        "action": "ADD at #17"
+      },
+      {
+        "name": "SpaceFuji",
+        "artist": "Bloody Civilian",
+        "position": 18,
+        "action": "ADD at #18"
+      },
+      {
+        "name": "Where Do We Go",
+        "artist": "Ayra Starr",
+        "position": 19,
+        "action": "ADD at #19"
+      },
+      {
+        "name": "Dem Dey",
+        "artist": "Burna Boy",
+        "position": 20,
+        "action": "ADD at #20"
+      },
+      {
+        "name": "What You Need",
+        "artist": "Tems",
+        "position": 21,
+        "action": "ADD at #21"
+      },
+      {
+        "name": "Energy",
+        "artist": "G4ZI",
+        "position": 22,
+        "action": "ADD at #22"
+      },
+      {
+        "name": "Lady",
+        "artist": "KFMD",
+        "position": 23,
+        "action": "ADD at #23"
+      },
+      {
+        "name": "Kese (Dance)",
+        "artist": "Wizkid",
+        "position": 24,
+        "action": "ADD at #24"
+      },
+      {
+        "name": "Raindance",
+        "artist": "Dave",
+        "position": 25,
+        "action": "ADD at #25"
+      },
+      {
+        "name": "With You (feat. Omah Lay)",
+        "artist": "Davido",
+        "position": 26,
+        "action": "ADD at #26"
+      },
+      {
+        "name": "Allergies",
+        "artist": "Shallipopi",
+        "position": 27,
+        "action": "ADD at #27"
+      },
+      {
+        "name": "Unavailable",
+        "artist": "Spyro",
+        "position": 28,
+        "action": "ADD at #28"
+      },
+      {
+        "name": "Till The Wheels Fall Off",
+        "artist": "LeoStayTrill",
+        "position": 29,
+        "action": "ADD at #29"
+      },
+      {
+        "name": "IS IT LOVE",
+        "artist": "Tyla",
+        "position": 30,
+        "action": "ADD at #30"
+      },
+      {
+        "name": "Active",
+        "artist": "Asake",
+        "position": 31,
+        "action": "ADD at #31"
+      },
+      {
+        "name": "If You Leave",
+        "artist": "Salle",
+        "position": 32,
+        "action": "ADD at #32"
+      },
+      {
+        "name": "Me + U (Destiny)",
+        "artist": "ZiiBeats",
+        "position": 33,
+        "action": "ADD at #33"
+      },
+      {
+        "name": "MAGAA",
+        "artist": "L.A.X",
+        "position": 34,
+        "action": "ADD at #34"
+      },
+      {
+        "name": "Love Like This",
+        "artist": "Ossi Grace",
+        "position": 35,
+        "action": "ADD at #35"
+      },
+      {
+        "name": "Up",
+        "artist": "Sarz",
+        "position": 36,
+        "action": "ADD at #36"
+      },
+      {
+        "name": "Signature",
+        "artist": "KiDi",
+        "position": 37,
+        "action": "ADD at #37"
+      },
+      {
+        "name": "Like Magic",
+        "artist": "Kotrell",
+        "position": 38,
+        "action": "ADD at #38"
+      },
+      {
+        "name": "Gravity",
+        "artist": "EMO Grae",
+        "position": 39,
+        "action": "ADD at #39"
+      },
+      {
+        "name": "Go Crazy",
+        "artist": "Blaqbonez",
+        "position": 40,
+        "action": "ADD at #40"
+      },
+      {
+        "name": "Already",
+        "artist": "BNXN",
+        "position": 41,
+        "action": "ADD at #41"
+      },
+      {
+        "name": "Phony",
+        "artist": "Camidoh",
+        "position": 42,
+        "action": "ADD at #42"
+      },
+      {
+        "name": "KANTE (feat. Fave)",
+        "artist": "Davido",
+        "position": 43,
+        "action": "ADD at #43"
+      },
+      {
+        "name": "Rock Me Gentle",
+        "artist": "Olamide",
+        "position": 44,
+        "action": "ADD at #44"
+      },
+      {
+        "name": "OPERA MINI",
+        "artist": "Poco Lee",
+        "position": 45,
+        "action": "ADD at #45"
+      },
+      {
+        "name": "Colorado",
+        "artist": "Johnny Drille",
+        "position": 46,
+        "action": "ADD at #46"
+      },
+      {
+        "name": "Feeling Alright",
+        "artist": "Qing Madi",
+        "position": 47,
+        "action": "ADD at #47"
+      },
+      {
+        "name": "JUJU (feat. Shallipopi)",
+        "artist": "Smur Lee",
+        "position": 48,
+        "action": "ADD at #48"
+      },
+      {
+        "name": "1942",
+        "artist": "Balloranking",
+        "position": 49,
+        "action": "ADD at #49"
+      },
+      {
+        "name": "STATE OF MIND",
+        "artist": "DJ Tunez",
+        "position": 50,
+        "action": "ADD at #50"
+      }
+    ],
+    "songsToRemove": [],
+    "positionAdjustments": [],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 50,
+        "items": [
+          {
+            "track": "Elumelu",
+            "artist": "Young Jonn",
+            "position": 1
+          },
+          {
+            "track": "FRE$H",
+            "artist": "Victony",
+            "position": 2
+          },
+          {
+            "track": "GBESUNMO",
+            "artist": "Wande Coal",
+            "position": 3
+          },
+          {
+            "track": "Back Outside",
+            "artist": "BNXN",
+            "position": 4
+          },
+          {
+            "track": "GO GO!",
+            "artist": "Khaid",
+            "position": 5
+          },
+          {
+            "track": "Chanel (feat. Asake)",
+            "artist": "Blaqbonez",
+            "position": 6
+          },
+          {
+            "track": "Energy",
+            "artist": "Tiwa Savage",
+            "position": 7
+          },
+          {
+            "track": "Tornado",
+            "artist": "Ayra Starr",
+            "position": 8
+          },
+          {
+            "track": "I AM",
+            "artist": "OMAH LAY",
+            "position": 9
+          },
+          {
+            "track": "Big Bum Bum",
+            "artist": "Kidd Carder",
+            "position": 10
+          },
+          {
+            "track": "Forgiveness",
+            "artist": "Asake",
+            "position": 11
+          },
+          {
+            "track": "Gratitude",
+            "artist": "Asake",
+            "position": 12
+          },
+          {
+            "track": "Jogodo",
+            "artist": "Wizkid",
+            "position": 13
+          },
+          {
+            "track": "fine ting (fine $hit)",
+            "artist": "FOLA",
+            "position": 14
+          },
+          {
+            "track": "MOTION SICKNESS (feat. Zlatan)",
+            "artist": "ODUMODUBLVCK",
+            "position": 15
+          },
+          {
+            "track": "Dance",
+            "artist": "FAVE",
+            "position": 16
+          },
+          {
+            "track": "Skilful",
+            "artist": "Asake",
+            "position": 17
+          },
+          {
+            "track": "SpaceFuji",
+            "artist": "Bloody Civilian",
+            "position": 18
+          },
+          {
+            "track": "Where Do We Go",
+            "artist": "Ayra Starr",
+            "position": 19
+          },
+          {
+            "track": "Dem Dey",
+            "artist": "Burna Boy",
+            "position": 20
+          },
+          {
+            "track": "What You Need",
+            "artist": "Tems",
+            "position": 21
+          },
+          {
+            "track": "Energy",
+            "artist": "G4ZI",
+            "position": 22
+          },
+          {
+            "track": "Lady",
+            "artist": "KFMD",
+            "position": 23
+          },
+          {
+            "track": "Kese (Dance)",
+            "artist": "Wizkid",
+            "position": 24
+          },
+          {
+            "track": "Raindance",
+            "artist": "Dave",
+            "position": 25
+          },
+          {
+            "track": "With You (feat. Omah Lay)",
+            "artist": "Davido",
+            "position": 26
+          },
+          {
+            "track": "Allergies",
+            "artist": "Shallipopi",
+            "position": 27
+          },
+          {
+            "track": "Unavailable",
+            "artist": "Spyro",
+            "position": 28
+          },
+          {
+            "track": "Till The Wheels Fall Off",
+            "artist": "LeoStayTrill",
+            "position": 29
+          },
+          {
+            "track": "IS IT LOVE",
+            "artist": "Tyla",
+            "position": 30
+          },
+          {
+            "track": "Active",
+            "artist": "Asake",
+            "position": 31
+          },
+          {
+            "track": "If You Leave",
+            "artist": "Salle",
+            "position": 32
+          },
+          {
+            "track": "Me + U (Destiny)",
+            "artist": "ZiiBeats",
+            "position": 33
+          },
+          {
+            "track": "MAGAA",
+            "artist": "L.A.X",
+            "position": 34
+          },
+          {
+            "track": "Love Like This",
+            "artist": "Ossi Grace",
+            "position": 35
+          },
+          {
+            "track": "Up",
+            "artist": "Sarz",
+            "position": 36
+          },
+          {
+            "track": "Signature",
+            "artist": "KiDi",
+            "position": 37
+          },
+          {
+            "track": "Like Magic",
+            "artist": "Kotrell",
+            "position": 38
+          },
+          {
+            "track": "Gravity",
+            "artist": "EMO Grae",
+            "position": 39
+          },
+          {
+            "track": "Go Crazy",
+            "artist": "Blaqbonez",
+            "position": 40
+          },
+          {
+            "track": "Already",
+            "artist": "BNXN",
+            "position": 41
+          },
+          {
+            "track": "Phony",
+            "artist": "Camidoh",
+            "position": 42
+          },
+          {
+            "track": "KANTE (feat. Fave)",
+            "artist": "Davido",
+            "position": 43
+          },
+          {
+            "track": "Rock Me Gentle",
+            "artist": "Olamide",
+            "position": 44
+          },
+          {
+            "track": "OPERA MINI",
+            "artist": "Poco Lee",
+            "position": 45
+          },
+          {
+            "track": "Colorado",
+            "artist": "Johnny Drille",
+            "position": 46
+          },
+          {
+            "track": "Feeling Alright",
+            "artist": "Qing Madi",
+            "position": 47
+          },
+          {
+            "track": "JUJU (feat. Shallipopi)",
+            "artist": "Smur Lee",
+            "position": 48
+          },
+          {
+            "track": "1942",
+            "artist": "Balloranking",
+            "position": 49
+          },
+          {
+            "track": "STATE OF MIND",
+            "artist": "DJ Tunez",
+            "position": 50
+          }
+        ]
+      }
+    ],
+    "topNewSongs": [
+      {
+        "name": "Elumelu",
+        "artist": "Young Jonn",
+        "suggestedPosition": 1,
+        "momentum": "new"
+      },
+      {
+        "name": "FRE$H",
+        "artist": "Victony",
+        "suggestedPosition": 2,
+        "momentum": "new"
+      },
+      {
+        "name": "GBESUNMO",
+        "artist": "Wande Coal",
+        "suggestedPosition": 3,
+        "momentum": "new"
+      },
+      {
+        "name": "Back Outside",
+        "artist": "BNXN",
+        "suggestedPosition": 4,
+        "momentum": "new"
+      },
+      {
+        "name": "GO GO!",
+        "artist": "Khaid",
+        "suggestedPosition": 5,
+        "momentum": "new"
+      },
+      {
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez",
+        "suggestedPosition": 6,
+        "momentum": "new"
+      },
+      {
+        "name": "Energy",
+        "artist": "Tiwa Savage",
+        "suggestedPosition": 7,
+        "momentum": "new"
+      },
+      {
+        "name": "Tornado",
+        "artist": "Ayra Starr",
+        "suggestedPosition": 8,
+        "momentum": "new"
+      },
+      {
+        "name": "I AM",
+        "artist": "OMAH LAY",
+        "suggestedPosition": 9,
+        "momentum": "new"
+      },
+      {
+        "name": "Big Bum Bum",
+        "artist": "Kidd Carder",
+        "suggestedPosition": 10,
+        "momentum": "new"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Elumelu",
+        "artist": "Young Jonn",
+        "score": 36
+      },
+      {
+        "position": 2,
+        "name": "FRE$H",
+        "artist": "Victony",
+        "score": 36
+      },
+      {
+        "position": 3,
+        "name": "GBESUNMO",
+        "artist": "Wande Coal",
+        "score": 36
+      },
+      {
+        "position": 4,
+        "name": "Back Outside",
+        "artist": "BNXN",
+        "score": 36
+      },
+      {
+        "position": 5,
+        "name": "GO GO!",
+        "artist": "Khaid",
+        "score": 36
+      },
+      {
+        "position": 6,
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez",
+        "score": 36
+      },
+      {
+        "position": 7,
+        "name": "Energy",
+        "artist": "Tiwa Savage",
+        "score": 36
+      },
+      {
+        "position": 8,
+        "name": "Tornado",
+        "artist": "Ayra Starr",
+        "score": 36
+      },
+      {
+        "position": 9,
+        "name": "I AM",
+        "artist": "OMAH LAY",
+        "score": 36
+      },
+      {
+        "position": 10,
+        "name": "Big Bum Bum",
+        "artist": "Kidd Carder",
+        "score": 36
+      },
+      {
+        "position": 11,
+        "name": "Forgiveness",
+        "artist": "Asake",
+        "score": 36
+      },
+      {
+        "position": 12,
+        "name": "Gratitude",
+        "artist": "Asake",
+        "score": 36
+      },
+      {
+        "position": 13,
+        "name": "Jogodo",
+        "artist": "Wizkid",
+        "score": 36
+      },
+      {
+        "position": 14,
+        "name": "fine ting (fine $hit)",
+        "artist": "FOLA",
+        "score": 36
+      },
+      {
+        "position": 15,
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK",
+        "score": 36
+      },
+      {
+        "position": 16,
+        "name": "Dance",
+        "artist": "FAVE",
+        "score": 36
+      },
+      {
+        "position": 17,
+        "name": "Skilful",
+        "artist": "Asake",
+        "score": 36
+      },
+      {
+        "position": 18,
+        "name": "SpaceFuji",
+        "artist": "Bloody Civilian",
+        "score": 36
+      },
+      {
+        "position": 19,
+        "name": "Where Do We Go",
+        "artist": "Ayra Starr",
+        "score": 36
+      },
+      {
+        "position": 20,
+        "name": "Dem Dey",
+        "artist": "Burna Boy",
+        "score": 36
+      },
+      {
+        "position": 21,
+        "name": "What You Need",
+        "artist": "Tems",
+        "score": 36
+      },
+      {
+        "position": 22,
+        "name": "Energy",
+        "artist": "G4ZI",
+        "score": 36
+      },
+      {
+        "position": 23,
+        "name": "Lady",
+        "artist": "KFMD",
+        "score": 36
+      },
+      {
+        "position": 24,
+        "name": "Kese (Dance)",
+        "artist": "Wizkid",
+        "score": 36
+      },
+      {
+        "position": 25,
+        "name": "Raindance",
+        "artist": "Dave",
+        "score": 36
+      },
+      {
+        "position": 26,
+        "name": "With You (feat. Omah Lay)",
+        "artist": "Davido",
+        "score": 36
+      },
+      {
+        "position": 27,
+        "name": "Allergies",
+        "artist": "Shallipopi",
+        "score": 36
+      },
+      {
+        "position": 28,
+        "name": "Unavailable",
+        "artist": "Spyro",
+        "score": 36
+      },
+      {
+        "position": 29,
+        "name": "Till The Wheels Fall Off",
+        "artist": "LeoStayTrill",
+        "score": 36
+      },
+      {
+        "position": 30,
+        "name": "IS IT LOVE",
+        "artist": "Tyla",
+        "score": 36
+      },
+      {
+        "position": 31,
+        "name": "Active",
+        "artist": "Asake",
+        "score": 36
+      },
+      {
+        "position": 32,
+        "name": "If You Leave",
+        "artist": "Salle",
+        "score": 36
+      },
+      {
+        "position": 33,
+        "name": "Me + U (Destiny)",
+        "artist": "ZiiBeats",
+        "score": 36
+      },
+      {
+        "position": 34,
+        "name": "MAGAA",
+        "artist": "L.A.X",
+        "score": 36
+      },
+      {
+        "position": 35,
+        "name": "Love Like This",
+        "artist": "Ossi Grace",
+        "score": 36
+      },
+      {
+        "position": 36,
+        "name": "Up",
+        "artist": "Sarz",
+        "score": 36
+      },
+      {
+        "position": 37,
+        "name": "Signature",
+        "artist": "KiDi",
+        "score": 36
+      },
+      {
+        "position": 38,
+        "name": "Like Magic",
+        "artist": "Kotrell",
+        "score": 36
+      },
+      {
+        "position": 39,
+        "name": "Gravity",
+        "artist": "EMO Grae",
+        "score": 36
+      },
+      {
+        "position": 40,
+        "name": "Go Crazy",
+        "artist": "Blaqbonez",
+        "score": 36
+      },
+      {
+        "position": 41,
+        "name": "Already",
+        "artist": "BNXN",
+        "score": 36
+      },
+      {
+        "position": 42,
+        "name": "Phony",
+        "artist": "Camidoh",
+        "score": 36
+      },
+      {
+        "position": 43,
+        "name": "KANTE (feat. Fave)",
+        "artist": "Davido",
+        "score": 36
+      },
+      {
+        "position": 44,
+        "name": "Rock Me Gentle",
+        "artist": "Olamide",
+        "score": 36
+      },
+      {
+        "position": 45,
+        "name": "OPERA MINI",
+        "artist": "Poco Lee",
+        "score": 36
+      },
+      {
+        "position": 46,
+        "name": "Colorado",
+        "artist": "Johnny Drille",
+        "score": 36
+      },
+      {
+        "position": 47,
+        "name": "Feeling Alright",
+        "artist": "Qing Madi",
+        "score": 36
+      },
+      {
+        "position": 48,
+        "name": "JUJU (feat. Shallipopi)",
+        "artist": "Smur Lee",
+        "score": 36
+      },
+      {
+        "position": 49,
+        "name": "1942",
+        "artist": "Balloranking",
+        "score": 36
+      },
+      {
+        "position": 50,
+        "name": "STATE OF MIND",
+        "artist": "DJ Tunez",
+        "score": 36
+      }
+    ],
+    "baselineRun": true,
+    "mode": "baseline"
+  },
+  {
+    "type": "weekly",
+    "playlistName": "Hip Hop",
+    "week": "2026-06-22 to 2026-06-28",
+    "timestamp": "2026-06-25T01:42:28.695Z",
+    "summary": {
+      "totalTracks": 50,
+      "newHotSongs": 50,
+      "removedSongs": 0,
+      "positionChanges": 0
+    },
+    "hotNewSongs": [
+      {
+        "name": "Motion Party",
+        "artist": "Bossman Dlow",
+        "position": 1,
+        "action": "ADD at #1"
+      },
+      {
+        "name": "OK",
+        "artist": "Kanye West",
+        "position": 2,
+        "action": "ADD at #2"
+      },
+      {
+        "name": "FACE DOWN",
+        "artist": "Key Glock",
+        "position": 3,
+        "action": "ADD at #3"
+      },
+      {
+        "name": "THAT GUY",
+        "artist": "Tyler, The Creator",
+        "position": 4,
+        "action": "ADD at #4"
+      },
+      {
+        "name": "Spend Dat",
+        "artist": "Yung Miami",
+        "position": 5,
+        "action": "ADD at #5"
+      },
+      {
+        "name": "Shabang",
+        "artist": "Drake",
+        "position": 6,
+        "action": "ADD at #6"
+      },
+      {
+        "name": "Face Card (feat. Bryson Tiller)",
+        "artist": "Skilla Baby",
+        "position": 7,
+        "action": "ADD at #7"
+      },
+      {
+        "name": "WTF GOIN",
+        "artist": "Belly Gang Kushington",
+        "position": 8,
+        "action": "ADD at #8"
+      },
+      {
+        "name": "Janice STFU",
+        "artist": "Drake",
+        "position": 9,
+        "action": "ADD at #9"
+      },
+      {
+        "name": "Body Dangerous",
+        "artist": "Loe Shimmy",
+        "position": 10,
+        "action": "ADD at #10"
+      },
+      {
+        "name": "OMG",
+        "artist": "YG",
+        "position": 11,
+        "action": "ADD at #11"
+      },
+      {
+        "name": "fukumean",
+        "artist": "Gunna",
+        "position": 12,
+        "action": "ADD at #12"
+      },
+      {
+        "name": "NO MORE SLEEP",
+        "artist": "M.anifest",
+        "position": 13,
+        "action": "ADD at #13"
+      },
+      {
+        "name": "Mrs. Trendsetter",
+        "artist": "Lil Baby",
+        "position": 14,
+        "action": "ADD at #14"
+      },
+      {
+        "name": "just say dat",
+        "artist": "Gunna",
+        "position": 15,
+        "action": "ADD at #15"
+      },
+      {
+        "name": "Insecurities",
+        "artist": "Lil Baby",
+        "position": 16,
+        "action": "ADD at #16"
+      },
+      {
+        "name": "WOE$KII",
+        "artist": "Straffitti",
+        "position": 17,
+        "action": "ADD at #17"
+      },
+      {
+        "name": "More or Less",
+        "artist": "Ajebutter22",
+        "position": 18,
+        "action": "ADD at #18"
+      },
+      {
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez",
+        "position": 19,
+        "action": "ADD at #19"
+      },
+      {
+        "name": "made for this shit",
+        "artist": "Gunna",
+        "position": 20,
+        "action": "ADD at #20"
+      },
+      {
+        "name": "MID LIFE CRISIS",
+        "artist": "YG",
+        "position": 21,
+        "action": "ADD at #21"
+      },
+      {
+        "name": "Packed Up",
+        "artist": "AZ Chike",
+        "position": 22,
+        "action": "ADD at #22"
+      },
+      {
+        "name": "SWAGGA",
+        "artist": "Black Sherif",
+        "position": 23,
+        "action": "ADD at #23"
+      },
+      {
+        "name": "Talk My Shit",
+        "artist": "Bossman Dlow",
+        "position": 24,
+        "action": "ADD at #24"
+      },
+      {
+        "name": "Their Back",
+        "artist": "Medikal",
+        "position": 25,
+        "action": "ADD at #25"
+      },
+      {
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK",
+        "position": 26,
+        "action": "ADD at #26"
+      },
+      {
+        "name": "Whatever She Wants",
+        "artist": "Bryson Tiller",
+        "position": 27,
+        "action": "ADD at #27"
+      },
+      {
+        "name": "TOTEM",
+        "artist": "Tierra Whack",
+        "position": 28,
+        "action": "ADD at #28"
+      },
+      {
+        "name": "EXPENSIVE SILENCE",
+        "artist": "Beeztrap Kotm",
+        "position": 29,
+        "action": "ADD at #29"
+      },
+      {
+        "name": "Ripper's Fate",
+        "artist": "6uff",
+        "position": 30,
+        "action": "ADD at #30"
+      },
+      {
+        "name": "one of wun",
+        "artist": "Gunna",
+        "position": 31,
+        "action": "ADD at #31"
+      },
+      {
+        "name": "Go",
+        "artist": "G Herbo",
+        "position": 32,
+        "action": "ADD at #32"
+      },
+      {
+        "name": "Tippy Toes",
+        "artist": "PLUTO",
+        "position": 33,
+        "action": "ADD at #33"
+      },
+      {
+        "name": "Sum 2 Prove",
+        "artist": "Lil Baby",
+        "position": 34,
+        "action": "ADD at #34"
+      },
+      {
+        "name": "Live By The Law",
+        "artist": "Lil Migo",
+        "position": 35,
+        "action": "ADD at #35"
+      },
+      {
+        "name": "Laundry Day",
+        "artist": "De Ozene",
+        "position": 36,
+        "action": "ADD at #36"
+      },
+      {
+        "name": "I’m Spent",
+        "artist": "Drake",
+        "position": 37,
+        "action": "ADD at #37"
+      },
+      {
+        "name": "Hustle (feat. O'Kenneth & Braabenk)",
+        "artist": "Oseikrom Sikanii",
+        "position": 38,
+        "action": "ADD at #38"
+      },
+      {
+        "name": "Million Dollar Minion",
+        "artist": "Yeat",
+        "position": 39,
+        "action": "ADD at #39"
+      },
+      {
+        "name": "Go Again",
+        "artist": "Zaylevelten",
+        "position": 40,
+        "action": "ADD at #40"
+      },
+      {
+        "name": "LA COSA NOSTRA",
+        "artist": "Amir Ali",
+        "position": 41,
+        "action": "ADD at #41"
+      },
+      {
+        "name": "Body",
+        "artist": "Don Toliver",
+        "position": 42,
+        "action": "ADD at #42"
+      },
+      {
+        "name": "Cheese & Dope",
+        "artist": "Lil Double 0",
+        "position": 43,
+        "action": "ADD at #43"
+      },
+      {
+        "name": "Mama Loves You (feat. Chong-Nee)",
+        "artist": "Queen Shirl'e",
+        "position": 44,
+        "action": "ADD at #44"
+      },
+      {
+        "name": "I CAN’T WAIT",
+        "artist": "Kanye West",
+        "position": 45,
+        "action": "ADD at #45"
+      },
+      {
+        "name": "Titled Man",
+        "artist": "Knucks",
+        "position": 46,
+        "action": "ADD at #46"
+      },
+      {
+        "name": "Turn Yo Clic Up",
+        "artist": "Quavo",
+        "position": 47,
+        "action": "ADD at #47"
+      },
+      {
+        "name": "GANG BIZNESS",
+        "artist": "YG",
+        "position": 48,
+        "action": "ADD at #48"
+      },
+      {
+        "name": "SOLID AS THEY COME (feat. Sy Ari Da Kid)",
+        "artist": "RJ Payne",
+        "position": 49,
+        "action": "ADD at #49"
+      },
+      {
+        "name": "Bruddas",
+        "artist": "Rylo Rodriguez",
+        "position": 50,
+        "action": "ADD at #50"
+      }
+    ],
+    "songsToRemove": [],
+    "positionAdjustments": [],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 50,
+        "items": [
+          {
+            "track": "Motion Party",
+            "artist": "Bossman Dlow",
+            "position": 1
+          },
+          {
+            "track": "OK",
+            "artist": "Kanye West",
+            "position": 2
+          },
+          {
+            "track": "FACE DOWN",
+            "artist": "Key Glock",
+            "position": 3
+          },
+          {
+            "track": "THAT GUY",
+            "artist": "Tyler, The Creator",
+            "position": 4
+          },
+          {
+            "track": "Spend Dat",
+            "artist": "Yung Miami",
+            "position": 5
+          },
+          {
+            "track": "Shabang",
+            "artist": "Drake",
+            "position": 6
+          },
+          {
+            "track": "Face Card (feat. Bryson Tiller)",
+            "artist": "Skilla Baby",
+            "position": 7
+          },
+          {
+            "track": "WTF GOIN",
+            "artist": "Belly Gang Kushington",
+            "position": 8
+          },
+          {
+            "track": "Janice STFU",
+            "artist": "Drake",
+            "position": 9
+          },
+          {
+            "track": "Body Dangerous",
+            "artist": "Loe Shimmy",
+            "position": 10
+          },
+          {
+            "track": "OMG",
+            "artist": "YG",
+            "position": 11
+          },
+          {
+            "track": "fukumean",
+            "artist": "Gunna",
+            "position": 12
+          },
+          {
+            "track": "NO MORE SLEEP",
+            "artist": "M.anifest",
+            "position": 13
+          },
+          {
+            "track": "Mrs. Trendsetter",
+            "artist": "Lil Baby",
+            "position": 14
+          },
+          {
+            "track": "just say dat",
+            "artist": "Gunna",
+            "position": 15
+          },
+          {
+            "track": "Insecurities",
+            "artist": "Lil Baby",
+            "position": 16
+          },
+          {
+            "track": "WOE$KII",
+            "artist": "Straffitti",
+            "position": 17
+          },
+          {
+            "track": "More or Less",
+            "artist": "Ajebutter22",
+            "position": 18
+          },
+          {
+            "track": "Chanel (feat. Asake)",
+            "artist": "Blaqbonez",
+            "position": 19
+          },
+          {
+            "track": "made for this shit",
+            "artist": "Gunna",
+            "position": 20
+          },
+          {
+            "track": "MID LIFE CRISIS",
+            "artist": "YG",
+            "position": 21
+          },
+          {
+            "track": "Packed Up",
+            "artist": "AZ Chike",
+            "position": 22
+          },
+          {
+            "track": "SWAGGA",
+            "artist": "Black Sherif",
+            "position": 23
+          },
+          {
+            "track": "Talk My Shit",
+            "artist": "Bossman Dlow",
+            "position": 24
+          },
+          {
+            "track": "Their Back",
+            "artist": "Medikal",
+            "position": 25
+          },
+          {
+            "track": "MOTION SICKNESS (feat. Zlatan)",
+            "artist": "ODUMODUBLVCK",
+            "position": 26
+          },
+          {
+            "track": "Whatever She Wants",
+            "artist": "Bryson Tiller",
+            "position": 27
+          },
+          {
+            "track": "TOTEM",
+            "artist": "Tierra Whack",
+            "position": 28
+          },
+          {
+            "track": "EXPENSIVE SILENCE",
+            "artist": "Beeztrap Kotm",
+            "position": 29
+          },
+          {
+            "track": "Ripper's Fate",
+            "artist": "6uff",
+            "position": 30
+          },
+          {
+            "track": "one of wun",
+            "artist": "Gunna",
+            "position": 31
+          },
+          {
+            "track": "Go",
+            "artist": "G Herbo",
+            "position": 32
+          },
+          {
+            "track": "Tippy Toes",
+            "artist": "PLUTO",
+            "position": 33
+          },
+          {
+            "track": "Sum 2 Prove",
+            "artist": "Lil Baby",
+            "position": 34
+          },
+          {
+            "track": "Live By The Law",
+            "artist": "Lil Migo",
+            "position": 35
+          },
+          {
+            "track": "Laundry Day",
+            "artist": "De Ozene",
+            "position": 36
+          },
+          {
+            "track": "I’m Spent",
+            "artist": "Drake",
+            "position": 37
+          },
+          {
+            "track": "Hustle (feat. O'Kenneth & Braabenk)",
+            "artist": "Oseikrom Sikanii",
+            "position": 38
+          },
+          {
+            "track": "Million Dollar Minion",
+            "artist": "Yeat",
+            "position": 39
+          },
+          {
+            "track": "Go Again",
+            "artist": "Zaylevelten",
+            "position": 40
+          },
+          {
+            "track": "LA COSA NOSTRA",
+            "artist": "Amir Ali",
+            "position": 41
+          },
+          {
+            "track": "Body",
+            "artist": "Don Toliver",
+            "position": 42
+          },
+          {
+            "track": "Cheese & Dope",
+            "artist": "Lil Double 0",
+            "position": 43
+          },
+          {
+            "track": "Mama Loves You (feat. Chong-Nee)",
+            "artist": "Queen Shirl'e",
+            "position": 44
+          },
+          {
+            "track": "I CAN’T WAIT",
+            "artist": "Kanye West",
+            "position": 45
+          },
+          {
+            "track": "Titled Man",
+            "artist": "Knucks",
+            "position": 46
+          },
+          {
+            "track": "Turn Yo Clic Up",
+            "artist": "Quavo",
+            "position": 47
+          },
+          {
+            "track": "GANG BIZNESS",
+            "artist": "YG",
+            "position": 48
+          },
+          {
+            "track": "SOLID AS THEY COME (feat. Sy Ari Da Kid)",
+            "artist": "RJ Payne",
+            "position": 49
+          },
+          {
+            "track": "Bruddas",
+            "artist": "Rylo Rodriguez",
+            "position": 50
+          }
+        ]
+      }
+    ],
+    "topNewSongs": [
+      {
+        "name": "Motion Party",
+        "artist": "Bossman Dlow",
+        "suggestedPosition": 1,
+        "momentum": "new"
+      },
+      {
+        "name": "OK",
+        "artist": "Kanye West",
+        "suggestedPosition": 2,
+        "momentum": "new"
+      },
+      {
+        "name": "FACE DOWN",
+        "artist": "Key Glock",
+        "suggestedPosition": 3,
+        "momentum": "new"
+      },
+      {
+        "name": "THAT GUY",
+        "artist": "Tyler, The Creator",
+        "suggestedPosition": 4,
+        "momentum": "new"
+      },
+      {
+        "name": "Spend Dat",
+        "artist": "Yung Miami",
+        "suggestedPosition": 5,
+        "momentum": "new"
+      },
+      {
+        "name": "Shabang",
+        "artist": "Drake",
+        "suggestedPosition": 6,
+        "momentum": "new"
+      },
+      {
+        "name": "Face Card (feat. Bryson Tiller)",
+        "artist": "Skilla Baby",
+        "suggestedPosition": 7,
+        "momentum": "new"
+      },
+      {
+        "name": "WTF GOIN",
+        "artist": "Belly Gang Kushington",
+        "suggestedPosition": 8,
+        "momentum": "new"
+      },
+      {
+        "name": "Janice STFU",
+        "artist": "Drake",
+        "suggestedPosition": 9,
+        "momentum": "new"
+      },
+      {
+        "name": "Body Dangerous",
+        "artist": "Loe Shimmy",
+        "suggestedPosition": 10,
+        "momentum": "new"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Motion Party",
+        "artist": "Bossman Dlow",
+        "score": 36
+      },
+      {
+        "position": 2,
+        "name": "OK",
+        "artist": "Kanye West",
+        "score": 36
+      },
+      {
+        "position": 3,
+        "name": "FACE DOWN",
+        "artist": "Key Glock",
+        "score": 36
+      },
+      {
+        "position": 4,
+        "name": "THAT GUY",
+        "artist": "Tyler, The Creator",
+        "score": 36
+      },
+      {
+        "position": 5,
+        "name": "Spend Dat",
+        "artist": "Yung Miami",
+        "score": 36
+      },
+      {
+        "position": 6,
+        "name": "Shabang",
+        "artist": "Drake",
+        "score": 36
+      },
+      {
+        "position": 7,
+        "name": "Face Card (feat. Bryson Tiller)",
+        "artist": "Skilla Baby",
+        "score": 36
+      },
+      {
+        "position": 8,
+        "name": "WTF GOIN",
+        "artist": "Belly Gang Kushington",
+        "score": 36
+      },
+      {
+        "position": 9,
+        "name": "Janice STFU",
+        "artist": "Drake",
+        "score": 36
+      },
+      {
+        "position": 10,
+        "name": "Body Dangerous",
+        "artist": "Loe Shimmy",
+        "score": 36
+      },
+      {
+        "position": 11,
+        "name": "OMG",
+        "artist": "YG",
+        "score": 36
+      },
+      {
+        "position": 12,
+        "name": "fukumean",
+        "artist": "Gunna",
+        "score": 36
+      },
+      {
+        "position": 13,
+        "name": "NO MORE SLEEP",
+        "artist": "M.anifest",
+        "score": 36
+      },
+      {
+        "position": 14,
+        "name": "Mrs. Trendsetter",
+        "artist": "Lil Baby",
+        "score": 36
+      },
+      {
+        "position": 15,
+        "name": "just say dat",
+        "artist": "Gunna",
+        "score": 36
+      },
+      {
+        "position": 16,
+        "name": "Insecurities",
+        "artist": "Lil Baby",
+        "score": 36
+      },
+      {
+        "position": 17,
+        "name": "WOE$KII",
+        "artist": "Straffitti",
+        "score": 36
+      },
+      {
+        "position": 18,
+        "name": "More or Less",
+        "artist": "Ajebutter22",
+        "score": 36
+      },
+      {
+        "position": 19,
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez",
+        "score": 36
+      },
+      {
+        "position": 20,
+        "name": "made for this shit",
+        "artist": "Gunna",
+        "score": 36
+      },
+      {
+        "position": 21,
+        "name": "MID LIFE CRISIS",
+        "artist": "YG",
+        "score": 36
+      },
+      {
+        "position": 22,
+        "name": "Packed Up",
+        "artist": "AZ Chike",
+        "score": 36
+      },
+      {
+        "position": 23,
+        "name": "SWAGGA",
+        "artist": "Black Sherif",
+        "score": 36
+      },
+      {
+        "position": 24,
+        "name": "Talk My Shit",
+        "artist": "Bossman Dlow",
+        "score": 36
+      },
+      {
+        "position": 25,
+        "name": "Their Back",
+        "artist": "Medikal",
+        "score": 36
+      },
+      {
+        "position": 26,
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK",
+        "score": 36
+      },
+      {
+        "position": 27,
+        "name": "Whatever She Wants",
+        "artist": "Bryson Tiller",
+        "score": 36
+      },
+      {
+        "position": 28,
+        "name": "TOTEM",
+        "artist": "Tierra Whack",
+        "score": 36
+      },
+      {
+        "position": 29,
+        "name": "EXPENSIVE SILENCE",
+        "artist": "Beeztrap Kotm",
+        "score": 36
+      },
+      {
+        "position": 30,
+        "name": "Ripper's Fate",
+        "artist": "6uff",
+        "score": 36
+      },
+      {
+        "position": 31,
+        "name": "one of wun",
+        "artist": "Gunna",
+        "score": 36
+      },
+      {
+        "position": 32,
+        "name": "Go",
+        "artist": "G Herbo",
+        "score": 36
+      },
+      {
+        "position": 33,
+        "name": "Tippy Toes",
+        "artist": "PLUTO",
+        "score": 36
+      },
+      {
+        "position": 34,
+        "name": "Sum 2 Prove",
+        "artist": "Lil Baby",
+        "score": 36
+      },
+      {
+        "position": 35,
+        "name": "Live By The Law",
+        "artist": "Lil Migo",
+        "score": 36
+      },
+      {
+        "position": 36,
+        "name": "Laundry Day",
+        "artist": "De Ozene",
+        "score": 36
+      },
+      {
+        "position": 37,
+        "name": "I’m Spent",
+        "artist": "Drake",
+        "score": 36
+      },
+      {
+        "position": 38,
+        "name": "Hustle (feat. O'Kenneth & Braabenk)",
+        "artist": "Oseikrom Sikanii",
+        "score": 36
+      },
+      {
+        "position": 39,
+        "name": "Million Dollar Minion",
+        "artist": "Yeat",
+        "score": 36
+      },
+      {
+        "position": 40,
+        "name": "Go Again",
+        "artist": "Zaylevelten",
+        "score": 36
+      },
+      {
+        "position": 41,
+        "name": "LA COSA NOSTRA",
+        "artist": "Amir Ali",
+        "score": 36
+      },
+      {
+        "position": 42,
+        "name": "Body",
+        "artist": "Don Toliver",
+        "score": 36
+      },
+      {
+        "position": 43,
+        "name": "Cheese & Dope",
+        "artist": "Lil Double 0",
+        "score": 36
+      },
+      {
+        "position": 44,
+        "name": "Mama Loves You (feat. Chong-Nee)",
+        "artist": "Queen Shirl'e",
+        "score": 36
+      },
+      {
+        "position": 45,
+        "name": "I CAN’T WAIT",
+        "artist": "Kanye West",
+        "score": 36
+      },
+      {
+        "position": 46,
+        "name": "Titled Man",
+        "artist": "Knucks",
+        "score": 36
+      },
+      {
+        "position": 47,
+        "name": "Turn Yo Clic Up",
+        "artist": "Quavo",
+        "score": 36
+      },
+      {
+        "position": 48,
+        "name": "GANG BIZNESS",
+        "artist": "YG",
+        "score": 36
+      },
+      {
+        "position": 49,
+        "name": "SOLID AS THEY COME (feat. Sy Ari Da Kid)",
+        "artist": "RJ Payne",
+        "score": 36
+      },
+      {
+        "position": 50,
+        "name": "Bruddas",
+        "artist": "Rylo Rodriguez",
+        "score": 36
+      }
+    ],
+    "baselineRun": true,
+    "mode": "baseline"
+  },
+  {
+    "type": "weekly",
+    "playlistName": "R&B",
+    "week": "2026-06-22 to 2026-06-28",
+    "timestamp": "2026-06-25T01:44:33.960Z",
+    "summary": {
+      "totalTracks": 50,
+      "newHotSongs": 50,
+      "removedSongs": 0,
+      "positionChanges": 0
+    },
+    "hotNewSongs": [
+      {
+        "name": "Man On A Mission (feat. Wizkid)",
+        "artist": "Chris Brown",
+        "position": 1,
+        "action": "ADD at #1"
+      },
+      {
+        "name": "Face Card (feat. Bryson Tiller)",
+        "artist": "Skilla Baby",
+        "position": 2,
+        "action": "ADD at #2"
+      },
+      {
+        "name": "Talking Dirty",
+        "artist": "Chlöe",
+        "position": 3,
+        "action": "ADD at #3"
+      },
+      {
+        "name": "What You Need",
+        "artist": "Tems",
+        "position": 4,
+        "action": "ADD at #4"
+      },
+      {
+        "name": "IS IT LOVE",
+        "artist": "Tyla",
+        "position": 5,
+        "action": "ADD at #5"
+      },
+      {
+        "name": "Breathe",
+        "artist": "Masego",
+        "position": 6,
+        "action": "ADD at #6"
+      },
+      {
+        "name": "Little Things",
+        "artist": "Ella Mai",
+        "position": 7,
+        "action": "ADD at #7"
+      },
+      {
+        "name": "Another Heartbreak",
+        "artist": "Savannah Ré",
+        "position": 8,
+        "action": "ADD at #8"
+      },
+      {
+        "name": "SIMON SAYS",
+        "artist": "YG",
+        "position": 9,
+        "action": "ADD at #9"
+      },
+      {
+        "name": "Painless Melody",
+        "artist": "Braye",
+        "position": 10,
+        "action": "ADD at #10"
+      },
+      {
+        "name": "Fade to Black",
+        "artist": "Joji",
+        "position": 11,
+        "action": "ADD at #11"
+      },
+      {
+        "name": "Impressions",
+        "artist": "Glenn Lewis",
+        "position": 12,
+        "action": "ADD at #12"
+      },
+      {
+        "name": "MUTT (CB REMIX)",
+        "artist": "Leon Thomas",
+        "position": 13,
+        "action": "ADD at #13"
+      },
+      {
+        "name": "Red Benz",
+        "artist": "EKENE",
+        "position": 14,
+        "action": "ADD at #14"
+      },
+      {
+        "name": "Aura",
+        "artist": "Ama",
+        "position": 15,
+        "action": "ADD at #15"
+      },
+      {
+        "name": "Is It a Crime",
+        "artist": "Mariah the Scientist",
+        "position": 16,
+        "action": "ADD at #16"
+      },
+      {
+        "name": "See You Again",
+        "artist": "Majid Jordan",
+        "position": 17,
+        "action": "ADD at #17"
+      },
+      {
+        "name": "Cycles",
+        "artist": "Dana Williams",
+        "position": 18,
+        "action": "ADD at #18"
+      },
+      {
+        "name": "Sober",
+        "artist": "Bella Alubo",
+        "position": 19,
+        "action": "ADD at #19"
+      },
+      {
+        "name": "Made For Me",
+        "artist": "The Colleagues",
+        "position": 20,
+        "action": "ADD at #20"
+      },
+      {
+        "name": "2 Many Days",
+        "artist": "Syd",
+        "position": 21,
+        "action": "ADD at #21"
+      },
+      {
+        "name": "You Gotta Be",
+        "artist": "Durand Bernarr",
+        "position": 22,
+        "action": "ADD at #22"
+      },
+      {
+        "name": "GP",
+        "artist": "Chris Brown",
+        "position": 23,
+        "action": "ADD at #23"
+      },
+      {
+        "name": "POE",
+        "artist": "Ruger",
+        "position": 24,
+        "action": "ADD at #24"
+      },
+      {
+        "name": "Folded",
+        "artist": "Kehlani",
+        "position": 25,
+        "action": "ADD at #25"
+      },
+      {
+        "name": "Love Me JeJe",
+        "artist": "Tems",
+        "position": 26,
+        "action": "ADD at #26"
+      },
+      {
+        "name": "I Wish I Didn’t Miss You",
+        "artist": "Jai'Len Josey",
+        "position": 27,
+        "action": "ADD at #27"
+      },
+      {
+        "name": "Spray",
+        "artist": "Dylan Sinclair",
+        "position": 28,
+        "action": "ADD at #28"
+      },
+      {
+        "name": "Better Days",
+        "artist": "Naomi Sharon",
+        "position": 29,
+        "action": "ADD at #29"
+      },
+      {
+        "name": "All Night",
+        "artist": "Tim Lyre",
+        "position": 30,
+        "action": "ADD at #30"
+      },
+      {
+        "name": "Easy for You",
+        "artist": "Kotrell",
+        "position": 31,
+        "action": "ADD at #31"
+      },
+      {
+        "name": "NOT EASY",
+        "artist": "Dreaux",
+        "position": 32,
+        "action": "ADD at #32"
+      },
+      {
+        "name": "Lucky Now",
+        "artist": "Jux",
+        "position": 33,
+        "action": "ADD at #33"
+      },
+      {
+        "name": "Love Garden",
+        "artist": "Boj",
+        "position": 34,
+        "action": "ADD at #34"
+      },
+      {
+        "name": "Sundown",
+        "artist": "Moelogo",
+        "position": 35,
+        "action": "ADD at #35"
+      },
+      {
+        "name": "Tampa",
+        "artist": "The-Dream",
+        "position": 36,
+        "action": "ADD at #36"
+      },
+      {
+        "name": "Protect My Heart",
+        "artist": "PJ Morton",
+        "position": 37,
+        "action": "ADD at #37"
+      },
+      {
+        "name": "I Tried",
+        "artist": "REMI",
+        "position": 38,
+        "action": "ADD at #38"
+      },
+      {
+        "name": "Daughter",
+        "artist": "Tank",
+        "position": 39,
+        "action": "ADD at #39"
+      },
+      {
+        "name": "Fallin",
+        "artist": "Coco Jones",
+        "position": 40,
+        "action": "ADD at #40"
+      },
+      {
+        "name": "Me + U (Destiny)",
+        "artist": "ZiiBeats",
+        "position": 41,
+        "action": "ADD at #41"
+      },
+      {
+        "name": "MAGAA",
+        "artist": "L.A.X",
+        "position": 42,
+        "action": "ADD at #42"
+      },
+      {
+        "name": "B.O.B (Bombs over Baghdad)",
+        "artist": "KIRBY",
+        "position": 43,
+        "action": "ADD at #43"
+      },
+      {
+        "name": "Soh-Soh",
+        "artist": "Odeal",
+        "position": 44,
+        "action": "ADD at #44"
+      },
+      {
+        "name": "This Is",
+        "artist": "Ella Mai",
+        "position": 45,
+        "action": "ADD at #45"
+      },
+      {
+        "name": "Save Her 4 Me",
+        "artist": "VEDO",
+        "position": 46,
+        "action": "ADD at #46"
+      },
+      {
+        "name": "Trust and Believe",
+        "artist": "Roy Woods",
+        "position": 47,
+        "action": "ADD at #47"
+      },
+      {
+        "name": "GIA",
+        "artist": "Kuzi Cee",
+        "position": 48,
+        "action": "ADD at #48"
+      },
+      {
+        "name": "With You",
+        "artist": "SABRI",
+        "position": 49,
+        "action": "ADD at #49"
+      },
+      {
+        "name": "Miracle (Acoustic)",
+        "artist": "RINI",
+        "position": 50,
+        "action": "ADD at #50"
+      }
+    ],
+    "songsToRemove": [],
+    "positionAdjustments": [],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 50,
+        "items": [
+          {
+            "track": "Man On A Mission (feat. Wizkid)",
+            "artist": "Chris Brown",
+            "position": 1
+          },
+          {
+            "track": "Face Card (feat. Bryson Tiller)",
+            "artist": "Skilla Baby",
+            "position": 2
+          },
+          {
+            "track": "Talking Dirty",
+            "artist": "Chlöe",
+            "position": 3
+          },
+          {
+            "track": "What You Need",
+            "artist": "Tems",
+            "position": 4
+          },
+          {
+            "track": "IS IT LOVE",
+            "artist": "Tyla",
+            "position": 5
+          },
+          {
+            "track": "Breathe",
+            "artist": "Masego",
+            "position": 6
+          },
+          {
+            "track": "Little Things",
+            "artist": "Ella Mai",
+            "position": 7
+          },
+          {
+            "track": "Another Heartbreak",
+            "artist": "Savannah Ré",
+            "position": 8
+          },
+          {
+            "track": "SIMON SAYS",
+            "artist": "YG",
+            "position": 9
+          },
+          {
+            "track": "Painless Melody",
+            "artist": "Braye",
+            "position": 10
+          },
+          {
+            "track": "Fade to Black",
+            "artist": "Joji",
+            "position": 11
+          },
+          {
+            "track": "Impressions",
+            "artist": "Glenn Lewis",
+            "position": 12
+          },
+          {
+            "track": "MUTT (CB REMIX)",
+            "artist": "Leon Thomas",
+            "position": 13
+          },
+          {
+            "track": "Red Benz",
+            "artist": "EKENE",
+            "position": 14
+          },
+          {
+            "track": "Aura",
+            "artist": "Ama",
+            "position": 15
+          },
+          {
+            "track": "Is It a Crime",
+            "artist": "Mariah the Scientist",
+            "position": 16
+          },
+          {
+            "track": "See You Again",
+            "artist": "Majid Jordan",
+            "position": 17
+          },
+          {
+            "track": "Cycles",
+            "artist": "Dana Williams",
+            "position": 18
+          },
+          {
+            "track": "Sober",
+            "artist": "Bella Alubo",
+            "position": 19
+          },
+          {
+            "track": "Made For Me",
+            "artist": "The Colleagues",
+            "position": 20
+          },
+          {
+            "track": "2 Many Days",
+            "artist": "Syd",
+            "position": 21
+          },
+          {
+            "track": "You Gotta Be",
+            "artist": "Durand Bernarr",
+            "position": 22
+          },
+          {
+            "track": "GP",
+            "artist": "Chris Brown",
+            "position": 23
+          },
+          {
+            "track": "POE",
+            "artist": "Ruger",
+            "position": 24
+          },
+          {
+            "track": "Folded",
+            "artist": "Kehlani",
+            "position": 25
+          },
+          {
+            "track": "Love Me JeJe",
+            "artist": "Tems",
+            "position": 26
+          },
+          {
+            "track": "I Wish I Didn’t Miss You",
+            "artist": "Jai'Len Josey",
+            "position": 27
+          },
+          {
+            "track": "Spray",
+            "artist": "Dylan Sinclair",
+            "position": 28
+          },
+          {
+            "track": "Better Days",
+            "artist": "Naomi Sharon",
+            "position": 29
+          },
+          {
+            "track": "All Night",
+            "artist": "Tim Lyre",
+            "position": 30
+          },
+          {
+            "track": "Easy for You",
+            "artist": "Kotrell",
+            "position": 31
+          },
+          {
+            "track": "NOT EASY",
+            "artist": "Dreaux",
+            "position": 32
+          },
+          {
+            "track": "Lucky Now",
+            "artist": "Jux",
+            "position": 33
+          },
+          {
+            "track": "Love Garden",
+            "artist": "Boj",
+            "position": 34
+          },
+          {
+            "track": "Sundown",
+            "artist": "Moelogo",
+            "position": 35
+          },
+          {
+            "track": "Tampa",
+            "artist": "The-Dream",
+            "position": 36
+          },
+          {
+            "track": "Protect My Heart",
+            "artist": "PJ Morton",
+            "position": 37
+          },
+          {
+            "track": "I Tried",
+            "artist": "REMI",
+            "position": 38
+          },
+          {
+            "track": "Daughter",
+            "artist": "Tank",
+            "position": 39
+          },
+          {
+            "track": "Fallin",
+            "artist": "Coco Jones",
+            "position": 40
+          },
+          {
+            "track": "Me + U (Destiny)",
+            "artist": "ZiiBeats",
+            "position": 41
+          },
+          {
+            "track": "MAGAA",
+            "artist": "L.A.X",
+            "position": 42
+          },
+          {
+            "track": "B.O.B (Bombs over Baghdad)",
+            "artist": "KIRBY",
+            "position": 43
+          },
+          {
+            "track": "Soh-Soh",
+            "artist": "Odeal",
+            "position": 44
+          },
+          {
+            "track": "This Is",
+            "artist": "Ella Mai",
+            "position": 45
+          },
+          {
+            "track": "Save Her 4 Me",
+            "artist": "VEDO",
+            "position": 46
+          },
+          {
+            "track": "Trust and Believe",
+            "artist": "Roy Woods",
+            "position": 47
+          },
+          {
+            "track": "GIA",
+            "artist": "Kuzi Cee",
+            "position": 48
+          },
+          {
+            "track": "With You",
+            "artist": "SABRI",
+            "position": 49
+          },
+          {
+            "track": "Miracle (Acoustic)",
+            "artist": "RINI",
+            "position": 50
+          }
+        ]
+      }
+    ],
+    "topNewSongs": [
+      {
+        "name": "Man On A Mission (feat. Wizkid)",
+        "artist": "Chris Brown",
+        "suggestedPosition": 1,
+        "momentum": "new"
+      },
+      {
+        "name": "Face Card (feat. Bryson Tiller)",
+        "artist": "Skilla Baby",
+        "suggestedPosition": 2,
+        "momentum": "new"
+      },
+      {
+        "name": "Talking Dirty",
+        "artist": "Chlöe",
+        "suggestedPosition": 3,
+        "momentum": "new"
+      },
+      {
+        "name": "What You Need",
+        "artist": "Tems",
+        "suggestedPosition": 4,
+        "momentum": "new"
+      },
+      {
+        "name": "IS IT LOVE",
+        "artist": "Tyla",
+        "suggestedPosition": 5,
+        "momentum": "new"
+      },
+      {
+        "name": "Breathe",
+        "artist": "Masego",
+        "suggestedPosition": 6,
+        "momentum": "new"
+      },
+      {
+        "name": "Little Things",
+        "artist": "Ella Mai",
+        "suggestedPosition": 7,
+        "momentum": "new"
+      },
+      {
+        "name": "Another Heartbreak",
+        "artist": "Savannah Ré",
+        "suggestedPosition": 8,
+        "momentum": "new"
+      },
+      {
+        "name": "SIMON SAYS",
+        "artist": "YG",
+        "suggestedPosition": 9,
+        "momentum": "new"
+      },
+      {
+        "name": "Painless Melody",
+        "artist": "Braye",
+        "suggestedPosition": 10,
+        "momentum": "new"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Man On A Mission (feat. Wizkid)",
+        "artist": "Chris Brown",
+        "score": 36
+      },
+      {
+        "position": 2,
+        "name": "Face Card (feat. Bryson Tiller)",
+        "artist": "Skilla Baby",
+        "score": 36
+      },
+      {
+        "position": 3,
+        "name": "Talking Dirty",
+        "artist": "Chlöe",
+        "score": 36
+      },
+      {
+        "position": 4,
+        "name": "What You Need",
+        "artist": "Tems",
+        "score": 36
+      },
+      {
+        "position": 5,
+        "name": "IS IT LOVE",
+        "artist": "Tyla",
+        "score": 36
+      },
+      {
+        "position": 6,
+        "name": "Breathe",
+        "artist": "Masego",
+        "score": 36
+      },
+      {
+        "position": 7,
+        "name": "Little Things",
+        "artist": "Ella Mai",
+        "score": 36
+      },
+      {
+        "position": 8,
+        "name": "Another Heartbreak",
+        "artist": "Savannah Ré",
+        "score": 36
+      },
+      {
+        "position": 9,
+        "name": "SIMON SAYS",
+        "artist": "YG",
+        "score": 36
+      },
+      {
+        "position": 10,
+        "name": "Painless Melody",
+        "artist": "Braye",
+        "score": 36
+      },
+      {
+        "position": 11,
+        "name": "Fade to Black",
+        "artist": "Joji",
+        "score": 36
+      },
+      {
+        "position": 12,
+        "name": "Impressions",
+        "artist": "Glenn Lewis",
+        "score": 36
+      },
+      {
+        "position": 13,
+        "name": "MUTT (CB REMIX)",
+        "artist": "Leon Thomas",
+        "score": 36
+      },
+      {
+        "position": 14,
+        "name": "Red Benz",
+        "artist": "EKENE",
+        "score": 36
+      },
+      {
+        "position": 15,
+        "name": "Aura",
+        "artist": "Ama",
+        "score": 36
+      },
+      {
+        "position": 16,
+        "name": "Is It a Crime",
+        "artist": "Mariah the Scientist",
+        "score": 36
+      },
+      {
+        "position": 17,
+        "name": "See You Again",
+        "artist": "Majid Jordan",
+        "score": 36
+      },
+      {
+        "position": 18,
+        "name": "Cycles",
+        "artist": "Dana Williams",
+        "score": 36
+      },
+      {
+        "position": 19,
+        "name": "Sober",
+        "artist": "Bella Alubo",
+        "score": 36
+      },
+      {
+        "position": 20,
+        "name": "Made For Me",
+        "artist": "The Colleagues",
+        "score": 36
+      },
+      {
+        "position": 21,
+        "name": "2 Many Days",
+        "artist": "Syd",
+        "score": 36
+      },
+      {
+        "position": 22,
+        "name": "You Gotta Be",
+        "artist": "Durand Bernarr",
+        "score": 36
+      },
+      {
+        "position": 23,
+        "name": "GP",
+        "artist": "Chris Brown",
+        "score": 36
+      },
+      {
+        "position": 24,
+        "name": "POE",
+        "artist": "Ruger",
+        "score": 36
+      },
+      {
+        "position": 25,
+        "name": "Folded",
+        "artist": "Kehlani",
+        "score": 36
+      },
+      {
+        "position": 26,
+        "name": "Love Me JeJe",
+        "artist": "Tems",
+        "score": 36
+      },
+      {
+        "position": 27,
+        "name": "I Wish I Didn’t Miss You",
+        "artist": "Jai'Len Josey",
+        "score": 36
+      },
+      {
+        "position": 28,
+        "name": "Spray",
+        "artist": "Dylan Sinclair",
+        "score": 36
+      },
+      {
+        "position": 29,
+        "name": "Better Days",
+        "artist": "Naomi Sharon",
+        "score": 36
+      },
+      {
+        "position": 30,
+        "name": "All Night",
+        "artist": "Tim Lyre",
+        "score": 36
+      },
+      {
+        "position": 31,
+        "name": "Easy for You",
+        "artist": "Kotrell",
+        "score": 36
+      },
+      {
+        "position": 32,
+        "name": "NOT EASY",
+        "artist": "Dreaux",
+        "score": 36
+      },
+      {
+        "position": 33,
+        "name": "Lucky Now",
+        "artist": "Jux",
+        "score": 36
+      },
+      {
+        "position": 34,
+        "name": "Love Garden",
+        "artist": "Boj",
+        "score": 36
+      },
+      {
+        "position": 35,
+        "name": "Sundown",
+        "artist": "Moelogo",
+        "score": 36
+      },
+      {
+        "position": 36,
+        "name": "Tampa",
+        "artist": "The-Dream",
+        "score": 36
+      },
+      {
+        "position": 37,
+        "name": "Protect My Heart",
+        "artist": "PJ Morton",
+        "score": 36
+      },
+      {
+        "position": 38,
+        "name": "I Tried",
+        "artist": "REMI",
+        "score": 36
+      },
+      {
+        "position": 39,
+        "name": "Daughter",
+        "artist": "Tank",
+        "score": 36
+      },
+      {
+        "position": 40,
+        "name": "Fallin",
+        "artist": "Coco Jones",
+        "score": 36
+      },
+      {
+        "position": 41,
+        "name": "Me + U (Destiny)",
+        "artist": "ZiiBeats",
+        "score": 36
+      },
+      {
+        "position": 42,
+        "name": "MAGAA",
+        "artist": "L.A.X",
+        "score": 36
+      },
+      {
+        "position": 43,
+        "name": "B.O.B (Bombs over Baghdad)",
+        "artist": "KIRBY",
+        "score": 36
+      },
+      {
+        "position": 44,
+        "name": "Soh-Soh",
+        "artist": "Odeal",
+        "score": 36
+      },
+      {
+        "position": 45,
+        "name": "This Is",
+        "artist": "Ella Mai",
+        "score": 36
+      },
+      {
+        "position": 46,
+        "name": "Save Her 4 Me",
+        "artist": "VEDO",
+        "score": 36
+      },
+      {
+        "position": 47,
+        "name": "Trust and Believe",
+        "artist": "Roy Woods",
+        "score": 36
+      },
+      {
+        "position": 48,
+        "name": "GIA",
+        "artist": "Kuzi Cee",
+        "score": 36
+      },
+      {
+        "position": 49,
+        "name": "With You",
+        "artist": "SABRI",
+        "score": 36
+      },
+      {
+        "position": 50,
+        "name": "Miracle (Acoustic)",
+        "artist": "RINI",
+        "score": 36
+      }
+    ],
+    "baselineRun": true,
+    "mode": "baseline"
+  },
+  {
+    "type": "weekly",
+    "playlistName": "Amapiano",
+    "week": "2026-06-22 to 2026-06-28",
+    "timestamp": "2026-06-25T01:45:45.439Z",
+    "summary": {
+      "totalTracks": 50,
+      "newHotSongs": 50,
+      "removedSongs": 0,
+      "positionChanges": 0
+    },
+    "hotNewSongs": [
+      {
+        "name": "SASEZOLA",
+        "artist": "Novex",
+        "position": 1,
+        "action": "ADD at #1"
+      },
+      {
+        "name": "FOSTA FOSTA",
+        "artist": "Al Xapo",
+        "position": 2,
+        "action": "ADD at #2"
+      },
+      {
+        "name": "Mngani Wami (Jaydecai)",
+        "artist": "JayJayy",
+        "position": 3,
+        "action": "ADD at #3"
+      },
+      {
+        "name": "Too Cool",
+        "artist": "Uncle Waffles",
+        "position": 4,
+        "action": "ADD at #4"
+      },
+      {
+        "name": "Amalanga (feat. Major League Djz, Tracy & PYY Log Drum King)",
+        "artist": "Piano City",
+        "position": 5,
+        "action": "ADD at #5"
+      },
+      {
+        "name": "iKhekhe (feat. Shoes Meister & Dooushii)",
+        "artist": "EeQue",
+        "position": 6,
+        "action": "ADD at #6"
+      },
+      {
+        "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+        "artist": "031choppa",
+        "position": 7,
+        "action": "ADD at #7"
+      },
+      {
+        "name": "Ngithandiwe (feat. Viwe & Ticozet)",
+        "artist": "Sam Kot Kot",
+        "position": 8,
+        "action": "ADD at #8"
+      },
+      {
+        "name": "Ithuba (feat. Q Bonke)",
+        "artist": "Felo Le Tee",
+        "position": 9,
+        "action": "ADD at #9"
+      },
+      {
+        "name": "Bang'bonile (feat. Djy Vino, MBUZI & Seun1401)",
+        "artist": "Xduppy",
+        "position": 10,
+        "action": "ADD at #10"
+      },
+      {
+        "name": "Uthembeni",
+        "artist": "Sipho Magudulela",
+        "position": 11,
+        "action": "ADD at #11"
+      },
+      {
+        "name": "Deep Currency (feat. Kabza De Small)",
+        "artist": "Deeper Phil",
+        "position": 12,
+        "action": "ADD at #12"
+      },
+      {
+        "name": "Paparazzi",
+        "artist": "Shoday",
+        "position": 13,
+        "action": "ADD at #13"
+      },
+      {
+        "name": "Re jimile",
+        "artist": "DJ DADAMAN",
+        "position": 14,
+        "action": "ADD at #14"
+      },
+      {
+        "name": "Ulwa No Bani (feat. Mashudu & CowBoii)",
+        "artist": "Mordecai",
+        "position": 15,
+        "action": "ADD at #15"
+      },
+      {
+        "name": "Abantwana Bakho (feat. Thatohatsi, Young Stunna & Nkosazana Daughter)",
+        "artist": "DJ Maphorisa",
+        "position": 16,
+        "action": "ADD at #16"
+      },
+      {
+        "name": "Mzala (feat. Tango Supreme)",
+        "artist": "Shakes & Les",
+        "position": 17,
+        "action": "ADD at #17"
+      },
+      {
+        "name": "GBESUNMO",
+        "artist": "Wande Coal",
+        "position": 18,
+        "action": "ADD at #18"
+      },
+      {
+        "name": "Mashonisa",
+        "artist": "BigBaller_Ceo",
+        "position": 19,
+        "action": "ADD at #19"
+      },
+      {
+        "name": "Sihole (feat. Sandilae)",
+        "artist": "Vico Da Sporo",
+        "position": 20,
+        "action": "ADD at #20"
+      },
+      {
+        "name": "Phola Inhliziyo (feat. SmileyKeys)",
+        "artist": "Baby Momo",
+        "position": 21,
+        "action": "ADD at #21"
+      },
+      {
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK",
+        "position": 22,
+        "action": "ADD at #22"
+      },
+      {
+        "name": "Izintaba",
+        "artist": "Nobuhle",
+        "position": 23,
+        "action": "ADD at #23"
+      },
+      {
+        "name": "Mopepe",
+        "artist": "Bukzin Keyz",
+        "position": 24,
+        "action": "ADD at #24"
+      },
+      {
+        "name": "Mabebuza (Mdu aka TRP Remix)",
+        "artist": "Maline Aura",
+        "position": 25,
+        "action": "ADD at #25"
+      },
+      {
+        "name": "Aura Salad",
+        "artist": "SSSoundGawd",
+        "position": 26,
+        "action": "ADD at #26"
+      },
+      {
+        "name": "WOE$KII",
+        "artist": "Straffitti",
+        "position": 27,
+        "action": "ADD at #27"
+      },
+      {
+        "name": "Ramasedi",
+        "artist": "Mhaw Keys",
+        "position": 28,
+        "action": "ADD at #28"
+      },
+      {
+        "name": "YOH HAI",
+        "artist": "M00tion",
+        "position": 29,
+        "action": "ADD at #29"
+      },
+      {
+        "name": "Ka Di Weekend",
+        "artist": "Trechyson Molly vx",
+        "position": 30,
+        "action": "ADD at #30"
+      },
+      {
+        "name": "MONEY CONSTANT",
+        "artist": "DJ Maphorisa",
+        "position": 31,
+        "action": "ADD at #31"
+      },
+      {
+        "name": "Jiva 2.0 (Bacardi Remix)",
+        "artist": "Brenda Fassie",
+        "position": 32,
+        "action": "ADD at #32"
+      },
+      {
+        "name": "Esandleni (feat. ShaunMusiq)",
+        "artist": "Thatohatsi",
+        "position": 33,
+        "action": "ADD at #33"
+      },
+      {
+        "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+        "artist": "Xduppy",
+        "position": 34,
+        "action": "ADD at #34"
+      },
+      {
+        "name": "Paris (feat. Scotts Maphuma & CowBoii)",
+        "artist": "Dynamic Duo",
+        "position": 35,
+        "action": "ADD at #35"
+      },
+      {
+        "name": "Lwetse 2.0 (feat. Uncle Waffles, DJ Maphorisa & Mluusician)",
+        "artist": "Xduppy",
+        "position": 36,
+        "action": "ADD at #36"
+      },
+      {
+        "name": "Amanxeba",
+        "artist": "sami kay",
+        "position": 37,
+        "action": "ADD at #37"
+      },
+      {
+        "name": "OPERA MINI",
+        "artist": "Poco Lee",
+        "position": 38,
+        "action": "ADD at #38"
+      },
+      {
+        "name": "Ama 1K Nama 2K (feat. Optimist Music ZA & Beekay Da Deejay)",
+        "artist": "Chlè",
+        "position": 39,
+        "action": "ADD at #39"
+      },
+      {
+        "name": "Agbara Mi",
+        "artist": "Major League DJz",
+        "position": 40,
+        "action": "ADD at #40"
+      },
+      {
+        "name": "Bona Senzani (feat. Siya SA & Kya Lami)",
+        "artist": "House Of ESAMA",
+        "position": 41,
+        "action": "ADD at #41"
+      },
+      {
+        "name": "Ngbambe Duze (feat. MFR Souls & DJ Maphorisa)",
+        "artist": "Maero",
+        "position": 42,
+        "action": "ADD at #42"
+      },
+      {
+        "name": "Head Movement",
+        "artist": "Ez Maestro",
+        "position": 43,
+        "action": "ADD at #43"
+      },
+      {
+        "name": "Ijoba",
+        "artist": "Naira Marley",
+        "position": 44,
+        "action": "ADD at #44"
+      },
+      {
+        "name": "Bacardi Ke Tribe (feat. Phalacore, South Plxya & Dimphowadiwave)",
+        "artist": "NerdFND",
+        "position": 45,
+        "action": "ADD at #45"
+      },
+      {
+        "name": "Zan'Ten",
+        "artist": "Mid9t",
+        "position": 46,
+        "action": "ADD at #46"
+      },
+      {
+        "name": "Injabulo",
+        "artist": "Thatohatsi",
+        "position": 47,
+        "action": "ADD at #47"
+      },
+      {
+        "name": "TOO HOT",
+        "artist": "NO11",
+        "position": 48,
+        "action": "ADD at #48"
+      },
+      {
+        "name": "THE WATCHMAN",
+        "artist": "DJ DADAMAN",
+        "position": 49,
+        "action": "ADD at #49"
+      },
+      {
+        "name": "Let's just, let it go (feat. FATE)",
+        "artist": "Vico Da Sporo",
+        "position": 50,
+        "action": "ADD at #50"
+      }
+    ],
+    "songsToRemove": [],
+    "positionAdjustments": [],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 50,
+        "items": [
+          {
+            "track": "SASEZOLA",
+            "artist": "Novex",
+            "position": 1
+          },
+          {
+            "track": "FOSTA FOSTA",
+            "artist": "Al Xapo",
+            "position": 2
+          },
+          {
+            "track": "Mngani Wami (Jaydecai)",
+            "artist": "JayJayy",
+            "position": 3
+          },
+          {
+            "track": "Too Cool",
+            "artist": "Uncle Waffles",
+            "position": 4
+          },
+          {
+            "track": "Amalanga (feat. Major League Djz, Tracy & PYY Log Drum King)",
+            "artist": "Piano City",
+            "position": 5
+          },
+          {
+            "track": "iKhekhe (feat. Shoes Meister & Dooushii)",
+            "artist": "EeQue",
+            "position": 6
+          },
+          {
+            "track": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+            "artist": "031choppa",
+            "position": 7
+          },
+          {
+            "track": "Ngithandiwe (feat. Viwe & Ticozet)",
+            "artist": "Sam Kot Kot",
+            "position": 8
+          },
+          {
+            "track": "Ithuba (feat. Q Bonke)",
+            "artist": "Felo Le Tee",
+            "position": 9
+          },
+          {
+            "track": "Bang'bonile (feat. Djy Vino, MBUZI & Seun1401)",
+            "artist": "Xduppy",
+            "position": 10
+          },
+          {
+            "track": "Uthembeni",
+            "artist": "Sipho Magudulela",
+            "position": 11
+          },
+          {
+            "track": "Deep Currency (feat. Kabza De Small)",
+            "artist": "Deeper Phil",
+            "position": 12
+          },
+          {
+            "track": "Paparazzi",
+            "artist": "Shoday",
+            "position": 13
+          },
+          {
+            "track": "Re jimile",
+            "artist": "DJ DADAMAN",
+            "position": 14
+          },
+          {
+            "track": "Ulwa No Bani (feat. Mashudu & CowBoii)",
+            "artist": "Mordecai",
+            "position": 15
+          },
+          {
+            "track": "Abantwana Bakho (feat. Thatohatsi, Young Stunna & Nkosazana Daughter)",
+            "artist": "DJ Maphorisa",
+            "position": 16
+          },
+          {
+            "track": "Mzala (feat. Tango Supreme)",
+            "artist": "Shakes & Les",
+            "position": 17
+          },
+          {
+            "track": "GBESUNMO",
+            "artist": "Wande Coal",
+            "position": 18
+          },
+          {
+            "track": "Mashonisa",
+            "artist": "BigBaller_Ceo",
+            "position": 19
+          },
+          {
+            "track": "Sihole (feat. Sandilae)",
+            "artist": "Vico Da Sporo",
+            "position": 20
+          },
+          {
+            "track": "Phola Inhliziyo (feat. SmileyKeys)",
+            "artist": "Baby Momo",
+            "position": 21
+          },
+          {
+            "track": "MOTION SICKNESS (feat. Zlatan)",
+            "artist": "ODUMODUBLVCK",
+            "position": 22
+          },
+          {
+            "track": "Izintaba",
+            "artist": "Nobuhle",
+            "position": 23
+          },
+          {
+            "track": "Mopepe",
+            "artist": "Bukzin Keyz",
+            "position": 24
+          },
+          {
+            "track": "Mabebuza (Mdu aka TRP Remix)",
+            "artist": "Maline Aura",
+            "position": 25
+          },
+          {
+            "track": "Aura Salad",
+            "artist": "SSSoundGawd",
+            "position": 26
+          },
+          {
+            "track": "WOE$KII",
+            "artist": "Straffitti",
+            "position": 27
+          },
+          {
+            "track": "Ramasedi",
+            "artist": "Mhaw Keys",
+            "position": 28
+          },
+          {
+            "track": "YOH HAI",
+            "artist": "M00tion",
+            "position": 29
+          },
+          {
+            "track": "Ka Di Weekend",
+            "artist": "Trechyson Molly vx",
+            "position": 30
+          },
+          {
+            "track": "MONEY CONSTANT",
+            "artist": "DJ Maphorisa",
+            "position": 31
+          },
+          {
+            "track": "Jiva 2.0 (Bacardi Remix)",
+            "artist": "Brenda Fassie",
+            "position": 32
+          },
+          {
+            "track": "Esandleni (feat. ShaunMusiq)",
+            "artist": "Thatohatsi",
+            "position": 33
+          },
+          {
+            "track": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+            "artist": "Xduppy",
+            "position": 34
+          },
+          {
+            "track": "Paris (feat. Scotts Maphuma & CowBoii)",
+            "artist": "Dynamic Duo",
+            "position": 35
+          },
+          {
+            "track": "Lwetse 2.0 (feat. Uncle Waffles, DJ Maphorisa & Mluusician)",
+            "artist": "Xduppy",
+            "position": 36
+          },
+          {
+            "track": "Amanxeba",
+            "artist": "sami kay",
+            "position": 37
+          },
+          {
+            "track": "OPERA MINI",
+            "artist": "Poco Lee",
+            "position": 38
+          },
+          {
+            "track": "Ama 1K Nama 2K (feat. Optimist Music ZA & Beekay Da Deejay)",
+            "artist": "Chlè",
+            "position": 39
+          },
+          {
+            "track": "Agbara Mi",
+            "artist": "Major League DJz",
+            "position": 40
+          },
+          {
+            "track": "Bona Senzani (feat. Siya SA & Kya Lami)",
+            "artist": "House Of ESAMA",
+            "position": 41
+          },
+          {
+            "track": "Ngbambe Duze (feat. MFR Souls & DJ Maphorisa)",
+            "artist": "Maero",
+            "position": 42
+          },
+          {
+            "track": "Head Movement",
+            "artist": "Ez Maestro",
+            "position": 43
+          },
+          {
+            "track": "Ijoba",
+            "artist": "Naira Marley",
+            "position": 44
+          },
+          {
+            "track": "Bacardi Ke Tribe (feat. Phalacore, South Plxya & Dimphowadiwave)",
+            "artist": "NerdFND",
+            "position": 45
+          },
+          {
+            "track": "Zan'Ten",
+            "artist": "Mid9t",
+            "position": 46
+          },
+          {
+            "track": "Injabulo",
+            "artist": "Thatohatsi",
+            "position": 47
+          },
+          {
+            "track": "TOO HOT",
+            "artist": "NO11",
+            "position": 48
+          },
+          {
+            "track": "THE WATCHMAN",
+            "artist": "DJ DADAMAN",
+            "position": 49
+          },
+          {
+            "track": "Let's just, let it go (feat. FATE)",
+            "artist": "Vico Da Sporo",
+            "position": 50
+          }
+        ]
+      }
+    ],
+    "topNewSongs": [
+      {
+        "name": "SASEZOLA",
+        "artist": "Novex",
+        "suggestedPosition": 1,
+        "momentum": "new"
+      },
+      {
+        "name": "FOSTA FOSTA",
+        "artist": "Al Xapo",
+        "suggestedPosition": 2,
+        "momentum": "new"
+      },
+      {
+        "name": "Mngani Wami (Jaydecai)",
+        "artist": "JayJayy",
+        "suggestedPosition": 3,
+        "momentum": "new"
+      },
+      {
+        "name": "Too Cool",
+        "artist": "Uncle Waffles",
+        "suggestedPosition": 4,
+        "momentum": "new"
+      },
+      {
+        "name": "Amalanga (feat. Major League Djz, Tracy & PYY Log Drum King)",
+        "artist": "Piano City",
+        "suggestedPosition": 5,
+        "momentum": "new"
+      },
+      {
+        "name": "iKhekhe (feat. Shoes Meister & Dooushii)",
+        "artist": "EeQue",
+        "suggestedPosition": 6,
+        "momentum": "new"
+      },
+      {
+        "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+        "artist": "031choppa",
+        "suggestedPosition": 7,
+        "momentum": "new"
+      },
+      {
+        "name": "Ngithandiwe (feat. Viwe & Ticozet)",
+        "artist": "Sam Kot Kot",
+        "suggestedPosition": 8,
+        "momentum": "new"
+      },
+      {
+        "name": "Ithuba (feat. Q Bonke)",
+        "artist": "Felo Le Tee",
+        "suggestedPosition": 9,
+        "momentum": "new"
+      },
+      {
+        "name": "Bang'bonile (feat. Djy Vino, MBUZI & Seun1401)",
+        "artist": "Xduppy",
+        "suggestedPosition": 10,
+        "momentum": "new"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "SASEZOLA",
+        "artist": "Novex",
+        "score": 36
+      },
+      {
+        "position": 2,
+        "name": "FOSTA FOSTA",
+        "artist": "Al Xapo",
+        "score": 36
+      },
+      {
+        "position": 3,
+        "name": "Mngani Wami (Jaydecai)",
+        "artist": "JayJayy",
+        "score": 36
+      },
+      {
+        "position": 4,
+        "name": "Too Cool",
+        "artist": "Uncle Waffles",
+        "score": 36
+      },
+      {
+        "position": 5,
+        "name": "Amalanga (feat. Major League Djz, Tracy & PYY Log Drum King)",
+        "artist": "Piano City",
+        "score": 36
+      },
+      {
+        "position": 6,
+        "name": "iKhekhe (feat. Shoes Meister & Dooushii)",
+        "artist": "EeQue",
+        "score": 36
+      },
+      {
+        "position": 7,
+        "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+        "artist": "031choppa",
+        "score": 36
+      },
+      {
+        "position": 8,
+        "name": "Ngithandiwe (feat. Viwe & Ticozet)",
+        "artist": "Sam Kot Kot",
+        "score": 36
+      },
+      {
+        "position": 9,
+        "name": "Ithuba (feat. Q Bonke)",
+        "artist": "Felo Le Tee",
+        "score": 36
+      },
+      {
+        "position": 10,
+        "name": "Bang'bonile (feat. Djy Vino, MBUZI & Seun1401)",
+        "artist": "Xduppy",
+        "score": 36
+      },
+      {
+        "position": 11,
+        "name": "Uthembeni",
+        "artist": "Sipho Magudulela",
+        "score": 36
+      },
+      {
+        "position": 12,
+        "name": "Deep Currency (feat. Kabza De Small)",
+        "artist": "Deeper Phil",
+        "score": 36
+      },
+      {
+        "position": 13,
+        "name": "Paparazzi",
+        "artist": "Shoday",
+        "score": 36
+      },
+      {
+        "position": 14,
+        "name": "Re jimile",
+        "artist": "DJ DADAMAN",
+        "score": 36
+      },
+      {
+        "position": 15,
+        "name": "Ulwa No Bani (feat. Mashudu & CowBoii)",
+        "artist": "Mordecai",
+        "score": 36
+      },
+      {
+        "position": 16,
+        "name": "Abantwana Bakho (feat. Thatohatsi, Young Stunna & Nkosazana Daughter)",
+        "artist": "DJ Maphorisa",
+        "score": 36
+      },
+      {
+        "position": 17,
+        "name": "Mzala (feat. Tango Supreme)",
+        "artist": "Shakes & Les",
+        "score": 36
+      },
+      {
+        "position": 18,
+        "name": "GBESUNMO",
+        "artist": "Wande Coal",
+        "score": 36
+      },
+      {
+        "position": 19,
+        "name": "Mashonisa",
+        "artist": "BigBaller_Ceo",
+        "score": 36
+      },
+      {
+        "position": 20,
+        "name": "Sihole (feat. Sandilae)",
+        "artist": "Vico Da Sporo",
+        "score": 36
+      },
+      {
+        "position": 21,
+        "name": "Phola Inhliziyo (feat. SmileyKeys)",
+        "artist": "Baby Momo",
+        "score": 36
+      },
+      {
+        "position": 22,
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK",
+        "score": 36
+      },
+      {
+        "position": 23,
+        "name": "Izintaba",
+        "artist": "Nobuhle",
+        "score": 36
+      },
+      {
+        "position": 24,
+        "name": "Mopepe",
+        "artist": "Bukzin Keyz",
+        "score": 36
+      },
+      {
+        "position": 25,
+        "name": "Mabebuza (Mdu aka TRP Remix)",
+        "artist": "Maline Aura",
+        "score": 36
+      },
+      {
+        "position": 26,
+        "name": "Aura Salad",
+        "artist": "SSSoundGawd",
+        "score": 36
+      },
+      {
+        "position": 27,
+        "name": "WOE$KII",
+        "artist": "Straffitti",
+        "score": 36
+      },
+      {
+        "position": 28,
+        "name": "Ramasedi",
+        "artist": "Mhaw Keys",
+        "score": 36
+      },
+      {
+        "position": 29,
+        "name": "YOH HAI",
+        "artist": "M00tion",
+        "score": 36
+      },
+      {
+        "position": 30,
+        "name": "Ka Di Weekend",
+        "artist": "Trechyson Molly vx",
+        "score": 36
+      },
+      {
+        "position": 31,
+        "name": "MONEY CONSTANT",
+        "artist": "DJ Maphorisa",
+        "score": 36
+      },
+      {
+        "position": 32,
+        "name": "Jiva 2.0 (Bacardi Remix)",
+        "artist": "Brenda Fassie",
+        "score": 36
+      },
+      {
+        "position": 33,
+        "name": "Esandleni (feat. ShaunMusiq)",
+        "artist": "Thatohatsi",
+        "score": 36
+      },
+      {
+        "position": 34,
+        "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+        "artist": "Xduppy",
+        "score": 36
+      },
+      {
+        "position": 35,
+        "name": "Paris (feat. Scotts Maphuma & CowBoii)",
+        "artist": "Dynamic Duo",
+        "score": 36
+      },
+      {
+        "position": 36,
+        "name": "Lwetse 2.0 (feat. Uncle Waffles, DJ Maphorisa & Mluusician)",
+        "artist": "Xduppy",
+        "score": 36
+      },
+      {
+        "position": 37,
+        "name": "Amanxeba",
+        "artist": "sami kay",
+        "score": 36
+      },
+      {
+        "position": 38,
+        "name": "OPERA MINI",
+        "artist": "Poco Lee",
+        "score": 36
+      },
+      {
+        "position": 39,
+        "name": "Ama 1K Nama 2K (feat. Optimist Music ZA & Beekay Da Deejay)",
+        "artist": "Chlè",
+        "score": 36
+      },
+      {
+        "position": 40,
+        "name": "Agbara Mi",
+        "artist": "Major League DJz",
+        "score": 36
+      },
+      {
+        "position": 41,
+        "name": "Bona Senzani (feat. Siya SA & Kya Lami)",
+        "artist": "House Of ESAMA",
+        "score": 36
+      },
+      {
+        "position": 42,
+        "name": "Ngbambe Duze (feat. MFR Souls & DJ Maphorisa)",
+        "artist": "Maero",
+        "score": 36
+      },
+      {
+        "position": 43,
+        "name": "Head Movement",
+        "artist": "Ez Maestro",
+        "score": 36
+      },
+      {
+        "position": 44,
+        "name": "Ijoba",
+        "artist": "Naira Marley",
+        "score": 36
+      },
+      {
+        "position": 45,
+        "name": "Bacardi Ke Tribe (feat. Phalacore, South Plxya & Dimphowadiwave)",
+        "artist": "NerdFND",
+        "score": 36
+      },
+      {
+        "position": 46,
+        "name": "Zan'Ten",
+        "artist": "Mid9t",
+        "score": 36
+      },
+      {
+        "position": 47,
+        "name": "Injabulo",
+        "artist": "Thatohatsi",
+        "score": 36
+      },
+      {
+        "position": 48,
+        "name": "TOO HOT",
+        "artist": "NO11",
+        "score": 36
+      },
+      {
+        "position": 49,
+        "name": "THE WATCHMAN",
+        "artist": "DJ DADAMAN",
+        "score": 36
+      },
+      {
+        "position": 50,
+        "name": "Let's just, let it go (feat. FATE)",
+        "artist": "Vico Da Sporo",
+        "score": 36
+      }
+    ],
+    "baselineRun": true,
+    "mode": "baseline"
+  },
+  {
+    "type": "weekly",
+    "playlistName": "EDM",
+    "week": "2026-06-22 to 2026-06-28",
+    "timestamp": "2026-06-25T01:47:43.555Z",
+    "summary": {
+      "totalTracks": 50,
+      "newHotSongs": 50,
+      "removedSongs": 0,
+      "positionChanges": 0
+    },
+    "hotNewSongs": [
+      {
+        "name": "Best Be Believing (feat. Caleb Laurenson & Danny P)",
+        "artist": "AlunaGeorge",
+        "position": 1,
+        "action": "ADD at #1"
+      },
+      {
+        "name": "Invisible",
+        "artist": "Jazzy",
+        "position": 2,
+        "action": "ADD at #2"
+      },
+      {
+        "name": "Thing About You",
+        "artist": "Two Shell",
+        "position": 3,
+        "action": "ADD at #3"
+      },
+      {
+        "name": "Tonight",
+        "artist": "Layton Giordani",
+        "position": 4,
+        "action": "ADD at #4"
+      },
+      {
+        "name": "Work It Out",
+        "artist": "Gorgon City",
+        "position": 5,
+        "action": "ADD at #5"
+      },
+      {
+        "name": "TAKE ME",
+        "artist": "D a n n y",
+        "position": 6,
+        "action": "ADD at #6"
+      },
+      {
+        "name": "Without You",
+        "artist": "Mattilo",
+        "position": 7,
+        "action": "ADD at #7"
+      },
+      {
+        "name": "All Day and Night (Jax Jones & Martin Solveig Present Europa)",
+        "artist": "Jax Jones",
+        "position": 8,
+        "action": "ADD at #8"
+      },
+      {
+        "name": "High Speed Ring",
+        "artist": "Amtrac",
+        "position": 9,
+        "action": "ADD at #9"
+      },
+      {
+        "name": "Off the Clock",
+        "artist": "Discip",
+        "position": 10,
+        "action": "ADD at #10"
+      },
+      {
+        "name": "Ghost World",
+        "artist": "Alison Wonderland",
+        "position": 11,
+        "action": "ADD at #11"
+      },
+      {
+        "name": "All I See Is You (feat. Coulson)",
+        "artist": "Bound to Divide",
+        "position": 12,
+        "action": "ADD at #12"
+      },
+      {
+        "name": "Red Passion I - A1",
+        "artist": "Robert Hood",
+        "position": 13,
+        "action": "ADD at #13"
+      },
+      {
+        "name": "On 2nite",
+        "artist": "Silva Bumpa",
+        "position": 14,
+        "action": "ADD at #14"
+      },
+      {
+        "name": "Like a Prayer",
+        "artist": "Josh Fawaz",
+        "position": 15,
+        "action": "ADD at #15"
+      },
+      {
+        "name": "Baby Girl",
+        "artist": "Disco Lines",
+        "position": 16,
+        "action": "ADD at #16"
+      },
+      {
+        "name": "Long Way Home",
+        "artist": "Con's Universe",
+        "position": 17,
+        "action": "ADD at #17"
+      },
+      {
+        "name": "Super Powers",
+        "artist": "TELYKAST",
+        "position": 18,
+        "action": "ADD at #18"
+      },
+      {
+        "name": "Nobody Else",
+        "artist": "GRiZ",
+        "position": 19,
+        "action": "ADD at #19"
+      },
+      {
+        "name": "U Can't Come Home (feat. TS Graye)",
+        "artist": "DJ Seinfeld",
+        "position": 20,
+        "action": "ADD at #20"
+      },
+      {
+        "name": "Midnight Sound (feat. HARLEE)",
+        "artist": "Flowidus",
+        "position": 21,
+        "action": "ADD at #21"
+      },
+      {
+        "name": "6 Physical Manifestation",
+        "artist": "Steve Rachmad",
+        "position": 22,
+        "action": "ADD at #22"
+      },
+      {
+        "name": "Favour",
+        "artist": "FISHER",
+        "position": 23,
+        "action": "ADD at #23"
+      },
+      {
+        "name": "Lose Control",
+        "artist": "MEDUZA",
+        "position": 24,
+        "action": "ADD at #24"
+      },
+      {
+        "name": "Love On My Mind",
+        "artist": "Matoma",
+        "position": 25,
+        "action": "ADD at #25"
+      },
+      {
+        "name": "ULTRA INTRO",
+        "artist": "Skrillex",
+        "position": 26,
+        "action": "ADD at #26"
+      },
+      {
+        "name": "Feel Again",
+        "artist": "rshand",
+        "position": 27,
+        "action": "ADD at #27"
+      },
+      {
+        "name": "What Can I Do",
+        "artist": "Vibe Chemistry",
+        "position": 28,
+        "action": "ADD at #28"
+      },
+      {
+        "name": "Redacted",
+        "artist": "Cleric",
+        "position": 29,
+        "action": "ADD at #29"
+      },
+      {
+        "name": "New Religion",
+        "artist": "Bebe Rexha",
+        "position": 30,
+        "action": "ADD at #30"
+      },
+      {
+        "name": "Black Techno Guy",
+        "artist": "Channel Tres",
+        "position": 31,
+        "action": "ADD at #31"
+      },
+      {
+        "name": "Cross Your Mind",
+        "artist": "David Solomon",
+        "position": 32,
+        "action": "ADD at #32"
+      },
+      {
+        "name": "Everywhere I Go",
+        "artist": "Vidojean X Oliver Loenn",
+        "position": 33,
+        "action": "ADD at #33"
+      },
+      {
+        "name": "Club To Your Arms",
+        "artist": "Rose Gray",
+        "position": 34,
+        "action": "ADD at #34"
+      },
+      {
+        "name": "Louder",
+        "artist": "Viperactive",
+        "position": 35,
+        "action": "ADD at #35"
+      },
+      {
+        "name": "Avalanche",
+        "artist": "Hybrid Minds",
+        "position": 36,
+        "action": "ADD at #36"
+      },
+      {
+        "name": "Moonblur",
+        "artist": "Ignez",
+        "position": 37,
+        "action": "ADD at #37"
+      },
+      {
+        "name": "Out of My Head",
+        "artist": "Subsonic",
+        "position": 38,
+        "action": "ADD at #38"
+      },
+      {
+        "name": "Go (feat. Q-Tip)",
+        "artist": "The Chemical Brothers",
+        "position": 39,
+        "action": "ADD at #39"
+      },
+      {
+        "name": "Heaven Takes You Home",
+        "artist": "Swedish House Mafia",
+        "position": 40,
+        "action": "ADD at #40"
+      },
+      {
+        "name": "In the Moment (Adriatique Remix)",
+        "artist": "RÜFÜS DU SOL",
+        "position": 41,
+        "action": "ADD at #41"
+      },
+      {
+        "name": "Make You Fight",
+        "artist": "Chris Lake",
+        "position": 42,
+        "action": "ADD at #42"
+      },
+      {
+        "name": "By My Side",
+        "artist": "Levity",
+        "position": 43,
+        "action": "ADD at #43"
+      },
+      {
+        "name": "Attention (Hernan Cattaneo & Mercurio Remix)",
+        "artist": "HVOB",
+        "position": 44,
+        "action": "ADD at #44"
+      },
+      {
+        "name": "I RUN (Mozey Remix)",
+        "artist": "HAVEN.",
+        "position": 45,
+        "action": "ADD at #45"
+      },
+      {
+        "name": "Helsinki (Vinicius Honorio Rework)",
+        "artist": "Herton",
+        "position": 46,
+        "action": "ADD at #46"
+      },
+      {
+        "name": "You",
+        "artist": "Lane 8",
+        "position": 47,
+        "action": "ADD at #47"
+      },
+      {
+        "name": "Seratonin",
+        "artist": "James Hype",
+        "position": 48,
+        "action": "ADD at #48"
+      },
+      {
+        "name": "Postman (Club Mix)",
+        "artist": "CONNIE",
+        "position": 49,
+        "action": "ADD at #49"
+      },
+      {
+        "name": "Where You Are",
+        "artist": "John Summit",
+        "position": 50,
+        "action": "ADD at #50"
+      }
+    ],
+    "songsToRemove": [],
+    "positionAdjustments": [],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 50,
+        "items": [
+          {
+            "track": "Best Be Believing (feat. Caleb Laurenson & Danny P)",
+            "artist": "AlunaGeorge",
+            "position": 1
+          },
+          {
+            "track": "Invisible",
+            "artist": "Jazzy",
+            "position": 2
+          },
+          {
+            "track": "Thing About You",
+            "artist": "Two Shell",
+            "position": 3
+          },
+          {
+            "track": "Tonight",
+            "artist": "Layton Giordani",
+            "position": 4
+          },
+          {
+            "track": "Work It Out",
+            "artist": "Gorgon City",
+            "position": 5
+          },
+          {
+            "track": "TAKE ME",
+            "artist": "D a n n y",
+            "position": 6
+          },
+          {
+            "track": "Without You",
+            "artist": "Mattilo",
+            "position": 7
+          },
+          {
+            "track": "All Day and Night (Jax Jones & Martin Solveig Present Europa)",
+            "artist": "Jax Jones",
+            "position": 8
+          },
+          {
+            "track": "High Speed Ring",
+            "artist": "Amtrac",
+            "position": 9
+          },
+          {
+            "track": "Off the Clock",
+            "artist": "Discip",
+            "position": 10
+          },
+          {
+            "track": "Ghost World",
+            "artist": "Alison Wonderland",
+            "position": 11
+          },
+          {
+            "track": "All I See Is You (feat. Coulson)",
+            "artist": "Bound to Divide",
+            "position": 12
+          },
+          {
+            "track": "Red Passion I - A1",
+            "artist": "Robert Hood",
+            "position": 13
+          },
+          {
+            "track": "On 2nite",
+            "artist": "Silva Bumpa",
+            "position": 14
+          },
+          {
+            "track": "Like a Prayer",
+            "artist": "Josh Fawaz",
+            "position": 15
+          },
+          {
+            "track": "Baby Girl",
+            "artist": "Disco Lines",
+            "position": 16
+          },
+          {
+            "track": "Long Way Home",
+            "artist": "Con's Universe",
+            "position": 17
+          },
+          {
+            "track": "Super Powers",
+            "artist": "TELYKAST",
+            "position": 18
+          },
+          {
+            "track": "Nobody Else",
+            "artist": "GRiZ",
+            "position": 19
+          },
+          {
+            "track": "U Can't Come Home (feat. TS Graye)",
+            "artist": "DJ Seinfeld",
+            "position": 20
+          },
+          {
+            "track": "Midnight Sound (feat. HARLEE)",
+            "artist": "Flowidus",
+            "position": 21
+          },
+          {
+            "track": "6 Physical Manifestation",
+            "artist": "Steve Rachmad",
+            "position": 22
+          },
+          {
+            "track": "Favour",
+            "artist": "FISHER",
+            "position": 23
+          },
+          {
+            "track": "Lose Control",
+            "artist": "MEDUZA",
+            "position": 24
+          },
+          {
+            "track": "Love On My Mind",
+            "artist": "Matoma",
+            "position": 25
+          },
+          {
+            "track": "ULTRA INTRO",
+            "artist": "Skrillex",
+            "position": 26
+          },
+          {
+            "track": "Feel Again",
+            "artist": "rshand",
+            "position": 27
+          },
+          {
+            "track": "What Can I Do",
+            "artist": "Vibe Chemistry",
+            "position": 28
+          },
+          {
+            "track": "Redacted",
+            "artist": "Cleric",
+            "position": 29
+          },
+          {
+            "track": "New Religion",
+            "artist": "Bebe Rexha",
+            "position": 30
+          },
+          {
+            "track": "Black Techno Guy",
+            "artist": "Channel Tres",
+            "position": 31
+          },
+          {
+            "track": "Cross Your Mind",
+            "artist": "David Solomon",
+            "position": 32
+          },
+          {
+            "track": "Everywhere I Go",
+            "artist": "Vidojean X Oliver Loenn",
+            "position": 33
+          },
+          {
+            "track": "Club To Your Arms",
+            "artist": "Rose Gray",
+            "position": 34
+          },
+          {
+            "track": "Louder",
+            "artist": "Viperactive",
+            "position": 35
+          },
+          {
+            "track": "Avalanche",
+            "artist": "Hybrid Minds",
+            "position": 36
+          },
+          {
+            "track": "Moonblur",
+            "artist": "Ignez",
+            "position": 37
+          },
+          {
+            "track": "Out of My Head",
+            "artist": "Subsonic",
+            "position": 38
+          },
+          {
+            "track": "Go (feat. Q-Tip)",
+            "artist": "The Chemical Brothers",
+            "position": 39
+          },
+          {
+            "track": "Heaven Takes You Home",
+            "artist": "Swedish House Mafia",
+            "position": 40
+          },
+          {
+            "track": "In the Moment (Adriatique Remix)",
+            "artist": "RÜFÜS DU SOL",
+            "position": 41
+          },
+          {
+            "track": "Make You Fight",
+            "artist": "Chris Lake",
+            "position": 42
+          },
+          {
+            "track": "By My Side",
+            "artist": "Levity",
+            "position": 43
+          },
+          {
+            "track": "Attention (Hernan Cattaneo & Mercurio Remix)",
+            "artist": "HVOB",
+            "position": 44
+          },
+          {
+            "track": "I RUN (Mozey Remix)",
+            "artist": "HAVEN.",
+            "position": 45
+          },
+          {
+            "track": "Helsinki (Vinicius Honorio Rework)",
+            "artist": "Herton",
+            "position": 46
+          },
+          {
+            "track": "You",
+            "artist": "Lane 8",
+            "position": 47
+          },
+          {
+            "track": "Seratonin",
+            "artist": "James Hype",
+            "position": 48
+          },
+          {
+            "track": "Postman (Club Mix)",
+            "artist": "CONNIE",
+            "position": 49
+          },
+          {
+            "track": "Where You Are",
+            "artist": "John Summit",
+            "position": 50
+          }
+        ]
+      }
+    ],
+    "topNewSongs": [
+      {
+        "name": "Best Be Believing (feat. Caleb Laurenson & Danny P)",
+        "artist": "AlunaGeorge",
+        "suggestedPosition": 1,
+        "momentum": "new"
+      },
+      {
+        "name": "Invisible",
+        "artist": "Jazzy",
+        "suggestedPosition": 2,
+        "momentum": "new"
+      },
+      {
+        "name": "Thing About You",
+        "artist": "Two Shell",
+        "suggestedPosition": 3,
+        "momentum": "new"
+      },
+      {
+        "name": "Tonight",
+        "artist": "Layton Giordani",
+        "suggestedPosition": 4,
+        "momentum": "new"
+      },
+      {
+        "name": "Work It Out",
+        "artist": "Gorgon City",
+        "suggestedPosition": 5,
+        "momentum": "new"
+      },
+      {
+        "name": "TAKE ME",
+        "artist": "D a n n y",
+        "suggestedPosition": 6,
+        "momentum": "new"
+      },
+      {
+        "name": "Without You",
+        "artist": "Mattilo",
+        "suggestedPosition": 7,
+        "momentum": "new"
+      },
+      {
+        "name": "All Day and Night (Jax Jones & Martin Solveig Present Europa)",
+        "artist": "Jax Jones",
+        "suggestedPosition": 8,
+        "momentum": "new"
+      },
+      {
+        "name": "High Speed Ring",
+        "artist": "Amtrac",
+        "suggestedPosition": 9,
+        "momentum": "new"
+      },
+      {
+        "name": "Off the Clock",
+        "artist": "Discip",
+        "suggestedPosition": 10,
+        "momentum": "new"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Best Be Believing (feat. Caleb Laurenson & Danny P)",
+        "artist": "AlunaGeorge",
+        "score": 36
+      },
+      {
+        "position": 2,
+        "name": "Invisible",
+        "artist": "Jazzy",
+        "score": 36
+      },
+      {
+        "position": 3,
+        "name": "Thing About You",
+        "artist": "Two Shell",
+        "score": 36
+      },
+      {
+        "position": 4,
+        "name": "Tonight",
+        "artist": "Layton Giordani",
+        "score": 36
+      },
+      {
+        "position": 5,
+        "name": "Work It Out",
+        "artist": "Gorgon City",
+        "score": 36
+      },
+      {
+        "position": 6,
+        "name": "TAKE ME",
+        "artist": "D a n n y",
+        "score": 36
+      },
+      {
+        "position": 7,
+        "name": "Without You",
+        "artist": "Mattilo",
+        "score": 36
+      },
+      {
+        "position": 8,
+        "name": "All Day and Night (Jax Jones & Martin Solveig Present Europa)",
+        "artist": "Jax Jones",
+        "score": 36
+      },
+      {
+        "position": 9,
+        "name": "High Speed Ring",
+        "artist": "Amtrac",
+        "score": 36
+      },
+      {
+        "position": 10,
+        "name": "Off the Clock",
+        "artist": "Discip",
+        "score": 36
+      },
+      {
+        "position": 11,
+        "name": "Ghost World",
+        "artist": "Alison Wonderland",
+        "score": 36
+      },
+      {
+        "position": 12,
+        "name": "All I See Is You (feat. Coulson)",
+        "artist": "Bound to Divide",
+        "score": 36
+      },
+      {
+        "position": 13,
+        "name": "Red Passion I - A1",
+        "artist": "Robert Hood",
+        "score": 36
+      },
+      {
+        "position": 14,
+        "name": "On 2nite",
+        "artist": "Silva Bumpa",
+        "score": 36
+      },
+      {
+        "position": 15,
+        "name": "Like a Prayer",
+        "artist": "Josh Fawaz",
+        "score": 36
+      },
+      {
+        "position": 16,
+        "name": "Baby Girl",
+        "artist": "Disco Lines",
+        "score": 36
+      },
+      {
+        "position": 17,
+        "name": "Long Way Home",
+        "artist": "Con's Universe",
+        "score": 36
+      },
+      {
+        "position": 18,
+        "name": "Super Powers",
+        "artist": "TELYKAST",
+        "score": 36
+      },
+      {
+        "position": 19,
+        "name": "Nobody Else",
+        "artist": "GRiZ",
+        "score": 36
+      },
+      {
+        "position": 20,
+        "name": "U Can't Come Home (feat. TS Graye)",
+        "artist": "DJ Seinfeld",
+        "score": 36
+      },
+      {
+        "position": 21,
+        "name": "Midnight Sound (feat. HARLEE)",
+        "artist": "Flowidus",
+        "score": 36
+      },
+      {
+        "position": 22,
+        "name": "6 Physical Manifestation",
+        "artist": "Steve Rachmad",
+        "score": 36
+      },
+      {
+        "position": 23,
+        "name": "Favour",
+        "artist": "FISHER",
+        "score": 36
+      },
+      {
+        "position": 24,
+        "name": "Lose Control",
+        "artist": "MEDUZA",
+        "score": 36
+      },
+      {
+        "position": 25,
+        "name": "Love On My Mind",
+        "artist": "Matoma",
+        "score": 36
+      },
+      {
+        "position": 26,
+        "name": "ULTRA INTRO",
+        "artist": "Skrillex",
+        "score": 36
+      },
+      {
+        "position": 27,
+        "name": "Feel Again",
+        "artist": "rshand",
+        "score": 36
+      },
+      {
+        "position": 28,
+        "name": "What Can I Do",
+        "artist": "Vibe Chemistry",
+        "score": 36
+      },
+      {
+        "position": 29,
+        "name": "Redacted",
+        "artist": "Cleric",
+        "score": 36
+      },
+      {
+        "position": 30,
+        "name": "New Religion",
+        "artist": "Bebe Rexha",
+        "score": 36
+      },
+      {
+        "position": 31,
+        "name": "Black Techno Guy",
+        "artist": "Channel Tres",
+        "score": 36
+      },
+      {
+        "position": 32,
+        "name": "Cross Your Mind",
+        "artist": "David Solomon",
+        "score": 36
+      },
+      {
+        "position": 33,
+        "name": "Everywhere I Go",
+        "artist": "Vidojean X Oliver Loenn",
+        "score": 36
+      },
+      {
+        "position": 34,
+        "name": "Club To Your Arms",
+        "artist": "Rose Gray",
+        "score": 36
+      },
+      {
+        "position": 35,
+        "name": "Louder",
+        "artist": "Viperactive",
+        "score": 36
+      },
+      {
+        "position": 36,
+        "name": "Avalanche",
+        "artist": "Hybrid Minds",
+        "score": 36
+      },
+      {
+        "position": 37,
+        "name": "Moonblur",
+        "artist": "Ignez",
+        "score": 36
+      },
+      {
+        "position": 38,
+        "name": "Out of My Head",
+        "artist": "Subsonic",
+        "score": 36
+      },
+      {
+        "position": 39,
+        "name": "Go (feat. Q-Tip)",
+        "artist": "The Chemical Brothers",
+        "score": 36
+      },
+      {
+        "position": 40,
+        "name": "Heaven Takes You Home",
+        "artist": "Swedish House Mafia",
+        "score": 36
+      },
+      {
+        "position": 41,
+        "name": "In the Moment (Adriatique Remix)",
+        "artist": "RÜFÜS DU SOL",
+        "score": 36
+      },
+      {
+        "position": 42,
+        "name": "Make You Fight",
+        "artist": "Chris Lake",
+        "score": 36
+      },
+      {
+        "position": 43,
+        "name": "By My Side",
+        "artist": "Levity",
+        "score": 36
+      },
+      {
+        "position": 44,
+        "name": "Attention (Hernan Cattaneo & Mercurio Remix)",
+        "artist": "HVOB",
+        "score": 36
+      },
+      {
+        "position": 45,
+        "name": "I RUN (Mozey Remix)",
+        "artist": "HAVEN.",
+        "score": 36
+      },
+      {
+        "position": 46,
+        "name": "Helsinki (Vinicius Honorio Rework)",
+        "artist": "Herton",
+        "score": 36
+      },
+      {
+        "position": 47,
+        "name": "You",
+        "artist": "Lane 8",
+        "score": 36
+      },
+      {
+        "position": 48,
+        "name": "Seratonin",
+        "artist": "James Hype",
+        "score": 36
+      },
+      {
+        "position": 49,
+        "name": "Postman (Club Mix)",
+        "artist": "CONNIE",
+        "score": 36
+      },
+      {
+        "position": 50,
+        "name": "Where You Are",
+        "artist": "John Summit",
+        "score": 36
+      }
+    ],
+    "baselineRun": true,
+    "mode": "baseline"
+  }
+]

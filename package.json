@@ -1,0 +1,27 @@
+{
+  "name": "legalbaby-system",
+  "version": "1.0.0",
+  "description": "Playlist Intelligence and Monitoring System - Scrapes Apple Music charts, detects changes, generates recommendations",
+  "main": "index-v4.js",
+  "scripts": {
+    "start": "node index-v4.js --now",
+    "schedule": "node index-v4.js --schedule",
+    "weekly": "node index-v4.js --weekly",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "playlist",
+    "monitoring",
+    "apple-music",
+    "chart-tracking",
+    "intelligence",
+    "recommendations"
+  ],
+  "author": "LegalBaby",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "playwright": "^1.60.0"
+  }
+}

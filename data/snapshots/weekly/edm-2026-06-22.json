@@ -1,0 +1,1268 @@
+{
+  "playlistName": "EDM",
+  "timestamp": "2026-06-25T01:47:43.553Z",
+  "baselineRun": true,
+  "trackCount": 50,
+  "tracks": [
+    {
+      "id": "best-be-believing-(feat.-caleb-laurenson-&-danny-p)-alunageorge",
+      "name": "Best Be Believing (feat. Caleb Laurenson & Danny P)",
+      "artist": "AlunaGeorge",
+      "performanceScore": 42.07,
+      "appearances": 1,
+      "totalScore": 82.07,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 1,
+      "score": 36
+    },
+    {
+      "id": "invisible-jazzy",
+      "name": "Invisible",
+      "artist": "Jazzy",
+      "performanceScore": 41.92,
+      "appearances": 1,
+      "totalScore": 81.92,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 2,
+      "score": 36
+    },
+    {
+      "id": "thing-about-you-two-shell",
+      "name": "Thing About You",
+      "artist": "Two Shell",
+      "performanceScore": 36.96,
+      "appearances": 1,
+      "totalScore": 56.96,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 3,
+      "score": 36
+    },
+    {
+      "id": "tonight-layton-giordani",
+      "name": "Tonight",
+      "artist": "Layton Giordani",
+      "performanceScore": 36.14,
+      "appearances": 1,
+      "totalScore": 66.14,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 4,
+      "score": 36
+    },
+    {
+      "id": "work-it-out-gorgon-city",
+      "name": "Work It Out",
+      "artist": "Gorgon City",
+      "performanceScore": 35.92,
+      "appearances": 1,
+      "totalScore": 75.92,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 5,
+      "score": 36
+    },
+    {
+      "id": "take-me-d-a-n-n-y",
+      "name": "TAKE ME",
+      "artist": "D a n n y",
+      "performanceScore": 35.16,
+      "appearances": 1,
+      "totalScore": 55.16,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 6,
+      "score": 36
+    },
+    {
+      "id": "without-you-mattilo",
+      "name": "Without You",
+      "artist": "Mattilo",
+      "performanceScore": 34.86,
+      "appearances": 1,
+      "totalScore": 54.86,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 7,
+      "score": 36
+    },
+    {
+      "id": "all-day-and-night-(jax-jones-&-martin-solveig-present-europa)-jax-jones",
+      "name": "All Day and Night (Jax Jones & Martin Solveig Present Europa)",
+      "artist": "Jax Jones",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 8,
+      "score": 36
+    },
+    {
+      "id": "high-speed-ring-amtrac",
+      "name": "High Speed Ring",
+      "artist": "Amtrac",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 9,
+      "score": 36
+    },
+    {
+      "id": "off-the-clock-discip",
+      "name": "Off the Clock",
+      "artist": "Discip",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 10,
+      "score": 36
+    },
+    {
+      "id": "ghost-world-alison-wonderland",
+      "name": "Ghost World",
+      "artist": "Alison Wonderland",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 11,
+      "score": 36
+    },
+    {
+      "id": "all-i-see-is-you-(feat.-coulson)-bound-to-divide",
+      "name": "All I See Is You (feat. Coulson)",
+      "artist": "Bound to Divide",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 12,
+      "score": 36
+    },
+    {
+      "id": "red-passion-i---a1-robert-hood",
+      "name": "Red Passion I - A1",
+      "artist": "Robert Hood",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 13,
+      "score": 36
+    },
+    {
+      "id": "on-2nite-silva-bumpa",
+      "name": "On 2nite",
+      "artist": "Silva Bumpa",
+      "performanceScore": 34.26,
+      "appearances": 1,
+      "totalScore": 54.26,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 14,
+      "score": 36
+    },
+    {
+      "id": "like-a-prayer-josh-fawaz",
+      "name": "Like a Prayer",
+      "artist": "Josh Fawaz",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 15,
+      "score": 36
+    },
+    {
+      "id": "baby-girl-disco-lines",
+      "name": "Baby Girl",
+      "artist": "Disco Lines",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 16,
+      "score": 36
+    },
+    {
+      "id": "long-way-home-con's-universe",
+      "name": "Long Way Home",
+      "artist": "Con's Universe",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 17,
+      "score": 36
+    },
+    {
+      "id": "super-powers-telykast",
+      "name": "Super Powers",
+      "artist": "TELYKAST",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 18,
+      "score": 36
+    },
+    {
+      "id": "nobody-else-griz",
+      "name": "Nobody Else",
+      "artist": "GRiZ",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 19,
+      "score": 36
+    },
+    {
+      "id": "u-can't-come-home-(feat.-ts-graye)-dj-seinfeld",
+      "name": "U Can't Come Home (feat. TS Graye)",
+      "artist": "DJ Seinfeld",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 20,
+      "score": 36
+    },
+    {
+      "id": "midnight-sound-(feat.-harlee)-flowidus",
+      "name": "Midnight Sound (feat. HARLEE)",
+      "artist": "Flowidus",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 21,
+      "score": 36
+    },
+    {
+      "id": "6-physical-manifestation-steve-rachmad",
+      "name": "6 Physical Manifestation",
+      "artist": "Steve Rachmad",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 22,
+      "score": 36
+    },
+    {
+      "id": "favour-fisher",
+      "name": "Favour",
+      "artist": "FISHER",
+      "performanceScore": 33.96,
+      "appearances": 1,
+      "totalScore": 53.96,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 23,
+      "score": 36
+    },
+    {
+      "id": "lose-control-meduza",
+      "name": "Lose Control",
+      "artist": "MEDUZA",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 24,
+      "score": 36
+    },
+    {
+      "id": "love-on-my-mind-matoma",
+      "name": "Love On My Mind",
+      "artist": "Matoma",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 25,
+      "score": 36
+    },
+    {
+      "id": "ultra-intro-skrillex",
+      "name": "ULTRA INTRO",
+      "artist": "Skrillex",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 26,
+      "score": 36
+    },
+    {
+      "id": "feel-again-rshand",
+      "name": "Feel Again",
+      "artist": "rshand",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 27,
+      "score": 36
+    },
+    {
+      "id": "what-can-i-do-vibe-chemistry",
+      "name": "What Can I Do",
+      "artist": "Vibe Chemistry",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 28,
+      "score": 36
+    },
+    {
+      "id": "redacted-cleric",
+      "name": "Redacted",
+      "artist": "Cleric",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 29,
+      "score": 36
+    },
+    {
+      "id": "new-religion-bebe-rexha",
+      "name": "New Religion",
+      "artist": "Bebe Rexha",
+      "performanceScore": 33.14,
+      "appearances": 1,
+      "totalScore": 63.14,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 30,
+      "score": 36
+    },
+    {
+      "id": "black-techno-guy-channel-tres",
+      "name": "Black Techno Guy",
+      "artist": "Channel Tres",
+      "performanceScore": 33.06,
+      "appearances": 1,
+      "totalScore": 53.06,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 31,
+      "score": 36
+    },
+    {
+      "id": "cross-your-mind-david-solomon",
+      "name": "Cross Your Mind",
+      "artist": "David Solomon",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 32,
+      "score": 36
+    },
+    {
+      "id": "everywhere-i-go-vidojean-x-oliver-loenn",
+      "name": "Everywhere I Go",
+      "artist": "Vidojean X Oliver Loenn",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 33,
+      "score": 36
+    },
+    {
+      "id": "club-to-your-arms-rose-gray",
+      "name": "Club To Your Arms",
+      "artist": "Rose Gray",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 34,
+      "score": 36
+    },
+    {
+      "id": "louder-viperactive",
+      "name": "Louder",
+      "artist": "Viperactive",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 35,
+      "score": 36
+    },
+    {
+      "id": "avalanche-hybrid-minds",
+      "name": "Avalanche",
+      "artist": "Hybrid Minds",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 36,
+      "score": 36
+    },
+    {
+      "id": "moonblur-ignez",
+      "name": "Moonblur",
+      "artist": "Ignez",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 37,
+      "score": 36
+    },
+    {
+      "id": "out-of-my-head-subsonic",
+      "name": "Out of My Head",
+      "artist": "Subsonic",
+      "performanceScore": 32.77,
+      "appearances": 1,
+      "totalScore": 72.77000000000001,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 38,
+      "score": 36
+    },
+    {
+      "id": "go-(feat.-q-tip)-the-chemical-brothers",
+      "name": "Go (feat. Q-Tip)",
+      "artist": "The Chemical Brothers",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 39,
+      "score": 36
+    },
+    {
+      "id": "heaven-takes-you-home-swedish-house-mafia",
+      "name": "Heaven Takes You Home",
+      "artist": "Swedish House Mafia",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 40,
+      "score": 36
+    },
+    {
+      "id": "in-the-moment-(adriatique-remix)-rüfüs-du-sol",
+      "name": "In the Moment (Adriatique Remix)",
+      "artist": "RÜFÜS DU SOL",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 41,
+      "score": 36
+    },
+    {
+      "id": "make-you-fight-chris-lake",
+      "name": "Make You Fight",
+      "artist": "Chris Lake",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 42,
+      "score": 36
+    },
+    {
+      "id": "by-my-side-levity",
+      "name": "By My Side",
+      "artist": "Levity",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 43,
+      "score": 36
+    },
+    {
+      "id": "attention-(hernan-cattaneo-&-mercurio-remix)-hvob",
+      "name": "Attention (Hernan Cattaneo & Mercurio Remix)",
+      "artist": "HVOB",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 44,
+      "score": 36
+    },
+    {
+      "id": "i-run-(mozey-remix)-haven.",
+      "name": "I RUN (Mozey Remix)",
+      "artist": "HAVEN.",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 45,
+      "score": 36
+    },
+    {
+      "id": "helsinki-(vinicius-honorio-rework)-herton",
+      "name": "Helsinki (Vinicius Honorio Rework)",
+      "artist": "Herton",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 46,
+      "score": 36
+    },
+    {
+      "id": "you-lane-8",
+      "name": "You",
+      "artist": "Lane 8",
+      "performanceScore": 31.78,
+      "appearances": 1,
+      "totalScore": 41.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 47,
+      "score": 36
+    },
+    {
+      "id": "seratonin-james-hype",
+      "name": "Seratonin",
+      "artist": "James Hype",
+      "performanceScore": 31.78,
+      "appearances": 1,
+      "totalScore": 41.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 48,
+      "score": 36
+    },
+    {
+      "id": "postman-(club-mix)-connie",
+      "name": "Postman (Club Mix)",
+      "artist": "CONNIE",
+      "performanceScore": 31.78,
+      "appearances": 1,
+      "totalScore": 41.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 49,
+      "score": 36
+    },
+    {
+      "id": "where-you-are-john-summit",
+      "name": "Where You Are",
+      "artist": "John Summit",
+      "performanceScore": 31.78,
+      "appearances": 1,
+      "totalScore": 41.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 50,
+      "score": 36
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Best Be Believing (feat. Caleb Laurenson & Danny P)",
+        "artist": "AlunaGeorge",
+        "position": 1,
+        "score": 36
+      },
+      {
+        "name": "Invisible",
+        "artist": "Jazzy",
+        "position": 2,
+        "score": 36
+      },
+      {
+        "name": "Thing About You",
+        "artist": "Two Shell",
+        "position": 3,
+        "score": 36
+      },
+      {
+        "name": "Tonight",
+        "artist": "Layton Giordani",
+        "position": 4,
+        "score": 36
+      },
+      {
+        "name": "Work It Out",
+        "artist": "Gorgon City",
+        "position": 5,
+        "score": 36
+      },
+      {
+        "name": "TAKE ME",
+        "artist": "D a n n y",
+        "position": 6,
+        "score": 36
+      },
+      {
+        "name": "Without You",
+        "artist": "Mattilo",
+        "position": 7,
+        "score": 36
+      },
+      {
+        "name": "All Day and Night (Jax Jones & Martin Solveig Present Europa)",
+        "artist": "Jax Jones",
+        "position": 8,
+        "score": 36
+      },
+      {
+        "name": "High Speed Ring",
+        "artist": "Amtrac",
+        "position": 9,
+        "score": 36
+      },
+      {
+        "name": "Off the Clock",
+        "artist": "Discip",
+        "position": 10,
+        "score": 36
+      },
+      {
+        "name": "Ghost World",
+        "artist": "Alison Wonderland",
+        "position": 11,
+        "score": 36
+      },
+      {
+        "name": "All I See Is You (feat. Coulson)",
+        "artist": "Bound to Divide",
+        "position": 12,
+        "score": 36
+      },
+      {
+        "name": "Red Passion I - A1",
+        "artist": "Robert Hood",
+        "position": 13,
+        "score": 36
+      },
+      {
+        "name": "On 2nite",
+        "artist": "Silva Bumpa",
+        "position": 14,
+        "score": 36
+      },
+      {
+        "name": "Like a Prayer",
+        "artist": "Josh Fawaz",
+        "position": 15,
+        "score": 36
+      },
+      {
+        "name": "Baby Girl",
+        "artist": "Disco Lines",
+        "position": 16,
+        "score": 36
+      },
+      {
+        "name": "Long Way Home",
+        "artist": "Con's Universe",
+        "position": 17,
+        "score": 36
+      },
+      {
+        "name": "Super Powers",
+        "artist": "TELYKAST",
+        "position": 18,
+        "score": 36
+      },
+      {
+        "name": "Nobody Else",
+        "artist": "GRiZ",
+        "position": 19,
+        "score": 36
+      },
+      {
+        "name": "U Can't Come Home (feat. TS Graye)",
+        "artist": "DJ Seinfeld",
+        "position": 20,
+        "score": 36
+      },
+      {
+        "name": "Midnight Sound (feat. HARLEE)",
+        "artist": "Flowidus",
+        "position": 21,
+        "score": 36
+      },
+      {
+        "name": "6 Physical Manifestation",
+        "artist": "Steve Rachmad",
+        "position": 22,
+        "score": 36
+      },
+      {
+        "name": "Favour",
+        "artist": "FISHER",
+        "position": 23,
+        "score": 36
+      },
+      {
+        "name": "Lose Control",
+        "artist": "MEDUZA",
+        "position": 24,
+        "score": 36
+      },
+      {
+        "name": "Love On My Mind",
+        "artist": "Matoma",
+        "position": 25,
+        "score": 36
+      },
+      {
+        "name": "ULTRA INTRO",
+        "artist": "Skrillex",
+        "position": 26,
+        "score": 36
+      },
+      {
+        "name": "Feel Again",
+        "artist": "rshand",
+        "position": 27,
+        "score": 36
+      },
+      {
+        "name": "What Can I Do",
+        "artist": "Vibe Chemistry",
+        "position": 28,
+        "score": 36
+      },
+      {
+        "name": "Redacted",
+        "artist": "Cleric",
+        "position": 29,
+        "score": 36
+      },
+      {
+        "name": "New Religion",
+        "artist": "Bebe Rexha",
+        "position": 30,
+        "score": 36
+      },
+      {
+        "name": "Black Techno Guy",
+        "artist": "Channel Tres",
+        "position": 31,
+        "score": 36
+      },
+      {
+        "name": "Cross Your Mind",
+        "artist": "David Solomon",
+        "position": 32,
+        "score": 36
+      },
+      {
+        "name": "Everywhere I Go",
+        "artist": "Vidojean X Oliver Loenn",
+        "position": 33,
+        "score": 36
+      },
+      {
+        "name": "Club To Your Arms",
+        "artist": "Rose Gray",
+        "position": 34,
+        "score": 36
+      },
+      {
+        "name": "Louder",
+        "artist": "Viperactive",
+        "position": 35,
+        "score": 36
+      },
+      {
+        "name": "Avalanche",
+        "artist": "Hybrid Minds",
+        "position": 36,
+        "score": 36
+      },
+      {
+        "name": "Moonblur",
+        "artist": "Ignez",
+        "position": 37,
+        "score": 36
+      },
+      {
+        "name": "Out of My Head",
+        "artist": "Subsonic",
+        "position": 38,
+        "score": 36
+      },
+      {
+        "name": "Go (feat. Q-Tip)",
+        "artist": "The Chemical Brothers",
+        "position": 39,
+        "score": 36
+      },
+      {
+        "name": "Heaven Takes You Home",
+        "artist": "Swedish House Mafia",
+        "position": 40,
+        "score": 36
+      },
+      {
+        "name": "In the Moment (Adriatique Remix)",
+        "artist": "RÜFÜS DU SOL",
+        "position": 41,
+        "score": 36
+      },
+      {
+        "name": "Make You Fight",
+        "artist": "Chris Lake",
+        "position": 42,
+        "score": 36
+      },
+      {
+        "name": "By My Side",
+        "artist": "Levity",
+        "position": 43,
+        "score": 36
+      },
+      {
+        "name": "Attention (Hernan Cattaneo & Mercurio Remix)",
+        "artist": "HVOB",
+        "position": 44,
+        "score": 36
+      },
+      {
+        "name": "I RUN (Mozey Remix)",
+        "artist": "HAVEN.",
+        "position": 45,
+        "score": 36
+      },
+      {
+        "name": "Helsinki (Vinicius Honorio Rework)",
+        "artist": "Herton",
+        "position": 46,
+        "score": 36
+      },
+      {
+        "name": "You",
+        "artist": "Lane 8",
+        "position": 47,
+        "score": 36
+      },
+      {
+        "name": "Seratonin",
+        "artist": "James Hype",
+        "position": 48,
+        "score": 36
+      },
+      {
+        "name": "Postman (Club Mix)",
+        "artist": "CONNIE",
+        "position": 49,
+        "score": 36
+      },
+      {
+        "name": "Where You Are",
+        "artist": "John Summit",
+        "position": 50,
+        "score": 36
+      }
+    ],
+    "removed": [],
+    "moved": [],
+    "stale": [],
+    "timestamp": "2026-06-25T01:47:43.553Z",
+    "playlistName": "EDM"
+  },
+  "sources": 13
+}

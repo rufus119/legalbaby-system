@@ -1,0 +1,1268 @@
+{
+  "playlistName": "R&B",
+  "timestamp": "2026-06-25T01:44:33.954Z",
+  "baselineRun": true,
+  "trackCount": 50,
+  "tracks": [
+    {
+      "id": "man-on-a-mission-(feat.-wizkid)-chris-brown",
+      "name": "Man On A Mission (feat. Wizkid)",
+      "artist": "Chris Brown",
+      "performanceScore": 47.86,
+      "appearances": 1,
+      "totalScore": 117.86,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 1,
+      "score": 36
+    },
+    {
+      "id": "face-card-(feat.-bryson-tiller)-skilla-baby",
+      "name": "Face Card (feat. Bryson Tiller)",
+      "artist": "Skilla Baby",
+      "performanceScore": 46.92,
+      "appearances": 1,
+      "totalScore": 116.92,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 2,
+      "score": 36
+    },
+    {
+      "id": "talking-dirty-chlöe",
+      "name": "Talking Dirty",
+      "artist": "Chlöe",
+      "performanceScore": 42.72,
+      "appearances": 1,
+      "totalScore": 112.72,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 3,
+      "score": 36
+    },
+    {
+      "id": "what-you-need-tems",
+      "name": "What You Need",
+      "artist": "Tems",
+      "performanceScore": 40.4,
+      "appearances": 1,
+      "totalScore": 100.4,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 4,
+      "score": 36
+    },
+    {
+      "id": "is-it-love-tyla",
+      "name": "IS IT LOVE",
+      "artist": "Tyla",
+      "performanceScore": 39.8,
+      "appearances": 1,
+      "totalScore": 99.8,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 5,
+      "score": 36
+    },
+    {
+      "id": "breathe-masego",
+      "name": "Breathe",
+      "artist": "Masego",
+      "performanceScore": 39.2,
+      "appearances": 1,
+      "totalScore": 99.2,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 6,
+      "score": 36
+    },
+    {
+      "id": "little-things-ella-mai",
+      "name": "Little Things",
+      "artist": "Ella Mai",
+      "performanceScore": 38.5,
+      "appearances": 1,
+      "totalScore": 68.5,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 7,
+      "score": 36
+    },
+    {
+      "id": "another-heartbreak-savannah-ré",
+      "name": "Another Heartbreak",
+      "artist": "Savannah Ré",
+      "performanceScore": 38.27,
+      "appearances": 1,
+      "totalScore": 58.27,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 8,
+      "score": 36
+    },
+    {
+      "id": "simon-says-yg",
+      "name": "SIMON SAYS",
+      "artist": "YG",
+      "performanceScore": 37.73,
+      "appearances": 1,
+      "totalScore": 77.72999999999999,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 9,
+      "score": 36
+    },
+    {
+      "id": "painless-melody-braye",
+      "name": "Painless Melody",
+      "artist": "Braye",
+      "performanceScore": 37.07,
+      "appearances": 1,
+      "totalScore": 57.07,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 10,
+      "score": 36
+    },
+    {
+      "id": "fade-to-black-joji",
+      "name": "Fade to Black",
+      "artist": "Joji",
+      "performanceScore": 36.77,
+      "appearances": 1,
+      "totalScore": 56.77,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 11,
+      "score": 36
+    },
+    {
+      "id": "impressions-glenn-lewis",
+      "name": "Impressions",
+      "artist": "Glenn Lewis",
+      "performanceScore": 36.77,
+      "appearances": 1,
+      "totalScore": 56.77,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 12,
+      "score": 36
+    },
+    {
+      "id": "mutt-(cb-remix)-leon-thomas",
+      "name": "MUTT (CB REMIX)",
+      "artist": "Leon Thomas",
+      "performanceScore": 36.5,
+      "appearances": 1,
+      "totalScore": 66.5,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 13,
+      "score": 36
+    },
+    {
+      "id": "red-benz-ekene",
+      "name": "Red Benz",
+      "artist": "EKENE",
+      "performanceScore": 36.47,
+      "appearances": 1,
+      "totalScore": 56.47,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 14,
+      "score": 36
+    },
+    {
+      "id": "aura-ama",
+      "name": "Aura",
+      "artist": "Ama",
+      "performanceScore": 36.09,
+      "appearances": 1,
+      "totalScore": 86.09,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 15,
+      "score": 36
+    },
+    {
+      "id": "is-it-a-crime-mariah-the-scientist",
+      "name": "Is It a Crime",
+      "artist": "Mariah the Scientist",
+      "performanceScore": 35.63,
+      "appearances": 1,
+      "totalScore": 75.63,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 16,
+      "score": 36
+    },
+    {
+      "id": "see-you-again-majid-jordan",
+      "name": "See You Again",
+      "artist": "Majid Jordan",
+      "performanceScore": 35.5,
+      "appearances": 1,
+      "totalScore": 65.5,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 17,
+      "score": 36
+    },
+    {
+      "id": "cycles-dana-williams",
+      "name": "Cycles",
+      "artist": "Dana Williams",
+      "performanceScore": 35.23,
+      "appearances": 1,
+      "totalScore": 45.23,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 18,
+      "score": 36
+    },
+    {
+      "id": "sober-bella-alubo",
+      "name": "Sober",
+      "artist": "Bella Alubo",
+      "performanceScore": 35.23,
+      "appearances": 1,
+      "totalScore": 45.23,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 19,
+      "score": 36
+    },
+    {
+      "id": "made-for-me-the-colleagues",
+      "name": "Made For Me",
+      "artist": "The Colleagues",
+      "performanceScore": 35.23,
+      "appearances": 1,
+      "totalScore": 45.23,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 20,
+      "score": 36
+    },
+    {
+      "id": "2-many-days-syd",
+      "name": "2 Many Days",
+      "artist": "Syd",
+      "performanceScore": 34.88,
+      "appearances": 1,
+      "totalScore": 74.88,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 21,
+      "score": 36
+    },
+    {
+      "id": "you-gotta-be-durand-bernarr",
+      "name": "You Gotta Be",
+      "artist": "Durand Bernarr",
+      "performanceScore": 34.63,
+      "appearances": 1,
+      "totalScore": 44.63,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 22,
+      "score": 36
+    },
+    {
+      "id": "gp-chris-brown",
+      "name": "GP",
+      "artist": "Chris Brown",
+      "performanceScore": 34.63,
+      "appearances": 1,
+      "totalScore": 44.63,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 23,
+      "score": 36
+    },
+    {
+      "id": "poe-ruger",
+      "name": "POE",
+      "artist": "Ruger",
+      "performanceScore": 34.63,
+      "appearances": 1,
+      "totalScore": 44.63,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 24,
+      "score": 36
+    },
+    {
+      "id": "folded-kehlani",
+      "name": "Folded",
+      "artist": "Kehlani",
+      "performanceScore": 34.5,
+      "appearances": 1,
+      "totalScore": 64.5,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 25,
+      "score": 36
+    },
+    {
+      "id": "love-me-jeje-tems",
+      "name": "Love Me JeJe",
+      "artist": "Tems",
+      "performanceScore": 34.3,
+      "appearances": 1,
+      "totalScore": 64.3,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 26,
+      "score": 36
+    },
+    {
+      "id": "i-wish-i-didn’t-miss-you-jai'len-josey",
+      "name": "I Wish I Didn’t Miss You",
+      "artist": "Jai'Len Josey",
+      "performanceScore": 34.03,
+      "appearances": 1,
+      "totalScore": 44.03,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 27,
+      "score": 36
+    },
+    {
+      "id": "spray-dylan-sinclair",
+      "name": "Spray",
+      "artist": "Dylan Sinclair",
+      "performanceScore": 34.03,
+      "appearances": 1,
+      "totalScore": 44.03,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 28,
+      "score": 36
+    },
+    {
+      "id": "better-days-naomi-sharon",
+      "name": "Better Days",
+      "artist": "Naomi Sharon",
+      "performanceScore": 34.03,
+      "appearances": 1,
+      "totalScore": 44.03,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 29,
+      "score": 36
+    },
+    {
+      "id": "all-night-tim-lyre",
+      "name": "All Night",
+      "artist": "Tim Lyre",
+      "performanceScore": 34.03,
+      "appearances": 1,
+      "totalScore": 44.03,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 30,
+      "score": 36
+    },
+    {
+      "id": "easy-for-you-kotrell",
+      "name": "Easy for You",
+      "artist": "Kotrell",
+      "performanceScore": 34.03,
+      "appearances": 1,
+      "totalScore": 44.03,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 31,
+      "score": 36
+    },
+    {
+      "id": "not-easy-dreaux",
+      "name": "NOT EASY",
+      "artist": "Dreaux",
+      "performanceScore": 33.43,
+      "appearances": 1,
+      "totalScore": 43.43,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 32,
+      "score": 36
+    },
+    {
+      "id": "lucky-now-jux",
+      "name": "Lucky Now",
+      "artist": "Jux",
+      "performanceScore": 33.43,
+      "appearances": 1,
+      "totalScore": 43.43,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 33,
+      "score": 36
+    },
+    {
+      "id": "love-garden-boj",
+      "name": "Love Garden",
+      "artist": "Boj",
+      "performanceScore": 33.43,
+      "appearances": 1,
+      "totalScore": 43.43,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 34,
+      "score": 36
+    },
+    {
+      "id": "sundown-moelogo",
+      "name": "Sundown",
+      "artist": "Moelogo",
+      "performanceScore": 33.43,
+      "appearances": 1,
+      "totalScore": 43.43,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 35,
+      "score": 36
+    },
+    {
+      "id": "tampa-the-dream",
+      "name": "Tampa",
+      "artist": "The-Dream",
+      "performanceScore": 33.2,
+      "appearances": 1,
+      "totalScore": 93.2,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 36,
+      "score": 36
+    },
+    {
+      "id": "protect-my-heart-pj-morton",
+      "name": "Protect My Heart",
+      "artist": "PJ Morton",
+      "performanceScore": 32.83,
+      "appearances": 1,
+      "totalScore": 42.83,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 37,
+      "score": 36
+    },
+    {
+      "id": "i-tried-remi",
+      "name": "I Tried",
+      "artist": "REMI",
+      "performanceScore": 32.83,
+      "appearances": 1,
+      "totalScore": 42.83,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 38,
+      "score": 36
+    },
+    {
+      "id": "daughter-tank",
+      "name": "Daughter",
+      "artist": "Tank",
+      "performanceScore": 32.83,
+      "appearances": 1,
+      "totalScore": 42.83,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 39,
+      "score": 36
+    },
+    {
+      "id": "fallin-coco-jones",
+      "name": "Fallin",
+      "artist": "Coco Jones",
+      "performanceScore": 32.83,
+      "appearances": 1,
+      "totalScore": 42.83,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 40,
+      "score": 36
+    },
+    {
+      "id": "me-+-u-(destiny)-ziibeats",
+      "name": "Me + U (Destiny)",
+      "artist": "ZiiBeats",
+      "performanceScore": 32.83,
+      "appearances": 1,
+      "totalScore": 42.83,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 41,
+      "score": 36
+    },
+    {
+      "id": "magaa-l.a.x",
+      "name": "MAGAA",
+      "artist": "L.A.X",
+      "performanceScore": 32.57,
+      "appearances": 1,
+      "totalScore": 52.57,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 42,
+      "score": 36
+    },
+    {
+      "id": "b.o.b-(bombs-over-baghdad)-kirby",
+      "name": "B.O.B (Bombs over Baghdad)",
+      "artist": "KIRBY",
+      "performanceScore": 32.23,
+      "appearances": 1,
+      "totalScore": 42.23,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 43,
+      "score": 36
+    },
+    {
+      "id": "soh-soh-odeal",
+      "name": "Soh-Soh",
+      "artist": "Odeal",
+      "performanceScore": 32.23,
+      "appearances": 1,
+      "totalScore": 42.23,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 44,
+      "score": 36
+    },
+    {
+      "id": "this-is-ella-mai",
+      "name": "This Is",
+      "artist": "Ella Mai",
+      "performanceScore": 32.23,
+      "appearances": 1,
+      "totalScore": 42.23,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 45,
+      "score": 36
+    },
+    {
+      "id": "save-her-4-me-vedo",
+      "name": "Save Her 4 Me",
+      "artist": "VEDO",
+      "performanceScore": 32,
+      "appearances": 1,
+      "totalScore": 92,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 46,
+      "score": 36
+    },
+    {
+      "id": "trust-and-believe-roy-woods",
+      "name": "Trust and Believe",
+      "artist": "Roy Woods",
+      "performanceScore": 31.75,
+      "appearances": 1,
+      "totalScore": 101.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 47,
+      "score": 36
+    },
+    {
+      "id": "gia-kuzi-cee",
+      "name": "GIA",
+      "artist": "Kuzi Cee",
+      "performanceScore": 31.67,
+      "appearances": 1,
+      "totalScore": 51.67,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 48,
+      "score": 36
+    },
+    {
+      "id": "with-you-sabri",
+      "name": "With You",
+      "artist": "SABRI",
+      "performanceScore": 31.63,
+      "appearances": 1,
+      "totalScore": 41.629999999999995,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 49,
+      "score": 36
+    },
+    {
+      "id": "miracle-(acoustic)-rini",
+      "name": "Miracle (Acoustic)",
+      "artist": "RINI",
+      "performanceScore": 31.63,
+      "appearances": 1,
+      "totalScore": 41.629999999999995,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 50,
+      "score": 36
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Man On A Mission (feat. Wizkid)",
+        "artist": "Chris Brown",
+        "position": 1,
+        "score": 36
+      },
+      {
+        "name": "Face Card (feat. Bryson Tiller)",
+        "artist": "Skilla Baby",
+        "position": 2,
+        "score": 36
+      },
+      {
+        "name": "Talking Dirty",
+        "artist": "Chlöe",
+        "position": 3,
+        "score": 36
+      },
+      {
+        "name": "What You Need",
+        "artist": "Tems",
+        "position": 4,
+        "score": 36
+      },
+      {
+        "name": "IS IT LOVE",
+        "artist": "Tyla",
+        "position": 5,
+        "score": 36
+      },
+      {
+        "name": "Breathe",
+        "artist": "Masego",
+        "position": 6,
+        "score": 36
+      },
+      {
+        "name": "Little Things",
+        "artist": "Ella Mai",
+        "position": 7,
+        "score": 36
+      },
+      {
+        "name": "Another Heartbreak",
+        "artist": "Savannah Ré",
+        "position": 8,
+        "score": 36
+      },
+      {
+        "name": "SIMON SAYS",
+        "artist": "YG",
+        "position": 9,
+        "score": 36
+      },
+      {
+        "name": "Painless Melody",
+        "artist": "Braye",
+        "position": 10,
+        "score": 36
+      },
+      {
+        "name": "Fade to Black",
+        "artist": "Joji",
+        "position": 11,
+        "score": 36
+      },
+      {
+        "name": "Impressions",
+        "artist": "Glenn Lewis",
+        "position": 12,
+        "score": 36
+      },
+      {
+        "name": "MUTT (CB REMIX)",
+        "artist": "Leon Thomas",
+        "position": 13,
+        "score": 36
+      },
+      {
+        "name": "Red Benz",
+        "artist": "EKENE",
+        "position": 14,
+        "score": 36
+      },
+      {
+        "name": "Aura",
+        "artist": "Ama",
+        "position": 15,
+        "score": 36
+      },
+      {
+        "name": "Is It a Crime",
+        "artist": "Mariah the Scientist",
+        "position": 16,
+        "score": 36
+      },
+      {
+        "name": "See You Again",
+        "artist": "Majid Jordan",
+        "position": 17,
+        "score": 36
+      },
+      {
+        "name": "Cycles",
+        "artist": "Dana Williams",
+        "position": 18,
+        "score": 36
+      },
+      {
+        "name": "Sober",
+        "artist": "Bella Alubo",
+        "position": 19,
+        "score": 36
+      },
+      {
+        "name": "Made For Me",
+        "artist": "The Colleagues",
+        "position": 20,
+        "score": 36
+      },
+      {
+        "name": "2 Many Days",
+        "artist": "Syd",
+        "position": 21,
+        "score": 36
+      },
+      {
+        "name": "You Gotta Be",
+        "artist": "Durand Bernarr",
+        "position": 22,
+        "score": 36
+      },
+      {
+        "name": "GP",
+        "artist": "Chris Brown",
+        "position": 23,
+        "score": 36
+      },
+      {
+        "name": "POE",
+        "artist": "Ruger",
+        "position": 24,
+        "score": 36
+      },
+      {
+        "name": "Folded",
+        "artist": "Kehlani",
+        "position": 25,
+        "score": 36
+      },
+      {
+        "name": "Love Me JeJe",
+        "artist": "Tems",
+        "position": 26,
+        "score": 36
+      },
+      {
+        "name": "I Wish I Didn’t Miss You",
+        "artist": "Jai'Len Josey",
+        "position": 27,
+        "score": 36
+      },
+      {
+        "name": "Spray",
+        "artist": "Dylan Sinclair",
+        "position": 28,
+        "score": 36
+      },
+      {
+        "name": "Better Days",
+        "artist": "Naomi Sharon",
+        "position": 29,
+        "score": 36
+      },
+      {
+        "name": "All Night",
+        "artist": "Tim Lyre",
+        "position": 30,
+        "score": 36
+      },
+      {
+        "name": "Easy for You",
+        "artist": "Kotrell",
+        "position": 31,
+        "score": 36
+      },
+      {
+        "name": "NOT EASY",
+        "artist": "Dreaux",
+        "position": 32,
+        "score": 36
+      },
+      {
+        "name": "Lucky Now",
+        "artist": "Jux",
+        "position": 33,
+        "score": 36
+      },
+      {
+        "name": "Love Garden",
+        "artist": "Boj",
+        "position": 34,
+        "score": 36
+      },
+      {
+        "name": "Sundown",
+        "artist": "Moelogo",
+        "position": 35,
+        "score": 36
+      },
+      {
+        "name": "Tampa",
+        "artist": "The-Dream",
+        "position": 36,
+        "score": 36
+      },
+      {
+        "name": "Protect My Heart",
+        "artist": "PJ Morton",
+        "position": 37,
+        "score": 36
+      },
+      {
+        "name": "I Tried",
+        "artist": "REMI",
+        "position": 38,
+        "score": 36
+      },
+      {
+        "name": "Daughter",
+        "artist": "Tank",
+        "position": 39,
+        "score": 36
+      },
+      {
+        "name": "Fallin",
+        "artist": "Coco Jones",
+        "position": 40,
+        "score": 36
+      },
+      {
+        "name": "Me + U (Destiny)",
+        "artist": "ZiiBeats",
+        "position": 41,
+        "score": 36
+      },
+      {
+        "name": "MAGAA",
+        "artist": "L.A.X",
+        "position": 42,
+        "score": 36
+      },
+      {
+        "name": "B.O.B (Bombs over Baghdad)",
+        "artist": "KIRBY",
+        "position": 43,
+        "score": 36
+      },
+      {
+        "name": "Soh-Soh",
+        "artist": "Odeal",
+        "position": 44,
+        "score": 36
+      },
+      {
+        "name": "This Is",
+        "artist": "Ella Mai",
+        "position": 45,
+        "score": 36
+      },
+      {
+        "name": "Save Her 4 Me",
+        "artist": "VEDO",
+        "position": 46,
+        "score": 36
+      },
+      {
+        "name": "Trust and Believe",
+        "artist": "Roy Woods",
+        "position": 47,
+        "score": 36
+      },
+      {
+        "name": "GIA",
+        "artist": "Kuzi Cee",
+        "position": 48,
+        "score": 36
+      },
+      {
+        "name": "With You",
+        "artist": "SABRI",
+        "position": 49,
+        "score": 36
+      },
+      {
+        "name": "Miracle (Acoustic)",
+        "artist": "RINI",
+        "position": 50,
+        "score": 36
+      }
+    ],
+    "removed": [],
+    "moved": [],
+    "stale": [],
+    "timestamp": "2026-06-25T01:44:33.954Z",
+    "playlistName": "R&B"
+  },
+  "sources": 12
+}
