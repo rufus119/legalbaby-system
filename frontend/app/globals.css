@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #1f2937 transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #1f2937;
+  border-radius: 999px;
+}
+
+body {
+  @apply bg-background text-text-primary antialiased;
+  background-image:
+    radial-gradient(1200px circle at 8% -10%, rgba(124, 77, 255, 0.14), transparent 40%),
+    radial-gradient(900px circle at 92% -12%, rgba(0, 194, 255, 0.1), transparent 36%);
+}
+
+.glass-panel {
+  background: rgba(15, 23, 42, 0.82);
+  backdrop-filter: blur(12px);
+}
+
+.metric-chip {
+  @apply rounded-full px-4 py-2 text-sm font-medium;
+  background: rgba(15, 23, 42, 0.75);
+  color: #f8fafc;
+}

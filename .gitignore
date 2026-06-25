@@ -3,3 +3,5 @@ node_modules/
 .DS_Store
 *.log
 playlistData.json
+.next/
+frontend/.next/
