@@ -76,7 +76,7 @@ function ActionList({ title, items }: { title: string; items: string[] }) {
         <p className="text-sm text-text-secondary">No actions.</p>
       ) : (
         <ul className="space-y-2 text-sm text-text-secondary">
-          {items.slice(0, 60).map((item) => (
+          {items.map((item) => (
             <li key={item} className="rounded-xl bg-slate-900/65 px-3 py-2 text-text-primary">
               {item}
             </li>
