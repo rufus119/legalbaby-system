@@ -1,22 +1,21 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { HeroPanel } from "@/components/dashboard/hero-panel";
 import { TopNav } from "@/components/dashboard/top-nav";
 import { ReportGrid } from "@/components/dashboard/report-grid";
 import { DetailDrawer } from "@/components/dashboard/detail-drawer";
+import { BottomNav } from "@/components/layout/bottom-nav";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
 import { getDaily, getDates, getStatus, getWeekly } from "@/lib/api";
 import { DashboardStatus, DailyReport, DetailSelection, WeeklyReport } from "@/lib/types";
-
-function toLocalString(iso: string | null | undefined) {
-  if (!iso) return "Never";
-  return new Date(iso).toLocaleString();
-}
+import { countCountries, countTracks, downloadJson, getSystemStatus, toLocalString } from "@/lib/dashboard-helpers";
 
 export function DashboardShell() {
+  const router = useRouter();
   const [status, setStatus] = useState<DashboardStatus | null>(null);
   const [dailyDates, setDailyDates] = useState<string[]>([]);
   const [weeklyDates, setWeeklyDates] = useState<string[]>([]);
@@ -28,7 +27,7 @@ export function DashboardShell() {
   const [loading, setLoading] = useState(true);
   const [message, setMessage] = useState<string>("");
 
-  const running = Boolean(status?.runningDaily || status?.runningWeekly || status?.resetting);
+  const systemStatus = getSystemStatus(status);
 
   async function refreshAll() {
     const [dateOptions, statusData] = await Promise.all([getDates(), getStatus()]);
@@ -98,19 +97,38 @@ export function DashboardShell() {
       <Button variant="secondary" size="sm" onClick={openFirstDaily} disabled={!dailyReports.length}>
         Open Top Report
       </Button>
+      <Button variant="secondary" size="sm" onClick={() => router.push("/search?mode=playlist")}>
+        Search Playlist
+      </Button>
+      <Button
+        variant="secondary"
+        size="sm"
+        onClick={() => downloadJson(`daily-report-${selectedDailyDate || "latest"}.json`, dailyReports)}
+        disabled={!dailyReports.length}
+      >
+        Export Report
+      </Button>
+      <Button
+        variant="secondary"
+        size="sm"
+        onClick={() => router.push(`/compare?dateA=${encodeURIComponent(selectedDailyDate)}&dateB=${encodeURIComponent(dailyDates[1] || selectedDailyDate)}`)}
+        disabled={!selectedDailyDate}
+      >
+        Compare Dates
+      </Button>
     </div>
   );
 
   return (
     <div className="min-h-screen pb-12">
-      <TopNav updatedAt={toLocalString(status?.lastDailyRun || status?.lastWeeklyRun)} running={running} />
+      <TopNav updatedAt={toLocalString(status?.lastDailyRun || status?.lastWeeklyRun)} systemStatus={systemStatus} />
       <main className="mx-auto flex w-full max-w-dashboard flex-col gap-6 px-6 pt-8 lg:px-8">
         <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.35 }}>
           <HeroPanel
-            dailyScans={status?.dailyReports || 0}
-            weeklyScans={status?.weeklyReports || 0}
-            playlistsTracked={status?.playlistCount || 0}
-            lastSync={toLocalString(status?.lastDailyRun || status?.lastWeeklyRun)}
+            countriesMonitored={countCountries(dailyReports)}
+            playlistsActive={status?.playlistCount || dailyReports.length || 0}
+            tracksTracked={countTracks(dailyReports, weeklyReports)}
+            latestSnapshot={toLocalString(status?.lastDailyRun || status?.lastWeeklyRun)}
           />
         </motion.div>
 
@@ -171,6 +189,7 @@ export function DashboardShell() {
       </main>
 
       <DetailDrawer selection={selection} onClose={() => setSelection(null)} />
+      <BottomNav />
     </div>
   );
 }

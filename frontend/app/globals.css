@@ -4,14 +4,19 @@
 
 :root {
   color-scheme: dark;
-  --bg: #05070b;
-  --card: #09111f;
-  --surface: #0d1525;
+  --bg: #05070a;
+  --card: #0b1020;
+  --surface: #11182b;
   --line: rgba(255, 255, 255, 0.05);
   --text-primary: #f7f8fa;
   --text-secondary: #95a1b5;
   --orange: #ff6a00;
-  --orange-soft: #ff8e3c;
+  --orange-soft: #ff9d45;
+}
+
+html[data-theme="contrast"] {
+  --surface: #16203a;
+  --line: rgba(255, 255, 255, 0.12);
 }
 
 * {
@@ -65,10 +70,12 @@ body {
   border: 1px solid var(--line);
   backdrop-filter: blur(14px);
   box-shadow: 0 18px 60px rgba(0, 0, 0, 0.38);
+  border-radius: 18px;
 }
 
 .metric-chip {
-  @apply rounded-full px-4 py-2 text-sm font-medium;
+  @apply px-4 py-2 text-sm font-medium;
+  border-radius: 18px;
   background: rgba(13, 21, 37, 0.82);
   border: 1px solid rgba(255, 255, 255, 0.06);
   color: var(--text-primary);

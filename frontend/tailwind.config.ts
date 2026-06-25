@@ -13,11 +13,11 @@ const config: Config = {
         dashboard: "1320px",
       },
       colors: {
-        background: "#05070B",
-        card: "#09111F",
-        surface: "#0D1525",
+        background: "#05070A",
+        card: "#0B1020",
+        surface: "#11182B",
         primary: "#FF6A00",
-        secondary: "#FF8E3C",
+        secondary: "#FF9D45",
         success: "#19F08B",
         danger: "#FF5A77",
         text: {
@@ -32,11 +32,11 @@ const config: Config = {
       },
       borderRadius: {
         xl2: "18px",
-        xl3: "26px",
+        xl3: "18px",
       },
       fontFamily: {
         sans: ["var(--font-inter)", "system-ui", "sans-serif"],
-        display: ["var(--font-space)", "system-ui", "sans-serif"],
+        display: ["var(--font-sora)", "system-ui", "sans-serif"],
       },
       keyframes: {
         float: {
