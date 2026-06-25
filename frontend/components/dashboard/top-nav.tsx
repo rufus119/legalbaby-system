@@ -1,7 +1,8 @@
 "use client";
 
-import { Activity, CircleUserRound, Clock3, Radio } from "lucide-react";
+import { CircleUserRound, Clock3, Radio } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
+import { BrandMark } from "@/components/layout/brand-mark";
 
 type TopNavProps = {
   updatedAt: string;
@@ -14,24 +15,22 @@ export function TopNav({ updatedAt, running }: TopNavProps) {
       <div className="mx-auto flex max-w-dashboard items-center justify-between px-6 py-4 lg:px-8">
         <div className="flex items-center gap-8">
           <div className="flex items-center gap-3">
-            <div className="h-10 w-10 rounded-2xl bg-primary/20 text-primary grid place-items-center">
-              <Activity size={20} />
-            </div>
+            <BrandMark className="h-10 w-10" />
             <div>
-              <p className="text-base font-semibold tracking-tight">LegalBaby</p>
-              <p className="text-xs text-text-secondary">v4 Intelligence</p>
+              <p className="text-base font-semibold tracking-tight">LEGALBABY</p>
+              <p className="text-xs text-text-secondary">Playlist Intelligence</p>
             </div>
           </div>
           <nav className="hidden items-center gap-2 rounded-2xl bg-card/80 p-1 md:flex">
             {[
               "Dashboard",
-              "Daily",
-              "Weekly",
-              "Settings",
+              "Charts",
+              "Genres",
+              "Timeline",
             ].map((item, idx) => (
               <button
                 key={item}
-                className={`rounded-xl px-4 py-2 text-sm ${idx === 0 ? "bg-slate-800 text-text-primary" : "text-text-secondary hover:text-text-primary"}`}
+                className={`rounded-xl px-4 py-2 text-sm ${idx === 0 ? "bg-primary/20 text-primary" : "text-text-secondary hover:text-text-primary"}`}
               >
                 {item}
               </button>

@@ -46,7 +46,7 @@ function Sparkline({ values }: { values: number[] }) {
 
   return (
     <svg width={width} height={height} viewBox={`0 0 ${width} ${height}`} className="opacity-80">
-      <polyline fill="none" stroke="#00C2FF" strokeWidth="2" points={points} />
+      <polyline fill="none" stroke="#FF8E3C" strokeWidth="2" points={points} />
     </svg>
   );
 }
@@ -89,7 +89,7 @@ export function ReportCard({ report, type, onSelect, index }: ReportCardProps) {
             <p className="text-xs text-text-secondary">Change Score</p>
             <div className="flex items-center gap-1 text-base font-semibold">
               {direction === "up" && <ArrowUpRight size={16} className="text-primary" />}
-              {direction === "mid" && <TrendingUp size={16} className="text-accent" />}
+              {direction === "mid" && <TrendingUp size={16} className="text-secondary" />}
               {direction === "down" && <ArrowDownRight size={16} className="text-rose-400" />}
               <span>{score}</span>
             </div>
@@ -103,7 +103,7 @@ export function ReportCard({ report, type, onSelect, index }: ReportCardProps) {
 
 function Stat({ label, value, tone }: { label: string; value: number; tone: "good" | "bad" | "neutral" }) {
   const icon = tone === "good" ? <ArrowUpRight size={14} /> : tone === "bad" ? <Minus size={14} /> : <TrendingUp size={14} />;
-  const color = tone === "good" ? "text-primary" : tone === "bad" ? "text-rose-400" : "text-accent";
+  const color = tone === "good" ? "text-primary" : tone === "bad" ? "text-rose-400" : "text-secondary";
 
   return (
     <div className="rounded-2xl bg-slate-900/70 px-3 py-3">

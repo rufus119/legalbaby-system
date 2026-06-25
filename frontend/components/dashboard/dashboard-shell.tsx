@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { HeroPanel } from "@/components/dashboard/hero-panel";
 import { TopNav } from "@/components/dashboard/top-nav";
@@ -8,7 +8,7 @@ import { ReportGrid } from "@/components/dashboard/report-grid";
 import { DetailDrawer } from "@/components/dashboard/detail-drawer";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
-import { getDaily, getDates, getStatus, getWeekly, resetBaseline, runNow } from "@/lib/api";
+import { getDaily, getDates, getStatus, getWeekly } from "@/lib/api";
 import { DashboardStatus, DailyReport, DetailSelection, WeeklyReport } from "@/lib/types";
 
 function toLocalString(iso: string | null | undefined) {
@@ -26,7 +26,6 @@ export function DashboardShell() {
   const [weeklyReports, setWeeklyReports] = useState<WeeklyReport[]>([]);
   const [selection, setSelection] = useState<DetailSelection>(null);
   const [loading, setLoading] = useState(true);
-  const [busyAction, setBusyAction] = useState<"daily" | "weekly" | "reset" | null>(null);
   const [message, setMessage] = useState<string>("");
 
   const running = Boolean(status?.runningDaily || status?.runningWeekly || status?.resetting);
@@ -86,50 +85,20 @@ export function DashboardShell() {
       .catch((error) => setMessage(error.message));
   }, [selectedWeeklyDate]);
 
-  async function handleRun(type: "daily" | "weekly") {
-    try {
-      setBusyAction(type);
-      setMessage(type === "daily" ? "Running daily update..." : "Running weekly update...");
-      await runNow(type);
-      await refreshAll();
-      setMessage("Update completed.");
-    } catch (error) {
-      setMessage(error instanceof Error ? error.message : "Update failed");
-    } finally {
-      setBusyAction(null);
-    }
-  }
+  const openFirstDaily = () => {
+    if (!dailyReports.length) return;
+    setSelection({ kind: "daily", report: dailyReports[0] });
+  };
 
-  async function handleReset() {
-    if (!confirm("Reset all saved data and rebuild fresh baseline reports?")) return;
-    try {
-      setBusyAction("reset");
-      setMessage("Resetting and rebuilding baseline...");
-      await resetBaseline();
-      await refreshAll();
-      setMessage("Baseline reset complete.");
-    } catch (error) {
-      setMessage(error instanceof Error ? error.message : "Reset failed");
-    } finally {
-      setBusyAction(null);
-    }
-  }
-
-  const controls = useMemo(
-    () => (
-      <div className="flex flex-wrap items-center gap-2">
-        <Button variant="secondary" size="sm" onClick={() => handleRun("daily")} disabled={Boolean(busyAction)}>
-          Run Daily
-        </Button>
-        <Button variant="secondary" size="sm" onClick={() => handleRun("weekly")} disabled={Boolean(busyAction)}>
-          Run Weekly
-        </Button>
-        <Button variant="danger" size="sm" onClick={handleReset} disabled={Boolean(busyAction)}>
-          Reset Baseline
-        </Button>
-      </div>
-    ),
-    [busyAction]
+  const controls = (
+    <div className="flex flex-wrap items-center gap-2">
+      <Button variant="primary" size="sm" onClick={() => refreshAll()}>
+        Refresh Data
+      </Button>
+      <Button variant="secondary" size="sm" onClick={openFirstDaily} disabled={!dailyReports.length}>
+        Open Top Report
+      </Button>
+    </div>
   );
 
   return (

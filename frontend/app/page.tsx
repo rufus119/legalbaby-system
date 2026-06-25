@@ -1,5 +1,5 @@
-import { DashboardExperience } from "@/components/dashboard/dashboard-experience";
+import { DashboardShell } from "@/components/dashboard/dashboard-shell";
 
 export default function HomePage() {
-  return <DashboardExperience />;
+  return <DashboardShell />;
 }
