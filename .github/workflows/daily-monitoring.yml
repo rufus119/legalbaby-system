@@ -2,8 +2,8 @@ name: Daily Top 100 Monitoring
 
 on:
   schedule:
-    # Daily at 12:00 AM UTC
-    - cron: '0 0 * * *'
+    # Daily at 8:30 AM UTC (= 9:30 AM WAT / after Apple's midnight Pacific refresh)
+    - cron: '30 8 * * *'
   workflow_dispatch:
 
 jobs:
