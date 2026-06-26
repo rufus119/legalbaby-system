@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Global",
-  "timestamp": "2026-06-26T09:26:22.338Z",
+  "timestamp": "2026-06-26T09:36:37.180Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -706,11 +706,650 @@
     }
   ],
   "changes": {
-    "added": [],
-    "removed": [],
-    "moved": [],
+    "added": [
+      {
+        "name": "God's Plan",
+        "artist": "Drake",
+        "position": 97,
+        "score": 70
+      },
+      {
+        "name": "Folded",
+        "artist": "Kehlani",
+        "position": 98,
+        "score": 70
+      },
+      {
+        "name": "Dandelion",
+        "artist": "Ella Langley",
+        "position": 100,
+        "score": 70
+      }
+    ],
+    "removed": [
+      {
+        "name": "Karasu - Raven",
+        "artist": "Kenshi Yonezu",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "IRIS OUT",
+        "artist": "Kenshi Yonezu",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "reason": "dropped",
+        "age": 0
+      }
+    ],
+    "moved": [
+      {
+        "name": "the cure",
+        "artist": "Olivia Rodrigo",
+        "from": 4,
+        "to": 5,
+        "movement": "↓1",
+        "direction": "down"
+      },
+      {
+        "name": "hate that i made you love me",
+        "artist": "Ariana Grande",
+        "from": 5,
+        "to": 4,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "I Knew It, I Knew You",
+        "artist": "Taylor Swift",
+        "from": 8,
+        "to": 10,
+        "movement": "↓2",
+        "direction": "down"
+      },
+      {
+        "name": "honeybee",
+        "artist": "Olivia Rodrigo",
+        "from": 9,
+        "to": 11,
+        "movement": "↓2",
+        "direction": "down"
+      },
+      {
+        "name": "Ran To Atlanta",
+        "artist": "Drake",
+        "from": 10,
+        "to": 9,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Billie Jean",
+        "artist": "Michael Jackson",
+        "from": 11,
+        "to": 8,
+        "movement": "↑3",
+        "direction": "up"
+      },
+      {
+        "name": "maggots for brains",
+        "artist": "Olivia Rodrigo",
+        "from": 14,
+        "to": 18,
+        "movement": "↓4",
+        "direction": "down"
+      },
+      {
+        "name": "Beauty and a Beat (feat. Nicki Minaj)",
+        "artist": "Justin Bieber",
+        "from": 15,
+        "to": 14,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Cinderella (feat. Ty Dolla $ign)",
+        "artist": "Mac Miller",
+        "from": 16,
+        "to": 15,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Man I Need",
+        "artist": "Olivia Dean",
+        "from": 17,
+        "to": 19,
+        "movement": "↓2",
+        "direction": "down"
+      },
+      {
+        "name": "National Treasures",
+        "artist": "Drake",
+        "from": 18,
+        "to": 17,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Spend Dat",
+        "artist": "Yung Miami",
+        "from": 19,
+        "to": 16,
+        "movement": "↑3",
+        "direction": "up"
+      },
+      {
+        "name": "what’s wrong with me",
+        "artist": "Olivia Rodrigo",
+        "from": 21,
+        "to": 22,
+        "movement": "↓1",
+        "direction": "down"
+      },
+      {
+        "name": "begged",
+        "artist": "Olivia Rodrigo",
+        "from": 22,
+        "to": 26,
+        "movement": "↓4",
+        "direction": "down"
+      },
+      {
+        "name": "u + me = <3",
+        "artist": "Olivia Rodrigo",
+        "from": 23,
+        "to": 25,
+        "movement": "↓2",
+        "direction": "down"
+      },
+      {
+        "name": "less",
+        "artist": "Olivia Rodrigo",
+        "from": 24,
+        "to": 23,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "expectations",
+        "artist": "Olivia Rodrigo",
+        "from": 25,
+        "to": 24,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Beat It",
+        "artist": "Michael Jackson",
+        "from": 26,
+        "to": 21,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "my way",
+        "artist": "Olivia Rodrigo",
+        "from": 27,
+        "to": 33,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "B’s On The Table",
+        "artist": "Drake",
+        "from": 28,
+        "to": 27,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Plot Twist",
+        "artist": "Drake",
+        "from": 30,
+        "to": 31,
+        "movement": "↓1",
+        "direction": "down"
+      },
+      {
+        "name": "2 Hard 4 The Radio",
+        "artist": "Drake",
+        "from": 31,
+        "to": 30,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Human Nature",
+        "artist": "Michael Jackson",
+        "from": 33,
+        "to": 28,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "ICONIC BY MISTAKE",
+        "artist": "LE SSERAFIM",
+        "from": 34,
+        "to": 36,
+        "movement": "↓2",
+        "direction": "down"
+      },
+      {
+        "name": "The Fate of Ophelia",
+        "artist": "Taylor Swift",
+        "from": 35,
+        "to": 34,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Dai Dai",
+        "artist": "Shakira",
+        "from": 36,
+        "to": 35,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "purple",
+        "artist": "Olivia Rodrigo",
+        "from": 37,
+        "to": 53,
+        "movement": "↓16",
+        "direction": "down"
+      },
+      {
+        "name": "cigarette smoke",
+        "artist": "Olivia Rodrigo",
+        "from": 39,
+        "to": 54,
+        "movement": "↓15",
+        "direction": "down"
+      },
+      {
+        "name": "Boston",
+        "artist": "STELLA LEFTY",
+        "from": 40,
+        "to": 39,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Burning Bridges",
+        "artist": "Drake",
+        "from": 41,
+        "to": 40,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Chicago",
+        "artist": "Michael Jackson",
+        "from": 42,
+        "to": 37,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "It's Me",
+        "artist": "ILLIT",
+        "from": 43,
+        "to": 47,
+        "movement": "↓4",
+        "direction": "down"
+      },
+      {
+        "name": "I’m Spent",
+        "artist": "Drake",
+        "from": 45,
+        "to": 42,
+        "movement": "↑3",
+        "direction": "up"
+      },
+      {
+        "name": "Ordinary",
+        "artist": "Alex Warren",
+        "from": 47,
+        "to": 45,
+        "movement": "↑2",
+        "direction": "up"
+      },
+      {
+        "name": "I'm The Problem",
+        "artist": "Morgan Wallen",
+        "from": 48,
+        "to": 41,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone",
+        "from": 50,
+        "to": 48,
+        "movement": "↑2",
+        "direction": "up"
+      },
+      {
+        "name": "OK",
+        "artist": "Kanye West",
+        "from": 51,
+        "to": 58,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "E85",
+        "artist": "Don Toliver",
+        "from": 52,
+        "to": 43,
+        "movement": "↑9",
+        "direction": "up"
+      },
+      {
+        "name": "Be By You",
+        "artist": "Luke Combs",
+        "from": 53,
+        "to": 55,
+        "movement": "↓2",
+        "direction": "down"
+      },
+      {
+        "name": "WAIT FOR U (feat. Drake & Tems)",
+        "artist": "Future",
+        "from": 54,
+        "to": 50,
+        "movement": "↑4",
+        "direction": "up"
+      },
+      {
+        "name": "REDRED",
+        "artist": "CORTIS",
+        "from": 55,
+        "to": 63,
+        "movement": "↓8",
+        "direction": "down"
+      },
+      {
+        "name": "Smooth Criminal",
+        "artist": "Michael Jackson",
+        "from": 56,
+        "to": 51,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "Freestyle",
+        "artist": "Lil Baby",
+        "from": 58,
+        "to": 52,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "SWIM",
+        "artist": "BTS",
+        "from": 59,
+        "to": 66,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "Don't Stop 'Til You Get Enough",
+        "artist": "Michael Jackson",
+        "from": 60,
+        "to": 56,
+        "movement": "↑4",
+        "direction": "up"
+      },
+      {
+        "name": "Baby (feat. Ludacris)",
+        "artist": "Justin Bieber",
+        "from": 61,
+        "to": 65,
+        "movement": "↓4",
+        "direction": "down"
+      },
+      {
+        "name": "Last Night",
+        "artist": "Morgan Wallen",
+        "from": 62,
+        "to": 59,
+        "movement": "↑3",
+        "direction": "up"
+      },
+      {
+        "name": "So Easy (To Fall In Love)",
+        "artist": "Olivia Dean",
+        "from": 63,
+        "to": 69,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "from": 65,
+        "to": 61,
+        "movement": "↑4",
+        "direction": "up"
+      },
+      {
+        "name": "Thriller",
+        "artist": "Michael Jackson",
+        "from": 66,
+        "to": 62,
+        "movement": "↑4",
+        "direction": "up"
+      },
+      {
+        "name": "In A Minute",
+        "artist": "Lil Baby",
+        "from": 67,
+        "to": 60,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "Bad",
+        "artist": "Michael Jackson",
+        "from": 68,
+        "to": 67,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Just In Case",
+        "artist": "Morgan Wallen",
+        "from": 69,
+        "to": 68,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "from": 71,
+        "to": 75,
+        "movement": "↓4",
+        "direction": "down"
+      },
+      {
+        "name": "Spin You Around (1/24)",
+        "artist": "Morgan Wallen",
+        "from": 72,
+        "to": 71,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "Raindance",
+        "artist": "Dave",
+        "from": 73,
+        "to": 78,
+        "movement": "↓5",
+        "direction": "down"
+      },
+      {
+        "name": "RUBBERZ",
+        "artist": "Fenix Flexin",
+        "from": 75,
+        "to": 72,
+        "movement": "↑3",
+        "direction": "up"
+      },
+      {
+        "name": "Stateside (with Zara Larsson)",
+        "artist": "PinkPantheress",
+        "from": 76,
+        "to": 82,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "LEMONADE",
+        "artist": "aespa",
+        "from": 77,
+        "to": 86,
+        "movement": "↓9",
+        "direction": "down"
+      },
+      {
+        "name": "weren't for the wind",
+        "artist": "Ella Langley",
+        "from": 78,
+        "to": 79,
+        "movement": "↓1",
+        "direction": "down"
+      },
+      {
+        "name": "Orbiter",
+        "artist": "Noah Kahan",
+        "from": 79,
+        "to": 81,
+        "movement": "↓2",
+        "direction": "down"
+      },
+      {
+        "name": "Yonaguni",
+        "artist": "Bad Bunny",
+        "from": 80,
+        "to": 76,
+        "movement": "↑4",
+        "direction": "up"
+      },
+      {
+        "name": "Rock With You",
+        "artist": "Michael Jackson",
+        "from": 82,
+        "to": 73,
+        "movement": "↑9",
+        "direction": "up"
+      },
+      {
+        "name": "Snooze",
+        "artist": "SZA",
+        "from": 83,
+        "to": 84,
+        "movement": "↓1",
+        "direction": "down"
+      },
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "from": 84,
+        "to": 83,
+        "movement": "↑1",
+        "direction": "up"
+      },
+      {
+        "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+        "artist": "Future",
+        "from": 85,
+        "to": 80,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "Make Them Cry",
+        "artist": "Drake",
+        "from": 86,
+        "to": 92,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "White Keys",
+        "artist": "Dominic Fike",
+        "from": 88,
+        "to": 91,
+        "movement": "↓3",
+        "direction": "down"
+      },
+      {
+        "name": "Beautiful Things",
+        "artist": "Benson Boone",
+        "from": 89,
+        "to": 85,
+        "movement": "↑4",
+        "direction": "up"
+      },
+      {
+        "name": "thank u, next",
+        "artist": "Ariana Grande",
+        "from": 91,
+        "to": 89,
+        "movement": "↑2",
+        "direction": "up"
+      },
+      {
+        "name": "Dirty Diana",
+        "artist": "Michael Jackson",
+        "from": 92,
+        "to": 77,
+        "movement": "↑15",
+        "direction": "up"
+      },
+      {
+        "name": "Cowgirls (feat. ERNEST)",
+        "artist": "Morgan Wallen",
+        "from": 93,
+        "to": 88,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "Don’t Worry",
+        "artist": "Drake",
+        "from": 94,
+        "to": 96,
+        "movement": "↓2",
+        "direction": "down"
+      },
+      {
+        "name": "Into You",
+        "artist": "Ariana Grande",
+        "from": 96,
+        "to": 93,
+        "movement": "↑3",
+        "direction": "up"
+      },
+      {
+        "name": "Thinkin’ Bout Me",
+        "artist": "Morgan Wallen",
+        "from": 100,
+        "to": 94,
+        "movement": "↑6",
+        "direction": "up"
+      }
+    ],
     "stale": [],
-    "timestamp": "2026-06-26T09:26:22.338Z",
+    "timestamp": "2026-06-26T09:36:37.180Z",
     "playlistName": "Top 100 Global"
   }
 }
