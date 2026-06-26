@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Ghana",
-  "timestamp": "2026-06-26T09:36:29.949Z",
+  "timestamp": "2026-06-26T09:46:05.739Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -1362,26 +1362,10 @@
         "to": 96,
         "movement": "↑1",
         "direction": "up"
-      },
-      {
-        "name": "Changes",
-        "artist": "Black Sherif",
-        "from": 99,
-        "to": 98,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Mofe",
-        "artist": "Mavo",
-        "from": 100,
-        "to": 99,
-        "movement": "↑1",
-        "direction": "up"
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T09:36:29.949Z",
+    "timestamp": "2026-06-26T09:46:05.738Z",
     "playlistName": "Top 100 Ghana"
   }
 }

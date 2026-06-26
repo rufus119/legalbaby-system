@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Global",
-  "timestamp": "2026-06-26T09:36:37.180Z",
+  "timestamp": "2026-06-26T09:46:12.471Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -1260,14 +1260,6 @@
         "direction": "down"
       },
       {
-        "name": "Mr. Brightside",
-        "artist": "The Killers",
-        "from": 84,
-        "to": 83,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
         "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
         "artist": "Future",
         "from": 85,
@@ -1349,7 +1341,7 @@
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T09:36:37.180Z",
+    "timestamp": "2026-06-26T09:46:12.470Z",
     "playlistName": "Top 100 Global"
   }
 }

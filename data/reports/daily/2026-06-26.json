@@ -3,12 +3,12 @@
     "type": "daily",
     "playlistName": "Top 100 Nigeria",
     "date": "2026-06-26",
-    "timestamp": "2026-06-26T09:36:22.933Z",
+    "timestamp": "2026-06-26T09:45:58.526Z",
     "summary": {
       "totalTracks": 100,
       "newEntries": 2,
       "removals": 2,
-      "movements": 69,
+      "movements": 62,
       "staleRemoved": 0
     },
     "newEntries": [
@@ -403,14 +403,6 @@
         "action": "MOVE from #72 to #63"
       },
       {
-        "name": "BIG TIME",
-        "artist": "ODUMODUBLVCK",
-        "from": "#73",
-        "to": "#74",
-        "movement": "↓1",
-        "action": "MOVE from #73 to #74"
-      },
-      {
         "name": "COPING MECHANISM",
         "artist": "OMAH LAY",
         "from": "#74",
@@ -499,28 +491,12 @@
         "action": "MOVE from #84 to #73"
       },
       {
-        "name": "Set Up",
-        "artist": "BNXN",
-        "from": "#85",
-        "to": "#87",
-        "movement": "↓2",
-        "action": "MOVE from #85 to #87"
-      },
-      {
         "name": "Bahamas",
         "artist": "Young Jonn",
         "from": "#86",
         "to": "#90",
         "movement": "↓4",
         "action": "MOVE from #86 to #90"
-      },
-      {
-        "name": "LEGOLAS",
-        "artist": "ODUMODUBLVCK",
-        "from": "#87",
-        "to": "#89",
-        "movement": "↓2",
-        "action": "MOVE from #87 to #89"
       },
       {
         "name": "Slow (feat. Anais Cardot)",
@@ -555,44 +531,12 @@
         "action": "MOVE from #92 to #91"
       },
       {
-        "name": "Today",
-        "artist": "Seyi Vibez",
-        "from": "#94",
-        "to": "#95",
-        "movement": "↓1",
-        "action": "MOVE from #94 to #95"
-      },
-      {
-        "name": "Bandana",
-        "artist": "Fireboy DML",
-        "from": "#95",
-        "to": "#96",
-        "movement": "↓1",
-        "action": "MOVE from #95 to #96"
-      },
-      {
-        "name": "Paparazzi",
-        "artist": "Shoday",
-        "from": "#96",
-        "to": "#97",
-        "movement": "↓1",
-        "action": "MOVE from #96 to #97"
-      },
-      {
         "name": "Energy",
         "artist": "Tiwa Savage",
         "from": "#97",
         "to": "#94",
         "movement": "↑3",
         "action": "MOVE from #97 to #94"
-      },
-      {
-        "name": "B’s On The Table",
-        "artist": "Drake",
-        "from": "#98",
-        "to": "#99",
-        "movement": "↓1",
-        "action": "MOVE from #98 to #99"
       }
     ],
     "instructions": [
@@ -630,7 +574,7 @@
       },
       {
         "action": "REORDER_TRACKS",
-        "count": 69,
+        "count": 62,
         "items": [
           {
             "track": "Chanel (feat. Asake)",
@@ -903,12 +847,6 @@
             "to": 63
           },
           {
-            "track": "BIG TIME",
-            "artist": "ODUMODUBLVCK",
-            "from": 73,
-            "to": 74
-          },
-          {
             "track": "COPING MECHANISM",
             "artist": "OMAH LAY",
             "from": 74,
@@ -975,22 +913,10 @@
             "to": 73
           },
           {
-            "track": "Set Up",
-            "artist": "BNXN",
-            "from": 85,
-            "to": 87
-          },
-          {
             "track": "Bahamas",
             "artist": "Young Jonn",
             "from": 86,
             "to": 90
-          },
-          {
-            "track": "LEGOLAS",
-            "artist": "ODUMODUBLVCK",
-            "from": 87,
-            "to": 89
           },
           {
             "track": "Slow (feat. Anais Cardot)",
@@ -1017,34 +943,10 @@
             "to": 91
           },
           {
-            "track": "Today",
-            "artist": "Seyi Vibez",
-            "from": 94,
-            "to": 95
-          },
-          {
-            "track": "Bandana",
-            "artist": "Fireboy DML",
-            "from": 95,
-            "to": 96
-          },
-          {
-            "track": "Paparazzi",
-            "artist": "Shoday",
-            "from": 96,
-            "to": 97
-          },
-          {
             "track": "Energy",
             "artist": "Tiwa Savage",
             "from": 97,
             "to": 94
-          },
-          {
-            "track": "B’s On The Table",
-            "artist": "Drake",
-            "from": 98,
-            "to": 99
           }
         ]
       }
@@ -1558,12 +1460,12 @@
     "type": "daily",
     "playlistName": "Top 100 Ghana",
     "date": "2026-06-26",
-    "timestamp": "2026-06-26T09:36:29.950Z",
+    "timestamp": "2026-06-26T09:46:05.739Z",
     "summary": {
       "totalTracks": 100,
       "newEntries": 1,
       "removals": 1,
-      "movements": 82,
+      "movements": 80,
       "staleRemoved": 0
     },
     "newEntries": [
@@ -2223,22 +2125,6 @@
         "to": "#96",
         "movement": "↑1",
         "action": "MOVE from #97 to #96"
-      },
-      {
-        "name": "Changes",
-        "artist": "Black Sherif",
-        "from": "#99",
-        "to": "#98",
-        "movement": "↑1",
-        "action": "MOVE from #99 to #98"
-      },
-      {
-        "name": "Mofe",
-        "artist": "Mavo",
-        "from": "#100",
-        "to": "#99",
-        "movement": "↑1",
-        "action": "MOVE from #100 to #99"
       }
     ],
     "instructions": [
@@ -2266,7 +2152,7 @@
       },
       {
         "action": "REORDER_TRACKS",
-        "count": 82,
+        "count": 80,
         "items": [
           {
             "track": "Chanel (feat. Asake)",
@@ -2747,18 +2633,6 @@
             "artist": "Davido",
             "from": 97,
             "to": 96
-          },
-          {
-            "track": "Changes",
-            "artist": "Black Sherif",
-            "from": 99,
-            "to": 98
-          },
-          {
-            "track": "Mofe",
-            "artist": "Mavo",
-            "from": 100,
-            "to": 99
           }
         ]
       }
@@ -3272,12 +3146,12 @@
     "type": "daily",
     "playlistName": "Top 100 Global",
     "date": "2026-06-26",
-    "timestamp": "2026-06-26T09:36:37.181Z",
+    "timestamp": "2026-06-26T09:46:12.471Z",
     "summary": {
       "totalTracks": 100,
       "newEntries": 3,
       "removals": 3,
-      "movements": 75,
+      "movements": 74,
       "staleRemoved": 0
     },
     "newEntries": [
@@ -3837,14 +3711,6 @@
         "action": "MOVE from #83 to #84"
       },
       {
-        "name": "Mr. Brightside",
-        "artist": "The Killers",
-        "from": "#84",
-        "to": "#83",
-        "movement": "↑1",
-        "action": "MOVE from #84 to #83"
-      },
-      {
         "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
         "artist": "Future",
         "from": "#85",
@@ -3970,7 +3836,7 @@
       },
       {
         "action": "REORDER_TRACKS",
-        "count": 75,
+        "count": 74,
         "items": [
           {
             "track": "the cure",
@@ -4355,12 +4221,6 @@
             "artist": "SZA",
             "from": 83,
             "to": 84
-          },
-          {
-            "track": "Mr. Brightside",
-            "artist": "The Killers",
-            "from": 84,
-            "to": 83
           },
           {
             "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
@@ -4934,7 +4794,7 @@
     "type": "daily",
     "playlistName": "Top 100 US",
     "date": "2026-06-26",
-    "timestamp": "2026-06-26T09:36:44.058Z",
+    "timestamp": "2026-06-26T09:46:19.237Z",
     "summary": {
       "totalTracks": 100,
       "newEntries": 2,
@@ -6685,12 +6545,12 @@
     "type": "daily",
     "playlistName": "Top 100 UK",
     "date": "2026-06-26",
-    "timestamp": "2026-06-26T09:36:51.169Z",
+    "timestamp": "2026-06-26T09:46:25.833Z",
     "summary": {
       "totalTracks": 100,
       "newEntries": 5,
       "removals": 5,
-      "movements": 87,
+      "movements": 86,
       "staleRemoved": 0
     },
     "newEntries": [
@@ -7364,14 +7224,6 @@
         "action": "MOVE from #85 to #90"
       },
       {
-        "name": "New Rules",
-        "artist": "Dua Lipa",
-        "from": "#86",
-        "to": "#84",
-        "movement": "↑2",
-        "action": "MOVE from #86 to #84"
-      },
-      {
         "name": "National Treasures",
         "artist": "Drake",
         "from": "#87",
@@ -7525,7 +7377,7 @@
       },
       {
         "action": "REORDER_TRACKS",
-        "count": 87,
+        "count": 86,
         "items": [
           {
             "track": "stupid song",
@@ -7976,12 +7828,6 @@
             "artist": "Glass Animals",
             "from": 85,
             "to": 90
-          },
-          {
-            "track": "New Rules",
-            "artist": "Dua Lipa",
-            "from": 86,
-            "to": 84
           },
           {
             "track": "National Treasures",

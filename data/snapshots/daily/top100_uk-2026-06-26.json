@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 UK",
-  "timestamp": "2026-06-26T09:36:51.168Z",
+  "timestamp": "2026-06-26T09:46:25.833Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -1372,14 +1372,6 @@
         "direction": "down"
       },
       {
-        "name": "New Rules",
-        "artist": "Dua Lipa",
-        "from": 86,
-        "to": 84,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
         "name": "National Treasures",
         "artist": "Drake",
         "from": 87,
@@ -1469,7 +1461,7 @@
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T09:36:51.168Z",
+    "timestamp": "2026-06-26T09:46:25.833Z",
     "playlistName": "Top 100 UK"
   }
 }

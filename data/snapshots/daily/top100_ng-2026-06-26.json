@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Nigeria",
-  "timestamp": "2026-06-26T09:36:22.933Z",
+  "timestamp": "2026-06-26T09:45:58.526Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -1096,14 +1096,6 @@
         "direction": "up"
       },
       {
-        "name": "BIG TIME",
-        "artist": "ODUMODUBLVCK",
-        "from": 73,
-        "to": 74,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
         "name": "COPING MECHANISM",
         "artist": "OMAH LAY",
         "from": 74,
@@ -1192,27 +1184,11 @@
         "direction": "up"
       },
       {
-        "name": "Set Up",
-        "artist": "BNXN",
-        "from": 85,
-        "to": 87,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
         "name": "Bahamas",
         "artist": "Young Jonn",
         "from": 86,
         "to": 90,
         "movement": "↓4",
-        "direction": "down"
-      },
-      {
-        "name": "LEGOLAS",
-        "artist": "ODUMODUBLVCK",
-        "from": 87,
-        "to": 89,
-        "movement": "↓2",
         "direction": "down"
       },
       {
@@ -1248,48 +1224,16 @@
         "direction": "up"
       },
       {
-        "name": "Today",
-        "artist": "Seyi Vibez",
-        "from": 94,
-        "to": 95,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
-        "name": "Bandana",
-        "artist": "Fireboy DML",
-        "from": 95,
-        "to": 96,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
-        "name": "Paparazzi",
-        "artist": "Shoday",
-        "from": 96,
-        "to": 97,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
         "name": "Energy",
         "artist": "Tiwa Savage",
         "from": 97,
         "to": 94,
         "movement": "↑3",
         "direction": "up"
-      },
-      {
-        "name": "B’s On The Table",
-        "artist": "Drake",
-        "from": 98,
-        "to": 99,
-        "movement": "↓1",
-        "direction": "down"
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T09:36:22.932Z",
+    "timestamp": "2026-06-26T09:45:58.525Z",
     "playlistName": "Top 100 Nigeria"
   }
 }
