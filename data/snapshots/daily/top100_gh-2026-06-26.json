@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Ghana",
-  "timestamp": "2026-06-26T09:46:05.739Z",
+  "timestamp": "2026-06-26T10:12:52.146Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -724,36 +724,12 @@
     ],
     "moved": [
       {
-        "name": "Chanel (feat. Asake)",
-        "artist": "Blaqbonez",
-        "from": 2,
-        "to": 3,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
         "name": "Forgiveness",
         "artist": "Asake",
         "from": 3,
         "to": 2,
         "movement": "↑1",
         "direction": "up"
-      },
-      {
-        "name": "PAIN III",
-        "artist": "O'Kenneth",
-        "from": 4,
-        "to": 5,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
-        "name": "SWAGGA",
-        "artist": "Black Sherif",
-        "from": 5,
-        "to": 6,
-        "movement": "↓1",
-        "direction": "down"
       },
       {
         "name": "Gratitude",
@@ -764,28 +740,12 @@
         "direction": "up"
       },
       {
-        "name": "EVERLASTING",
-        "artist": "Sarkodie",
-        "from": 10,
-        "to": 12,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
         "name": "WHY LOVE",
         "artist": "Asake",
         "from": 12,
         "to": 10,
         "movement": "↑2",
         "direction": "up"
-      },
-      {
-        "name": "Top of the Morning",
-        "artist": "Black Sherif",
-        "from": 14,
-        "to": 15,
-        "movement": "↓1",
-        "direction": "down"
       },
       {
         "name": "Kakalika",
@@ -836,22 +796,6 @@
         "direction": "up"
       },
       {
-        "name": "PAIN II",
-        "artist": "O'Kenneth",
-        "from": 26,
-        "to": 24,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "Nakupenda (feat. Al Xapo & Zlatan)",
-        "artist": "TxC",
-        "from": 28,
-        "to": 31,
-        "movement": "↓3",
-        "direction": "down"
-      },
-      {
         "name": "MCBH",
         "artist": "Asake",
         "from": 29,
@@ -868,14 +812,6 @@
         "direction": "up"
       },
       {
-        "name": "ME MPAEBƆ (feat. 7enR)",
-        "artist": "O'Kenneth",
-        "from": 32,
-        "to": 33,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
         "name": "Yawa (Hosanna)",
         "artist": "Kwesi Arthur",
         "from": 33,
@@ -889,22 +825,6 @@
         "from": 35,
         "to": 32,
         "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "FAR FROM HOME",
-        "artist": "O'Kenneth",
-        "from": 36,
-        "to": 35,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "COLD SHOULDER",
-        "artist": "O'Kenneth",
-        "from": 37,
-        "to": 36,
-        "movement": "↑1",
         "direction": "up"
       },
       {
@@ -932,14 +852,6 @@
         "direction": "up"
       },
       {
-        "name": "MY SWING",
-        "artist": "O'Kenneth",
-        "from": 42,
-        "to": 40,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
         "name": "I AM",
         "artist": "OMAH LAY",
         "from": 43,
@@ -948,28 +860,12 @@
         "direction": "down"
       },
       {
-        "name": "Big Bricks II (feat. Medikal & Lalid)",
-        "artist": "Essumann",
-        "from": 44,
-        "to": 42,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
         "name": "Body",
         "artist": "Black Sherif",
         "from": 45,
         "to": 50,
         "movement": "↓5",
         "direction": "down"
-      },
-      {
-        "name": "Rora",
-        "artist": "Asake",
-        "from": 47,
-        "to": 43,
-        "movement": "↑4",
-        "direction": "up"
       },
       {
         "name": "Young Boy",
@@ -1004,35 +900,11 @@
         "direction": "up"
       },
       {
-        "name": "Come Closer (feat. Drake)",
-        "artist": "Wizkid",
-        "from": 52,
-        "to": 44,
-        "movement": "↑8",
-        "direction": "up"
-      },
-      {
         "name": "BALENCIAGA II (feat. SAMA', Oseikrom Sikanii & Joey B)",
         "artist": "O'Kenneth",
         "from": 53,
         "to": 52,
         "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Adu the Borga",
-        "artist": "Kweku Smoke",
-        "from": 54,
-        "to": 47,
-        "movement": "↑7",
-        "direction": "up"
-      },
-      {
-        "name": "Raindance",
-        "artist": "Dave",
-        "from": 55,
-        "to": 51,
-        "movement": "↑4",
         "direction": "up"
       },
       {
@@ -1060,36 +932,12 @@
         "direction": "down"
       },
       {
-        "name": "Jah Guide",
-        "artist": "Kweku Smoke",
-        "from": 59,
-        "to": 54,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "Soja",
-        "artist": "Black Sherif",
-        "from": 60,
-        "to": 55,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
         "name": "ODO PA",
         "artist": "Sarkodie",
         "from": 61,
         "to": 71,
         "movement": "↓10",
         "direction": "down"
-      },
-      {
-        "name": "BEETLES (feat. Chicogod)",
-        "artist": "O'Kenneth",
-        "from": 62,
-        "to": 61,
-        "movement": "↑1",
-        "direction": "up"
       },
       {
         "name": "Oba",
@@ -1124,36 +972,12 @@
         "direction": "down"
       },
       {
-        "name": "Sa Me (feat. City Boy)",
-        "artist": "Reggie",
-        "from": 67,
-        "to": 64,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
         "name": "Jailer (feat. Victony)",
         "artist": "Sarkodie",
         "from": 68,
         "to": 70,
         "movement": "↓2",
         "direction": "down"
-      },
-      {
-        "name": "The Victory Song",
-        "artist": "Black Sherif",
-        "from": 69,
-        "to": 65,
-        "movement": "↑4",
-        "direction": "up"
-      },
-      {
-        "name": "Sisa",
-        "artist": "King Promise",
-        "from": 70,
-        "to": 67,
-        "movement": "↑3",
-        "direction": "up"
       },
       {
         "name": "Amen",
@@ -1172,14 +996,6 @@
         "direction": "up"
       },
       {
-        "name": "Janice STFU",
-        "artist": "Drake",
-        "from": 73,
-        "to": 75,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
         "name": "Winning (feat. VIC MENSA)",
         "artist": "Kwesi Arthur",
         "from": 74,
@@ -1194,14 +1010,6 @@
         "to": 72,
         "movement": "↑3",
         "direction": "up"
-      },
-      {
-        "name": "SOYINKA",
-        "artist": "O'Kenneth",
-        "from": 76,
-        "to": 77,
-        "movement": "↓1",
-        "direction": "down"
       },
       {
         "name": "Kwaku the Traveller",
@@ -1236,22 +1044,6 @@
         "direction": "up"
       },
       {
-        "name": "January 9th",
-        "artist": "Black Sherif",
-        "from": 81,
-        "to": 82,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
-        "name": "Where Dem Boyz",
-        "artist": "Black Sherif",
-        "from": 82,
-        "to": 85,
-        "movement": "↓3",
-        "direction": "down"
-      },
-      {
         "name": "Won't Be Here Forever",
         "artist": "Reggie",
         "from": 83,
@@ -1284,22 +1076,6 @@
         "direction": "up"
       },
       {
-        "name": "Skilful",
-        "artist": "Asake",
-        "from": 87,
-        "to": 86,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Mmerepa",
-        "artist": "Kweku Smoke",
-        "from": 88,
-        "to": 89,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
         "name": "10 Toes (feat. Omah Lay)",
         "artist": "King Promise",
         "from": 89,
@@ -1314,14 +1090,6 @@
         "to": 80,
         "movement": "↑10",
         "direction": "up"
-      },
-      {
-        "name": "SAME TIMBS",
-        "artist": "Gonaboy",
-        "from": 91,
-        "to": 92,
-        "movement": "↓1",
-        "direction": "down"
       },
       {
         "name": "Lord I'm Amazed",
@@ -1346,26 +1114,10 @@
         "to": 97,
         "movement": "↓2",
         "direction": "down"
-      },
-      {
-        "name": "Jogodo",
-        "artist": "Wizkid",
-        "from": 96,
-        "to": 95,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "UNAVAILABLE (feat. Musa Keys)",
-        "artist": "Davido",
-        "from": 97,
-        "to": 96,
-        "movement": "↑1",
-        "direction": "up"
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T09:46:05.738Z",
+    "timestamp": "2026-06-26T10:12:52.143Z",
     "playlistName": "Top 100 Ghana"
   }
 }

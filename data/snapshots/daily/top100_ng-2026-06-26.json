@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Nigeria",
-  "timestamp": "2026-06-26T09:45:58.526Z",
+  "timestamp": "2026-06-26T10:12:45.024Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -736,36 +736,12 @@
     ],
     "moved": [
       {
-        "name": "Chanel (feat. Asake)",
-        "artist": "Blaqbonez",
-        "from": 3,
-        "to": 4,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
         "name": "WHY LOVE",
         "artist": "Asake",
         "from": 4,
         "to": 3,
         "movement": "↑1",
         "direction": "up"
-      },
-      {
-        "name": "MOTION SICKNESS (feat. Zlatan)",
-        "artist": "ODUMODUBLVCK",
-        "from": 18,
-        "to": 19,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
-        "name": "Tornado",
-        "artist": "Ayra Starr",
-        "from": 19,
-        "to": 21,
-        "movement": "↓2",
-        "direction": "down"
       },
       {
         "name": "Come Closer (feat. Drake)",
@@ -792,68 +768,12 @@
         "direction": "down"
       },
       {
-        "name": "Ginger (feat. Burna Boy)",
-        "artist": "Wizkid",
-        "from": 25,
-        "to": 24,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "fine ting (fine $hit)",
-        "artist": "FOLA",
-        "from": 26,
-        "to": 25,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Amapiano",
-        "artist": "Asake",
-        "from": 27,
-        "to": 26,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Joro",
-        "artist": "Wizkid",
-        "from": 28,
-        "to": 27,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Very Soon",
-        "artist": "BNXN",
-        "from": 29,
-        "to": 30,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
         "name": "UNAVAILABLE (feat. Musa Keys)",
         "artist": "Davido",
         "from": 30,
         "to": 29,
         "movement": "↑1",
         "direction": "up"
-      },
-      {
-        "name": "Aura Salad",
-        "artist": "SSSoundGawd",
-        "from": 31,
-        "to": 32,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
-        "name": "Aanu Ni",
-        "artist": "BisiManuel",
-        "from": 32,
-        "to": 33,
-        "movement": "↓1",
-        "direction": "down"
       },
       {
         "name": "FRE$H",
@@ -872,36 +792,12 @@
         "direction": "down"
       },
       {
-        "name": "Holy Ground (feat. Nicki Minaj)",
-        "artist": "Davido",
-        "from": 37,
-        "to": 36,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Mofe",
-        "artist": "Mavo",
-        "from": 38,
-        "to": 37,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
         "name": "Juice & Liquor",
         "artist": "Magixx",
         "from": 39,
         "to": 49,
         "movement": "↓10",
         "direction": "down"
-      },
-      {
-        "name": "MY HEALER",
-        "artist": "Seyi Vibez",
-        "from": 40,
-        "to": 39,
-        "movement": "↑1",
-        "direction": "up"
       },
       {
         "name": "Turbulence",
@@ -928,14 +824,6 @@
         "direction": "down"
       },
       {
-        "name": "you",
-        "artist": "FOLA",
-        "from": 44,
-        "to": 41,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
         "name": "Colorado",
         "artist": "Johnny Drille",
         "from": 46,
@@ -944,52 +832,12 @@
         "direction": "down"
       },
       {
-        "name": "Moving",
-        "artist": "OMAH LAY",
-        "from": 47,
-        "to": 42,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "For Days",
-        "artist": "BNXN",
-        "from": 48,
-        "to": 43,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "Tumo Weto",
-        "artist": "Mavo",
-        "from": 49,
-        "to": 46,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "FUJI MOTO",
-        "artist": "Seyi Vibez",
-        "from": 50,
-        "to": 48,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
         "name": "Bad Influence",
         "artist": "OMAH LAY",
         "from": 53,
         "to": 50,
         "movement": "↑3",
         "direction": "up"
-      },
-      {
-        "name": "Emotional High",
-        "artist": "BNXN",
-        "from": 54,
-        "to": 55,
-        "movement": "↓1",
-        "direction": "down"
       },
       {
         "name": "Stay For The Night",
@@ -1008,27 +856,11 @@
         "direction": "up"
       },
       {
-        "name": "Nakupenda (feat. Al Xapo & Zlatan)",
-        "artist": "TxC",
-        "from": 62,
-        "to": 64,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
         "name": "Waist",
         "artist": "OMAH LAY",
         "from": 63,
         "to": 68,
         "movement": "↓5",
-        "direction": "down"
-      },
-      {
-        "name": "Outside",
-        "artist": "BNXN",
-        "from": 64,
-        "to": 65,
-        "movement": "↓1",
         "direction": "down"
       },
       {
@@ -1040,44 +872,12 @@
         "direction": "up"
       },
       {
-        "name": "Ten Times",
-        "artist": "Young Jonn",
-        "from": 66,
-        "to": 67,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
         "name": "Laye Mi",
         "artist": "BNXN",
         "from": 67,
         "to": 66,
         "movement": "↑1",
         "direction": "up"
-      },
-      {
-        "name": "STATE OF MIND",
-        "artist": "DJ Tunez",
-        "from": 68,
-        "to": 70,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
-        "name": "Karma",
-        "artist": "Seyi Vibez",
-        "from": 69,
-        "to": 71,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
-        "name": "Intro",
-        "artist": "Asake",
-        "from": 70,
-        "to": 79,
-        "movement": "↓9",
-        "direction": "down"
       },
       {
         "name": "DON'T LOVE ME",
@@ -1096,11 +896,11 @@
         "direction": "up"
       },
       {
-        "name": "COPING MECHANISM",
-        "artist": "OMAH LAY",
-        "from": 74,
-        "to": 81,
-        "movement": "↓7",
+        "name": "BIG TIME",
+        "artist": "ODUMODUBLVCK",
+        "from": 73,
+        "to": 74,
+        "movement": "↓1",
         "direction": "down"
       },
       {
@@ -1109,14 +909,6 @@
         "from": 75,
         "to": 78,
         "movement": "↓3",
-        "direction": "down"
-      },
-      {
-        "name": "Shabang",
-        "artist": "Drake",
-        "from": 76,
-        "to": 86,
-        "movement": "↓10",
         "direction": "down"
       },
       {
@@ -1184,11 +976,11 @@
         "direction": "up"
       },
       {
-        "name": "Bahamas",
-        "artist": "Young Jonn",
-        "from": 86,
-        "to": 90,
-        "movement": "↓4",
+        "name": "LEGOLAS",
+        "artist": "ODUMODUBLVCK",
+        "from": 87,
+        "to": 89,
+        "movement": "↓2",
         "direction": "down"
       },
       {
@@ -1216,14 +1008,6 @@
         "direction": "up"
       },
       {
-        "name": "Pressure",
-        "artist": "Seyi Vibez",
-        "from": 92,
-        "to": 91,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
         "name": "Energy",
         "artist": "Tiwa Savage",
         "from": 97,
@@ -1233,7 +1017,7 @@
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T09:45:58.525Z",
+    "timestamp": "2026-06-26T10:12:45.023Z",
     "playlistName": "Top 100 Nigeria"
   }
 }
