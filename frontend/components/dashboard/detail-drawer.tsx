@@ -4,7 +4,6 @@ import { useRouter } from "next/navigation";
 import { AnimatePresence, motion } from "framer-motion";
 import { X } from "lucide-react";
 import { downloadJson } from "@/lib/dashboard-helpers";
-import { buildInsights } from "@/lib/insights-engine";
 import { DetailSelection, DailyReport, WeeklyReport } from "@/lib/types";
 
 type DetailDrawerProps = {
@@ -90,6 +89,7 @@ function ActionList({ title, items }: { title: string; items: string[] }) {
 function DailyBody({ report }: { report: DailyReport }) {
   const baseline = report.mode === "baseline" || report.baselineRun;
   const country = report.playlistName.split(" ").at(-1) || "Global";
+  const exactSteps = (report.syncPlan || []).map((step) => step.action);
   const additions = baseline
     ? (report.topTracks || []).map((t) => `#${t.position}  ${t.artist} - ${t.name}`)
     : (report.newEntries || []).map((t) => `ADD at #${t.position}  ${t.artist} - ${t.name}`);
@@ -107,6 +107,7 @@ function DailyBody({ report }: { report: DailyReport }) {
           `Moved: ${report.summary.movements}`,
         ]}
       />
+      <ActionList title={baseline ? "Exact Top 100" : "Exact Sync Plan"} items={baseline ? additions : exactSteps} />
       <ActionList title={baseline ? "Baseline Top 100" : "New Additions"} items={additions} />
       <ActionList title="Moves" items={moves} />
       <ActionList title="Removals" items={removals} />
@@ -116,6 +117,7 @@ function DailyBody({ report }: { report: DailyReport }) {
 
 function WeeklyBody({ report }: { report: WeeklyReport }) {
   const baseline = report.mode === "baseline" || report.baselineRun;
+  const exactSteps = (report.syncPlan || []).map((step) => step.action);
   const additions = baseline
     ? (report.topTracks || []).map((t) => `#${t.position}  ${t.artist} - ${t.name}`)
     : (report.hotNewSongs || []).map((t) => `ADD at #${t.position}  ${t.artist} - ${t.name}`);
@@ -132,6 +134,7 @@ function WeeklyBody({ report }: { report: WeeklyReport }) {
           `Moved: ${report.summary.positionChanges}`,
         ]}
       />
+      <ActionList title={baseline ? "Exact Top 50" : "Exact Sync Plan"} items={baseline ? additions : exactSteps} />
       <ActionList title={baseline ? "Baseline Top 50" : "New Additions"} items={additions} />
       <ActionList title="Moves" items={moves} />
       <ActionList title="Removals" items={removals} />

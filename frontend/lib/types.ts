@@ -3,6 +3,7 @@ export type DailyReport = {
   playlistName: string;
   date: string;
   timestamp: string;
+  baselineRun?: boolean;
   mode?: "baseline" | "delta";
   summary: {
     totalTracks: number;
@@ -12,7 +13,16 @@ export type DailyReport = {
   };
   newEntries?: Array<{ name: string; artist: string; position: number }>;
   removals?: Array<{ name: string; artist: string }>;
-  movements?: Array<{ name: string; from: string | number; to: string | number }>;
+  movements?: Array<{ name: string; artist: string; from: string | number; to: string | number }>;
+  syncPlan?: Array<{
+    type: "SET" | "REMOVE" | "ADD" | "MOVE";
+    action: string;
+    track: string;
+    artist: string;
+    position?: number;
+    from?: number;
+    to?: number;
+  }>;
   topTracks?: Array<{ position: number; name: string; artist: string; score?: number }>;
 };
 
@@ -21,6 +31,7 @@ export type WeeklyReport = {
   playlistName: string;
   week: string;
   timestamp: string;
+  baselineRun?: boolean;
   mode?: "baseline" | "delta";
   summary: {
     totalTracks: number;
@@ -30,7 +41,16 @@ export type WeeklyReport = {
   };
   hotNewSongs?: Array<{ name: string; artist: string; position: number }>;
   songsToRemove?: Array<{ name: string; artist: string }>;
-  positionAdjustments?: Array<{ name: string; from: string | number; to: string | number }>;
+  positionAdjustments?: Array<{ name: string; artist: string; from: string | number; to: string | number }>;
+  syncPlan?: Array<{
+    type: "SET" | "REMOVE" | "ADD" | "MOVE";
+    action: string;
+    track: string;
+    artist: string;
+    position?: number;
+    from?: number;
+    to?: number;
+  }>;
   topTracks?: Array<{ position: number; name: string; artist: string; score?: number }>;
 };
 
