@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 UK",
-  "timestamp": "2026-06-26T10:32:04.550Z",
+  "timestamp": "2026-06-26T11:22:22.147Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -96,8 +96,8 @@
       "appearances": 1
     },
     {
-      "id": "i-knew-it,-i-knew-you-taylor-swift",
-      "name": "I Knew It, I Knew You",
+      "id": "i-knew-it,-i-knew-you-(from-\"toy-story-5\")-taylor-swift",
+      "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "performanceScore": 91.6,
       "appearances": 1
@@ -708,6 +708,12 @@
   "changes": {
     "added": [
       {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "artist": "Taylor Swift",
+        "position": 14,
+        "score": 91.6
+      },
+      {
         "name": "Bad Dreams",
         "artist": "Teddy Swims",
         "position": 83,
@@ -739,6 +745,12 @@
       }
     ],
     "removed": [
+      {
+        "name": "I Knew It, I Knew You",
+        "artist": "Taylor Swift",
+        "reason": "dropped",
+        "age": 0
+      },
       {
         "name": "Three Lions",
         "artist": "David Baddiel",
@@ -1069,7 +1081,7 @@
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T10:32:04.549Z",
+    "timestamp": "2026-06-26T11:22:22.147Z",
     "playlistName": "Top 100 UK"
   }
 }

@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Global",
-  "timestamp": "2026-06-26T10:31:50.789Z",
+  "timestamp": "2026-06-26T11:22:09.286Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -68,8 +68,8 @@
       "appearances": 1
     },
     {
-      "id": "i-knew-it,-i-knew-you-taylor-swift",
-      "name": "I Knew It, I Knew You",
+      "id": "i-knew-it,-i-knew-you-(from-\"toy-story-5\")-taylor-swift",
+      "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "performanceScore": 94,
       "appearances": 1
@@ -708,6 +708,12 @@
   "changes": {
     "added": [
       {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "artist": "Taylor Swift",
+        "position": 10,
+        "score": 94
+      },
+      {
         "name": "God's Plan",
         "artist": "Drake",
         "position": 97,
@@ -727,6 +733,12 @@
       }
     ],
     "removed": [
+      {
+        "name": "I Knew It, I Knew You",
+        "artist": "Taylor Swift",
+        "reason": "dropped",
+        "age": 0
+      },
       {
         "name": "Karasu - Raven",
         "artist": "Kenshi Yonezu",
@@ -917,7 +929,7 @@
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T10:31:50.787Z",
+    "timestamp": "2026-06-26T11:22:09.285Z",
     "playlistName": "Top 100 Global"
   }
 }

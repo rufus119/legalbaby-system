@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 US",
-  "timestamp": "2026-06-26T10:31:57.722Z",
+  "timestamp": "2026-06-26T11:22:15.766Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -103,8 +103,8 @@
       "appearances": 1
     },
     {
-      "id": "i-knew-it,-i-knew-you-taylor-swift",
-      "name": "I Knew It, I Knew You",
+      "id": "i-knew-it,-i-knew-you-(from-\"toy-story-5\")-taylor-swift",
+      "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "performanceScore": 91,
       "appearances": 1
@@ -708,6 +708,12 @@
   "changes": {
     "added": [
       {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "artist": "Taylor Swift",
+        "position": 15,
+        "score": 91
+      },
+      {
         "name": "Rock With You",
         "artist": "Michael Jackson",
         "position": 91,
@@ -721,6 +727,12 @@
       }
     ],
     "removed": [
+      {
+        "name": "I Knew It, I Knew You",
+        "artist": "Taylor Swift",
+        "reason": "dropped",
+        "age": 0
+      },
       {
         "name": "Beauty and a Beat (feat. Nicki Minaj)",
         "artist": "Justin Bieber",
@@ -937,7 +949,7 @@
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T10:31:57.722Z",
+    "timestamp": "2026-06-26T11:22:15.765Z",
     "playlistName": "Top 100 US"
   }
 }
