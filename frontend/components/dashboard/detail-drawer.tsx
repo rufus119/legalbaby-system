@@ -88,16 +88,13 @@ function ActionList({ title, items }: { title: string; items: string[] }) {
 }
 
 function DailyBody({ report }: { report: DailyReport }) {
-  const intelligence = buildInsights([report], []);
-  const insights = intelligence.insightsByPlaylist.get(report.playlistName);
-  const health = intelligence.healthByPlaylist.get(report.playlistName);
-  const baseline = report.mode === "baseline";
+  const baseline = report.mode === "baseline" || report.baselineRun;
   const country = report.playlistName.split(" ").at(-1) || "Global";
   const additions = baseline
-    ? (report.topTracks || []).map((t) => `ADD #${t.position} ${t.artist} - ${t.name}`)
-    : (report.newEntries || []).map((t) => `ADD #${t.position} ${t.artist} - ${t.name}`);
-  const moves = (report.movements || []).map((t) => `MOVE ${t.name} from ${t.from} to ${t.to}`);
-  const removals = (report.removals || []).map((t) => `REMOVE ${t.artist} - ${t.name}`);
+    ? (report.topTracks || []).map((t) => `#${t.position}  ${t.artist} - ${t.name}`)
+    : (report.newEntries || []).map((t) => `ADD at #${t.position}  ${t.artist} - ${t.name}`);
+  const moves = (report.movements || []).map((t) => `${t.from} → ${t.to}  ${t.artist} - ${t.name}`);
+  const removals = (report.removals || []).map((t) => `${t.artist} - ${t.name}`);
 
   return (
     <div className="space-y-4">
@@ -110,96 +107,34 @@ function DailyBody({ report }: { report: DailyReport }) {
           `Moved: ${report.summary.movements}`,
         ]}
       />
-      <ActionList title={baseline ? "Baseline Top 100" : "Additions"} items={additions} />
-      <ActionList title="Top Movers" items={moves} />
+      <ActionList title={baseline ? "Baseline Top 100" : "New Additions"} items={additions} />
+      <ActionList title="Moves" items={moves} />
       <ActionList title="Removals" items={removals} />
-      <ActionList
-        title="Recommendations"
-        items={
-          insights
-            ? [
-                ...insights.recommendedAdditions.slice(0, 3).map((item) => `ADD ${item.name} - ${item.artist}`),
-                ...insights.recommendedRemovals.slice(0, 2).map((item) => `REMOVE ${item.name} - ${item.artist}`),
-                ...insights.songsToWatch.slice(0, 2).map((item) => `WATCH ${item.name} - ${item.artist}`),
-              ]
-            : ["No recommendation data available"]
-        }
-      />
-      <ActionList
-        title="Health Score"
-        items={
-          health
-            ? [
-                `Score: ${health.score}`,
-                `Status: ${health.status}`,
-                `Freshness: ${health.freshness}`,
-                `Momentum: ${health.momentum}`,
-                `Diversity: ${health.diversity}`,
-                `Recent Updates: ${health.recentUpdates}`,
-              ]
-            : ["Health unavailable"]
-        }
-      />
-      <ActionList title="Timeline" items={[`Snapshot Date: ${report.date}`, `Mode: ${report.mode || "delta"}`]} />
     </div>
   );
 }
 
 function WeeklyBody({ report }: { report: WeeklyReport }) {
-  const intelligence = buildInsights([], [report]);
-  const insights = intelligence.insightsByPlaylist.get(report.playlistName);
-  const health = intelligence.healthByPlaylist.get(report.playlistName);
-  const baseline = report.mode === "baseline";
-  const country = "Genre";
+  const baseline = report.mode === "baseline" || report.baselineRun;
   const additions = baseline
-    ? (report.topTracks || []).map((t) => `ADD #${t.position} ${t.artist} - ${t.name}`)
-    : (report.hotNewSongs || []).map((t) => `ADD #${t.position} ${t.artist} - ${t.name}`);
-  const moves = (report.positionAdjustments || []).map((t) => `MOVE ${t.name} from ${t.from} to ${t.to}`);
-  const removals = (report.songsToRemove || []).map((t) => `REMOVE ${t.artist} - ${t.name}`);
+    ? (report.topTracks || []).map((t) => `#${t.position}  ${t.artist} - ${t.name}`)
+    : (report.hotNewSongs || []).map((t) => `ADD at #${t.position}  ${t.artist} - ${t.name}`);
+  const moves = (report.positionAdjustments || []).map((t) => `${t.from} → ${t.to}  ${t.artist} - ${t.name}`);
+  const removals = (report.songsToRemove || []).map((t) => `${t.artist} - ${t.name}`);
 
   return (
     <div className="space-y-4">
       <ActionList
         title="Summary"
         items={[
-          `Country: ${country}`,
           `Added: ${report.summary.newHotSongs}`,
           `Removed: ${report.summary.removedSongs}`,
           `Moved: ${report.summary.positionChanges}`,
         ]}
       />
-      <ActionList title={baseline ? "Baseline Top 50" : "Additions"} items={additions} />
-      <ActionList title="Top Movers" items={moves} />
+      <ActionList title={baseline ? "Baseline Top 50" : "New Additions"} items={additions} />
+      <ActionList title="Moves" items={moves} />
       <ActionList title="Removals" items={removals} />
-      <ActionList title="Top New Entries" items={additions.slice(0, 10)} />
-      <ActionList
-        title="Recommendations"
-        items={
-          insights
-            ? [
-                ...insights.recommendedAdditions.slice(0, 3).map((item) => `ADD ${item.name} - ${item.artist}`),
-                ...insights.recommendedRemovals.slice(0, 2).map((item) => `REMOVE ${item.name} - ${item.artist}`),
-                ...insights.songsToWatch.slice(0, 2).map((item) => `WATCH ${item.name} - ${item.artist}`),
-              ]
-            : ["No recommendation data available"]
-        }
-      />
-      <ActionList
-        title="Health Score"
-        items={
-          health
-            ? [
-                `Score: ${health.score}`,
-                `Status: ${health.status}`,
-                `Freshness: ${health.freshness}`,
-                `Momentum: ${health.momentum}`,
-                `Diversity: ${health.diversity}`,
-                `Recent Updates: ${health.recentUpdates}`,
-              ]
-            : ["Health unavailable"]
-        }
-      />
-      <ActionList title="Timeline" items={[`Week: ${report.week}`, `Mode: ${report.mode || "delta"}`]} />
     </div>
   );
 }
