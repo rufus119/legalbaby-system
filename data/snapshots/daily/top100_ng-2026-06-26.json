@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Nigeria",
-  "timestamp": "2026-06-26T10:12:45.024Z",
+  "timestamp": "2026-06-26T10:15:39.310Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -736,76 +736,12 @@
     ],
     "moved": [
       {
-        "name": "WHY LOVE",
-        "artist": "Asake",
-        "from": 4,
-        "to": 3,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Come Closer (feat. Drake)",
-        "artist": "Wizkid",
-        "from": 20,
-        "to": 18,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "Change Your Mind (feat. Shaboozey)",
-        "artist": "Burna Boy",
-        "from": 21,
-        "to": 20,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Already",
-        "artist": "BNXN",
-        "from": 24,
-        "to": 28,
-        "movement": "↓4",
+        "name": "GO GO!",
+        "artist": "Khaid",
+        "from": 83,
+        "to": 98,
+        "movement": "↓15",
         "direction": "down"
-      },
-      {
-        "name": "UNAVAILABLE (feat. Musa Keys)",
-        "artist": "Davido",
-        "from": 30,
-        "to": 29,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "FRE$H",
-        "artist": "Victony",
-        "from": 33,
-        "to": 31,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "OPERA MINI",
-        "artist": "Poco Lee",
-        "from": 36,
-        "to": 40,
-        "movement": "↓4",
-        "direction": "down"
-      },
-      {
-        "name": "Juice & Liquor",
-        "artist": "Magixx",
-        "from": 39,
-        "to": 49,
-        "movement": "↓10",
-        "direction": "down"
-      },
-      {
-        "name": "Turbulence",
-        "artist": "Wizkid",
-        "from": 41,
-        "to": 38,
-        "movement": "↑3",
-        "direction": "up"
       },
       {
         "name": "Man On A Mission (feat. Wizkid)",
@@ -816,75 +752,27 @@
         "direction": "down"
       },
       {
-        "name": "Ripper's Fate",
-        "artist": "6uff",
-        "from": 43,
-        "to": 44,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
-        "name": "Colorado",
-        "artist": "Johnny Drille",
-        "from": 46,
-        "to": 47,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
-        "name": "Bad Influence",
-        "artist": "OMAH LAY",
-        "from": 53,
-        "to": 50,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Stay For The Night",
-        "artist": "Vybz Kartel",
-        "from": 55,
-        "to": 54,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Jies",
+        "name": "Rum & Soda",
         "artist": "BNXN",
-        "from": 56,
-        "to": 53,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Waist",
-        "artist": "OMAH LAY",
-        "from": 63,
-        "to": 68,
-        "movement": "↓5",
+        "from": 81,
+        "to": 92,
+        "movement": "↓11",
         "direction": "down"
       },
       {
-        "name": "One Condition",
-        "artist": "DJ Tunez",
-        "from": 65,
-        "to": 62,
-        "movement": "↑3",
+        "name": "Jogodo",
+        "artist": "Wizkid",
+        "from": 84,
+        "to": 73,
+        "movement": "↑11",
         "direction": "up"
       },
       {
-        "name": "Laye Mi",
-        "artist": "BNXN",
-        "from": 67,
-        "to": 66,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "DON'T LOVE ME",
-        "artist": "OMAH LAY",
-        "from": 71,
-        "to": 76,
-        "movement": "↓5",
+        "name": "Juice & Liquor",
+        "artist": "Magixx",
+        "from": 39,
+        "to": 49,
+        "movement": "↓10",
         "direction": "down"
       },
       {
@@ -896,19 +784,27 @@
         "direction": "up"
       },
       {
-        "name": "BIG TIME",
-        "artist": "ODUMODUBLVCK",
-        "from": 73,
-        "to": 74,
-        "movement": "↓1",
+        "name": "Ilashe Vibe (feat. MakoTheVibe, GABBEEGRAM, Boi Drixx & Wahala Music)",
+        "artist": "Wrldleadin",
+        "from": 90,
+        "to": 84,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "Waist",
+        "artist": "OMAH LAY",
+        "from": 63,
+        "to": 68,
+        "movement": "↓5",
         "direction": "down"
       },
       {
-        "name": "Raindance",
-        "artist": "Dave",
-        "from": 75,
-        "to": 78,
-        "movement": "↓3",
+        "name": "DON'T LOVE ME",
+        "artist": "OMAH LAY",
+        "from": 71,
+        "to": 76,
+        "movement": "↓5",
         "direction": "down"
       },
       {
@@ -926,98 +822,10 @@
         "to": 83,
         "movement": "↓5",
         "direction": "down"
-      },
-      {
-        "name": "eko",
-        "artist": "FOLA",
-        "from": 79,
-        "to": 82,
-        "movement": "↓3",
-        "direction": "down"
-      },
-      {
-        "name": "Gbona",
-        "artist": "Burna Boy",
-        "from": 80,
-        "to": 77,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Rum & Soda",
-        "artist": "BNXN",
-        "from": 81,
-        "to": 92,
-        "movement": "↓11",
-        "direction": "down"
-      },
-      {
-        "name": "Fa Mi Lo",
-        "artist": "Shaiboy",
-        "from": 82,
-        "to": 80,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "GO GO!",
-        "artist": "Khaid",
-        "from": 83,
-        "to": 98,
-        "movement": "↓15",
-        "direction": "down"
-      },
-      {
-        "name": "Jogodo",
-        "artist": "Wizkid",
-        "from": 84,
-        "to": 73,
-        "movement": "↑11",
-        "direction": "up"
-      },
-      {
-        "name": "LEGOLAS",
-        "artist": "ODUMODUBLVCK",
-        "from": 87,
-        "to": 89,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
-        "name": "Slow (feat. Anais Cardot)",
-        "artist": "Wizkid",
-        "from": 88,
-        "to": 85,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Champion Sound",
-        "artist": "Davido",
-        "from": 89,
-        "to": 88,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Ilashe Vibe (feat. MakoTheVibe, GABBEEGRAM, Boi Drixx & Wahala Music)",
-        "artist": "Wrldleadin",
-        "from": 90,
-        "to": 84,
-        "movement": "↑6",
-        "direction": "up"
-      },
-      {
-        "name": "Energy",
-        "artist": "Tiwa Savage",
-        "from": 97,
-        "to": 94,
-        "movement": "↑3",
-        "direction": "up"
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T10:12:45.023Z",
+    "timestamp": "2026-06-26T10:15:39.308Z",
     "playlistName": "Top 100 Nigeria"
   }
 }

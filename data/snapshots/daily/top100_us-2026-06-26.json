@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 US",
-  "timestamp": "2026-06-26T10:13:06.507Z",
+  "timestamp": "2026-06-26T10:15:59.630Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -736,67 +736,27 @@
     ],
     "moved": [
       {
-        "name": "the cure",
+        "name": "purple",
         "artist": "Olivia Rodrigo",
-        "from": 5,
-        "to": 7,
-        "movement": "↓2",
+        "from": 59,
+        "to": 82,
+        "movement": "↓23",
         "direction": "down"
       },
       {
-        "name": "drop dead",
+        "name": "cigarette smoke",
         "artist": "Olivia Rodrigo",
-        "from": 10,
-        "to": 13,
-        "movement": "↓3",
+        "from": 56,
+        "to": 74,
+        "movement": "↓18",
         "direction": "down"
       },
       {
-        "name": "I Can't Love You Anymore",
-        "artist": "Ella Langley",
-        "from": 13,
-        "to": 11,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "National Treasures",
-        "artist": "Drake",
-        "from": 16,
-        "to": 14,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "maggots for brains",
+        "name": "u + me = <3",
         "artist": "Olivia Rodrigo",
-        "from": 18,
-        "to": 24,
-        "movement": "↓6",
-        "direction": "down"
-      },
-      {
-        "name": "I'm The Problem",
-        "artist": "Morgan Wallen",
-        "from": 23,
-        "to": 21,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "Billie Jean",
-        "artist": "Michael Jackson",
-        "from": 24,
-        "to": 19,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "expectations",
-        "artist": "Olivia Rodrigo",
-        "from": 27,
-        "to": 40,
-        "movement": "↓13",
+        "from": 33,
+        "to": 48,
+        "movement": "↓15",
         "direction": "down"
       },
       {
@@ -808,91 +768,27 @@
         "direction": "down"
       },
       {
-        "name": "Burning Bridges",
-        "artist": "Drake",
-        "from": 29,
-        "to": 26,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Make Them Pay",
-        "artist": "Drake",
-        "from": 30,
-        "to": 29,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Man I Need",
-        "artist": "Olivia Dean",
-        "from": 31,
-        "to": 28,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Freestyle",
-        "artist": "Lil Baby",
-        "from": 32,
-        "to": 25,
-        "movement": "↑7",
-        "direction": "up"
-      },
-      {
-        "name": "u + me = <3",
+        "name": "expectations",
         "artist": "Olivia Rodrigo",
-        "from": 33,
-        "to": 48,
-        "movement": "↓15",
+        "from": 27,
+        "to": 40,
+        "movement": "↓13",
         "direction": "down"
       },
       {
-        "name": "In A Minute",
-        "artist": "Lil Baby",
-        "from": 34,
-        "to": 27,
-        "movement": "↑7",
+        "name": "Broken Window Serenade",
+        "artist": "Whiskey Myers",
+        "from": 74,
+        "to": 61,
+        "movement": "↑13",
         "direction": "up"
       },
       {
-        "name": "Boston",
-        "artist": "STELLA LEFTY",
-        "from": 37,
-        "to": 31,
-        "movement": "↑6",
-        "direction": "up"
-      },
-      {
-        "name": "WAIT FOR U (feat. Drake & Tems)",
-        "artist": "Future",
-        "from": 38,
-        "to": 30,
-        "movement": "↑8",
-        "direction": "up"
-      },
-      {
-        "name": "my way",
-        "artist": "Olivia Rodrigo",
-        "from": 41,
-        "to": 51,
-        "movement": "↓10",
-        "direction": "down"
-      },
-      {
-        "name": "Just In Case",
-        "artist": "Morgan Wallen",
-        "from": 42,
-        "to": 37,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "Spin You Around (1/24)",
-        "artist": "Morgan Wallen",
-        "from": 44,
-        "to": 41,
-        "movement": "↑3",
+        "name": "Dirty Diana",
+        "artist": "Michael Jackson",
+        "from": 97,
+        "to": 84,
+        "movement": "↑13",
         "direction": "up"
       },
       {
@@ -904,91 +800,11 @@
         "direction": "up"
       },
       {
-        "name": "Chicago",
-        "artist": "Michael Jackson",
-        "from": 48,
-        "to": 43,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-        "artist": "Future",
-        "from": 50,
-        "to": 44,
-        "movement": "↑6",
-        "direction": "up"
-      },
-      {
-        "name": "Best I Ever Had",
-        "artist": "Drake",
-        "from": 53,
-        "to": 52,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "cigarette smoke",
+        "name": "my way",
         "artist": "Olivia Rodrigo",
-        "from": 56,
-        "to": 74,
-        "movement": "↓18",
-        "direction": "down"
-      },
-      {
-        "name": "March Madness",
-        "artist": "Future",
-        "from": 57,
-        "to": 54,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "purple",
-        "artist": "Olivia Rodrigo",
-        "from": 59,
-        "to": 82,
-        "movement": "↓23",
-        "direction": "down"
-      },
-      {
-        "name": "I'M DAT NIGGA",
-        "artist": "Future",
-        "from": 60,
-        "to": 58,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "Frozen",
-        "artist": "Lil Baby",
-        "from": 62,
-        "to": 59,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Human Nature",
-        "artist": "Michael Jackson",
-        "from": 63,
-        "to": 56,
-        "movement": "↑7",
-        "direction": "up"
-      },
-      {
-        "name": "I Got Better",
-        "artist": "Morgan Wallen",
-        "from": 65,
-        "to": 64,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Don’t Worry",
-        "artist": "Drake",
-        "from": 68,
-        "to": 69,
-        "movement": "↓1",
+        "from": 41,
+        "to": 51,
+        "movement": "↓10",
         "direction": "down"
       },
       {
@@ -1000,27 +816,83 @@
         "direction": "up"
       },
       {
-        "name": "Wants and Needs (feat. Lil Baby)",
-        "artist": "Drake",
-        "from": 72,
-        "to": 66,
-        "movement": "↑6",
-        "direction": "up"
-      },
-      {
-        "name": "Broken Window Serenade",
-        "artist": "Whiskey Myers",
-        "from": 74,
-        "to": 61,
-        "movement": "↑13",
-        "direction": "up"
-      },
-      {
         "name": "Beat It",
         "artist": "Michael Jackson",
         "from": 76,
         "to": 67,
         "movement": "↑9",
+        "direction": "up"
+      },
+      {
+        "name": "WAIT FOR U (feat. Drake & Tems)",
+        "artist": "Future",
+        "from": 38,
+        "to": 30,
+        "movement": "↑8",
+        "direction": "up"
+      },
+      {
+        "name": "Freestyle",
+        "artist": "Lil Baby",
+        "from": 32,
+        "to": 25,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "In A Minute",
+        "artist": "Lil Baby",
+        "from": 34,
+        "to": 27,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "Human Nature",
+        "artist": "Michael Jackson",
+        "from": 63,
+        "to": 56,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "Doors",
+        "artist": "Noah Kahan",
+        "from": 88,
+        "to": 95,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "maggots for brains",
+        "artist": "Olivia Rodrigo",
+        "from": 18,
+        "to": 24,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "Boston",
+        "artist": "STELLA LEFTY",
+        "from": 37,
+        "to": 31,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+        "artist": "Future",
+        "from": 50,
+        "to": 44,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "Wants and Needs (feat. Lil Baby)",
+        "artist": "Drake",
+        "from": 72,
+        "to": 66,
+        "movement": "↑6",
         "direction": "up"
       },
       {
@@ -1032,19 +904,27 @@
         "direction": "up"
       },
       {
-        "name": "Not Like Us",
-        "artist": "Kendrick Lamar",
-        "from": 81,
-        "to": 80,
-        "movement": "↑1",
+        "name": "Billie Jean",
+        "artist": "Michael Jackson",
+        "from": 24,
+        "to": 19,
+        "movement": "↑5",
         "direction": "up"
       },
       {
-        "name": "Kacey Talk",
-        "artist": "YoungBoy Never Broke Again",
-        "from": 82,
-        "to": 78,
-        "movement": "↑4",
+        "name": "Just In Case",
+        "artist": "Morgan Wallen",
+        "from": 42,
+        "to": 37,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "Chicago",
+        "artist": "Michael Jackson",
+        "from": 48,
+        "to": 43,
+        "movement": "↑5",
         "direction": "up"
       },
       {
@@ -1054,58 +934,10 @@
         "to": 88,
         "movement": "↓5",
         "direction": "down"
-      },
-      {
-        "name": "Right On",
-        "artist": "Lil Baby",
-        "from": 86,
-        "to": 83,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Loving Life Again",
-        "artist": "Ella Langley",
-        "from": 87,
-        "to": 90,
-        "movement": "↓3",
-        "direction": "down"
-      },
-      {
-        "name": "Doors",
-        "artist": "Noah Kahan",
-        "from": 88,
-        "to": 95,
-        "movement": "↓7",
-        "direction": "down"
-      },
-      {
-        "name": "Ordinary",
-        "artist": "Alex Warren",
-        "from": 90,
-        "to": 93,
-        "movement": "↓3",
-        "direction": "down"
-      },
-      {
-        "name": "Dirty Diana",
-        "artist": "Michael Jackson",
-        "from": 97,
-        "to": 84,
-        "movement": "↑13",
-        "direction": "up"
-      },
-      {
-        "name": "Power Trip (feat. Miguel)",
-        "artist": "J. Cole",
-        "from": 98,
-        "to": 97,
-        "movement": "↑1",
-        "direction": "up"
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T10:13:06.506Z",
+    "timestamp": "2026-06-26T10:15:59.629Z",
     "playlistName": "Top 100 US"
   }
 }

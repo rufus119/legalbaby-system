@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Global",
-  "timestamp": "2026-06-26T10:12:58.890Z",
+  "timestamp": "2026-06-26T10:15:52.814Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -748,110 +748,6 @@
     ],
     "moved": [
       {
-        "name": "hate that i made you love me",
-        "artist": "Ariana Grande",
-        "from": 5,
-        "to": 4,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Ran To Atlanta",
-        "artist": "Drake",
-        "from": 10,
-        "to": 9,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Billie Jean",
-        "artist": "Michael Jackson",
-        "from": 11,
-        "to": 8,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "maggots for brains",
-        "artist": "Olivia Rodrigo",
-        "from": 14,
-        "to": 18,
-        "movement": "↓4",
-        "direction": "down"
-      },
-      {
-        "name": "National Treasures",
-        "artist": "Drake",
-        "from": 18,
-        "to": 17,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Spend Dat",
-        "artist": "Yung Miami",
-        "from": 19,
-        "to": 16,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "begged",
-        "artist": "Olivia Rodrigo",
-        "from": 22,
-        "to": 26,
-        "movement": "↓4",
-        "direction": "down"
-      },
-      {
-        "name": "u + me = <3",
-        "artist": "Olivia Rodrigo",
-        "from": 23,
-        "to": 25,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
-        "name": "Beat It",
-        "artist": "Michael Jackson",
-        "from": 26,
-        "to": 21,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "my way",
-        "artist": "Olivia Rodrigo",
-        "from": 27,
-        "to": 33,
-        "movement": "↓6",
-        "direction": "down"
-      },
-      {
-        "name": "2 Hard 4 The Radio",
-        "artist": "Drake",
-        "from": 31,
-        "to": 30,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Human Nature",
-        "artist": "Michael Jackson",
-        "from": 33,
-        "to": 28,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "ICONIC BY MISTAKE",
-        "artist": "LE SSERAFIM",
-        "from": 34,
-        "to": 36,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
         "name": "purple",
         "artist": "Olivia Rodrigo",
         "from": 37,
@@ -868,36 +764,44 @@
         "direction": "down"
       },
       {
-        "name": "Chicago",
+        "name": "Dirty Diana",
         "artist": "Michael Jackson",
-        "from": 42,
-        "to": 37,
-        "movement": "↑5",
+        "from": 92,
+        "to": 77,
+        "movement": "↑15",
         "direction": "up"
       },
       {
-        "name": "It's Me",
-        "artist": "ILLIT",
-        "from": 43,
-        "to": 47,
-        "movement": "↓4",
+        "name": "E85",
+        "artist": "Don Toliver",
+        "from": 52,
+        "to": 43,
+        "movement": "↑9",
+        "direction": "up"
+      },
+      {
+        "name": "LEMONADE",
+        "artist": "aespa",
+        "from": 77,
+        "to": 86,
+        "movement": "↓9",
         "direction": "down"
       },
       {
-        "name": "I’m Spent",
-        "artist": "Drake",
-        "from": 45,
-        "to": 42,
-        "movement": "↑3",
+        "name": "Rock With You",
+        "artist": "Michael Jackson",
+        "from": 82,
+        "to": 73,
+        "movement": "↑9",
         "direction": "up"
       },
       {
-        "name": "Ordinary",
-        "artist": "Alex Warren",
-        "from": 47,
-        "to": 45,
-        "movement": "↑2",
-        "direction": "up"
+        "name": "REDRED",
+        "artist": "CORTIS",
+        "from": 55,
+        "to": 63,
+        "movement": "↓8",
+        "direction": "down"
       },
       {
         "name": "I'm The Problem",
@@ -905,14 +809,6 @@
         "from": 48,
         "to": 41,
         "movement": "↑7",
-        "direction": "up"
-      },
-      {
-        "name": "I Had Some Help (feat. Morgan Wallen)",
-        "artist": "Post Malone",
-        "from": 50,
-        "to": 48,
-        "movement": "↑2",
         "direction": "up"
       },
       {
@@ -924,51 +820,11 @@
         "direction": "down"
       },
       {
-        "name": "E85",
-        "artist": "Don Toliver",
-        "from": 52,
-        "to": 43,
-        "movement": "↑9",
-        "direction": "up"
-      },
-      {
-        "name": "Be By You",
-        "artist": "Luke Combs",
-        "from": 53,
-        "to": 55,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
-        "name": "REDRED",
-        "artist": "CORTIS",
-        "from": 55,
-        "to": 63,
-        "movement": "↓8",
-        "direction": "down"
-      },
-      {
         "name": "SWIM",
         "artist": "BTS",
         "from": 59,
         "to": 66,
         "movement": "↓7",
-        "direction": "down"
-      },
-      {
-        "name": "Baby (feat. Ludacris)",
-        "artist": "Justin Bieber",
-        "from": 61,
-        "to": 65,
-        "movement": "↓4",
-        "direction": "down"
-      },
-      {
-        "name": "So Easy (To Fall In Love)",
-        "artist": "Olivia Dean",
-        "from": 63,
-        "to": 69,
-        "movement": "↓6",
         "direction": "down"
       },
       {
@@ -980,20 +836,20 @@
         "direction": "up"
       },
       {
-        "name": "Spin You Around (1/24)",
-        "artist": "Morgan Wallen",
-        "from": 72,
-        "to": 71,
-        "movement": "↑1",
-        "direction": "up"
+        "name": "my way",
+        "artist": "Olivia Rodrigo",
+        "from": 27,
+        "to": 33,
+        "movement": "↓6",
+        "direction": "down"
       },
       {
-        "name": "RUBBERZ",
-        "artist": "Fenix Flexin",
-        "from": 75,
-        "to": 72,
-        "movement": "↑3",
-        "direction": "up"
+        "name": "So Easy (To Fall In Love)",
+        "artist": "Olivia Dean",
+        "from": 63,
+        "to": 69,
+        "movement": "↓6",
+        "direction": "down"
       },
       {
         "name": "Stateside (with Zara Larsson)",
@@ -1004,35 +860,43 @@
         "direction": "down"
       },
       {
-        "name": "LEMONADE",
-        "artist": "aespa",
-        "from": 77,
-        "to": 86,
-        "movement": "↓9",
+        "name": "Make Them Cry",
+        "artist": "Drake",
+        "from": 86,
+        "to": 92,
+        "movement": "↓6",
         "direction": "down"
       },
       {
-        "name": "Yonaguni",
-        "artist": "Bad Bunny",
-        "from": 80,
-        "to": 76,
-        "movement": "↑4",
+        "name": "Thinkin’ Bout Me",
+        "artist": "Morgan Wallen",
+        "from": 100,
+        "to": 94,
+        "movement": "↑6",
         "direction": "up"
       },
       {
-        "name": "Rock With You",
+        "name": "Beat It",
         "artist": "Michael Jackson",
-        "from": 82,
-        "to": 73,
-        "movement": "↑9",
+        "from": 26,
+        "to": 21,
+        "movement": "↑5",
         "direction": "up"
       },
       {
-        "name": "Mr. Brightside",
-        "artist": "The Killers",
-        "from": 84,
-        "to": 83,
-        "movement": "↑1",
+        "name": "Human Nature",
+        "artist": "Michael Jackson",
+        "from": 33,
+        "to": 28,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "Chicago",
+        "artist": "Michael Jackson",
+        "from": 42,
+        "to": 37,
+        "movement": "↑5",
         "direction": "up"
       },
       {
@@ -1044,64 +908,16 @@
         "direction": "up"
       },
       {
-        "name": "Make Them Cry",
-        "artist": "Drake",
-        "from": 86,
-        "to": 92,
-        "movement": "↓6",
-        "direction": "down"
-      },
-      {
-        "name": "Beautiful Things",
-        "artist": "Benson Boone",
-        "from": 89,
-        "to": 85,
-        "movement": "↑4",
-        "direction": "up"
-      },
-      {
-        "name": "thank u, next",
-        "artist": "Ariana Grande",
-        "from": 91,
-        "to": 89,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "Dirty Diana",
-        "artist": "Michael Jackson",
-        "from": 92,
-        "to": 77,
-        "movement": "↑15",
-        "direction": "up"
-      },
-      {
         "name": "Cowgirls (feat. ERNEST)",
         "artist": "Morgan Wallen",
         "from": 93,
         "to": 88,
         "movement": "↑5",
         "direction": "up"
-      },
-      {
-        "name": "Into You",
-        "artist": "Ariana Grande",
-        "from": 96,
-        "to": 93,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Thinkin’ Bout Me",
-        "artist": "Morgan Wallen",
-        "from": 100,
-        "to": 94,
-        "movement": "↑6",
-        "direction": "up"
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T10:12:58.888Z",
+    "timestamp": "2026-06-26T10:15:52.813Z",
     "playlistName": "Top 100 Global"
   }
 }

@@ -1,6 +1,6 @@
 {
   "playlistName": "Top 100 Ghana",
-  "timestamp": "2026-06-26T10:12:52.146Z",
+  "timestamp": "2026-06-26T10:15:45.815Z",
   "baselineRun": false,
   "trackCount": 100,
   "tracks": [
@@ -724,204 +724,12 @@
     ],
     "moved": [
       {
-        "name": "Forgiveness",
-        "artist": "Asake",
-        "from": 3,
-        "to": 2,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "Gratitude",
-        "artist": "Asake",
-        "from": 6,
-        "to": 4,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "WHY LOVE",
-        "artist": "Asake",
-        "from": 12,
-        "to": 10,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "Kakalika",
-        "artist": "DopeNation",
-        "from": 15,
-        "to": 26,
-        "movement": "↓11",
-        "direction": "down"
-      },
-      {
-        "name": "Wish I Had a Girlfriend",
-        "artist": "Reggie",
-        "from": 17,
-        "to": 14,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
         "name": "Black Stars",
         "artist": "Kofi Kinaata",
         "from": 21,
         "to": 87,
         "movement": "↓66",
         "direction": "down"
-      },
-      {
-        "name": "Find A Way",
-        "artist": "Black Sherif",
-        "from": 22,
-        "to": 17,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "Hustle (feat. O'Kenneth & Braabenk)",
-        "artist": "Oseikrom Sikanii",
-        "from": 24,
-        "to": 29,
-        "movement": "↓5",
-        "direction": "down"
-      },
-      {
-        "name": "WORSHIP",
-        "artist": "Asake",
-        "from": 25,
-        "to": 21,
-        "movement": "↑4",
-        "direction": "up"
-      },
-      {
-        "name": "MCBH",
-        "artist": "Asake",
-        "from": 29,
-        "to": 22,
-        "movement": "↑7",
-        "direction": "up"
-      },
-      {
-        "name": "Wa",
-        "artist": "Asake",
-        "from": 31,
-        "to": 25,
-        "movement": "↑6",
-        "direction": "up"
-      },
-      {
-        "name": "Yawa (Hosanna)",
-        "artist": "Kwesi Arthur",
-        "from": 33,
-        "to": 28,
-        "movement": "↑5",
-        "direction": "up"
-      },
-      {
-        "name": "Dem Dey",
-        "artist": "Burna Boy",
-        "from": 35,
-        "to": 32,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "Toxic Love City",
-        "artist": "Black Sherif",
-        "from": 38,
-        "to": 58,
-        "movement": "↓20",
-        "direction": "down"
-      },
-      {
-        "name": "Dreamer",
-        "artist": "Black Sherif",
-        "from": 40,
-        "to": 38,
-        "movement": "↑2",
-        "direction": "up"
-      },
-      {
-        "name": "BADMAN GANGSTA",
-        "artist": "Asake",
-        "from": 41,
-        "to": 37,
-        "movement": "↑4",
-        "direction": "up"
-      },
-      {
-        "name": "I AM",
-        "artist": "OMAH LAY",
-        "from": 43,
-        "to": 45,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
-        "name": "Body",
-        "artist": "Black Sherif",
-        "from": 45,
-        "to": 50,
-        "movement": "↓5",
-        "direction": "down"
-      },
-      {
-        "name": "Young Boy",
-        "artist": "Kweku Smoke",
-        "from": 48,
-        "to": 41,
-        "movement": "↑7",
-        "direction": "up"
-      },
-      {
-        "name": "Yawa Ni (shatta music)",
-        "artist": "Shatta Wale",
-        "from": 49,
-        "to": 57,
-        "movement": "↓8",
-        "direction": "down"
-      },
-      {
-        "name": "Eye Open",
-        "artist": "Black Sherif",
-        "from": 50,
-        "to": 53,
-        "movement": "↓3",
-        "direction": "down"
-      },
-      {
-        "name": "Hold Tight",
-        "artist": "Kweku Smoke",
-        "from": 51,
-        "to": 48,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "BALENCIAGA II (feat. SAMA', Oseikrom Sikanii & Joey B)",
-        "artist": "O'Kenneth",
-        "from": 53,
-        "to": 52,
-        "movement": "↑1",
-        "direction": "up"
-      },
-      {
-        "name": "OVER",
-        "artist": "O'Kenneth",
-        "from": 56,
-        "to": 59,
-        "movement": "↓3",
-        "direction": "down"
-      },
-      {
-        "name": "MONEY CONSTANT",
-        "artist": "DJ Maphorisa",
-        "from": 57,
-        "to": 56,
-        "movement": "↑1",
-        "direction": "up"
       },
       {
         "name": "NO MORE SLEEP",
@@ -932,11 +740,11 @@
         "direction": "down"
       },
       {
-        "name": "ODO PA",
-        "artist": "Sarkodie",
-        "from": 61,
-        "to": 71,
-        "movement": "↓10",
+        "name": "Toxic Love City",
+        "artist": "Black Sherif",
+        "from": 38,
+        "to": 58,
+        "movement": "↓20",
         "direction": "down"
       },
       {
@@ -945,46 +753,6 @@
         "from": 63,
         "to": 49,
         "movement": "↑14",
-        "direction": "up"
-      },
-      {
-        "name": "Pampaso",
-        "artist": "Oseikrom Sikanii",
-        "from": 64,
-        "to": 74,
-        "movement": "↓10",
-        "direction": "down"
-      },
-      {
-        "name": "Gymnastic",
-        "artist": "KiDi",
-        "from": 65,
-        "to": 66,
-        "movement": "↓1",
-        "direction": "down"
-      },
-      {
-        "name": "CAME OF AGE(interlude)",
-        "artist": "O'Kenneth",
-        "from": 66,
-        "to": 73,
-        "movement": "↓7",
-        "direction": "down"
-      },
-      {
-        "name": "Jailer (feat. Victony)",
-        "artist": "Sarkodie",
-        "from": 68,
-        "to": 70,
-        "movement": "↓2",
-        "direction": "down"
-      },
-      {
-        "name": "Amen",
-        "artist": "Asake",
-        "from": 71,
-        "to": 63,
-        "movement": "↑8",
         "direction": "up"
       },
       {
@@ -1004,26 +772,42 @@
         "direction": "up"
       },
       {
-        "name": "One",
-        "artist": "Black Sherif",
-        "from": 75,
-        "to": 72,
-        "movement": "↑3",
-        "direction": "up"
+        "name": "Kakalika",
+        "artist": "DopeNation",
+        "from": 15,
+        "to": 26,
+        "movement": "↓11",
+        "direction": "down"
       },
       {
-        "name": "Kwaku the Traveller",
-        "artist": "Black Sherif",
-        "from": 77,
-        "to": 69,
-        "movement": "↑8",
-        "direction": "up"
+        "name": "ODO PA",
+        "artist": "Sarkodie",
+        "from": 61,
+        "to": 71,
+        "movement": "↓10",
+        "direction": "down"
+      },
+      {
+        "name": "Pampaso",
+        "artist": "Oseikrom Sikanii",
+        "from": 64,
+        "to": 74,
+        "movement": "↓10",
+        "direction": "down"
       },
       {
         "name": "Change Your Mind (feat. Shaboozey)",
         "artist": "Burna Boy",
         "from": 78,
         "to": 68,
+        "movement": "↑10",
+        "direction": "up"
+      },
+      {
+        "name": "Jesus Christ 2 (feat. Black Sherif)",
+        "artist": "AratheJay",
+        "from": 90,
+        "to": 80,
         "movement": "↑10",
         "direction": "up"
       },
@@ -1036,22 +820,6 @@
         "direction": "down"
       },
       {
-        "name": "Sober",
-        "artist": "Kweku Smoke",
-        "from": 80,
-        "to": 76,
-        "movement": "↑4",
-        "direction": "up"
-      },
-      {
-        "name": "Won't Be Here Forever",
-        "artist": "Reggie",
-        "from": 83,
-        "to": 79,
-        "movement": "↑4",
-        "direction": "up"
-      },
-      {
         "name": "Shabang",
         "artist": "Drake",
         "from": 84,
@@ -1060,19 +828,27 @@
         "direction": "down"
       },
       {
-        "name": "Asambe",
+        "name": "Yawa Ni (shatta music)",
+        "artist": "Shatta Wale",
+        "from": 49,
+        "to": 57,
+        "movement": "↓8",
+        "direction": "down"
+      },
+      {
+        "name": "Amen",
         "artist": "Asake",
-        "from": 85,
-        "to": 78,
-        "movement": "↑7",
+        "from": 71,
+        "to": 63,
+        "movement": "↑8",
         "direction": "up"
       },
       {
-        "name": "Ayoo",
-        "artist": "Shatta Wale",
-        "from": 86,
-        "to": 83,
-        "movement": "↑3",
+        "name": "Kwaku the Traveller",
+        "artist": "Black Sherif",
+        "from": 77,
+        "to": 69,
+        "movement": "↑8",
         "direction": "up"
       },
       {
@@ -1084,40 +860,80 @@
         "direction": "up"
       },
       {
-        "name": "Jesus Christ 2 (feat. Black Sherif)",
-        "artist": "AratheJay",
-        "from": 90,
-        "to": 80,
-        "movement": "↑10",
+        "name": "MCBH",
+        "artist": "Asake",
+        "from": 29,
+        "to": 22,
+        "movement": "↑7",
         "direction": "up"
       },
       {
-        "name": "Lord I'm Amazed",
+        "name": "Young Boy",
+        "artist": "Kweku Smoke",
+        "from": 48,
+        "to": 41,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "CAME OF AGE(interlude)",
+        "artist": "O'Kenneth",
+        "from": 66,
+        "to": 73,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "Asambe",
+        "artist": "Asake",
+        "from": 85,
+        "to": 78,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "Wa",
+        "artist": "Asake",
+        "from": 31,
+        "to": 25,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "Find A Way",
         "artist": "Black Sherif",
-        "from": 92,
-        "to": 91,
-        "movement": "↑1",
+        "from": 22,
+        "to": 17,
+        "movement": "↑5",
         "direction": "up"
       },
       {
-        "name": "Iron Boy",
+        "name": "Hustle (feat. O'Kenneth & Braabenk)",
+        "artist": "Oseikrom Sikanii",
+        "from": 24,
+        "to": 29,
+        "movement": "↓5",
+        "direction": "down"
+      },
+      {
+        "name": "Yawa (Hosanna)",
+        "artist": "Kwesi Arthur",
+        "from": 33,
+        "to": 28,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "Body",
         "artist": "Black Sherif",
-        "from": 93,
-        "to": 90,
-        "movement": "↑3",
-        "direction": "up"
-      },
-      {
-        "name": "AMEN",
-        "artist": "Sarkodie",
-        "from": 95,
-        "to": 97,
-        "movement": "↓2",
+        "from": 45,
+        "to": 50,
+        "movement": "↓5",
         "direction": "down"
       }
     ],
     "stale": [],
-    "timestamp": "2026-06-26T10:12:52.143Z",
+    "timestamp": "2026-06-26T10:15:45.813Z",
     "playlistName": "Top 100 Ghana"
   }
 }
