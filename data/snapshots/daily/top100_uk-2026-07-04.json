@@ -1,0 +1,1087 @@
+{
+  "playlistName": "Top 100 UK",
+  "timestamp": "2026-07-04T10:32:33.488Z",
+  "baselineRun": false,
+  "trackCount": 100,
+  "tracks": [
+    {
+      "id": "man-i-need-olivia-dean",
+      "name": "Man I Need",
+      "artist": "Olivia Dean",
+      "performanceScore": 99.4,
+      "appearances": 1
+    },
+    {
+      "id": "rein-me-in-sam-fender",
+      "name": "Rein Me In",
+      "artist": "Sam Fender",
+      "performanceScore": 98.8,
+      "appearances": 1
+    },
+    {
+      "id": "the-cure-olivia-rodrigo",
+      "name": "the cure",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 98.2,
+      "appearances": 1
+    },
+    {
+      "id": "janice-stfu-drake",
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "performanceScore": 97.6,
+      "appearances": 1
+    },
+    {
+      "id": "stupid-song-olivia-rodrigo",
+      "name": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 97,
+      "appearances": 1
+    },
+    {
+      "id": "free-your-mind-prospa",
+      "name": "Free Your Mind",
+      "artist": "Prospa",
+      "performanceScore": 96.4,
+      "appearances": 1
+    },
+    {
+      "id": "choosin'-texas-ella-langley",
+      "name": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "performanceScore": 95.8,
+      "appearances": 1
+    },
+    {
+      "id": "american-girls-harry-styles",
+      "name": "American Girls",
+      "artist": "Harry Styles",
+      "performanceScore": 95.2,
+      "appearances": 1
+    },
+    {
+      "id": "fever-dream-alex-warren",
+      "name": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "performanceScore": 94.6,
+      "appearances": 1
+    },
+    {
+      "id": "hate-that-i-made-you-love-me-ariana-grande",
+      "name": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "performanceScore": 94,
+      "appearances": 1
+    },
+    {
+      "id": "i-knew-it,-i-knew-you-(from-\"toy-story-5\")-taylor-swift",
+      "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "performanceScore": 93.4,
+      "appearances": 1
+    },
+    {
+      "id": "billie-jean-michael-jackson",
+      "name": "Billie Jean",
+      "artist": "Michael Jackson",
+      "performanceScore": 92.8,
+      "appearances": 1
+    },
+    {
+      "id": "movin'-to-the-sun-hugel",
+      "name": "Movin' To The Sun",
+      "artist": "HUGEL",
+      "performanceScore": 92.2,
+      "appearances": 1
+    },
+    {
+      "id": "raindance-dave",
+      "name": "Raindance",
+      "artist": "Dave",
+      "performanceScore": 91.6,
+      "appearances": 1
+    },
+    {
+      "id": "new-religion-bebe-rexha",
+      "name": "New Religion",
+      "artist": "Bebe Rexha",
+      "performanceScore": 91,
+      "appearances": 1
+    },
+    {
+      "id": "drop-dead-olivia-rodrigo",
+      "name": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 90.4,
+      "appearances": 1
+    },
+    {
+      "id": "go-(feat.-q-tip)-the-chemical-brothers",
+      "name": "Go (feat. Q-Tip)",
+      "artist": "The Chemical Brothers",
+      "performanceScore": 89.8,
+      "appearances": 1
+    },
+    {
+      "id": "lush-life-zara-larsson",
+      "name": "Lush Life",
+      "artist": "Zara Larsson",
+      "performanceScore": 89.2,
+      "appearances": 1
+    },
+    {
+      "id": "where-is-my-husband!-raye",
+      "name": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "performanceScore": 88.6,
+      "appearances": 1
+    },
+    {
+      "id": "danceteria-madonna",
+      "name": "Danceteria",
+      "artist": "Madonna",
+      "performanceScore": 88,
+      "appearances": 1
+    },
+    {
+      "id": "ordinary-alex-warren",
+      "name": "Ordinary",
+      "artist": "Alex Warren",
+      "performanceScore": 87.4,
+      "appearances": 1
+    },
+    {
+      "id": "nice-to-each-other-olivia-dean",
+      "name": "Nice To Each Other",
+      "artist": "Olivia Dean",
+      "performanceScore": 86.8,
+      "appearances": 1
+    },
+    {
+      "id": "iloveitiloveitiloveit-bella-kay",
+      "name": "iloveitiloveitiloveit",
+      "artist": "Bella Kay",
+      "performanceScore": 86.2,
+      "appearances": 1
+    },
+    {
+      "id": "the-fate-of-ophelia-taylor-swift",
+      "name": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "performanceScore": 85.6,
+      "appearances": 1
+    },
+    {
+      "id": "mr.-brightside-the-killers",
+      "name": "Mr. Brightside",
+      "artist": "The Killers",
+      "performanceScore": 85,
+      "appearances": 1
+    },
+    {
+      "id": "so-easy-(to-fall-in-love)-olivia-dean",
+      "name": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "performanceScore": 84.4,
+      "appearances": 1
+    },
+    {
+      "id": "beauty-and-a-beat-(feat.-nicki-minaj)-justin-bieber",
+      "name": "Beauty and a Beat (feat. Nicki Minaj)",
+      "artist": "Justin Bieber",
+      "performanceScore": 83.8,
+      "appearances": 1
+    },
+    {
+      "id": "wonderwall-(remastered)-oasis",
+      "name": "Wonderwall (Remastered)",
+      "artist": "Oasis",
+      "performanceScore": 83.2,
+      "appearances": 1
+    },
+    {
+      "id": "beat-it-michael-jackson",
+      "name": "Beat It",
+      "artist": "Michael Jackson",
+      "performanceScore": 82.6,
+      "appearances": 1
+    },
+    {
+      "id": "midnight-sun-zara-larsson",
+      "name": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "performanceScore": 82,
+      "appearances": 1
+    },
+    {
+      "id": "satisfy-calvin-harris",
+      "name": "Satisfy",
+      "artist": "Calvin Harris",
+      "performanceScore": 81.4,
+      "appearances": 1
+    },
+    {
+      "id": "on-2nite-silva-bumpa",
+      "name": "On 2nite",
+      "artist": "Silva Bumpa",
+      "performanceScore": 80.8,
+      "appearances": 1
+    },
+    {
+      "id": "bring-your-love-madonna",
+      "name": "Bring Your Love",
+      "artist": "Madonna",
+      "performanceScore": 80.2,
+      "appearances": 1
+    },
+    {
+      "id": "dai-dai-shakira",
+      "name": "Dai Dai",
+      "artist": "Shakira",
+      "performanceScore": 79.6,
+      "appearances": 1
+    },
+    {
+      "id": "opalite-taylor-swift",
+      "name": "Opalite",
+      "artist": "Taylor Swift",
+      "performanceScore": 79,
+      "appearances": 1
+    },
+    {
+      "id": "honeybee-olivia-rodrigo",
+      "name": "honeybee",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 78.4,
+      "appearances": 1
+    },
+    {
+      "id": "dance-no-more-harry-styles",
+      "name": "Dance No More",
+      "artist": "Harry Styles",
+      "performanceScore": 77.8,
+      "appearances": 1
+    },
+    {
+      "id": "talk-to-you-(feat.-54-ultra)-anotr",
+      "name": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "performanceScore": 77.2,
+      "appearances": 1
+    },
+    {
+      "id": "one-step-away-madonna",
+      "name": "One Step Away",
+      "artist": "Madonna",
+      "performanceScore": 76.6,
+      "appearances": 1
+    },
+    {
+      "id": "homewrecker-sombr",
+      "name": "Homewrecker",
+      "artist": "sombr",
+      "performanceScore": 76,
+      "appearances": 1
+    },
+    {
+      "id": "i-feel-so-free-madonna",
+      "name": "I Feel So Free",
+      "artist": "Madonna",
+      "performanceScore": 75.4,
+      "appearances": 1
+    },
+    {
+      "id": "watermelon-sugar-harry-styles",
+      "name": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "performanceScore": 74.8,
+      "appearances": 1
+    },
+    {
+      "id": "sign-of-the-times-harry-styles",
+      "name": "Sign of the Times",
+      "artist": "Harry Styles",
+      "performanceScore": 74.2,
+      "appearances": 1
+    },
+    {
+      "id": "good-for-the-soul-madonna",
+      "name": "Good For The Soul",
+      "artist": "Madonna",
+      "performanceScore": 73.6,
+      "appearances": 1
+    },
+    {
+      "id": "that’s-so-true-gracie-abrams",
+      "name": "That’s So True",
+      "artist": "Gracie Abrams",
+      "performanceScore": 73,
+      "appearances": 1
+    },
+    {
+      "id": "boston-stella-lefty",
+      "name": "Boston",
+      "artist": "STELLA LEFTY",
+      "performanceScore": 72.4,
+      "appearances": 1
+    },
+    {
+      "id": "human-nature-michael-jackson",
+      "name": "Human Nature",
+      "artist": "Michael Jackson",
+      "performanceScore": 71.8,
+      "appearances": 1
+    },
+    {
+      "id": "read-my-lips-madonna",
+      "name": "Read My Lips",
+      "artist": "Madonna",
+      "performanceScore": 71.2,
+      "appearances": 1
+    },
+    {
+      "id": "maggots-for-brains-olivia-rodrigo",
+      "name": "maggots for brains",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70.6,
+      "appearances": 1
+    },
+    {
+      "id": "die-on-this-hill-sienna-spiro",
+      "name": "Die On This Hill",
+      "artist": "SIENNA SPIRO",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "be-her-ella-langley",
+      "name": "Be Her",
+      "artist": "Ella Langley",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "12-to-12-sombr",
+      "name": "12 to 12",
+      "artist": "sombr",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "blessings-calvin-harris",
+      "name": "Blessings",
+      "artist": "Calvin Harris",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "aperture-harry-styles",
+      "name": "Aperture",
+      "artist": "Harry Styles",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "dreams-fleetwood-mac",
+      "name": "Dreams",
+      "artist": "Fleetwood Mac",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "material-lover-sienna-spiro",
+      "name": "Material Lover",
+      "artist": "SIENNA SPIRO",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "espresso-sabrina-carpenter",
+      "name": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "somedays-sonny-fodera",
+      "name": "Somedays",
+      "artist": "Sonny Fodera",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "smooth-criminal-michael-jackson",
+      "name": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "i-had-some-help-(feat.-morgan-wallen)-post-malone",
+      "name": "I Had Some Help (feat. Morgan Wallen)",
+      "artist": "Post Malone",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "everything-madonna",
+      "name": "Everything",
+      "artist": "Madonna",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "beautiful-things-benson-boone",
+      "name": "Beautiful Things",
+      "artist": "Benson Boone",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "iris-the-goo-goo-dolls",
+      "name": "Iris",
+      "artist": "The Goo Goo Dolls",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "the-way-you-make-me-feel-(2012-remaster)-michael-jackson",
+      "name": "The Way You Make Me Feel (2012 Remaster)",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "love-sensation-madonna",
+      "name": "Love Sensation",
+      "artist": "Madonna",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "as-it-was-harry-styles",
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "u-+-me-=-<3-olivia-rodrigo",
+      "name": "u + me = <3",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "expectations-olivia-rodrigo",
+      "name": "expectations",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "bizarre-madonna",
+      "name": "Bizarre",
+      "artist": "Madonna",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "golden-huntr/x",
+      "name": "Golden",
+      "artist": "HUNTR/X",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "a-bar-song-(tipsy)-shaboozey",
+      "name": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "my-way-olivia-rodrigo",
+      "name": "my way",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "shabang-drake",
+      "name": "Shabang",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "i-just-might-bruno-mars",
+      "name": "I Just Might",
+      "artist": "Bruno Mars",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "no-broke-boys-disco-lines",
+      "name": "No Broke Boys",
+      "artist": "Disco Lines",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "bad-michael-jackson",
+      "name": "Bad",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "the-door-teddy-swims",
+      "name": "The Door",
+      "artist": "Teddy Swims",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "too-sweet-hozier",
+      "name": "Too Sweet",
+      "artist": "Hozier",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "what’s-wrong-with-me-olivia-rodrigo",
+      "name": "what’s wrong with me",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "one-kiss-calvin-harris",
+      "name": "One Kiss",
+      "artist": "Calvin Harris",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "stargazing-myles-smith",
+      "name": "Stargazing",
+      "artist": "Myles Smith",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "love-without-words-madonna",
+      "name": "Love Without Words",
+      "artist": "Madonna",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "cinderella-(feat.-ty-dolla-$ign)-mac-miller",
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "man-in-the-mirror-michael-jackson",
+      "name": "Man In the Mirror",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "stateside-(with-zara-larsson)-pinkpantheress",
+      "name": "Stateside (with Zara Larsson)",
+      "artist": "PinkPantheress",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "white-keys-dominic-fike",
+      "name": "White Keys",
+      "artist": "Dominic Fike",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "let-me-be-in-your-arms-sonny-fodera",
+      "name": "Let Me Be In Your Arms",
+      "artist": "Sonny Fodera",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "new-rules-dua-lipa",
+      "name": "New Rules",
+      "artist": "Dua Lipa",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "castle-on-the-hill-ed-sheeran",
+      "name": "Castle on the Hill",
+      "artist": "Ed Sheeran",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "don't-stop-'til-you-get-enough-michael-jackson",
+      "name": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "lose-control-teddy-swims",
+      "name": "Lose Control",
+      "artist": "Teddy Swims",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "school-madonna",
+      "name": "School",
+      "artist": "Madonna",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "perfect-ed-sheeran",
+      "name": "Perfect",
+      "artist": "Ed Sheeran",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "shape-of-you-ed-sheeran",
+      "name": "Shape of You",
+      "artist": "Ed Sheeran",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "begged-olivia-rodrigo",
+      "name": "begged",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "don't-look-back-in-anger-(remastered)-oasis",
+      "name": "Don't Look Back in Anger (Remastered)",
+      "artist": "Oasis",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "less-olivia-rodrigo",
+      "name": "less",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "great-expectation-sienna-spiro",
+      "name": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "the-chain-fleetwood-mac",
+      "name": "The Chain",
+      "artist": "Fleetwood Mac",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "taste-back-harry-styles",
+      "name": "Taste Back",
+      "artist": "Harry Styles",
+      "performanceScore": 70,
+      "appearances": 1
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Danceteria",
+        "artist": "Madonna",
+        "position": 20,
+        "score": 88
+      },
+      {
+        "name": "Bring Your Love",
+        "artist": "Madonna",
+        "position": 33,
+        "score": 80.2
+      },
+      {
+        "name": "One Step Away",
+        "artist": "Madonna",
+        "position": 39,
+        "score": 76.6
+      },
+      {
+        "name": "I Feel So Free",
+        "artist": "Madonna",
+        "position": 41,
+        "score": 75.4
+      },
+      {
+        "name": "Good For The Soul",
+        "artist": "Madonna",
+        "position": 44,
+        "score": 73.6
+      },
+      {
+        "name": "Read My Lips",
+        "artist": "Madonna",
+        "position": 48,
+        "score": 71.2
+      },
+      {
+        "name": "Everything",
+        "artist": "Madonna",
+        "position": 61,
+        "score": 70
+      },
+      {
+        "name": "Love Sensation",
+        "artist": "Madonna",
+        "position": 65,
+        "score": 70
+      },
+      {
+        "name": "Bizarre",
+        "artist": "Madonna",
+        "position": 69,
+        "score": 70
+      },
+      {
+        "name": "Love Without Words",
+        "artist": "Madonna",
+        "position": 82,
+        "score": 70
+      },
+      {
+        "name": "School",
+        "artist": "Madonna",
+        "position": 92,
+        "score": 70
+      },
+      {
+        "name": "Great Expectation",
+        "artist": "SIENNA SPIRO",
+        "position": 98,
+        "score": 70
+      }
+    ],
+    "removed": [
+      {
+        "name": "Dracula (JENNIE Remix)",
+        "artist": "Tame Impala",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Doors",
+        "artist": "Noah Kahan",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Orbiter",
+        "artist": "Noah Kahan",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "House Tour",
+        "artist": "Sabrina Carpenter",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Stick Season",
+        "artist": "Noah Kahan",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Someone You Loved",
+        "artist": "Lewis Capaldi",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Into You",
+        "artist": "Ariana Grande",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Viva La Vida",
+        "artist": "Coldplay",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "purple",
+        "artist": "Olivia Rodrigo",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "National Treasures",
+        "artist": "Drake",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "DAISIES",
+        "artist": "Justin Bieber",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Three Lions",
+        "artist": "David Baddiel",
+        "reason": "dropped",
+        "age": 0
+      }
+    ],
+    "moved": [
+      {
+        "name": "Die On This Hill",
+        "artist": "SIENNA SPIRO",
+        "from": 82,
+        "to": 50,
+        "movement": "↑32",
+        "direction": "up"
+      },
+      {
+        "name": "begged",
+        "artist": "Olivia Rodrigo",
+        "from": 65,
+        "to": 95,
+        "movement": "↓30",
+        "direction": "down"
+      },
+      {
+        "name": "what’s wrong with me",
+        "artist": "Olivia Rodrigo",
+        "from": 55,
+        "to": 79,
+        "movement": "↓24",
+        "direction": "down"
+      },
+      {
+        "name": "less",
+        "artist": "Olivia Rodrigo",
+        "from": 75,
+        "to": 97,
+        "movement": "↓22",
+        "direction": "down"
+      },
+      {
+        "name": "my way",
+        "artist": "Olivia Rodrigo",
+        "from": 52,
+        "to": 72,
+        "movement": "↓20",
+        "direction": "down"
+      },
+      {
+        "name": "u + me = <3",
+        "artist": "Olivia Rodrigo",
+        "from": 48,
+        "to": 67,
+        "movement": "↓19",
+        "direction": "down"
+      },
+      {
+        "name": "expectations",
+        "artist": "Olivia Rodrigo",
+        "from": 49,
+        "to": 68,
+        "movement": "↓19",
+        "direction": "down"
+      },
+      {
+        "name": "Blessings",
+        "artist": "Calvin Harris",
+        "from": 68,
+        "to": 53,
+        "movement": "↑15",
+        "direction": "up"
+      },
+      {
+        "name": "Stateside (with Zara Larsson)",
+        "artist": "PinkPantheress",
+        "from": 71,
+        "to": 85,
+        "movement": "↓14",
+        "direction": "down"
+      },
+      {
+        "name": "Perfect",
+        "artist": "Ed Sheeran",
+        "from": 79,
+        "to": 93,
+        "movement": "↓14",
+        "direction": "down"
+      },
+      {
+        "name": "maggots for brains",
+        "artist": "Olivia Rodrigo",
+        "from": 36,
+        "to": 49,
+        "movement": "↓13",
+        "direction": "down"
+      },
+      {
+        "name": "Somedays",
+        "artist": "Sonny Fodera",
+        "from": 45,
+        "to": 58,
+        "movement": "↓13",
+        "direction": "down"
+      },
+      {
+        "name": "Lose Control",
+        "artist": "Teddy Swims",
+        "from": 80,
+        "to": 91,
+        "movement": "↓11",
+        "direction": "down"
+      },
+      {
+        "name": "honeybee",
+        "artist": "Olivia Rodrigo",
+        "from": 27,
+        "to": 36,
+        "movement": "↓9",
+        "direction": "down"
+      },
+      {
+        "name": "Boston",
+        "artist": "STELLA LEFTY",
+        "from": 38,
+        "to": 46,
+        "movement": "↓8",
+        "direction": "down"
+      },
+      {
+        "name": "Material Lover",
+        "artist": "SIENNA SPIRO",
+        "from": 64,
+        "to": 56,
+        "movement": "↑8",
+        "direction": "up"
+      },
+      {
+        "name": "Taste Back",
+        "artist": "Harry Styles",
+        "from": 92,
+        "to": 100,
+        "movement": "↓8",
+        "direction": "down"
+      },
+      {
+        "name": "Homewrecker",
+        "artist": "sombr",
+        "from": 33,
+        "to": 40,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "Golden",
+        "artist": "HUNTR/X",
+        "from": 63,
+        "to": 70,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "The Door",
+        "artist": "Teddy Swims",
+        "from": 70,
+        "to": 77,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "Dance No More",
+        "artist": "Harry Styles",
+        "from": 31,
+        "to": 37,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "One Kiss",
+        "artist": "Calvin Harris",
+        "from": 74,
+        "to": 80,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "Man In the Mirror",
+        "artist": "Michael Jackson",
+        "from": 78,
+        "to": 84,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "drop dead",
+        "artist": "Olivia Rodrigo",
+        "from": 11,
+        "to": 16,
+        "movement": "↓5",
+        "direction": "down"
+      },
+      {
+        "name": "Talk To You (feat. 54 Ultra)",
+        "artist": "ANOTR",
+        "from": 43,
+        "to": 38,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "Be Her",
+        "artist": "Ella Langley",
+        "from": 46,
+        "to": 51,
+        "movement": "↓5",
+        "direction": "down"
+      },
+      {
+        "name": "As It Was",
+        "artist": "Harry Styles",
+        "from": 61,
+        "to": 66,
+        "movement": "↓5",
+        "direction": "down"
+      },
+      {
+        "name": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "from": 66,
+        "to": 71,
+        "movement": "↓5",
+        "direction": "down"
+      }
+    ],
+    "stale": [],
+    "timestamp": "2026-07-04T10:32:33.488Z",
+    "playlistName": "Top 100 UK"
+  }
+}
