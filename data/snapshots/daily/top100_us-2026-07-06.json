@@ -1,0 +1,1187 @@
+{
+  "playlistName": "Top 100 US",
+  "timestamp": "2026-07-06T12:23:43.920Z",
+  "baselineRun": false,
+  "trackCount": 100,
+  "tracks": [
+    {
+      "id": "courtesy-of-the-red,-white-and-blue-(the-angry-american)-toby-keith",
+      "name": "Courtesy of the Red, White and Blue (The Angry American)",
+      "artist": "Toby Keith",
+      "performanceScore": 99.4,
+      "appearances": 1
+    },
+    {
+      "id": "choosin'-texas-ella-langley",
+      "name": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "performanceScore": 98.8,
+      "appearances": 1
+    },
+    {
+      "id": "janice-stfu-drake",
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "performanceScore": 98.2,
+      "appearances": 1
+    },
+    {
+      "id": "morning-dew-(donk)-beyoncé",
+      "name": "MORNING DEW (DONK)",
+      "artist": "Beyoncé",
+      "performanceScore": 97.6,
+      "appearances": 1
+    },
+    {
+      "id": "spend-dat-yung-miami",
+      "name": "Spend Dat",
+      "artist": "Yung Miami",
+      "performanceScore": 97,
+      "appearances": 1
+    },
+    {
+      "id": "shabang-drake",
+      "name": "Shabang",
+      "artist": "Drake",
+      "performanceScore": 96.4,
+      "appearances": 1
+    },
+    {
+      "id": "be-her-ella-langley",
+      "name": "Be Her",
+      "artist": "Ella Langley",
+      "performanceScore": 95.8,
+      "appearances": 1
+    },
+    {
+      "id": "i-can't-love-you-anymore-ella-langley",
+      "name": "I Can't Love You Anymore",
+      "artist": "Ella Langley",
+      "performanceScore": 95.2,
+      "appearances": 1
+    },
+    {
+      "id": "ran-to-atlanta-drake",
+      "name": "Ran To Atlanta",
+      "artist": "Drake",
+      "performanceScore": 94.6,
+      "appearances": 1
+    },
+    {
+      "id": "20-cigarettes-morgan-wallen",
+      "name": "20 Cigarettes",
+      "artist": "Morgan Wallen",
+      "performanceScore": 94,
+      "appearances": 1
+    },
+    {
+      "id": "stupid-song-olivia-rodrigo",
+      "name": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 93.4,
+      "appearances": 1
+    },
+    {
+      "id": "born-in-the-u.s.a.-bruce-springsteen",
+      "name": "Born In the U.S.A.",
+      "artist": "Bruce Springsteen",
+      "performanceScore": 92.8,
+      "appearances": 1
+    },
+    {
+      "id": "whisper-my-name-drake",
+      "name": "Whisper My Name",
+      "artist": "Drake",
+      "performanceScore": 92.2,
+      "appearances": 1
+    },
+    {
+      "id": "cinderella-(feat.-ty-dolla-$ign)-mac-miller",
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller",
+      "performanceScore": 91.6,
+      "appearances": 1
+    },
+    {
+      "id": "i'm-the-problem-morgan-wallen",
+      "name": "I'm The Problem",
+      "artist": "Morgan Wallen",
+      "performanceScore": 91,
+      "appearances": 1
+    },
+    {
+      "id": "i-had-some-help-(feat.-morgan-wallen)-post-malone",
+      "name": "I Had Some Help (feat. Morgan Wallen)",
+      "artist": "Post Malone",
+      "performanceScore": 90.4,
+      "appearances": 1
+    },
+    {
+      "id": "hate-that-i-made-you-love-me-ariana-grande",
+      "name": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "performanceScore": 89.8,
+      "appearances": 1
+    },
+    {
+      "id": "rubberz-fenix-flexin",
+      "name": "RUBBERZ",
+      "artist": "Fenix Flexin",
+      "performanceScore": 89.2,
+      "appearances": 1
+    },
+    {
+      "id": "last-night-morgan-wallen",
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "performanceScore": 88.6,
+      "appearances": 1
+    },
+    {
+      "id": "the-cure-olivia-rodrigo",
+      "name": "the cure",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 88,
+      "appearances": 1
+    },
+    {
+      "id": "be-by-you-luke-combs",
+      "name": "Be By You",
+      "artist": "Luke Combs",
+      "performanceScore": 87.4,
+      "appearances": 1
+    },
+    {
+      "id": "freestyle-lil-baby",
+      "name": "Freestyle",
+      "artist": "Lil Baby",
+      "performanceScore": 86.8,
+      "appearances": 1
+    },
+    {
+      "id": "in-a-minute-lil-baby",
+      "name": "In A Minute",
+      "artist": "Lil Baby",
+      "performanceScore": 86.2,
+      "appearances": 1
+    },
+    {
+      "id": "party-in-the-u.s.a.-miley-cyrus",
+      "name": "Party In the U.S.A.",
+      "artist": "Miley Cyrus",
+      "performanceScore": 85.6,
+      "appearances": 1
+    },
+    {
+      "id": "spin-you-around-(1/24)-morgan-wallen",
+      "name": "Spin You Around (1/24)",
+      "artist": "Morgan Wallen",
+      "performanceScore": 85,
+      "appearances": 1
+    },
+    {
+      "id": "i-knew-it,-i-knew-you-(from-\"toy-story-5\")-taylor-swift",
+      "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "performanceScore": 84.4,
+      "appearances": 1
+    },
+    {
+      "id": "national-treasures-drake",
+      "name": "National Treasures",
+      "artist": "Drake",
+      "performanceScore": 83.8,
+      "appearances": 1
+    },
+    {
+      "id": "billie-jean-michael-jackson",
+      "name": "Billie Jean",
+      "artist": "Michael Jackson",
+      "performanceScore": 83.2,
+      "appearances": 1
+    },
+    {
+      "id": "just-in-case-morgan-wallen",
+      "name": "Just In Case",
+      "artist": "Morgan Wallen",
+      "performanceScore": 82.6,
+      "appearances": 1
+    },
+    {
+      "id": "wait-for-u-(feat.-drake-&-tems)-future",
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future",
+      "performanceScore": 82,
+      "appearances": 1
+    },
+    {
+      "id": "boston-stella-lefty",
+      "name": "Boston",
+      "artist": "STELLA LEFTY",
+      "performanceScore": 81.4,
+      "appearances": 1
+    },
+    {
+      "id": "i’m-spent-drake",
+      "name": "I’m Spent",
+      "artist": "Drake",
+      "performanceScore": 80.8,
+      "appearances": 1
+    },
+    {
+      "id": "neighborhood-starz-rylo-rodriguez",
+      "name": "Neighborhood Starz",
+      "artist": "Rylo Rodriguez",
+      "performanceScore": 80.2,
+      "appearances": 1
+    },
+    {
+      "id": "don't-we-morgan-wallen",
+      "name": "Don't We",
+      "artist": "Morgan Wallen",
+      "performanceScore": 79.6,
+      "appearances": 1
+    },
+    {
+      "id": "what-i-want-morgan-wallen",
+      "name": "What I Want",
+      "artist": "Morgan Wallen",
+      "performanceScore": 79,
+      "appearances": 1
+    },
+    {
+      "id": "cowgirls-(feat.-ernest)-morgan-wallen",
+      "name": "Cowgirls (feat. ERNEST)",
+      "artist": "Morgan Wallen",
+      "performanceScore": 78.4,
+      "appearances": 1
+    },
+    {
+      "id": "like-me-(feat.-42-dugg-&-lil-baby)-future",
+      "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "artist": "Future",
+      "performanceScore": 77.8,
+      "appearances": 1
+    },
+    {
+      "id": "weren't-for-the-wind-ella-langley",
+      "name": "weren't for the wind",
+      "artist": "Ella Langley",
+      "performanceScore": 77.2,
+      "appearances": 1
+    },
+    {
+      "id": "b’s-on-the-table-drake",
+      "name": "B’s On The Table",
+      "artist": "Drake",
+      "performanceScore": 76.6,
+      "appearances": 1
+    },
+    {
+      "id": "drop-dead-olivia-rodrigo",
+      "name": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 76,
+      "appearances": 1
+    },
+    {
+      "id": "e85-don-toliver",
+      "name": "E85",
+      "artist": "Don Toliver",
+      "performanceScore": 75.4,
+      "appearances": 1
+    },
+    {
+      "id": "thinkin’-bout-me-morgan-wallen",
+      "name": "Thinkin’ Bout Me",
+      "artist": "Morgan Wallen",
+      "performanceScore": 74.8,
+      "appearances": 1
+    },
+    {
+      "id": "tennessee-whiskey-chris-stapleton",
+      "name": "Tennessee Whiskey",
+      "artist": "Chris Stapleton",
+      "performanceScore": 74.2,
+      "appearances": 1
+    },
+    {
+      "id": "man-i-need-olivia-dean",
+      "name": "Man I Need",
+      "artist": "Olivia Dean",
+      "performanceScore": 73.6,
+      "appearances": 1
+    },
+    {
+      "id": "ghetto-love-story-babychiefdoit",
+      "name": "Ghetto Love Story",
+      "artist": "BabyChiefDoit",
+      "performanceScore": 73,
+      "appearances": 1
+    },
+    {
+      "id": "god-bless-the-u.s.a.-lee-greenwood",
+      "name": "God Bless The U.S.A.",
+      "artist": "Lee Greenwood",
+      "performanceScore": 72.4,
+      "appearances": 1
+    },
+    {
+      "id": "wasted-on-you-morgan-wallen",
+      "name": "Wasted On You",
+      "artist": "Morgan Wallen",
+      "performanceScore": 71.8,
+      "appearances": 1
+    },
+    {
+      "id": "best-i-ever-had-drake",
+      "name": "Best I Ever Had",
+      "artist": "Drake",
+      "performanceScore": 71.2,
+      "appearances": 1
+    },
+    {
+      "id": "2-hard-4-the-radio-drake",
+      "name": "2 Hard 4 The Radio",
+      "artist": "Drake",
+      "performanceScore": 70.6,
+      "appearances": 1
+    },
+    {
+      "id": "march-madness-future",
+      "name": "March Madness",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "stir-rylo-rodriguez",
+      "name": "Stir",
+      "artist": "Rylo Rodriguez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "frozen-lil-baby",
+      "name": "Frozen",
+      "artist": "Lil Baby",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "where-the-wild-things-are-luke-combs",
+      "name": "Where the Wild Things Are",
+      "artist": "Luke Combs",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "i'm-dat-nigga-future",
+      "name": "I'M DAT NIGGA",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "american-kids-kenny-chesney",
+      "name": "American Kids",
+      "artist": "Kenny Chesney",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "low-top-vanz-rylo-rodriguez",
+      "name": "Low Top Vanz",
+      "artist": "Rylo Rodriguez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "honeybee-olivia-rodrigo",
+      "name": "honeybee",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "i-got-better-morgan-wallen",
+      "name": "I Got Better",
+      "artist": "Morgan Wallen",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "you-proof-morgan-wallen",
+      "name": "You Proof",
+      "artist": "Morgan Wallen",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "plot-twist-drake",
+      "name": "Plot Twist",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "stick-talk-future",
+      "name": "Stick Talk",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "what-you-need-tems",
+      "name": "What You Need",
+      "artist": "Tems",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "earrings-malcolm-todd",
+      "name": "Earrings",
+      "artist": "Malcolm Todd",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "chicken-fried-zac-brown-band",
+      "name": "Chicken Fried",
+      "artist": "Zac Brown Band",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "fast-car-luke-combs",
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "idols-r’-us-rylo-rodriguez",
+      "name": "Idols R’ Us",
+      "artist": "Rylo Rodriguez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "broken-window-serenade-whiskey-myers",
+      "name": "Broken Window Serenade",
+      "artist": "Whiskey Myers",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "chicago-michael-jackson",
+      "name": "Chicago",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "she-got-the-best-of-me-luke-combs",
+      "name": "She Got the Best of Me",
+      "artist": "Luke Combs",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "dandelion-ella-langley",
+      "name": "Dandelion",
+      "artist": "Ella Langley",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "kacey-talk-youngboy-never-broke-again",
+      "name": "Kacey Talk",
+      "artist": "YoungBoy Never Broke Again",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "cbfw-rylo-rodriguez",
+      "name": "CBFW",
+      "artist": "Rylo Rodriguez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "sum-2-prove-lil-baby",
+      "name": "Sum 2 Prove",
+      "artist": "Lil Baby",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "wants-and-needs-(feat.-lil-baby)-drake",
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "burning-bridges-drake",
+      "name": "Burning Bridges",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "beautiful-crazy-luke-combs",
+      "name": "Beautiful Crazy",
+      "artist": "Luke Combs",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "kount-ya-hat-rylo-rodriguez",
+      "name": "Kount Ya Hat",
+      "artist": "Rylo Rodriguez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "make-them-pay-drake",
+      "name": "Make Them Pay",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "a-bar-song-(tipsy)-shaboozey",
+      "name": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "neon-moon-brooks-&-dunn",
+      "name": "Neon Moon",
+      "artist": "Brooks & Dunn",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "right-on-lil-baby",
+      "name": "Right On",
+      "artist": "Lil Baby",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "endless-cups-rylo-rodriguez",
+      "name": "Endless Cups",
+      "artist": "Rylo Rodriguez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "springsteen-eric-church",
+      "name": "Springsteen",
+      "artist": "Eric Church",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "hurricane-luke-combs",
+      "name": "Hurricane",
+      "artist": "Luke Combs",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "what-did-i-miss?-drake",
+      "name": "What Did I Miss?",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "not-like-us-kendrick-lamar",
+      "name": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "7-summers-morgan-wallen",
+      "name": "7 Summers",
+      "artist": "Morgan Wallen",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "dust-drake",
+      "name": "Dust",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "promises-rylo-rodriguez",
+      "name": "Promises",
+      "artist": "Rylo Rodriguez",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "summertime-kenny-chesney",
+      "name": "Summertime",
+      "artist": "Kenny Chesney",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "fdo-pooh-shiesty",
+      "name": "FDO",
+      "artist": "Pooh Shiesty",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "orbiter-noah-kahan",
+      "name": "Orbiter",
+      "artist": "Noah Kahan",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "snooze-sza",
+      "name": "Snooze",
+      "artist": "SZA",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "like-that-future",
+      "name": "Like That",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "folded-kehlani",
+      "name": "Folded",
+      "artist": "Kehlani",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "human-nature-michael-jackson",
+      "name": "Human Nature",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "30-for-30-(with-kendrick-lamar)-sza",
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "artist": "SZA",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "beat-it-michael-jackson",
+      "name": "Beat It",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "pop-dat-thang-dababy",
+      "name": "POP DAT THANG",
+      "artist": "DaBaby",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "you-look-like-you-love-me-ella-langley",
+      "name": "you look like you love me",
+      "artist": "Ella Langley",
+      "performanceScore": 70,
+      "appearances": 1
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Broken Window Serenade",
+        "artist": "Whiskey Myers",
+        "position": 67,
+        "score": 70
+      },
+      {
+        "name": "Kount Ya Hat",
+        "artist": "Rylo Rodriguez",
+        "position": 77,
+        "score": 70
+      },
+      {
+        "name": "Endless Cups",
+        "artist": "Rylo Rodriguez",
+        "position": 82,
+        "score": 70
+      },
+      {
+        "name": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "position": 86,
+        "score": 70
+      },
+      {
+        "name": "Promises",
+        "artist": "Rylo Rodriguez",
+        "position": 89,
+        "score": 70
+      },
+      {
+        "name": "Orbiter",
+        "artist": "Noah Kahan",
+        "position": 92,
+        "score": 70
+      },
+      {
+        "name": "Snooze",
+        "artist": "SZA",
+        "position": 93,
+        "score": 70
+      },
+      {
+        "name": "Like That",
+        "artist": "Future",
+        "position": 94,
+        "score": 70
+      },
+      {
+        "name": "Folded",
+        "artist": "Kehlani",
+        "position": 95,
+        "score": 70
+      },
+      {
+        "name": "Human Nature",
+        "artist": "Michael Jackson",
+        "position": 96,
+        "score": 70
+      },
+      {
+        "name": "30 For 30 (with Kendrick Lamar)",
+        "artist": "SZA",
+        "position": 97,
+        "score": 70
+      },
+      {
+        "name": "Beat It",
+        "artist": "Michael Jackson",
+        "position": 98,
+        "score": 70
+      },
+      {
+        "name": "you look like you love me",
+        "artist": "Ella Langley",
+        "position": 100,
+        "score": 70
+      }
+    ],
+    "removed": [
+      {
+        "name": "Only In America",
+        "artist": "Brooks & Dunn",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Independence Day",
+        "artist": "Martina McBride",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Made In America",
+        "artist": "Toby Keith",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "It's Five O'Clock Somewhere (with Jimmy Buffett)",
+        "artist": "Alan Jackson",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Boot Scootin' Boogie",
+        "artist": "Brooks & Dunn",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Free Bird",
+        "artist": "Lynyrd Skynyrd",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Sweet Home Alabama",
+        "artist": "Lynyrd Skynyrd",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Take Me Home, Country Roads (Original Version)",
+        "artist": "John Denver",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Firework",
+        "artist": "Katy Perry",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Barefoot Blue Jean Night",
+        "artist": "Jake Owen",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "American Soldier",
+        "artist": "Toby Keith",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Thank God I'm a Country Boy",
+        "artist": "John Denver",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Motion Party",
+        "artist": "Bossman Dlow",
+        "reason": "dropped",
+        "age": 0
+      }
+    ],
+    "moved": [
+      {
+        "name": "Summertime",
+        "artist": "Kenny Chesney",
+        "from": 23,
+        "to": 90,
+        "movement": "↓67",
+        "direction": "down"
+      },
+      {
+        "name": "Chicken Fried",
+        "artist": "Zac Brown Band",
+        "from": 22,
+        "to": 64,
+        "movement": "↓42",
+        "direction": "down"
+      },
+      {
+        "name": "honeybee",
+        "artist": "Olivia Rodrigo",
+        "from": 99,
+        "to": 57,
+        "movement": "↑42",
+        "direction": "up"
+      },
+      {
+        "name": "American Kids",
+        "artist": "Kenny Chesney",
+        "from": 14,
+        "to": 55,
+        "movement": "↓41",
+        "direction": "down"
+      },
+      {
+        "name": "God Bless The U.S.A.",
+        "artist": "Lee Greenwood",
+        "from": 8,
+        "to": 46,
+        "movement": "↓38",
+        "direction": "down"
+      },
+      {
+        "name": "Springsteen",
+        "artist": "Eric Church",
+        "from": 50,
+        "to": 83,
+        "movement": "↓33",
+        "direction": "down"
+      },
+      {
+        "name": "the cure",
+        "artist": "Olivia Rodrigo",
+        "from": 49,
+        "to": 20,
+        "movement": "↑29",
+        "direction": "up"
+      },
+      {
+        "name": "drop dead",
+        "artist": "Olivia Rodrigo",
+        "from": 69,
+        "to": 40,
+        "movement": "↑29",
+        "direction": "up"
+      },
+      {
+        "name": "Earrings",
+        "artist": "Malcolm Todd",
+        "from": 92,
+        "to": 63,
+        "movement": "↑29",
+        "direction": "up"
+      },
+      {
+        "name": "CBFW",
+        "artist": "Rylo Rodriguez",
+        "from": 100,
+        "to": 72,
+        "movement": "↑28",
+        "direction": "up"
+      },
+      {
+        "name": "Chicago",
+        "artist": "Michael Jackson",
+        "from": 91,
+        "to": 68,
+        "movement": "↑23",
+        "direction": "up"
+      },
+      {
+        "name": "Wants and Needs (feat. Lil Baby)",
+        "artist": "Drake",
+        "from": 96,
+        "to": 74,
+        "movement": "↑22",
+        "direction": "up"
+      },
+      {
+        "name": "Dandelion",
+        "artist": "Ella Langley",
+        "from": 88,
+        "to": 70,
+        "movement": "↑18",
+        "direction": "up"
+      },
+      {
+        "name": "Ghetto Love Story",
+        "artist": "BabyChiefDoit",
+        "from": 62,
+        "to": 45,
+        "movement": "↑17",
+        "direction": "up"
+      },
+      {
+        "name": "Low Top Vanz",
+        "artist": "Rylo Rodriguez",
+        "from": 72,
+        "to": 56,
+        "movement": "↑16",
+        "direction": "up"
+      },
+      {
+        "name": "Kacey Talk",
+        "artist": "YoungBoy Never Broke Again",
+        "from": 87,
+        "to": 71,
+        "movement": "↑16",
+        "direction": "up"
+      },
+      {
+        "name": "Right On",
+        "artist": "Lil Baby",
+        "from": 97,
+        "to": 81,
+        "movement": "↑16",
+        "direction": "up"
+      },
+      {
+        "name": "hate that i made you love me",
+        "artist": "Ariana Grande",
+        "from": 32,
+        "to": 17,
+        "movement": "↑15",
+        "direction": "up"
+      },
+      {
+        "name": "Frozen",
+        "artist": "Lil Baby",
+        "from": 66,
+        "to": 52,
+        "movement": "↑14",
+        "direction": "up"
+      },
+      {
+        "name": "What You Need",
+        "artist": "Tems",
+        "from": 76,
+        "to": 62,
+        "movement": "↑14",
+        "direction": "up"
+      },
+      {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "artist": "Taylor Swift",
+        "from": 39,
+        "to": 26,
+        "movement": "↑13",
+        "direction": "up"
+      },
+      {
+        "name": "Neighborhood Starz",
+        "artist": "Rylo Rodriguez",
+        "from": 46,
+        "to": 33,
+        "movement": "↑13",
+        "direction": "up"
+      },
+      {
+        "name": "Best I Ever Had",
+        "artist": "Drake",
+        "from": 61,
+        "to": 48,
+        "movement": "↑13",
+        "direction": "up"
+      },
+      {
+        "name": "Party In the U.S.A.",
+        "artist": "Miley Cyrus",
+        "from": 12,
+        "to": 24,
+        "movement": "↓12",
+        "direction": "down"
+      },
+      {
+        "name": "Hurricane",
+        "artist": "Luke Combs",
+        "from": 73,
+        "to": 84,
+        "movement": "↓11",
+        "direction": "down"
+      },
+      {
+        "name": "7 Summers",
+        "artist": "Morgan Wallen",
+        "from": 98,
+        "to": 87,
+        "movement": "↑11",
+        "direction": "up"
+      },
+      {
+        "name": "POP DAT THANG",
+        "artist": "DaBaby",
+        "from": 89,
+        "to": 99,
+        "movement": "↓10",
+        "direction": "down"
+      },
+      {
+        "name": "What Did I Miss?",
+        "artist": "Drake",
+        "from": 95,
+        "to": 85,
+        "movement": "↑10",
+        "direction": "up"
+      },
+      {
+        "name": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "from": 70,
+        "to": 79,
+        "movement": "↓9",
+        "direction": "down"
+      },
+      {
+        "name": "Born In the U.S.A.",
+        "artist": "Bruce Springsteen",
+        "from": 4,
+        "to": 12,
+        "movement": "↓8",
+        "direction": "down"
+      },
+      {
+        "name": "MORNING DEW (DONK)",
+        "artist": "Beyoncé",
+        "from": 11,
+        "to": 4,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "Cinderella (feat. Ty Dolla $ign)",
+        "artist": "Mac Miller",
+        "from": 21,
+        "to": 14,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "Be By You",
+        "artist": "Luke Combs",
+        "from": 28,
+        "to": 21,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "What I Want",
+        "artist": "Morgan Wallen",
+        "from": 42,
+        "to": 35,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "Spin You Around (1/24)",
+        "artist": "Morgan Wallen",
+        "from": 31,
+        "to": 25,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "Make Them Pay",
+        "artist": "Drake",
+        "from": 84,
+        "to": 78,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "stupid song",
+        "artist": "Olivia Rodrigo",
+        "from": 16,
+        "to": 11,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "B’s On The Table",
+        "artist": "Drake",
+        "from": 44,
+        "to": 39,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "You Proof",
+        "artist": "Morgan Wallen",
+        "from": 64,
+        "to": 59,
+        "movement": "↑5",
+        "direction": "up"
+      }
+    ],
+    "stale": [],
+    "timestamp": "2026-07-06T12:23:43.919Z",
+    "playlistName": "Top 100 US"
+  }
+}
