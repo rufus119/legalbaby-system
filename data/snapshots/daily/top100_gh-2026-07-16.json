@@ -1,0 +1,779 @@
+{
+  "playlistName": "Top 100 Ghana",
+  "timestamp": "2026-07-16T10:25:17.436Z",
+  "baselineRun": false,
+  "trackCount": 100,
+  "tracks": [
+    {
+      "id": "slick-victony",
+      "name": "SLICK",
+      "artist": "Victony",
+      "performanceScore": 99.4,
+      "appearances": 1
+    },
+    {
+      "id": "biggest-nathaniel-lasmid",
+      "name": "Biggest Nathaniel",
+      "artist": "Lasmid",
+      "performanceScore": 98.8,
+      "appearances": 1
+    },
+    {
+      "id": "forgiveness-asake",
+      "name": "Forgiveness",
+      "artist": "Asake",
+      "performanceScore": 98.2,
+      "appearances": 1
+    },
+    {
+      "id": "signature-kidi",
+      "name": "Signature",
+      "artist": "KiDi",
+      "performanceScore": 97.6,
+      "appearances": 1
+    },
+    {
+      "id": "gratitude-asake",
+      "name": "Gratitude",
+      "artist": "Asake",
+      "performanceScore": 97,
+      "appearances": 1
+    },
+    {
+      "id": "major-league-sarkodie",
+      "name": "Major League",
+      "artist": "Sarkodie",
+      "performanceScore": 96.4,
+      "appearances": 1
+    },
+    {
+      "id": "chanel-(feat.-asake)-blaqbonez",
+      "name": "Chanel (feat. Asake)",
+      "artist": "Blaqbonez",
+      "performanceScore": 95.8,
+      "appearances": 1
+    },
+    {
+      "id": "ototrobonsu-o'kenneth",
+      "name": "OTOTROBONSU",
+      "artist": "O'Kenneth",
+      "performanceScore": 95.2,
+      "appearances": 1
+    },
+    {
+      "id": "why-love-asake",
+      "name": "WHY LOVE",
+      "artist": "Asake",
+      "performanceScore": 94.6,
+      "appearances": 1
+    },
+    {
+      "id": "pain-iii-o'kenneth",
+      "name": "PAIN III",
+      "artist": "O'Kenneth",
+      "performanceScore": 94,
+      "appearances": 1
+    },
+    {
+      "id": "swagga-black-sherif",
+      "name": "SWAGGA",
+      "artist": "Black Sherif",
+      "performanceScore": 93.4,
+      "appearances": 1
+    },
+    {
+      "id": "mentumi-nka-o'kenneth",
+      "name": "MENTUMI NKA",
+      "artist": "O'Kenneth",
+      "performanceScore": 92.8,
+      "appearances": 1
+    },
+    {
+      "id": "easy-o'kenneth",
+      "name": "EASY",
+      "artist": "O'Kenneth",
+      "performanceScore": 92.2,
+      "appearances": 1
+    },
+    {
+      "id": "sacrifice-black-sherif",
+      "name": "Sacrifice",
+      "artist": "Black Sherif",
+      "performanceScore": 91.6,
+      "appearances": 1
+    },
+    {
+      "id": "wish-i-had-a-girlfriend-reggie",
+      "name": "Wish I Had a Girlfriend",
+      "artist": "Reggie",
+      "performanceScore": 91,
+      "appearances": 1
+    },
+    {
+      "id": "top-of-the-morning-black-sherif",
+      "name": "Top of the Morning",
+      "artist": "Black Sherif",
+      "performanceScore": 90.4,
+      "appearances": 1
+    },
+    {
+      "id": "popstar-black-sherif",
+      "name": "PopStar",
+      "artist": "Black Sherif",
+      "performanceScore": 89.8,
+      "appearances": 1
+    },
+    {
+      "id": "yawa-ni-(shatta-music)-shatta-wale",
+      "name": "Yawa Ni (shatta music)",
+      "artist": "Shatta Wale",
+      "performanceScore": 89.2,
+      "appearances": 1
+    },
+    {
+      "id": "darkest-style-d-global",
+      "name": "Darkest Style",
+      "artist": "D Global",
+      "performanceScore": 88.6,
+      "appearances": 1
+    },
+    {
+      "id": "dem-dey-burna-boy",
+      "name": "Dem Dey",
+      "artist": "Burna Boy",
+      "performanceScore": 88,
+      "appearances": 1
+    },
+    {
+      "id": "soma-obi-black-sherif",
+      "name": "Soma Obi",
+      "artist": "Black Sherif",
+      "performanceScore": 87.4,
+      "appearances": 1
+    },
+    {
+      "id": "asoɔden-o'kenneth",
+      "name": "ASOƆDEN",
+      "artist": "O'Kenneth",
+      "performanceScore": 86.8,
+      "appearances": 1
+    },
+    {
+      "id": "mcbh-asake",
+      "name": "MCBH",
+      "artist": "Asake",
+      "performanceScore": 86.2,
+      "appearances": 1
+    },
+    {
+      "id": "worship-asake",
+      "name": "WORSHIP",
+      "artist": "Asake",
+      "performanceScore": 85.6,
+      "appearances": 1
+    },
+    {
+      "id": "so-it-goes-black-sherif",
+      "name": "So it Goes",
+      "artist": "Black Sherif",
+      "performanceScore": 85,
+      "appearances": 1
+    },
+    {
+      "id": "yawa-(hosanna)-kwesi-arthur",
+      "name": "Yawa (Hosanna)",
+      "artist": "Kwesi Arthur",
+      "performanceScore": 84.4,
+      "appearances": 1
+    },
+    {
+      "id": "yimayɛ-o'kenneth",
+      "name": "YIMAYƐ",
+      "artist": "O'Kenneth",
+      "performanceScore": 83.8,
+      "appearances": 1
+    },
+    {
+      "id": "wa-asake",
+      "name": "Wa",
+      "artist": "Asake",
+      "performanceScore": 83.2,
+      "appearances": 1
+    },
+    {
+      "id": "everlasting-sarkodie",
+      "name": "EVERLASTING",
+      "artist": "Sarkodie",
+      "performanceScore": 82.6,
+      "appearances": 1
+    },
+    {
+      "id": "elumelu-young-jonn",
+      "name": "Elumelu",
+      "artist": "Young Jonn",
+      "performanceScore": 82,
+      "appearances": 1
+    },
+    {
+      "id": "rebel-music-black-sherif",
+      "name": "Rebel Music",
+      "artist": "Black Sherif",
+      "performanceScore": 81.4,
+      "appearances": 1
+    },
+    {
+      "id": "nakupenda-(feat.-al-xapo-&-zlatan)-txc",
+      "name": "Nakupenda (feat. Al Xapo & Zlatan)",
+      "artist": "TxC",
+      "performanceScore": 80.8,
+      "appearances": 1
+    },
+    {
+      "id": "find-a-way-black-sherif",
+      "name": "Find A Way",
+      "artist": "Black Sherif",
+      "performanceScore": 80.2,
+      "appearances": 1
+    },
+    {
+      "id": "jesus-christ-2-(feat.-black-sherif)-arathejay",
+      "name": "Jesus Christ 2 (feat. Black Sherif)",
+      "artist": "AratheJay",
+      "performanceScore": 79.6,
+      "appearances": 1
+    },
+    {
+      "id": "balenciaga-o'kenneth",
+      "name": "BALENCIAGA",
+      "artist": "O'Kenneth",
+      "performanceScore": 79,
+      "appearances": 1
+    },
+    {
+      "id": "come-closer-(feat.-drake)-wizkid",
+      "name": "Come Closer (feat. Drake)",
+      "artist": "Wizkid",
+      "performanceScore": 78.4,
+      "appearances": 1
+    },
+    {
+      "id": "i-am-omah-lay",
+      "name": "I AM",
+      "artist": "OMAH LAY",
+      "performanceScore": 77.8,
+      "appearances": 1
+    },
+    {
+      "id": "danso-o'kenneth",
+      "name": "DANSO",
+      "artist": "O'Kenneth",
+      "performanceScore": 77.2,
+      "appearances": 1
+    },
+    {
+      "id": "young-boy-kweku-smoke",
+      "name": "Young Boy",
+      "artist": "Kweku Smoke",
+      "performanceScore": 76.6,
+      "appearances": 1
+    },
+    {
+      "id": "pain-ii-o'kenneth",
+      "name": "PAIN II",
+      "artist": "O'Kenneth",
+      "performanceScore": 76,
+      "appearances": 1
+    },
+    {
+      "id": "adu-the-borga-kweku-smoke",
+      "name": "Adu the Borga",
+      "artist": "Kweku Smoke",
+      "performanceScore": 75.4,
+      "appearances": 1
+    },
+    {
+      "id": "badman-gangsta-asake",
+      "name": "BADMAN GANGSTA",
+      "artist": "Asake",
+      "performanceScore": 74.8,
+      "appearances": 1
+    },
+    {
+      "id": "dreamer-black-sherif",
+      "name": "Dreamer",
+      "artist": "Black Sherif",
+      "performanceScore": 74.2,
+      "appearances": 1
+    },
+    {
+      "id": "change-your-mind-(feat.-shaboozey)-burna-boy",
+      "name": "Change Your Mind (feat. Shaboozey)",
+      "artist": "Burna Boy",
+      "performanceScore": 73.6,
+      "appearances": 1
+    },
+    {
+      "id": "big-bricks-ii-(feat.-medikal-&-lalid)-essumann",
+      "name": "Big Bricks II (feat. Medikal & Lalid)",
+      "artist": "Essumann",
+      "performanceScore": 73,
+      "appearances": 1
+    },
+    {
+      "id": "hold-tight-kweku-smoke",
+      "name": "Hold Tight",
+      "artist": "Kweku Smoke",
+      "performanceScore": 72.4,
+      "appearances": 1
+    },
+    {
+      "id": "money-constant-dj-maphorisa",
+      "name": "MONEY CONSTANT",
+      "artist": "DJ Maphorisa",
+      "performanceScore": 71.8,
+      "appearances": 1
+    },
+    {
+      "id": "me-mpaebɔ-(feat.-7enr)-o'kenneth",
+      "name": "ME MPAEBƆ (feat. 7enR)",
+      "artist": "O'Kenneth",
+      "performanceScore": 71.2,
+      "appearances": 1
+    },
+    {
+      "id": "jailer-(feat.-victony)-sarkodie",
+      "name": "Jailer (feat. Victony)",
+      "artist": "Sarkodie",
+      "performanceScore": 70.6,
+      "appearances": 1
+    },
+    {
+      "id": "turn-on-the-lights-kwesi-arthur",
+      "name": "Turn on the Lights",
+      "artist": "Kwesi Arthur",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "far-from-home-o'kenneth",
+      "name": "FAR FROM HOME",
+      "artist": "O'Kenneth",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "jah-guide-kweku-smoke",
+      "name": "Jah Guide",
+      "artist": "Kweku Smoke",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "cold-shoulder-o'kenneth",
+      "name": "COLD SHOULDER",
+      "artist": "O'Kenneth",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "soja-black-sherif",
+      "name": "Soja",
+      "artist": "Black Sherif",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "sisa-king-promise",
+      "name": "Sisa",
+      "artist": "King Promise",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "raindance-dave",
+      "name": "Raindance",
+      "artist": "Dave",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "body-black-sherif",
+      "name": "Body",
+      "artist": "Black Sherif",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "winning-(feat.-vic-mensa)-kwesi-arthur",
+      "name": "Winning (feat. VIC MENSA)",
+      "artist": "Kwesi Arthur",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "rora-asake",
+      "name": "Rora",
+      "artist": "Asake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "mo-ntwɛn!-o'kenneth",
+      "name": "MO NTWƐN!",
+      "artist": "O'Kenneth",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "amapiano-asake",
+      "name": "Amapiano",
+      "artist": "Asake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "eye-open-black-sherif",
+      "name": "Eye Open",
+      "artist": "Black Sherif",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "sa-me-(feat.-city-boy)-reggie",
+      "name": "Sa Me (feat. City Boy)",
+      "artist": "Reggie",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "oba-asake",
+      "name": "Oba",
+      "artist": "Asake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "sober-kweku-smoke",
+      "name": "Sober",
+      "artist": "Kweku Smoke",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "balenciaga-ii-(feat.-sama',-oseikrom-sikanii-&-joey-b)-o'kenneth",
+      "name": "BALENCIAGA II (feat. SAMA', Oseikrom Sikanii & Joey B)",
+      "artist": "O'Kenneth",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "my-swing-o'kenneth",
+      "name": "MY SWING",
+      "artist": "O'Kenneth",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "kwaku-the-traveller-black-sherif",
+      "name": "Kwaku the Traveller",
+      "artist": "Black Sherif",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "ye-burna-boy",
+      "name": "Ye",
+      "artist": "Burna Boy",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "10-toes-(feat.-omah-lay)-king-promise",
+      "name": "10 Toes (feat. Omah Lay)",
+      "artist": "King Promise",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "ayoo-shatta-wale",
+      "name": "Ayoo",
+      "artist": "Shatta Wale",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "puul-lasmid",
+      "name": "Puul",
+      "artist": "Lasmid",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "the-victory-song-black-sherif",
+      "name": "The Victory Song",
+      "artist": "Black Sherif",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "unavailable-(feat.-musa-keys)-davido",
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "artist": "Davido",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "violence-(feat.-kweku-smoke)-sarkodie",
+      "name": "Violence (feat. Kweku Smoke)",
+      "artist": "Sarkodie",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "i-know-who-i-be-davido",
+      "name": "I Know Who I Be",
+      "artist": "Davido",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "kakalika-dopenation",
+      "name": "Kakalika",
+      "artist": "DopeNation",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "mmerepa-kweku-smoke",
+      "name": "Mmerepa",
+      "artist": "Kweku Smoke",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "one-black-sherif",
+      "name": "One",
+      "artist": "Black Sherif",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "gymnastic-kidi",
+      "name": "Gymnastic",
+      "artist": "KiDi",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "bad-influence-omah-lay",
+      "name": "Bad Influence",
+      "artist": "OMAH LAY",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "same-timbs-gonaboy",
+      "name": "SAME TIMBS",
+      "artist": "Gonaboy",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "january-9th-black-sherif",
+      "name": "January 9th",
+      "artist": "Black Sherif",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "odo-pa-sarkodie",
+      "name": "ODO PA",
+      "artist": "Sarkodie",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "catching-glory-lalid",
+      "name": "Catching Glory",
+      "artist": "Lalid",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "over-r2bees",
+      "name": "Over",
+      "artist": "R2Bees",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "amen-sarkodie",
+      "name": "AMEN",
+      "artist": "Sarkodie",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "amen-asake",
+      "name": "Amen",
+      "artist": "Asake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "joro-wizkid",
+      "name": "Joro",
+      "artist": "Wizkid",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "won't-be-here-forever-reggie",
+      "name": "Won't Be Here Forever",
+      "artist": "Reggie",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "street-crown-(african-dancehall)-shatta-wale",
+      "name": "STREET CROWN (African Dancehall)",
+      "artist": "Shatta Wale",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "asambe-asake",
+      "name": "Asambe",
+      "artist": "Asake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "over-o'kenneth",
+      "name": "OVER",
+      "artist": "O'Kenneth",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "holy-ground-(feat.-nicki-minaj)-davido",
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "artist": "Davido",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "where-dem-boyz-black-sherif",
+      "name": "Where Dem Boyz",
+      "artist": "Black Sherif",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "beetles-(feat.-chicogod)-o'kenneth",
+      "name": "BEETLES (feat. Chicogod)",
+      "artist": "O'Kenneth",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "skilful-asake",
+      "name": "Skilful",
+      "artist": "Asake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "toxic-love-city-black-sherif",
+      "name": "Toxic Love City",
+      "artist": "Black Sherif",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "hold-on-kweku-smoke",
+      "name": "Hold On",
+      "artist": "Kweku Smoke",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "mms-asake",
+      "name": "MMS",
+      "artist": "Asake",
+      "performanceScore": 70,
+      "appearances": 1
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "MMS",
+        "artist": "Asake",
+        "position": 100,
+        "score": 70
+      }
+    ],
+    "removed": [
+      {
+        "name": "Pain Killer (feat. Runtown)",
+        "artist": "Sarkodie",
+        "reason": "dropped",
+        "age": 0
+      }
+    ],
+    "moved": [
+      {
+        "name": "Toxic Love City",
+        "artist": "Black Sherif",
+        "from": 78,
+        "to": 98,
+        "movement": "↓20",
+        "direction": "down"
+      },
+      {
+        "name": "Amapiano",
+        "artist": "Asake",
+        "from": 71,
+        "to": 61,
+        "movement": "↑10",
+        "direction": "up"
+      },
+      {
+        "name": "I Know Who I Be",
+        "artist": "Davido",
+        "from": 85,
+        "to": 76,
+        "movement": "↑9",
+        "direction": "up"
+      },
+      {
+        "name": "Sober",
+        "artist": "Kweku Smoke",
+        "from": 58,
+        "to": 65,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "10 Toes (feat. Omah Lay)",
+        "artist": "King Promise",
+        "from": 64,
+        "to": 70,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "Mmerepa",
+        "artist": "Kweku Smoke",
+        "from": 72,
+        "to": 78,
+        "movement": "↓6",
+        "direction": "down"
+      }
+    ],
+    "stale": [],
+    "timestamp": "2026-07-16T10:25:17.435Z",
+    "playlistName": "Top 100 Ghana"
+  }
+}
