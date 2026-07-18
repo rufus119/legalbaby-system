@@ -1,0 +1,1311 @@
+{
+  "playlistName": "Top 100 Global",
+  "timestamp": "2026-07-18T09:54:15.365Z",
+  "baselineRun": false,
+  "trackCount": 100,
+  "tracks": [
+    {
+      "id": "choosin'-texas-ella-langley",
+      "name": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "performanceScore": 99.4,
+      "appearances": 1
+    },
+    {
+      "id": "janice-stfu-drake",
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "performanceScore": 98.8,
+      "appearances": 1
+    },
+    {
+      "id": "hate-that-i-made-you-love-me-ariana-grande",
+      "name": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "performanceScore": 98.2,
+      "appearances": 1
+    },
+    {
+      "id": "stupid-song-olivia-rodrigo",
+      "name": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 97.6,
+      "appearances": 1
+    },
+    {
+      "id": "wonderwall-(remastered)-oasis",
+      "name": "Wonderwall (Remastered)",
+      "artist": "Oasis",
+      "performanceScore": 97,
+      "appearances": 1
+    },
+    {
+      "id": "shabang-drake",
+      "name": "Shabang",
+      "artist": "Drake",
+      "performanceScore": 96.4,
+      "appearances": 1
+    },
+    {
+      "id": "be-her-ella-langley",
+      "name": "Be Her",
+      "artist": "Ella Langley",
+      "performanceScore": 95.8,
+      "appearances": 1
+    },
+    {
+      "id": "billie-jean-michael-jackson",
+      "name": "Billie Jean",
+      "artist": "Michael Jackson",
+      "performanceScore": 95.2,
+      "appearances": 1
+    },
+    {
+      "id": "dead-fresh-lil-baby",
+      "name": "Dead Fresh",
+      "artist": "Lil Baby",
+      "performanceScore": 94.6,
+      "appearances": 1
+    },
+    {
+      "id": "the-cure-olivia-rodrigo",
+      "name": "the cure",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 94,
+      "appearances": 1
+    },
+    {
+      "id": "beauty-and-a-beat-(feat.-nicki-minaj)-justin-bieber",
+      "name": "Beauty and a Beat (feat. Nicki Minaj)",
+      "artist": "Justin Bieber",
+      "performanceScore": 93.4,
+      "appearances": 1
+    },
+    {
+      "id": "i-can't-love-you-anymore-ella-langley",
+      "name": "I Can't Love You Anymore",
+      "artist": "Ella Langley",
+      "performanceScore": 92.8,
+      "appearances": 1
+    },
+    {
+      "id": "man-i-need-olivia-dean",
+      "name": "Man I Need",
+      "artist": "Olivia Dean",
+      "performanceScore": 92.2,
+      "appearances": 1
+    },
+    {
+      "id": "dai-dai-shakira",
+      "name": "Dai Dai",
+      "artist": "Shakira",
+      "performanceScore": 91.6,
+      "appearances": 1
+    },
+    {
+      "id": "spend-dat-yung-miami",
+      "name": "Spend Dat",
+      "artist": "Yung Miami",
+      "performanceScore": 91,
+      "appearances": 1
+    },
+    {
+      "id": "drop-dead-olivia-rodrigo",
+      "name": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 90.4,
+      "appearances": 1
+    },
+    {
+      "id": "i-knew-it,-i-knew-you-(from-\"toy-story-5\")-taylor-swift",
+      "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "performanceScore": 89.8,
+      "appearances": 1
+    },
+    {
+      "id": "ran-to-atlanta-drake",
+      "name": "Ran To Atlanta",
+      "artist": "Drake",
+      "performanceScore": 89.2,
+      "appearances": 1
+    },
+    {
+      "id": "morning-dew-(donk)-beyoncé",
+      "name": "MORNING DEW (DONK)",
+      "artist": "Beyoncé",
+      "performanceScore": 88.6,
+      "appearances": 1
+    },
+    {
+      "id": "california-girls-future",
+      "name": "California Girls",
+      "artist": "Future",
+      "performanceScore": 88,
+      "appearances": 1
+    },
+    {
+      "id": "20-cigarettes-morgan-wallen",
+      "name": "20 Cigarettes",
+      "artist": "Morgan Wallen",
+      "performanceScore": 87.4,
+      "appearances": 1
+    },
+    {
+      "id": "cinderella-(feat.-ty-dolla-$ign)-mac-miller",
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller",
+      "performanceScore": 86.8,
+      "appearances": 1
+    },
+    {
+      "id": "boston-stella-lefty",
+      "name": "Boston",
+      "artist": "STELLA LEFTY",
+      "performanceScore": 86.2,
+      "appearances": 1
+    },
+    {
+      "id": "konnichiwa-future",
+      "name": "Konnichiwa",
+      "artist": "Future",
+      "performanceScore": 85.6,
+      "appearances": 1
+    },
+    {
+      "id": "golden-huntr/x",
+      "name": "Golden",
+      "artist": "HUNTR/X",
+      "performanceScore": 85,
+      "appearances": 1
+    },
+    {
+      "id": "i-had-some-help-(feat.-morgan-wallen)-post-malone",
+      "name": "I Had Some Help (feat. Morgan Wallen)",
+      "artist": "Post Malone",
+      "performanceScore": 84.4,
+      "appearances": 1
+    },
+    {
+      "id": "whisper-my-name-drake",
+      "name": "Whisper My Name",
+      "artist": "Drake",
+      "performanceScore": 83.8,
+      "appearances": 1
+    },
+    {
+      "id": "i'm-the-problem-morgan-wallen",
+      "name": "I'm The Problem",
+      "artist": "Morgan Wallen",
+      "performanceScore": 83.2,
+      "appearances": 1
+    },
+    {
+      "id": "honeybee-olivia-rodrigo",
+      "name": "honeybee",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 82.6,
+      "appearances": 1
+    },
+    {
+      "id": "beat-it-michael-jackson",
+      "name": "Beat It",
+      "artist": "Michael Jackson",
+      "performanceScore": 82,
+      "appearances": 1
+    },
+    {
+      "id": "wait-for-u-(feat.-drake-&-tems)-future",
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future",
+      "performanceScore": 81.4,
+      "appearances": 1
+    },
+    {
+      "id": "the-fate-of-ophelia-taylor-swift",
+      "name": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "performanceScore": 80.8,
+      "appearances": 1
+    },
+    {
+      "id": "brand-new-mrs.-green-apple",
+      "name": "Brand New",
+      "artist": "Mrs. GREEN APPLE",
+      "performanceScore": 80.2,
+      "appearances": 1
+    },
+    {
+      "id": "snow-in-skyami-future",
+      "name": "Snow in Skyami",
+      "artist": "Future",
+      "performanceScore": 79.6,
+      "appearances": 1
+    },
+    {
+      "id": "hit-the-wall-gracie-abrams",
+      "name": "Hit the Wall",
+      "artist": "Gracie Abrams",
+      "performanceScore": 79,
+      "appearances": 1
+    },
+    {
+      "id": "ordinary-alex-warren",
+      "name": "Ordinary",
+      "artist": "Alex Warren",
+      "performanceScore": 78.4,
+      "appearances": 1
+    },
+    {
+      "id": "freestyle-lil-baby",
+      "name": "Freestyle",
+      "artist": "Lil Baby",
+      "performanceScore": 77.8,
+      "appearances": 1
+    },
+    {
+      "id": "it's-me-illit",
+      "name": "It's Me",
+      "artist": "ILLIT",
+      "performanceScore": 77.2,
+      "appearances": 1
+    },
+    {
+      "id": "national-treasures-drake",
+      "name": "National Treasures",
+      "artist": "Drake",
+      "performanceScore": 76.6,
+      "appearances": 1
+    },
+    {
+      "id": "last-night-morgan-wallen",
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "performanceScore": 76,
+      "appearances": 1
+    },
+    {
+      "id": "fukk-a-interview-future",
+      "name": "Fukk A Interview",
+      "artist": "Future",
+      "performanceScore": 75.4,
+      "appearances": 1
+    },
+    {
+      "id": "daisies-justin-bieber",
+      "name": "DAISIES",
+      "artist": "Justin Bieber",
+      "performanceScore": 74.8,
+      "appearances": 1
+    },
+    {
+      "id": "look-at-my-life-gracie-abrams",
+      "name": "Look at My Life",
+      "artist": "Gracie Abrams",
+      "performanceScore": 74.2,
+      "appearances": 1
+    },
+    {
+      "id": "baby-(feat.-ludacris)-justin-bieber",
+      "name": "Baby (feat. Ludacris)",
+      "artist": "Justin Bieber",
+      "performanceScore": 73.6,
+      "appearances": 1
+    },
+    {
+      "id": "radio-future",
+      "name": "Radio",
+      "artist": "Future",
+      "performanceScore": 73,
+      "appearances": 1
+    },
+    {
+      "id": "in-a-minute-lil-baby",
+      "name": "In A Minute",
+      "artist": "Lil Baby",
+      "performanceScore": 72.4,
+      "appearances": 1
+    },
+    {
+      "id": "dtmf-bad-bunny",
+      "name": "DtMF",
+      "artist": "Bad Bunny",
+      "performanceScore": 71.8,
+      "appearances": 1
+    },
+    {
+      "id": "yonaguni-bad-bunny",
+      "name": "Yonaguni",
+      "artist": "Bad Bunny",
+      "performanceScore": 71.2,
+      "appearances": 1
+    },
+    {
+      "id": "just-in-case-morgan-wallen",
+      "name": "Just In Case",
+      "artist": "Morgan Wallen",
+      "performanceScore": 70.6,
+      "appearances": 1
+    },
+    {
+      "id": "e85-don-toliver",
+      "name": "E85",
+      "artist": "Don Toliver",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "not-like-us-kendrick-lamar",
+      "name": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "spin-you-around-(1/24)-morgan-wallen",
+      "name": "Spin You Around (1/24)",
+      "artist": "Morgan Wallen",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "like-me-(feat.-42-dugg-&-lil-baby)-future",
+      "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "what-i-want-morgan-wallen",
+      "name": "What I Want",
+      "artist": "Morgan Wallen",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "so-easy-(to-fall-in-love)-olivia-dean",
+      "name": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "be-by-you-luke-combs",
+      "name": "Be By You",
+      "artist": "Luke Combs",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "mr.-brightside-the-killers",
+      "name": "Mr. Brightside",
+      "artist": "The Killers",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "weren't-for-the-wind-ella-langley",
+      "name": "weren't for the wind",
+      "artist": "Ella Langley",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "god's-plan-drake",
+      "name": "God's Plan",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "beautiful-things-benson-boone",
+      "name": "Beautiful Things",
+      "artist": "Benson Boone",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "human-nature-michael-jackson",
+      "name": "Human Nature",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "one-two-future",
+      "name": "One Two",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "7-rings-ariana-grande",
+      "name": "7 rings",
+      "artist": "Ariana Grande",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "best-i-ever-had-drake",
+      "name": "Best I Ever Had",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "ghetto-love-story-babychiefdoit",
+      "name": "Ghetto Love Story",
+      "artist": "BabyChiefDoit",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "rubberz-fenix-flexin",
+      "name": "RUBBERZ",
+      "artist": "Fenix Flexin",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "orbiter-noah-kahan",
+      "name": "Orbiter",
+      "artist": "Noah Kahan",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "cowgirls-(feat.-ernest)-morgan-wallen",
+      "name": "Cowgirls (feat. ERNEST)",
+      "artist": "Morgan Wallen",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "die-with-a-smile-lady-gaga",
+      "name": "Die With A Smile",
+      "artist": "Lady Gaga",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "earrings-malcolm-todd",
+      "name": "Earrings",
+      "artist": "Malcolm Todd",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "snooze-sza",
+      "name": "Snooze",
+      "artist": "SZA",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "lilac-mrs.-green-apple",
+      "name": "Lilac",
+      "artist": "Mrs. GREEN APPLE",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "thank-u,-next-ariana-grande",
+      "name": "thank u, next",
+      "artist": "Ariana Grande",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "b’s-on-the-table-drake",
+      "name": "B’s On The Table",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "shape-of-you-ed-sheeran",
+      "name": "Shape of You",
+      "artist": "Ed Sheeran",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "thinkin’-bout-me-morgan-wallen",
+      "name": "Thinkin’ Bout Me",
+      "artist": "Morgan Wallen",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "into-you-ariana-grande",
+      "name": "Into You",
+      "artist": "Ariana Grande",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "i’m-spent-drake",
+      "name": "I’m Spent",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "a-bar-song-(tipsy)-shaboozey",
+      "name": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "passionfruit-drake",
+      "name": "Passionfruit",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "baile-inolvidable-bad-bunny",
+      "name": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "march-madness-future",
+      "name": "March Madness",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "i'm-dat-nigga-future",
+      "name": "I'M DAT NIGGA",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "wild-thoughts-(feat.-rihanna-&-bryson-tiller)-dj-khaled",
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "artist": "DJ Khaled",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "maggots-for-brains-olivia-rodrigo",
+      "name": "maggots for brains",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "iconic-by-mistake-le-sserafim",
+      "name": "ICONIC BY MISTAKE",
+      "artist": "LE SSERAFIM",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "chicago-michael-jackson",
+      "name": "Chicago",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "espresso-sabrina-carpenter",
+      "name": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "2-hard-4-the-radio-drake",
+      "name": "2 Hard 4 The Radio",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "wasted-on-you-morgan-wallen",
+      "name": "Wasted On You",
+      "artist": "Morgan Wallen",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "smooth-criminal-michael-jackson",
+      "name": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "raindance-dave",
+      "name": "Raindance",
+      "artist": "Dave",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "tank-top-pluto-future",
+      "name": "Tank Top Pluto",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "blinding-lights-the-weeknd",
+      "name": "Blinding Lights",
+      "artist": "The Weeknd",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "wants-and-needs-(feat.-lil-baby)-drake",
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "cruel-summer-taylor-swift",
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "weight-up-future",
+      "name": "Weight Up",
+      "artist": "Future",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "lemonade-aespa",
+      "name": "LEMONADE",
+      "artist": "aespa",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "plot-twist-drake",
+      "name": "Plot Twist",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "sukisugite-metsu!-m!lk",
+      "name": "Sukisugite METSU!",
+      "artist": "M!LK",
+      "performanceScore": 70,
+      "appearances": 1
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Dead Fresh",
+        "artist": "Lil Baby",
+        "position": 9,
+        "score": 94.6
+      },
+      {
+        "name": "Hit the Wall",
+        "artist": "Gracie Abrams",
+        "position": 35,
+        "score": 79
+      },
+      {
+        "name": "Look at My Life",
+        "artist": "Gracie Abrams",
+        "position": 43,
+        "score": 74.2
+      },
+      {
+        "name": "What I Want",
+        "artist": "Morgan Wallen",
+        "position": 54,
+        "score": 70
+      },
+      {
+        "name": "weren't for the wind",
+        "artist": "Ella Langley",
+        "position": 58,
+        "score": 70
+      },
+      {
+        "name": "Best I Ever Had",
+        "artist": "Drake",
+        "position": 64,
+        "score": 70
+      },
+      {
+        "name": "Ghetto Love Story",
+        "artist": "BabyChiefDoit",
+        "position": 65,
+        "score": 70
+      },
+      {
+        "name": "Cowgirls (feat. ERNEST)",
+        "artist": "Morgan Wallen",
+        "position": 68,
+        "score": 70
+      },
+      {
+        "name": "Thinkin’ Bout Me",
+        "artist": "Morgan Wallen",
+        "position": 76,
+        "score": 70
+      },
+      {
+        "name": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "position": 79,
+        "score": 70
+      },
+      {
+        "name": "March Madness",
+        "artist": "Future",
+        "position": 82,
+        "score": 70
+      },
+      {
+        "name": "I'M DAT NIGGA",
+        "artist": "Future",
+        "position": 83,
+        "score": 70
+      },
+      {
+        "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+        "artist": "DJ Khaled",
+        "position": 84,
+        "score": 70
+      },
+      {
+        "name": "2 Hard 4 The Radio",
+        "artist": "Drake",
+        "position": 89,
+        "score": 70
+      },
+      {
+        "name": "Wasted On You",
+        "artist": "Morgan Wallen",
+        "position": 90,
+        "score": 70
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "position": 94,
+        "score": 70
+      },
+      {
+        "name": "Wants and Needs (feat. Lil Baby)",
+        "artist": "Drake",
+        "position": 95,
+        "score": 70
+      },
+      {
+        "name": "Plot Twist",
+        "artist": "Drake",
+        "position": 99,
+        "score": 70
+      }
+    ],
+    "removed": [
+      {
+        "name": "REDRED",
+        "artist": "CORTIS",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "IRIS OUT",
+        "artist": "Kenshi Yonezu",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "SWIM",
+        "artist": "BTS",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Build a Bitch",
+        "artist": "Future",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Trench Coat",
+        "artist": "Future",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Off the Hinge",
+        "artist": "Future",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Money Over Everything",
+        "artist": "Future",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "less",
+        "artist": "Olivia Rodrigo",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Self Aware",
+        "artist": "Temper City",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Opalite",
+        "artist": "Taylor Swift",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Bakuretsu Aishiteru",
+        "artist": "M!LK",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "No Misery",
+        "artist": "Future",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Lush Life",
+        "artist": "Zara Larsson",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Perfect",
+        "artist": "Ed Sheeran",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Karasu - Raven",
+        "artist": "Kenshi Yonezu",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Stateside (with Zara Larsson)",
+        "artist": "PinkPantheress",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Risk It All",
+        "artist": "Bruno Mars",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Ao To Natsu",
+        "artist": "Mrs. GREEN APPLE",
+        "reason": "dropped",
+        "age": 0
+      }
+    ],
+    "moved": [
+      {
+        "name": "LEMONADE",
+        "artist": "aespa",
+        "from": 32,
+        "to": 98,
+        "movement": "↓66",
+        "direction": "down"
+      },
+      {
+        "name": "Weight Up",
+        "artist": "Future",
+        "from": 43,
+        "to": 97,
+        "movement": "↓54",
+        "direction": "down"
+      },
+      {
+        "name": "Tank Top Pluto",
+        "artist": "Future",
+        "from": 41,
+        "to": 93,
+        "movement": "↓52",
+        "direction": "down"
+      },
+      {
+        "name": "Just In Case",
+        "artist": "Morgan Wallen",
+        "from": 99,
+        "to": 49,
+        "movement": "↑50",
+        "direction": "up"
+      },
+      {
+        "name": "Spin You Around (1/24)",
+        "artist": "Morgan Wallen",
+        "from": 94,
+        "to": 52,
+        "movement": "↑42",
+        "direction": "up"
+      },
+      {
+        "name": "ICONIC BY MISTAKE",
+        "artist": "LE SSERAFIM",
+        "from": 47,
+        "to": 86,
+        "movement": "↓39",
+        "direction": "down"
+      },
+      {
+        "name": "Sukisugite METSU!",
+        "artist": "M!LK",
+        "from": 62,
+        "to": 100,
+        "movement": "↓38",
+        "direction": "down"
+      },
+      {
+        "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+        "artist": "Future",
+        "from": 88,
+        "to": 53,
+        "movement": "↑35",
+        "direction": "up"
+      },
+      {
+        "name": "Be By You",
+        "artist": "Luke Combs",
+        "from": 91,
+        "to": 56,
+        "movement": "↑35",
+        "direction": "up"
+      },
+      {
+        "name": "Last Night",
+        "artist": "Morgan Wallen",
+        "from": 73,
+        "to": 40,
+        "movement": "↑33",
+        "direction": "up"
+      },
+      {
+        "name": "Lilac",
+        "artist": "Mrs. GREEN APPLE",
+        "from": 40,
+        "to": 72,
+        "movement": "↓32",
+        "direction": "down"
+      },
+      {
+        "name": "maggots for brains",
+        "artist": "Olivia Rodrigo",
+        "from": 55,
+        "to": 85,
+        "movement": "↓30",
+        "direction": "down"
+      },
+      {
+        "name": "One Two",
+        "artist": "Future",
+        "from": 33,
+        "to": 62,
+        "movement": "↓29",
+        "direction": "down"
+      },
+      {
+        "name": "Yonaguni",
+        "artist": "Bad Bunny",
+        "from": 76,
+        "to": 48,
+        "movement": "↑28",
+        "direction": "up"
+      },
+      {
+        "name": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "from": 69,
+        "to": 96,
+        "movement": "↓27",
+        "direction": "down"
+      },
+      {
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "from": 51,
+        "to": 75,
+        "movement": "↓24",
+        "direction": "down"
+      },
+      {
+        "name": "In A Minute",
+        "artist": "Lil Baby",
+        "from": 68,
+        "to": 46,
+        "movement": "↑22",
+        "direction": "up"
+      },
+      {
+        "name": "I'm The Problem",
+        "artist": "Morgan Wallen",
+        "from": 49,
+        "to": 28,
+        "movement": "↑21",
+        "direction": "up"
+      },
+      {
+        "name": "Freestyle",
+        "artist": "Lil Baby",
+        "from": 58,
+        "to": 37,
+        "movement": "↑21",
+        "direction": "up"
+      },
+      {
+        "name": "Raindance",
+        "artist": "Dave",
+        "from": 71,
+        "to": 92,
+        "movement": "↓21",
+        "direction": "down"
+      },
+      {
+        "name": "Fukk A Interview",
+        "artist": "Future",
+        "from": 22,
+        "to": 41,
+        "movement": "↓19",
+        "direction": "down"
+      },
+      {
+        "name": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "from": 50,
+        "to": 69,
+        "movement": "↓19",
+        "direction": "down"
+      },
+      {
+        "name": "thank u, next",
+        "artist": "Ariana Grande",
+        "from": 54,
+        "to": 73,
+        "movement": "↓19",
+        "direction": "down"
+      },
+      {
+        "name": "RUBBERZ",
+        "artist": "Fenix Flexin",
+        "from": 85,
+        "to": 66,
+        "movement": "↑19",
+        "direction": "up"
+      },
+      {
+        "name": "It's Me",
+        "artist": "ILLIT",
+        "from": 20,
+        "to": 38,
+        "movement": "↓18",
+        "direction": "down"
+      },
+      {
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "from": 74,
+        "to": 57,
+        "movement": "↑17",
+        "direction": "up"
+      },
+      {
+        "name": "I’m Spent",
+        "artist": "Drake",
+        "from": 95,
+        "to": 78,
+        "movement": "↑17",
+        "direction": "up"
+      },
+      {
+        "name": "BAILE INoLVIDABLE",
+        "artist": "Bad Bunny",
+        "from": 98,
+        "to": 81,
+        "movement": "↑17",
+        "direction": "up"
+      },
+      {
+        "name": "Radio",
+        "artist": "Future",
+        "from": 29,
+        "to": 45,
+        "movement": "↓16",
+        "direction": "down"
+      },
+      {
+        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone",
+        "from": 42,
+        "to": 26,
+        "movement": "↑16",
+        "direction": "up"
+      },
+      {
+        "name": "20 Cigarettes",
+        "artist": "Morgan Wallen",
+        "from": 36,
+        "to": 21,
+        "movement": "↑15",
+        "direction": "up"
+      },
+      {
+        "name": "WAIT FOR U (feat. Drake & Tems)",
+        "artist": "Future",
+        "from": 44,
+        "to": 31,
+        "movement": "↑13",
+        "direction": "up"
+      },
+      {
+        "name": "E85",
+        "artist": "Don Toliver",
+        "from": 63,
+        "to": 50,
+        "movement": "↑13",
+        "direction": "up"
+      },
+      {
+        "name": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "from": 75,
+        "to": 88,
+        "movement": "↓13",
+        "direction": "down"
+      },
+      {
+        "name": "Spend Dat",
+        "artist": "Yung Miami",
+        "from": 27,
+        "to": 15,
+        "movement": "↑12",
+        "direction": "up"
+      },
+      {
+        "name": "Into You",
+        "artist": "Ariana Grande",
+        "from": 66,
+        "to": 77,
+        "movement": "↓11",
+        "direction": "down"
+      },
+      {
+        "name": "California Girls",
+        "artist": "Future",
+        "from": 10,
+        "to": 20,
+        "movement": "↓10",
+        "direction": "down"
+      },
+      {
+        "name": "Be Her",
+        "artist": "Ella Langley",
+        "from": 16,
+        "to": 7,
+        "movement": "↑9",
+        "direction": "up"
+      },
+      {
+        "name": "Boston",
+        "artist": "STELLA LEFTY",
+        "from": 31,
+        "to": 23,
+        "movement": "↑8",
+        "direction": "up"
+      },
+      {
+        "name": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "from": 59,
+        "to": 51,
+        "movement": "↑8",
+        "direction": "up"
+      },
+      {
+        "name": "God's Plan",
+        "artist": "Drake",
+        "from": 67,
+        "to": 59,
+        "movement": "↑8",
+        "direction": "up"
+      },
+      {
+        "name": "Smooth Criminal",
+        "artist": "Michael Jackson",
+        "from": 83,
+        "to": 91,
+        "movement": "↓8",
+        "direction": "down"
+      },
+      {
+        "name": "MORNING DEW (DONK)",
+        "artist": "Beyoncé",
+        "from": 12,
+        "to": 19,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "Whisper My Name",
+        "artist": "Drake",
+        "from": 34,
+        "to": 27,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "I Can't Love You Anymore",
+        "artist": "Ella Langley",
+        "from": 18,
+        "to": 12,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "drop dead",
+        "artist": "Olivia Rodrigo",
+        "from": 11,
+        "to": 16,
+        "movement": "↓5",
+        "direction": "down"
+      },
+      {
+        "name": "Beautiful Things",
+        "artist": "Benson Boone",
+        "from": 65,
+        "to": 60,
+        "movement": "↑5",
+        "direction": "up"
+      }
+    ],
+    "stale": [],
+    "timestamp": "2026-07-18T09:54:15.364Z",
+    "playlistName": "Top 100 Global"
+  }
+}
