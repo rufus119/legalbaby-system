@@ -1,0 +1,1434 @@
+{
+  "playlistName": "Hip Hop",
+  "timestamp": "2026-07-18T09:59:11.889Z",
+  "baselineRun": false,
+  "trackCount": 50,
+  "tracks": [
+    {
+      "id": "motion-party-bossman-dlow",
+      "name": "Motion Party",
+      "artist": "Bossman Dlow",
+      "performanceScore": 48.65,
+      "appearances": 1,
+      "totalScore": 88.65,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 1,
+      "score": 36
+    },
+    {
+      "id": "dead-fresh-lil-baby",
+      "name": "Dead Fresh",
+      "artist": "Lil Baby",
+      "performanceScore": 47.83,
+      "appearances": 1,
+      "totalScore": 97.83,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 2,
+      "score": 36
+    },
+    {
+      "id": "konnichiwa-future",
+      "name": "Konnichiwa",
+      "artist": "Future",
+      "performanceScore": 47.83,
+      "appearances": 1,
+      "totalScore": 97.83,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 3,
+      "score": 36
+    },
+    {
+      "id": "spend-dat-yung-miami",
+      "name": "Spend Dat",
+      "artist": "Yung Miami",
+      "performanceScore": 46.99,
+      "appearances": 1,
+      "totalScore": 96.99000000000001,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 4,
+      "score": 36
+    },
+    {
+      "id": "california-girls-future",
+      "name": "California Girls",
+      "artist": "Future",
+      "performanceScore": 45.35,
+      "appearances": 1,
+      "totalScore": 85.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 5,
+      "score": 36
+    },
+    {
+      "id": "living-large-(feat.-bigxthaplug)-rick-ross",
+      "name": "Living Large (feat. BigXthaPlug)",
+      "artist": "Rick Ross",
+      "performanceScore": 43.55,
+      "appearances": 1,
+      "totalScore": 83.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 6,
+      "score": 36
+    },
+    {
+      "id": "janice-stfu-drake",
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "performanceScore": 43.55,
+      "appearances": 1,
+      "totalScore": 73.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 7,
+      "score": 36
+    },
+    {
+      "id": "mrs.-trendsetter-lil-baby",
+      "name": "Mrs. Trendsetter",
+      "artist": "Lil Baby",
+      "performanceScore": 42.75,
+      "appearances": 1,
+      "totalScore": 72.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 8,
+      "score": 36
+    },
+    {
+      "id": "no-level-ladipoe",
+      "name": "No Level",
+      "artist": "LADIPOE",
+      "performanceScore": 42.55,
+      "appearances": 1,
+      "totalScore": 62.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 9,
+      "score": 36
+    },
+    {
+      "id": "perfection-(feat.-c.s.-armstrong)-tobe-nwigwe",
+      "name": "PERFECTION (feat. C.S. Armstrong)",
+      "artist": "Tobe Nwigwe",
+      "performanceScore": 41.35,
+      "appearances": 1,
+      "totalScore": 61.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 10,
+      "score": 36
+    },
+    {
+      "id": "maybach-music-vii-(feat.-don-toliver)-rick-ross",
+      "name": "Maybach Music VII (feat. Don Toliver)",
+      "artist": "Rick Ross",
+      "performanceScore": 41.3,
+      "appearances": 1,
+      "totalScore": 81.3,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 11,
+      "score": 36
+    },
+    {
+      "id": "radio-future",
+      "name": "Radio",
+      "artist": "Future",
+      "performanceScore": 40.87,
+      "appearances": 1,
+      "totalScore": 90.87,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 12,
+      "score": 36
+    },
+    {
+      "id": "handkerchief-m.anifest",
+      "name": "HANDKERCHIEF",
+      "artist": "M.anifest",
+      "performanceScore": 39.85,
+      "appearances": 1,
+      "totalScore": 59.85,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 13,
+      "score": 36
+    },
+    {
+      "id": "patience-messiah4l",
+      "name": "Patience",
+      "artist": "Messiah4L",
+      "performanceScore": 39.85,
+      "appearances": 1,
+      "totalScore": 59.85,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 14,
+      "score": 36
+    },
+    {
+      "id": "eye-to-eye-future",
+      "name": "Eye To Eye",
+      "artist": "Future",
+      "performanceScore": 39.5,
+      "appearances": 1,
+      "totalScore": 79.5,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 15,
+      "score": 36
+    },
+    {
+      "id": "f**k-a-interview-future",
+      "name": "F**k A Interview",
+      "artist": "Future",
+      "performanceScore": 39.25,
+      "appearances": 1,
+      "totalScore": 59.25,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 16,
+      "score": 36
+    },
+    {
+      "id": "off-the-hinge-future",
+      "name": "Off the Hinge",
+      "artist": "Future",
+      "performanceScore": 38.75,
+      "appearances": 1,
+      "totalScore": 68.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 17,
+      "score": 36
+    },
+    {
+      "id": "better-decisions-larry-june",
+      "name": "Better Decisions",
+      "artist": "Larry June",
+      "performanceScore": 38.55,
+      "appearances": 1,
+      "totalScore": 68.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 18,
+      "score": 36
+    },
+    {
+      "id": "minding-my-business-dave-east",
+      "name": "Minding My Business",
+      "artist": "Dave East",
+      "performanceScore": 38.35,
+      "appearances": 1,
+      "totalScore": 58.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 19,
+      "score": 36
+    },
+    {
+      "id": "ring-around-the-rolls-rick-ross",
+      "name": "Ring Around The Rolls",
+      "artist": "Rick Ross",
+      "performanceScore": 38.15,
+      "appearances": 1,
+      "totalScore": 48.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 20,
+      "score": 36
+    },
+    {
+      "id": "3am-loe-shimmy",
+      "name": "3am",
+      "artist": "Loe Shimmy",
+      "performanceScore": 38.05,
+      "appearances": 1,
+      "totalScore": 58.05,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 21,
+      "score": 36
+    },
+    {
+      "id": "fukumean-gunna",
+      "name": "fukumean",
+      "artist": "Gunna",
+      "performanceScore": 38.05,
+      "appearances": 1,
+      "totalScore": 58.05,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 22,
+      "score": 36
+    },
+    {
+      "id": "major-league-sarkodie",
+      "name": "Major League",
+      "artist": "Sarkodie",
+      "performanceScore": 37.55,
+      "appearances": 1,
+      "totalScore": 47.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 23,
+      "score": 36
+    },
+    {
+      "id": "la-nights-trap-dickey",
+      "name": "LA Nights",
+      "artist": "Trap Dickey",
+      "performanceScore": 37.55,
+      "appearances": 1,
+      "totalScore": 47.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 24,
+      "score": 36
+    },
+    {
+      "id": "motion-sickness-(feat.-zlatan)-odumodublvck",
+      "name": "MOTION SICKNESS (feat. Zlatan)",
+      "artist": "ODUMODUBLVCK",
+      "performanceScore": 36.95,
+      "appearances": 1,
+      "totalScore": 46.95,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 25,
+      "score": 36
+    },
+    {
+      "id": "one-of-wun-gunna",
+      "name": "one of wun",
+      "artist": "Gunna",
+      "performanceScore": 36.95,
+      "appearances": 1,
+      "totalScore": 46.95,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 26,
+      "score": 36
+    },
+    {
+      "id": "blam-sum-vonoff1700",
+      "name": "Blam Sum",
+      "artist": "VonOff1700",
+      "performanceScore": 36.95,
+      "appearances": 1,
+      "totalScore": 46.95,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 27,
+      "score": 36
+    },
+    {
+      "id": "the-aroma-fat-joe",
+      "name": "The Aroma",
+      "artist": "Fat Joe",
+      "performanceScore": 36.95,
+      "appearances": 1,
+      "totalScore": 46.95,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 28,
+      "score": 36
+    },
+    {
+      "id": "no-explanation-(feat.-evidence)-dj-premier",
+      "name": "No Explanation (feat. Evidence)",
+      "artist": "DJ Premier",
+      "performanceScore": 36.35,
+      "appearances": 1,
+      "totalScore": 46.35,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 29,
+      "score": 36
+    },
+    {
+      "id": "we-see-dem-asomacy",
+      "name": "WE SEE DEM",
+      "artist": "Asomacy",
+      "performanceScore": 36.25,
+      "appearances": 1,
+      "totalScore": 56.25,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 30,
+      "score": 36
+    },
+    {
+      "id": "shabang-drake",
+      "name": "Shabang",
+      "artist": "Drake",
+      "performanceScore": 36.15,
+      "appearances": 1,
+      "totalScore": 66.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 31,
+      "score": 36
+    },
+    {
+      "id": "swagga-black-sherif",
+      "name": "SWAGGA",
+      "artist": "Black Sherif",
+      "performanceScore": 35.75,
+      "appearances": 1,
+      "totalScore": 45.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 32,
+      "score": 36
+    },
+    {
+      "id": "talk-my-shit-bossman-dlow",
+      "name": "Talk My Shit",
+      "artist": "Bossman Dlow",
+      "performanceScore": 35.75,
+      "appearances": 1,
+      "totalScore": 45.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 33,
+      "score": 36
+    },
+    {
+      "id": "white-ones-montana-700",
+      "name": "White Ones",
+      "artist": "Montana 700",
+      "performanceScore": 35.75,
+      "appearances": 1,
+      "totalScore": 45.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 34,
+      "score": 36
+    },
+    {
+      "id": "how-much-i-score-canon",
+      "name": "How Much I Score",
+      "artist": "Canon",
+      "performanceScore": 35.75,
+      "appearances": 1,
+      "totalScore": 45.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 35,
+      "score": 36
+    },
+    {
+      "id": "pop-dat-thang-dababy",
+      "name": "POP DAT THANG",
+      "artist": "DaBaby",
+      "performanceScore": 35.65,
+      "appearances": 1,
+      "totalScore": 55.65,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 36,
+      "score": 36
+    },
+    {
+      "id": "face-me-d.h",
+      "name": "FACE ME",
+      "artist": "D.H",
+      "performanceScore": 35.15,
+      "appearances": 1,
+      "totalScore": 45.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 37,
+      "score": 36
+    },
+    {
+      "id": "ambition-for-cash-key-glock",
+      "name": "Ambition For Cash",
+      "artist": "Key Glock",
+      "performanceScore": 35.15,
+      "appearances": 1,
+      "totalScore": 45.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 38,
+      "score": 36
+    },
+    {
+      "id": "insecurities-lil-baby",
+      "name": "Insecurities",
+      "artist": "Lil Baby",
+      "performanceScore": 35.05,
+      "appearances": 1,
+      "totalScore": 55.05,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 39,
+      "score": 36
+    },
+    {
+      "id": "call-spitta-est-gee",
+      "name": "CALL SPITTA",
+      "artist": "EST Gee",
+      "performanceScore": 35,
+      "appearances": 1,
+      "totalScore": 75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 40,
+      "score": 36
+    },
+    {
+      "id": "bag-rite-loe-shimmy",
+      "name": "Bag Rite",
+      "artist": "Loe Shimmy",
+      "performanceScore": 34.75,
+      "appearances": 1,
+      "totalScore": 64.75,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 41,
+      "score": 36
+    },
+    {
+      "id": "how-i'm-livin-bossman-dlow",
+      "name": "How I'm Livin",
+      "artist": "Bossman Dlow",
+      "performanceScore": 34.55,
+      "appearances": 1,
+      "totalScore": 64.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 42,
+      "score": 36
+    },
+    {
+      "id": "screwed-up-destroy-lonely",
+      "name": "screwed up",
+      "artist": "Destroy Lonely",
+      "performanceScore": 34.55,
+      "appearances": 1,
+      "totalScore": 44.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 43,
+      "score": 36
+    },
+    {
+      "id": "too-fast-future",
+      "name": "TOO FAST",
+      "artist": "Future",
+      "performanceScore": 34.55,
+      "appearances": 1,
+      "totalScore": 44.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 44,
+      "score": 36
+    },
+    {
+      "id": "cheese-&-dope-lil-double-0",
+      "name": "Cheese & Dope",
+      "artist": "Lil Double 0",
+      "performanceScore": 34.55,
+      "appearances": 1,
+      "totalScore": 44.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 45,
+      "score": 36
+    },
+    {
+      "id": "coming-of-age-(feat.-memphis-bleek)-jaÿ-z",
+      "name": "Coming of Age (feat. Memphis Bleek)",
+      "artist": "JAŸ-Z",
+      "performanceScore": 34.55,
+      "appearances": 1,
+      "totalScore": 44.55,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 46,
+      "score": 36
+    },
+    {
+      "id": "help-me-real-boston-richey",
+      "name": "Help Me",
+      "artist": "Real Boston Richey",
+      "performanceScore": 34.45,
+      "appearances": 1,
+      "totalScore": 54.45,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 47,
+      "score": 36
+    },
+    {
+      "id": "and-still-dame-d.o.l.l.a.",
+      "name": "And Still",
+      "artist": "Dame D.O.L.L.A.",
+      "performanceScore": 34.15,
+      "appearances": 1,
+      "totalScore": 54.15,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 48,
+      "score": 36
+    },
+    {
+      "id": "whatever-she-wants-bryson-tiller",
+      "name": "Whatever She Wants",
+      "artist": "Bryson Tiller",
+      "performanceScore": 33.95,
+      "appearances": 1,
+      "totalScore": 43.95,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 49,
+      "score": 36
+    },
+    {
+      "id": "sum-2-prove-lil-baby",
+      "name": "Sum 2 Prove",
+      "artist": "Lil Baby",
+      "performanceScore": 33.95,
+      "appearances": 1,
+      "totalScore": 43.95,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 50,
+      "score": 36
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Dead Fresh",
+        "artist": "Lil Baby",
+        "position": 2,
+        "score": 36
+      },
+      {
+        "name": "Konnichiwa",
+        "artist": "Future",
+        "position": 3,
+        "score": 36
+      },
+      {
+        "name": "California Girls",
+        "artist": "Future",
+        "position": 5,
+        "score": 36
+      },
+      {
+        "name": "Living Large (feat. BigXthaPlug)",
+        "artist": "Rick Ross",
+        "position": 6,
+        "score": 36
+      },
+      {
+        "name": "No Level",
+        "artist": "LADIPOE",
+        "position": 9,
+        "score": 36
+      },
+      {
+        "name": "PERFECTION (feat. C.S. Armstrong)",
+        "artist": "Tobe Nwigwe",
+        "position": 10,
+        "score": 36
+      },
+      {
+        "name": "Maybach Music VII (feat. Don Toliver)",
+        "artist": "Rick Ross",
+        "position": 11,
+        "score": 36
+      },
+      {
+        "name": "Radio",
+        "artist": "Future",
+        "position": 12,
+        "score": 36
+      },
+      {
+        "name": "HANDKERCHIEF",
+        "artist": "M.anifest",
+        "position": 13,
+        "score": 36
+      },
+      {
+        "name": "Patience",
+        "artist": "Messiah4L",
+        "position": 14,
+        "score": 36
+      },
+      {
+        "name": "Eye To Eye",
+        "artist": "Future",
+        "position": 15,
+        "score": 36
+      },
+      {
+        "name": "F**k A Interview",
+        "artist": "Future",
+        "position": 16,
+        "score": 36
+      },
+      {
+        "name": "Off the Hinge",
+        "artist": "Future",
+        "position": 17,
+        "score": 36
+      },
+      {
+        "name": "Better Decisions",
+        "artist": "Larry June",
+        "position": 18,
+        "score": 36
+      },
+      {
+        "name": "Minding My Business",
+        "artist": "Dave East",
+        "position": 19,
+        "score": 36
+      },
+      {
+        "name": "Ring Around The Rolls",
+        "artist": "Rick Ross",
+        "position": 20,
+        "score": 36
+      },
+      {
+        "name": "3am",
+        "artist": "Loe Shimmy",
+        "position": 21,
+        "score": 36
+      },
+      {
+        "name": "Major League",
+        "artist": "Sarkodie",
+        "position": 23,
+        "score": 36
+      },
+      {
+        "name": "LA Nights",
+        "artist": "Trap Dickey",
+        "position": 24,
+        "score": 36
+      },
+      {
+        "name": "Blam Sum",
+        "artist": "VonOff1700",
+        "position": 27,
+        "score": 36
+      },
+      {
+        "name": "The Aroma",
+        "artist": "Fat Joe",
+        "position": 28,
+        "score": 36
+      },
+      {
+        "name": "No Explanation (feat. Evidence)",
+        "artist": "DJ Premier",
+        "position": 29,
+        "score": 36
+      },
+      {
+        "name": "WE SEE DEM",
+        "artist": "Asomacy",
+        "position": 30,
+        "score": 36
+      },
+      {
+        "name": "White Ones",
+        "artist": "Montana 700",
+        "position": 34,
+        "score": 36
+      },
+      {
+        "name": "How Much I Score",
+        "artist": "Canon",
+        "position": 35,
+        "score": 36
+      },
+      {
+        "name": "POP DAT THANG",
+        "artist": "DaBaby",
+        "position": 36,
+        "score": 36
+      },
+      {
+        "name": "FACE ME",
+        "artist": "D.H",
+        "position": 37,
+        "score": 36
+      },
+      {
+        "name": "Ambition For Cash",
+        "artist": "Key Glock",
+        "position": 38,
+        "score": 36
+      },
+      {
+        "name": "CALL SPITTA",
+        "artist": "EST Gee",
+        "position": 40,
+        "score": 36
+      },
+      {
+        "name": "Bag Rite",
+        "artist": "Loe Shimmy",
+        "position": 41,
+        "score": 36
+      },
+      {
+        "name": "How I'm Livin",
+        "artist": "Bossman Dlow",
+        "position": 42,
+        "score": 36
+      },
+      {
+        "name": "screwed up",
+        "artist": "Destroy Lonely",
+        "position": 43,
+        "score": 36
+      },
+      {
+        "name": "TOO FAST",
+        "artist": "Future",
+        "position": 44,
+        "score": 36
+      },
+      {
+        "name": "Coming of Age (feat. Memphis Bleek)",
+        "artist": "JAŸ-Z",
+        "position": 46,
+        "score": 36
+      },
+      {
+        "name": "Help Me",
+        "artist": "Real Boston Richey",
+        "position": 47,
+        "score": 36
+      },
+      {
+        "name": "And Still",
+        "artist": "Dame D.O.L.L.A.",
+        "position": 48,
+        "score": 36
+      }
+    ],
+    "removed": [
+      {
+        "name": "OK",
+        "artist": "Kanye West",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "FACE DOWN",
+        "artist": "Key Glock",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "THAT GUY",
+        "artist": "Tyler, The Creator",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Face Card (feat. Bryson Tiller)",
+        "artist": "Skilla Baby",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "WTF GOIN",
+        "artist": "Belly Gang Kushington",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Body Dangerous",
+        "artist": "Loe Shimmy",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "OMG",
+        "artist": "YG",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "NO MORE SLEEP",
+        "artist": "M.anifest",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "just say dat",
+        "artist": "Gunna",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "WOE$KII",
+        "artist": "Straffitti",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "More or Less",
+        "artist": "Ajebutter22",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "made for this shit",
+        "artist": "Gunna",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "MID LIFE CRISIS",
+        "artist": "YG",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Packed Up",
+        "artist": "AZ Chike",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Their Back",
+        "artist": "Medikal",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "TOTEM",
+        "artist": "Tierra Whack",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "EXPENSIVE SILENCE",
+        "artist": "Beeztrap Kotm",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Ripper's Fate",
+        "artist": "6uff",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Go",
+        "artist": "G Herbo",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Tippy Toes",
+        "artist": "PLUTO",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Live By The Law",
+        "artist": "Lil Migo",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Laundry Day",
+        "artist": "De Ozene",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "I’m Spent",
+        "artist": "Drake",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Hustle (feat. O'Kenneth & Braabenk)",
+        "artist": "Oseikrom Sikanii",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Million Dollar Minion",
+        "artist": "Yeat",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Go Again",
+        "artist": "Zaylevelten",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "LA COSA NOSTRA",
+        "artist": "Amir Ali",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Body",
+        "artist": "Don Toliver",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Mama Loves You (feat. Chong-Nee)",
+        "artist": "Queen Shirl'e",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "I CAN’T WAIT",
+        "artist": "Kanye West",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Titled Man",
+        "artist": "Knucks",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Turn Yo Clic Up",
+        "artist": "Quavo",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "GANG BIZNESS",
+        "artist": "YG",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "SOLID AS THEY COME (feat. Sy Ari Da Kid)",
+        "artist": "RJ Payne",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Bruddas",
+        "artist": "Rylo Rodriguez",
+        "reason": "dropped",
+        "age": 0
+      }
+    ],
+    "moved": [
+      {
+        "name": "Shabang",
+        "artist": "Drake",
+        "from": 6,
+        "to": 31,
+        "movement": "↓25",
+        "direction": "down"
+      },
+      {
+        "name": "Insecurities",
+        "artist": "Lil Baby",
+        "from": 16,
+        "to": 39,
+        "movement": "↓23",
+        "direction": "down"
+      },
+      {
+        "name": "Mrs. Trendsetter",
+        "artist": "Lil Baby",
+        "from": 14,
+        "to": 8,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "one of wun",
+        "artist": "Gunna",
+        "from": 31,
+        "to": 26,
+        "movement": "↑5",
+        "direction": "up"
+      }
+    ],
+    "stale": [],
+    "timestamp": "2026-07-18T09:59:11.889Z",
+    "playlistName": "Hip Hop"
+  },
+  "sources": 8
+}

@@ -1,0 +1,1490 @@
+{
+  "playlistName": "EDM",
+  "timestamp": "2026-07-18T10:03:05.212Z",
+  "baselineRun": false,
+  "trackCount": 50,
+  "tracks": [
+    {
+      "id": "don't-believe-it-john-summit",
+      "name": "DON'T BELIEVE IT",
+      "artist": "John Summit",
+      "performanceScore": 37.57,
+      "appearances": 1,
+      "totalScore": 77.57,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 1,
+      "score": 36
+    },
+    {
+      "id": "movin'-to-the-sun-hugel",
+      "name": "Movin' To The Sun",
+      "artist": "HUGEL",
+      "performanceScore": 37.56,
+      "appearances": 1,
+      "totalScore": 57.56,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 2,
+      "score": 36
+    },
+    {
+      "id": "talk-to-you-(feat.-54-ultra)-anotr",
+      "name": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "performanceScore": 36.36,
+      "appearances": 1,
+      "totalScore": 56.36,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 3,
+      "score": 36
+    },
+    {
+      "id": "to-be-free-anatta",
+      "name": "To Be Free",
+      "artist": "ANATTA",
+      "performanceScore": 34.86,
+      "appearances": 1,
+      "totalScore": 54.86,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 4,
+      "score": 36
+    },
+    {
+      "id": "caught-up-gryffin",
+      "name": "Caught Up",
+      "artist": "Gryffin",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 5,
+      "score": 36
+    },
+    {
+      "id": "high-speed-ring-amtrac",
+      "name": "High Speed Ring",
+      "artist": "Amtrac",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 6,
+      "score": 36
+    },
+    {
+      "id": "knockin’-danny-howard",
+      "name": "Knockin’",
+      "artist": "Danny Howard",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 7,
+      "score": 36
+    },
+    {
+      "id": "ultra-intro-skrillex",
+      "name": "ULTRA INTRO",
+      "artist": "Skrillex",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 8,
+      "score": 36
+    },
+    {
+      "id": "feels-like-gold-skepsis",
+      "name": "Feels Like Gold",
+      "artist": "Skepsis",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 9,
+      "score": 36
+    },
+    {
+      "id": "futurama-josh-wink",
+      "name": "Futurama",
+      "artist": "Josh Wink",
+      "performanceScore": 34.78,
+      "appearances": 1,
+      "totalScore": 44.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 10,
+      "score": 36
+    },
+    {
+      "id": "comes-and-goes-(dom-dolla-remix)-kettama",
+      "name": "Comes and Goes (Dom Dolla Remix)",
+      "artist": "KETTAMA",
+      "performanceScore": 34.57,
+      "appearances": 1,
+      "totalScore": 74.57,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 11,
+      "score": 36
+    },
+    {
+      "id": "staring-at-the-sun-elderbrook",
+      "name": "Staring at the Sun",
+      "artist": "Elderbrook",
+      "performanceScore": 34.54,
+      "appearances": 1,
+      "totalScore": 64.53999999999999,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 12,
+      "score": 36
+    },
+    {
+      "id": "all-day-and-night-(jax-jones-&-martin-solveig-present-europa)-jax-jones",
+      "name": "All Day and Night (Jax Jones & Martin Solveig Present Europa)",
+      "artist": "Jax Jones",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 13,
+      "score": 36
+    },
+    {
+      "id": "in-the-moment-(adriatique-remix)-rüfüs-du-sol",
+      "name": "In the Moment (Adriatique Remix)",
+      "artist": "RÜFÜS DU SOL",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 14,
+      "score": 36
+    },
+    {
+      "id": "love-on-my-mind-matoma",
+      "name": "Love On My Mind",
+      "artist": "Matoma",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 15,
+      "score": 36
+    },
+    {
+      "id": "restless-alan-fitzpatrick",
+      "name": "Restless",
+      "artist": "Alan Fitzpatrick",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 16,
+      "score": 36
+    },
+    {
+      "id": "psychedelic-symphony-big-gigantic",
+      "name": "Psychedelic Symphony",
+      "artist": "Big Gigantic",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 17,
+      "score": 36
+    },
+    {
+      "id": "☼⃝☼⃝◉-҉⃝o◉☼⃝⊖☼⃝☼⃝❁-҉⃝☼⃝☼⃝-⃝͢-̢⃝͜-☼⃝☼⃝:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌:̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊(-̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ-l̡̡̡-̡͌-ɵʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎ȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚-̷̨ʅ͡͡͡͡͡͡͡͡͡͡͡-̟̞̝̜̙̘̗̖҉̵̴̨̧-⣎⡇ꉺლ༽இ•̛)ྀ◞-༎ຶ-༽ৣৢ؞ৢ؞ؖ-ꉺლ",
+      "name": "☼⃝☼⃝◉ ҉⃝O◉☼⃝⊖☼⃝☼⃝❁ ҉⃝☼⃝☼⃝ ⃝͢ ̢⃝͜ ☼⃝☼⃝:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌:̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊( ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ l̡̡̡ ̡͌ Ɵʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎ȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨ʅ͡͡͡͡͡͡͡͡͡͡͡ ̟̞̝̜̙̘̗̖҉̵̴̨̧",
+      "artist": "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 18,
+      "score": 36
+    },
+    {
+      "id": "daydreaming-fred-v",
+      "name": "Daydreaming",
+      "artist": "Fred V",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 19,
+      "score": 36
+    },
+    {
+      "id": "iguana-aura-peder-mannerfelt",
+      "name": "Iguana Aura",
+      "artist": "Peder Mannerfelt",
+      "performanceScore": 34.18,
+      "appearances": 1,
+      "totalScore": 44.18,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 20,
+      "score": 36
+    },
+    {
+      "id": "oracle-(feat.-jem-cooke)-gorgon-city",
+      "name": "Oracle (feat. Jem Cooke)",
+      "artist": "Gorgon City",
+      "performanceScore": 34.12,
+      "appearances": 1,
+      "totalScore": 74.12,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 21,
+      "score": 36
+    },
+    {
+      "id": "in-your-arms-(for-an-angel)-topic",
+      "name": "In Your Arms (For An Angel)",
+      "artist": "Topic",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 22,
+      "score": 36
+    },
+    {
+      "id": "don’t-wanna-go-home-(feat.-henry-camamile)-meduza",
+      "name": "Don’t Wanna Go Home (feat. Henry Camamile)",
+      "artist": "MEDUZA",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 23,
+      "score": 36
+    },
+    {
+      "id": "hypnotic-fancy-inc",
+      "name": "Hypnotic",
+      "artist": "Fancy Inc",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 24,
+      "score": 36
+    },
+    {
+      "id": "bounce-rossy",
+      "name": "BOUNCE",
+      "artist": "ROSSY",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 25,
+      "score": 36
+    },
+    {
+      "id": "midnight-sound-(feat.-harlee)-flowidus",
+      "name": "Midnight Sound (feat. HARLEE)",
+      "artist": "Flowidus",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 26,
+      "score": 36
+    },
+    {
+      "id": "edge-runner-(rødhåd-remix)-ø-[phase]",
+      "name": "Edge Runner (Rødhåd Remix)",
+      "artist": "Ø [Phase]",
+      "performanceScore": 33.58,
+      "appearances": 1,
+      "totalScore": 43.58,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 27,
+      "score": 36
+    },
+    {
+      "id": "like-a-prayer-josh-fawaz",
+      "name": "Like a Prayer",
+      "artist": "Josh Fawaz",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 28,
+      "score": 36
+    },
+    {
+      "id": "escape-(feat.-hayla)-kx5",
+      "name": "Escape (feat. Hayla)",
+      "artist": "Kx5",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 29,
+      "score": 36
+    },
+    {
+      "id": "just-getting-started-matador",
+      "name": "Just Getting Started",
+      "artist": "MATADOR",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 30,
+      "score": 36
+    },
+    {
+      "id": "no-one-else-(feat.-corbyn-besson)-two-friends",
+      "name": "No One Else (Feat. Corbyn Besson)",
+      "artist": "Two Friends",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 31,
+      "score": 36
+    },
+    {
+      "id": "look-out-freejak",
+      "name": "Look Out",
+      "artist": "Freejak",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 32,
+      "score": 36
+    },
+    {
+      "id": "the-rush-t-&-sugah",
+      "name": "The Rush",
+      "artist": "T & Sugah",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 33,
+      "score": 36
+    },
+    {
+      "id": "hotday-jani-ho",
+      "name": "Hotday",
+      "artist": "Jani Ho",
+      "performanceScore": 32.98,
+      "appearances": 1,
+      "totalScore": 42.98,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 34,
+      "score": 36
+    },
+    {
+      "id": "invisible-jazzy",
+      "name": "Invisible",
+      "artist": "Jazzy",
+      "performanceScore": 32.94,
+      "appearances": 1,
+      "totalScore": 62.94,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 35,
+      "score": 36
+    },
+    {
+      "id": "shake-that-sara-landry",
+      "name": "Shake That",
+      "artist": "Sara Landry",
+      "performanceScore": 32.74,
+      "appearances": 1,
+      "totalScore": 62.74,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 36,
+      "score": 36
+    },
+    {
+      "id": "let-me-be-in-your-arms-sonny-fodera",
+      "name": "Let Me Be In Your Arms",
+      "artist": "Sonny Fodera",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 37,
+      "score": 36
+    },
+    {
+      "id": "no-goodbye-(paul-woolford-remix)-paul-kalkbrenner",
+      "name": "No Goodbye (Paul Woolford Remix)",
+      "artist": "Paul Kalkbrenner",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 38,
+      "score": 36
+    },
+    {
+      "id": "ascending-fideles",
+      "name": "Ascending",
+      "artist": "Fideles",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 39,
+      "score": 36
+    },
+    {
+      "id": "hideaway-switch-disco",
+      "name": "HIDEAWAY",
+      "artist": "Switch Disco",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 40,
+      "score": 36
+    },
+    {
+      "id": "rain-fisher",
+      "name": "Rain",
+      "artist": "FISHER",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 41,
+      "score": 36
+    },
+    {
+      "id": "wait-state-cubicolor",
+      "name": "Wait State",
+      "artist": "Cubicolor",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 42,
+      "score": 36
+    },
+    {
+      "id": "the-family-(re-plant)-robert-hood",
+      "name": "The Family (Re-Plant)",
+      "artist": "Robert Hood",
+      "performanceScore": 32.38,
+      "appearances": 1,
+      "totalScore": 42.38,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 43,
+      "score": 36
+    },
+    {
+      "id": "shades-of-blue-john-summit",
+      "name": "SHADES OF BLUE",
+      "artist": "John Summit",
+      "performanceScore": 32.34,
+      "appearances": 1,
+      "totalScore": 62.34,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 44,
+      "score": 36
+    },
+    {
+      "id": "right-thing-malugi",
+      "name": "Right Thing",
+      "artist": "Malugi",
+      "performanceScore": 32.34,
+      "appearances": 1,
+      "totalScore": 62.34,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 45,
+      "score": 36
+    },
+    {
+      "id": "paradise-player-dave",
+      "name": "Paradise",
+      "artist": "Player Dave",
+      "performanceScore": 32.14,
+      "appearances": 1,
+      "totalScore": 62.14,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 46,
+      "score": 36
+    },
+    {
+      "id": "out-of-my-head-subsonic",
+      "name": "Out of My Head",
+      "artist": "Subsonic",
+      "performanceScore": 31.86,
+      "appearances": 1,
+      "totalScore": 51.86,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 47,
+      "score": 36
+    },
+    {
+      "id": "trapped-(radio-edit)-kolter",
+      "name": "Trapped (Radio-Edit)",
+      "artist": "Kolter",
+      "performanceScore": 31.78,
+      "appearances": 1,
+      "totalScore": 41.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 48,
+      "score": 36
+    },
+    {
+      "id": "gravity-steve-aoki",
+      "name": "Gravity",
+      "artist": "Steve Aoki",
+      "performanceScore": 31.78,
+      "appearances": 1,
+      "totalScore": 41.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 49,
+      "score": 36
+    },
+    {
+      "id": "postman-(club-mix)-connie",
+      "name": "Postman (Club Mix)",
+      "artist": "CONNIE",
+      "performanceScore": 31.78,
+      "appearances": 1,
+      "totalScore": 41.78,
+      "positions": [
+        0
+      ],
+      "finalScore": 36,
+      "ranking": {
+        "frequency": 15,
+        "position": 100,
+        "momentum": 0
+      },
+      "position": 50,
+      "score": 36
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "DON'T BELIEVE IT",
+        "artist": "John Summit",
+        "position": 1,
+        "score": 36
+      },
+      {
+        "name": "Movin' To The Sun",
+        "artist": "HUGEL",
+        "position": 2,
+        "score": 36
+      },
+      {
+        "name": "Talk To You (feat. 54 Ultra)",
+        "artist": "ANOTR",
+        "position": 3,
+        "score": 36
+      },
+      {
+        "name": "To Be Free",
+        "artist": "ANATTA",
+        "position": 4,
+        "score": 36
+      },
+      {
+        "name": "Caught Up",
+        "artist": "Gryffin",
+        "position": 5,
+        "score": 36
+      },
+      {
+        "name": "Knockin’",
+        "artist": "Danny Howard",
+        "position": 7,
+        "score": 36
+      },
+      {
+        "name": "Feels Like Gold",
+        "artist": "Skepsis",
+        "position": 9,
+        "score": 36
+      },
+      {
+        "name": "Futurama",
+        "artist": "Josh Wink",
+        "position": 10,
+        "score": 36
+      },
+      {
+        "name": "Comes and Goes (Dom Dolla Remix)",
+        "artist": "KETTAMA",
+        "position": 11,
+        "score": 36
+      },
+      {
+        "name": "Staring at the Sun",
+        "artist": "Elderbrook",
+        "position": 12,
+        "score": 36
+      },
+      {
+        "name": "Restless",
+        "artist": "Alan Fitzpatrick",
+        "position": 16,
+        "score": 36
+      },
+      {
+        "name": "Psychedelic Symphony",
+        "artist": "Big Gigantic",
+        "position": 17,
+        "score": 36
+      },
+      {
+        "name": "☼⃝☼⃝◉ ҉⃝O◉☼⃝⊖☼⃝☼⃝❁ ҉⃝☼⃝☼⃝ ⃝͢ ̢⃝͜ ☼⃝☼⃝:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌:̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊( ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ l̡̡̡ ̡͌ Ɵʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎ȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨ʅ͡͡͡͡͡͡͡͡͡͡͡ ̟̞̝̜̙̘̗̖҉̵̴̨̧",
+        "artist": "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ",
+        "position": 18,
+        "score": 36
+      },
+      {
+        "name": "Daydreaming",
+        "artist": "Fred V",
+        "position": 19,
+        "score": 36
+      },
+      {
+        "name": "Iguana Aura",
+        "artist": "Peder Mannerfelt",
+        "position": 20,
+        "score": 36
+      },
+      {
+        "name": "Oracle (feat. Jem Cooke)",
+        "artist": "Gorgon City",
+        "position": 21,
+        "score": 36
+      },
+      {
+        "name": "In Your Arms (For An Angel)",
+        "artist": "Topic",
+        "position": 22,
+        "score": 36
+      },
+      {
+        "name": "Don’t Wanna Go Home (feat. Henry Camamile)",
+        "artist": "MEDUZA",
+        "position": 23,
+        "score": 36
+      },
+      {
+        "name": "Hypnotic",
+        "artist": "Fancy Inc",
+        "position": 24,
+        "score": 36
+      },
+      {
+        "name": "BOUNCE",
+        "artist": "ROSSY",
+        "position": 25,
+        "score": 36
+      },
+      {
+        "name": "Edge Runner (Rødhåd Remix)",
+        "artist": "Ø [Phase]",
+        "position": 27,
+        "score": 36
+      },
+      {
+        "name": "Escape (feat. Hayla)",
+        "artist": "Kx5",
+        "position": 29,
+        "score": 36
+      },
+      {
+        "name": "Just Getting Started",
+        "artist": "MATADOR",
+        "position": 30,
+        "score": 36
+      },
+      {
+        "name": "No One Else (Feat. Corbyn Besson)",
+        "artist": "Two Friends",
+        "position": 31,
+        "score": 36
+      },
+      {
+        "name": "Look Out",
+        "artist": "Freejak",
+        "position": 32,
+        "score": 36
+      },
+      {
+        "name": "The Rush",
+        "artist": "T & Sugah",
+        "position": 33,
+        "score": 36
+      },
+      {
+        "name": "Hotday",
+        "artist": "Jani Ho",
+        "position": 34,
+        "score": 36
+      },
+      {
+        "name": "Shake That",
+        "artist": "Sara Landry",
+        "position": 36,
+        "score": 36
+      },
+      {
+        "name": "Let Me Be In Your Arms",
+        "artist": "Sonny Fodera",
+        "position": 37,
+        "score": 36
+      },
+      {
+        "name": "No Goodbye (Paul Woolford Remix)",
+        "artist": "Paul Kalkbrenner",
+        "position": 38,
+        "score": 36
+      },
+      {
+        "name": "Ascending",
+        "artist": "Fideles",
+        "position": 39,
+        "score": 36
+      },
+      {
+        "name": "HIDEAWAY",
+        "artist": "Switch Disco",
+        "position": 40,
+        "score": 36
+      },
+      {
+        "name": "Rain",
+        "artist": "FISHER",
+        "position": 41,
+        "score": 36
+      },
+      {
+        "name": "Wait State",
+        "artist": "Cubicolor",
+        "position": 42,
+        "score": 36
+      },
+      {
+        "name": "The Family (Re-Plant)",
+        "artist": "Robert Hood",
+        "position": 43,
+        "score": 36
+      },
+      {
+        "name": "SHADES OF BLUE",
+        "artist": "John Summit",
+        "position": 44,
+        "score": 36
+      },
+      {
+        "name": "Right Thing",
+        "artist": "Malugi",
+        "position": 45,
+        "score": 36
+      },
+      {
+        "name": "Paradise",
+        "artist": "Player Dave",
+        "position": 46,
+        "score": 36
+      },
+      {
+        "name": "Trapped (Radio-Edit)",
+        "artist": "Kolter",
+        "position": 48,
+        "score": 36
+      },
+      {
+        "name": "Gravity",
+        "artist": "Steve Aoki",
+        "position": 49,
+        "score": 36
+      }
+    ],
+    "removed": [
+      {
+        "name": "Best Be Believing (feat. Caleb Laurenson & Danny P)",
+        "artist": "AlunaGeorge",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Thing About You",
+        "artist": "Two Shell",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Tonight",
+        "artist": "Layton Giordani",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Work It Out",
+        "artist": "Gorgon City",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "TAKE ME",
+        "artist": "D a n n y",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Without You",
+        "artist": "Mattilo",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Off the Clock",
+        "artist": "Discip",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Ghost World",
+        "artist": "Alison Wonderland",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "All I See Is You (feat. Coulson)",
+        "artist": "Bound to Divide",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Red Passion I - A1",
+        "artist": "Robert Hood",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "On 2nite",
+        "artist": "Silva Bumpa",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Baby Girl",
+        "artist": "Disco Lines",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Long Way Home",
+        "artist": "Con's Universe",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Super Powers",
+        "artist": "TELYKAST",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Nobody Else",
+        "artist": "GRiZ",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "U Can't Come Home (feat. TS Graye)",
+        "artist": "DJ Seinfeld",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "6 Physical Manifestation",
+        "artist": "Steve Rachmad",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Favour",
+        "artist": "FISHER",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Lose Control",
+        "artist": "MEDUZA",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Feel Again",
+        "artist": "rshand",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "What Can I Do",
+        "artist": "Vibe Chemistry",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Redacted",
+        "artist": "Cleric",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "New Religion",
+        "artist": "Bebe Rexha",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Black Techno Guy",
+        "artist": "Channel Tres",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Cross Your Mind",
+        "artist": "David Solomon",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Everywhere I Go",
+        "artist": "Vidojean X Oliver Loenn",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Club To Your Arms",
+        "artist": "Rose Gray",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Louder",
+        "artist": "Viperactive",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Avalanche",
+        "artist": "Hybrid Minds",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Moonblur",
+        "artist": "Ignez",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Go (feat. Q-Tip)",
+        "artist": "The Chemical Brothers",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Heaven Takes You Home",
+        "artist": "Swedish House Mafia",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Make You Fight",
+        "artist": "Chris Lake",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "By My Side",
+        "artist": "Levity",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Attention (Hernan Cattaneo & Mercurio Remix)",
+        "artist": "HVOB",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "I RUN (Mozey Remix)",
+        "artist": "HAVEN.",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Helsinki (Vinicius Honorio Rework)",
+        "artist": "Herton",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "You",
+        "artist": "Lane 8",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Seratonin",
+        "artist": "James Hype",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Where You Are",
+        "artist": "John Summit",
+        "reason": "dropped",
+        "age": 0
+      }
+    ],
+    "moved": [
+      {
+        "name": "Invisible",
+        "artist": "Jazzy",
+        "from": 2,
+        "to": 35,
+        "movement": "↓33",
+        "direction": "down"
+      },
+      {
+        "name": "In the Moment (Adriatique Remix)",
+        "artist": "RÜFÜS DU SOL",
+        "from": 41,
+        "to": 14,
+        "movement": "↑27",
+        "direction": "up"
+      },
+      {
+        "name": "ULTRA INTRO",
+        "artist": "Skrillex",
+        "from": 26,
+        "to": 8,
+        "movement": "↑18",
+        "direction": "up"
+      },
+      {
+        "name": "Love On My Mind",
+        "artist": "Matoma",
+        "from": 25,
+        "to": 15,
+        "movement": "↑10",
+        "direction": "up"
+      },
+      {
+        "name": "Midnight Sound (feat. HARLEE)",
+        "artist": "Flowidus",
+        "from": 21,
+        "to": 26,
+        "movement": "↓5",
+        "direction": "down"
+      }
+    ],
+    "stale": [],
+    "timestamp": "2026-07-18T10:03:05.211Z",
+    "playlistName": "EDM"
+  },
+  "sources": 13
+}
