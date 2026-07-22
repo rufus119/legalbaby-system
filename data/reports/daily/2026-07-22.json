@@ -1,0 +1,6510 @@
+[
+  {
+    "type": "daily",
+    "playlistName": "Top 100 Nigeria",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T10:37:40.929Z",
+    "summary": {
+      "totalTracks": 100,
+      "newEntries": 2,
+      "removals": 2,
+      "movements": 3,
+      "staleRemoved": 0
+    },
+    "newEntries": [
+      {
+        "name": "Damn",
+        "artist": "OMAH LAY",
+        "position": 97,
+        "action": "ADD at #97"
+      },
+      {
+        "name": "Tease Me",
+        "artist": "Zaylevelten",
+        "position": 99,
+        "action": "ADD at #99"
+      }
+    ],
+    "removals": [
+      {
+        "name": "soso",
+        "artist": "OMAH LAY",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "Oshe",
+        "artist": "Wande Coal",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      }
+    ],
+    "movements": [
+      {
+        "name": "i’m a mess",
+        "artist": "OMAH LAY",
+        "from": "#70",
+        "to": "#76",
+        "movement": "↓6",
+        "action": "MOVE from #70 to #76"
+      },
+      {
+        "name": "FRE$H",
+        "artist": "Victony",
+        "from": "#52",
+        "to": "#57",
+        "movement": "↓5",
+        "action": "MOVE from #52 to #57"
+      },
+      {
+        "name": "LEGOLAS",
+        "artist": "ODUMODUBLVCK",
+        "from": "#96",
+        "to": "#91",
+        "movement": "↑5",
+        "action": "MOVE from #96 to #91"
+      }
+    ],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 2,
+        "items": [
+          {
+            "track": "Damn",
+            "artist": "OMAH LAY",
+            "position": 97
+          },
+          {
+            "track": "Tease Me",
+            "artist": "Zaylevelten",
+            "position": 99
+          }
+        ]
+      },
+      {
+        "action": "REMOVE_TRACKS",
+        "count": 2,
+        "items": [
+          {
+            "track": "soso",
+            "artist": "OMAH LAY",
+            "reason": "dropped"
+          },
+          {
+            "track": "Oshe",
+            "artist": "Wande Coal",
+            "reason": "dropped"
+          }
+        ]
+      },
+      {
+        "action": "REORDER_TRACKS",
+        "count": 3,
+        "items": [
+          {
+            "track": "i’m a mess",
+            "artist": "OMAH LAY",
+            "from": 70,
+            "to": 76
+          },
+          {
+            "track": "FRE$H",
+            "artist": "Victony",
+            "from": 52,
+            "to": 57
+          },
+          {
+            "track": "LEGOLAS",
+            "artist": "ODUMODUBLVCK",
+            "from": 96,
+            "to": 91
+          }
+        ]
+      }
+    ],
+    "syncPlan": [
+      {
+        "type": "REMOVE",
+        "from": 100,
+        "track": "Oshe",
+        "artist": "Wande Coal",
+        "action": "REMOVE #100  Wande Coal - Oshe"
+      },
+      {
+        "type": "REMOVE",
+        "from": 89,
+        "track": "soso",
+        "artist": "OMAH LAY",
+        "action": "REMOVE #89  OMAH LAY - soso"
+      },
+      {
+        "type": "MOVE",
+        "from": 4,
+        "to": 3,
+        "track": "Gratitude",
+        "artist": "Asake",
+        "action": "MOVE #4 -> #3  Asake - Gratitude"
+      },
+      {
+        "type": "MOVE",
+        "from": 5,
+        "to": 4,
+        "track": "WHY LOVE",
+        "artist": "Asake",
+        "action": "MOVE #5 -> #4  Asake - WHY LOVE"
+      },
+      {
+        "type": "MOVE",
+        "from": 8,
+        "to": 7,
+        "track": "treat u right",
+        "artist": "FOLA",
+        "action": "MOVE #8 -> #7  FOLA - treat u right"
+      },
+      {
+        "type": "MOVE",
+        "from": 10,
+        "to": 8,
+        "track": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez",
+        "action": "MOVE #10 -> #8  Blaqbonez - Chanel (feat. Asake)"
+      },
+      {
+        "type": "MOVE",
+        "from": 11,
+        "to": 10,
+        "track": "Elumelu",
+        "artist": "Young Jonn",
+        "action": "MOVE #11 -> #10  Young Jonn - Elumelu"
+      },
+      {
+        "type": "MOVE",
+        "from": 20,
+        "to": 19,
+        "track": "Come Closer (feat. Drake)",
+        "artist": "Wizkid",
+        "action": "MOVE #20 -> #19  Wizkid - Come Closer (feat. Drake)"
+      },
+      {
+        "type": "MOVE",
+        "from": 34,
+        "to": 33,
+        "track": "Holy Ground (feat. Nicki Minaj)",
+        "artist": "Davido",
+        "action": "MOVE #34 -> #33  Davido - Holy Ground (feat. Nicki Minaj)"
+      },
+      {
+        "type": "MOVE",
+        "from": 36,
+        "to": 35,
+        "track": "Ye",
+        "artist": "Burna Boy",
+        "action": "MOVE #36 -> #35  Burna Boy - Ye"
+      },
+      {
+        "type": "MOVE",
+        "from": 38,
+        "to": 37,
+        "track": "Skilful",
+        "artist": "Asake",
+        "action": "MOVE #38 -> #37  Asake - Skilful"
+      },
+      {
+        "type": "MOVE",
+        "from": 39,
+        "to": 38,
+        "track": "Jogodo",
+        "artist": "Wizkid",
+        "action": "MOVE #39 -> #38  Wizkid - Jogodo"
+      },
+      {
+        "type": "MOVE",
+        "from": 44,
+        "to": 43,
+        "track": "you",
+        "artist": "FOLA",
+        "action": "MOVE #44 -> #43  FOLA - you"
+      },
+      {
+        "type": "MOVE",
+        "from": 46,
+        "to": 44,
+        "track": "For Days",
+        "artist": "BNXN",
+        "action": "MOVE #46 -> #44  BNXN - For Days"
+      },
+      {
+        "type": "MOVE",
+        "from": 47,
+        "to": 45,
+        "track": "GLACIER GIRL",
+        "artist": "scottyolorin",
+        "action": "MOVE #47 -> #45  scottyolorin - GLACIER GIRL"
+      },
+      {
+        "type": "MOVE",
+        "from": 47,
+        "to": 46,
+        "track": "Mofe",
+        "artist": "Mavo",
+        "action": "MOVE #47 -> #46  Mavo - Mofe"
+      },
+      {
+        "type": "MOVE",
+        "from": 50,
+        "to": 48,
+        "track": "AMA",
+        "artist": "Seyi Vibez",
+        "action": "MOVE #50 -> #48  Seyi Vibez - AMA"
+      },
+      {
+        "type": "MOVE",
+        "from": 54,
+        "to": 52,
+        "track": "Tumo Weto",
+        "artist": "Mavo",
+        "action": "MOVE #54 -> #52  Mavo - Tumo Weto"
+      },
+      {
+        "type": "MOVE",
+        "from": 54,
+        "to": 53,
+        "track": "On the Low",
+        "artist": "Burna Boy",
+        "action": "MOVE #54 -> #53  Burna Boy - On the Low"
+      },
+      {
+        "type": "MOVE",
+        "from": 55,
+        "to": 54,
+        "track": "FUJI MOTO",
+        "artist": "Seyi Vibez",
+        "action": "MOVE #55 -> #54  Seyi Vibez - FUJI MOTO"
+      },
+      {
+        "type": "MOVE",
+        "from": 56,
+        "to": 55,
+        "track": "PRAY",
+        "artist": "BNXN",
+        "action": "MOVE #56 -> #55  BNXN - PRAY"
+      },
+      {
+        "type": "MOVE",
+        "from": 58,
+        "to": 56,
+        "track": "DOG EAT DOG II (feat. Cruel Santino & Bella Shmurda)",
+        "artist": "ODUMODUBLVCK",
+        "action": "MOVE #58 -> #56  ODUMODUBLVCK - DOG EAT DOG II (feat. Cruel Santino & Bella Shmurda)"
+      },
+      {
+        "type": "MOVE",
+        "from": 60,
+        "to": 58,
+        "track": "Baba (feat. Zlatan)",
+        "artist": "Hotkid",
+        "action": "MOVE #60 -> #58  Hotkid - Baba (feat. Zlatan)"
+      },
+      {
+        "type": "MOVE",
+        "from": 63,
+        "to": 61,
+        "track": "Outside",
+        "artist": "BNXN",
+        "action": "MOVE #63 -> #61  BNXN - Outside"
+      },
+      {
+        "type": "MOVE",
+        "from": 66,
+        "to": 64,
+        "track": "Gbona",
+        "artist": "Burna Boy",
+        "action": "MOVE #66 -> #64  Burna Boy - Gbona"
+      },
+      {
+        "type": "MOVE",
+        "from": 67,
+        "to": 66,
+        "track": "Emotional High",
+        "artist": "BNXN",
+        "action": "MOVE #67 -> #66  BNXN - Emotional High"
+      },
+      {
+        "type": "MOVE",
+        "from": 68,
+        "to": 67,
+        "track": "Ten Times",
+        "artist": "Young Jonn",
+        "action": "MOVE #68 -> #67  Young Jonn - Ten Times"
+      },
+      {
+        "type": "MOVE",
+        "from": 73,
+        "to": 70,
+        "track": "99 (feat. Daecolm)",
+        "artist": "Olamide",
+        "action": "MOVE #73 -> #70  Olamide - 99 (feat. Daecolm)"
+      },
+      {
+        "type": "MOVE",
+        "from": 73,
+        "to": 71,
+        "track": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+        "artist": "DJ Tunez",
+        "action": "MOVE #73 -> #71  DJ Tunez - PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)"
+      },
+      {
+        "type": "MOVE",
+        "from": 73,
+        "to": 72,
+        "track": "Infinity (feat. Omah Lay)",
+        "artist": "Olamide",
+        "action": "MOVE #73 -> #72  Olamide - Infinity (feat. Omah Lay)"
+      },
+      {
+        "type": "MOVE",
+        "from": 75,
+        "to": 73,
+        "track": "lost",
+        "artist": "FOLA",
+        "action": "MOVE #75 -> #73  FOLA - lost"
+      },
+      {
+        "type": "MOVE",
+        "from": 75,
+        "to": 74,
+        "track": "Nakupenda (feat. Al Xapo & Zlatan)",
+        "artist": "TxC",
+        "action": "MOVE #75 -> #74  TxC - Nakupenda (feat. Al Xapo & Zlatan)"
+      },
+      {
+        "type": "MOVE",
+        "from": 76,
+        "to": 75,
+        "track": "Waist",
+        "artist": "OMAH LAY",
+        "action": "MOVE #76 -> #75  OMAH LAY - Waist"
+      },
+      {
+        "type": "MOVE",
+        "from": 78,
+        "to": 77,
+        "track": "Karma",
+        "artist": "Seyi Vibez",
+        "action": "MOVE #78 -> #77  Seyi Vibez - Karma"
+      },
+      {
+        "type": "MOVE",
+        "from": 79,
+        "to": 78,
+        "track": "Set Up",
+        "artist": "BNXN",
+        "action": "MOVE #79 -> #78  BNXN - Set Up"
+      },
+      {
+        "type": "MOVE",
+        "from": 80,
+        "to": 79,
+        "track": "Bandana",
+        "artist": "Fireboy DML",
+        "action": "MOVE #80 -> #79  Fireboy DML - Bandana"
+      },
+      {
+        "type": "MOVE",
+        "from": 82,
+        "to": 81,
+        "track": "Slow (feat. Anais Cardot)",
+        "artist": "Wizkid",
+        "action": "MOVE #82 -> #81  Wizkid - Slow (feat. Anais Cardot)"
+      },
+      {
+        "type": "MOVE",
+        "from": 83,
+        "to": 82,
+        "track": "Update",
+        "artist": "Burna Boy",
+        "action": "MOVE #83 -> #82  Burna Boy - Update"
+      },
+      {
+        "type": "MOVE",
+        "from": 87,
+        "to": 86,
+        "track": "DON'T LOVE ME",
+        "artist": "OMAH LAY",
+        "action": "MOVE #87 -> #86  OMAH LAY - DON'T LOVE ME"
+      },
+      {
+        "type": "MOVE",
+        "from": 95,
+        "to": 91,
+        "track": "LEGOLAS",
+        "artist": "ODUMODUBLVCK",
+        "action": "MOVE #95 -> #91  ODUMODUBLVCK - LEGOLAS"
+      },
+      {
+        "type": "MOVE",
+        "from": 93,
+        "to": 92,
+        "track": "Alaye",
+        "artist": "Wizkid",
+        "action": "MOVE #93 -> #92  Wizkid - Alaye"
+      },
+      {
+        "type": "MOVE",
+        "from": 95,
+        "to": 93,
+        "track": "Soundgasm",
+        "artist": "Rema",
+        "action": "MOVE #95 -> #93  Rema - Soundgasm"
+      },
+      {
+        "type": "MOVE",
+        "from": 96,
+        "to": 95,
+        "track": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+        "artist": "Young Jonn",
+        "action": "MOVE #96 -> #95  Young Jonn - Big Big Things (feat. Kizz Daniel & Seyi Vibez)"
+      },
+      {
+        "type": "ADD",
+        "to": 97,
+        "track": "Damn",
+        "artist": "OMAH LAY",
+        "action": "ADD #97  OMAH LAY - Damn"
+      },
+      {
+        "type": "MOVE",
+        "from": 99,
+        "to": 98,
+        "track": "Juice & Liquor",
+        "artist": "Magixx",
+        "action": "MOVE #99 -> #98  Magixx - Juice & Liquor"
+      },
+      {
+        "type": "ADD",
+        "to": 99,
+        "track": "Tease Me",
+        "artist": "Zaylevelten",
+        "action": "ADD #99  Zaylevelten - Tease Me"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Forgiveness",
+        "artist": "Asake"
+      },
+      {
+        "position": 2,
+        "name": "BB Lifestyle",
+        "artist": "Mavo"
+      },
+      {
+        "position": 3,
+        "name": "Gratitude",
+        "artist": "Asake"
+      },
+      {
+        "position": 4,
+        "name": "WHY LOVE",
+        "artist": "Asake"
+      },
+      {
+        "position": 5,
+        "name": "I Know Who I Be",
+        "artist": "Davido"
+      },
+      {
+        "position": 6,
+        "name": "Dem Dey",
+        "artist": "Burna Boy"
+      },
+      {
+        "position": 7,
+        "name": "treat u right",
+        "artist": "FOLA"
+      },
+      {
+        "position": 8,
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez"
+      },
+      {
+        "position": 9,
+        "name": "Gimme Dat Ting",
+        "artist": "Davido"
+      },
+      {
+        "position": 10,
+        "name": "Elumelu",
+        "artist": "Young Jonn"
+      },
+      {
+        "position": 11,
+        "name": "SLICK",
+        "artist": "Victony"
+      },
+      {
+        "position": 12,
+        "name": "Back Outside",
+        "artist": "BNXN"
+      },
+      {
+        "position": 13,
+        "name": "MCBH",
+        "artist": "Asake"
+      },
+      {
+        "position": 14,
+        "name": "WORSHIP",
+        "artist": "Asake"
+      },
+      {
+        "position": 15,
+        "name": "Big Bum Bum",
+        "artist": "Kidd Carder"
+      },
+      {
+        "position": 16,
+        "name": "I AM",
+        "artist": "OMAH LAY"
+      },
+      {
+        "position": 17,
+        "name": "Change Your Mind (feat. Shaboozey)",
+        "artist": "Burna Boy"
+      },
+      {
+        "position": 18,
+        "name": "Pidgin & English",
+        "artist": "BNXN"
+      },
+      {
+        "position": 19,
+        "name": "Come Closer (feat. Drake)",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 20,
+        "name": "Wa",
+        "artist": "Asake"
+      },
+      {
+        "position": 21,
+        "name": "Ginger (feat. Burna Boy)",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 22,
+        "name": "Rora",
+        "artist": "Asake"
+      },
+      {
+        "position": 23,
+        "name": "Amapiano",
+        "artist": "Asake"
+      },
+      {
+        "position": 24,
+        "name": "Energy",
+        "artist": "Tiwa Savage"
+      },
+      {
+        "position": 25,
+        "name": "fine ting (fine $hit)",
+        "artist": "FOLA"
+      },
+      {
+        "position": 26,
+        "name": "Joro",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 27,
+        "name": "Asambe",
+        "artist": "Asake"
+      },
+      {
+        "position": 28,
+        "name": "Oba",
+        "artist": "Asake"
+      },
+      {
+        "position": 29,
+        "name": "BADMAN GANGSTA",
+        "artist": "Asake"
+      },
+      {
+        "position": 30,
+        "name": "UNAVAILABLE (feat. Musa Keys)",
+        "artist": "Davido"
+      },
+      {
+        "position": 31,
+        "name": "Tornado",
+        "artist": "Ayra Starr"
+      },
+      {
+        "position": 32,
+        "name": "Very Soon",
+        "artist": "BNXN"
+      },
+      {
+        "position": 33,
+        "name": "Holy Ground (feat. Nicki Minaj)",
+        "artist": "Davido"
+      },
+      {
+        "position": 34,
+        "name": "Amen",
+        "artist": "Asake"
+      },
+      {
+        "position": 35,
+        "name": "Ye",
+        "artist": "Burna Boy"
+      },
+      {
+        "position": 36,
+        "name": "MONEY CONSTANT",
+        "artist": "DJ Maphorisa"
+      },
+      {
+        "position": 37,
+        "name": "Skilful",
+        "artist": "Asake"
+      },
+      {
+        "position": 38,
+        "name": "Jogodo",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 39,
+        "name": "Aura Salad",
+        "artist": "SSSoundGawd"
+      },
+      {
+        "position": 40,
+        "name": "MMS",
+        "artist": "Asake"
+      },
+      {
+        "position": 41,
+        "name": "MOTION SICKNESS (feat. Zlatan)",
+        "artist": "ODUMODUBLVCK"
+      },
+      {
+        "position": 42,
+        "name": "Bad Influence",
+        "artist": "OMAH LAY"
+      },
+      {
+        "position": 43,
+        "name": "you",
+        "artist": "FOLA"
+      },
+      {
+        "position": 44,
+        "name": "For Days",
+        "artist": "BNXN"
+      },
+      {
+        "position": 45,
+        "name": "GLACIER GIRL",
+        "artist": "scottyolorin"
+      },
+      {
+        "position": 46,
+        "name": "Mofe",
+        "artist": "Mavo"
+      },
+      {
+        "position": 47,
+        "name": "Tsammani",
+        "artist": "FirstKlaz"
+      },
+      {
+        "position": 48,
+        "name": "AMA",
+        "artist": "Seyi Vibez"
+      },
+      {
+        "position": 49,
+        "name": "MY HEALER",
+        "artist": "Seyi Vibez"
+      },
+      {
+        "position": 50,
+        "name": "Turbulence",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 51,
+        "name": "Jies",
+        "artist": "BNXN"
+      },
+      {
+        "position": 52,
+        "name": "Tumo Weto",
+        "artist": "Mavo"
+      },
+      {
+        "position": 53,
+        "name": "On the Low",
+        "artist": "Burna Boy"
+      },
+      {
+        "position": 54,
+        "name": "FUJI MOTO",
+        "artist": "Seyi Vibez"
+      },
+      {
+        "position": 55,
+        "name": "PRAY",
+        "artist": "BNXN"
+      },
+      {
+        "position": 56,
+        "name": "DOG EAT DOG II (feat. Cruel Santino & Bella Shmurda)",
+        "artist": "ODUMODUBLVCK"
+      },
+      {
+        "position": 57,
+        "name": "FRE$H",
+        "artist": "Victony"
+      },
+      {
+        "position": 58,
+        "name": "Baba (feat. Zlatan)",
+        "artist": "Hotkid"
+      },
+      {
+        "position": 59,
+        "name": "Already",
+        "artist": "BNXN"
+      },
+      {
+        "position": 60,
+        "name": "caricature",
+        "artist": "FOLA"
+      },
+      {
+        "position": 61,
+        "name": "Outside",
+        "artist": "BNXN"
+      },
+      {
+        "position": 62,
+        "name": "Laye Mi",
+        "artist": "BNXN"
+      },
+      {
+        "position": 63,
+        "name": "One Condition",
+        "artist": "DJ Tunez"
+      },
+      {
+        "position": 64,
+        "name": "Gbona",
+        "artist": "Burna Boy"
+      },
+      {
+        "position": 65,
+        "name": "Colorado",
+        "artist": "Johnny Drille"
+      },
+      {
+        "position": 66,
+        "name": "Emotional High",
+        "artist": "BNXN"
+      },
+      {
+        "position": 67,
+        "name": "Ten Times",
+        "artist": "Young Jonn"
+      },
+      {
+        "position": 68,
+        "name": "eko",
+        "artist": "FOLA"
+      },
+      {
+        "position": 69,
+        "name": "Champion Sound",
+        "artist": "Davido"
+      },
+      {
+        "position": 70,
+        "name": "99 (feat. Daecolm)",
+        "artist": "Olamide"
+      },
+      {
+        "position": 71,
+        "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+        "artist": "DJ Tunez"
+      },
+      {
+        "position": 72,
+        "name": "Infinity (feat. Omah Lay)",
+        "artist": "Olamide"
+      },
+      {
+        "position": 73,
+        "name": "lost",
+        "artist": "FOLA"
+      },
+      {
+        "position": 74,
+        "name": "Nakupenda (feat. Al Xapo & Zlatan)",
+        "artist": "TxC"
+      },
+      {
+        "position": 75,
+        "name": "Waist",
+        "artist": "OMAH LAY"
+      },
+      {
+        "position": 76,
+        "name": "i’m a mess",
+        "artist": "OMAH LAY"
+      },
+      {
+        "position": 77,
+        "name": "Karma",
+        "artist": "Seyi Vibez"
+      },
+      {
+        "position": 78,
+        "name": "Set Up",
+        "artist": "BNXN"
+      },
+      {
+        "position": 79,
+        "name": "Bandana",
+        "artist": "Fireboy DML"
+      },
+      {
+        "position": 80,
+        "name": "Aanu Ni",
+        "artist": "BisiManuel"
+      },
+      {
+        "position": 81,
+        "name": "Slow (feat. Anais Cardot)",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 82,
+        "name": "Update",
+        "artist": "Burna Boy"
+      },
+      {
+        "position": 83,
+        "name": "Bahamas",
+        "artist": "Young Jonn"
+      },
+      {
+        "position": 84,
+        "name": "BIG TIME",
+        "artist": "ODUMODUBLVCK"
+      },
+      {
+        "position": 85,
+        "name": "Stay For The Night",
+        "artist": "Vybz Kartel"
+      },
+      {
+        "position": 86,
+        "name": "DON'T LOVE ME",
+        "artist": "OMAH LAY"
+      },
+      {
+        "position": 87,
+        "name": "Pressure",
+        "artist": "Seyi Vibez"
+      },
+      {
+        "position": 88,
+        "name": "Raindance",
+        "artist": "Dave"
+      },
+      {
+        "position": 89,
+        "name": "POE",
+        "artist": "Ruger"
+      },
+      {
+        "position": 90,
+        "name": "Time",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 91,
+        "name": "LEGOLAS",
+        "artist": "ODUMODUBLVCK"
+      },
+      {
+        "position": 92,
+        "name": "Alaye",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 93,
+        "name": "Soundgasm",
+        "artist": "Rema"
+      },
+      {
+        "position": 94,
+        "name": "OPERA MINI",
+        "artist": "Poco Lee"
+      },
+      {
+        "position": 95,
+        "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+        "artist": "Young Jonn"
+      },
+      {
+        "position": 96,
+        "name": "Pass By",
+        "artist": "Yan Yan"
+      },
+      {
+        "position": 97,
+        "name": "Damn",
+        "artist": "OMAH LAY"
+      },
+      {
+        "position": 98,
+        "name": "Juice & Liquor",
+        "artist": "Magixx"
+      },
+      {
+        "position": 99,
+        "name": "Tease Me",
+        "artist": "Zaylevelten"
+      },
+      {
+        "position": 100,
+        "name": "Ripper's Fate",
+        "artist": "6uff"
+      }
+    ],
+    "baselineRun": false,
+    "mode": "delta"
+  },
+  {
+    "type": "daily",
+    "playlistName": "Top 100 Ghana",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T10:37:47.659Z",
+    "summary": {
+      "totalTracks": 100,
+      "newEntries": 2,
+      "removals": 2,
+      "movements": 20,
+      "staleRemoved": 0
+    },
+    "newEntries": [
+      {
+        "name": "Pampaso",
+        "artist": "Oseikrom Sikanii",
+        "position": 97,
+        "action": "ADD at #97"
+      },
+      {
+        "name": "Hustle (feat. O'Kenneth & Braabenk)",
+        "artist": "Oseikrom Sikanii",
+        "position": 99,
+        "action": "ADD at #99"
+      }
+    ],
+    "removals": [
+      {
+        "name": "No Bbf",
+        "artist": "Shatta Wale",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "January 9th",
+        "artist": "Black Sherif",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      }
+    ],
+    "movements": [
+      {
+        "name": "You Bad",
+        "artist": "Shatta Wale",
+        "from": "#73",
+        "to": "#91",
+        "movement": "↓18",
+        "action": "MOVE from #73 to #91"
+      },
+      {
+        "name": "Flash Lights",
+        "artist": "Shatta Wale",
+        "from": "#67",
+        "to": "#83",
+        "movement": "↓16",
+        "action": "MOVE from #67 to #83"
+      },
+      {
+        "name": "MO NTWƐN!",
+        "artist": "O'Kenneth",
+        "from": "#88",
+        "to": "#72",
+        "movement": "↑16",
+        "action": "MOVE from #88 to #72"
+      },
+      {
+        "name": "Baba (feat. Zlatan)",
+        "artist": "Hotkid",
+        "from": "#64",
+        "to": "#51",
+        "movement": "↑13",
+        "action": "MOVE from #64 to #51"
+      },
+      {
+        "name": "Rolls Royce To Pj",
+        "artist": "Shatta Wale",
+        "from": "#83",
+        "to": "#95",
+        "movement": "↓12",
+        "action": "MOVE from #83 to #95"
+      },
+      {
+        "name": "Soja",
+        "artist": "Black Sherif",
+        "from": "#57",
+        "to": "#67",
+        "movement": "↓10",
+        "action": "MOVE from #57 to #67"
+      },
+      {
+        "name": "Kwaku the Traveller",
+        "artist": "Black Sherif",
+        "from": "#68",
+        "to": "#78",
+        "movement": "↓10",
+        "action": "MOVE from #68 to #78"
+      },
+      {
+        "name": "Eye Open",
+        "artist": "Black Sherif",
+        "from": "#70",
+        "to": "#80",
+        "movement": "↓10",
+        "action": "MOVE from #70 to #80"
+      },
+      {
+        "name": "Oba",
+        "artist": "Asake",
+        "from": "#91",
+        "to": "#81",
+        "movement": "↑10",
+        "action": "MOVE from #91 to #81"
+      },
+      {
+        "name": "ME MPAEBƆ (feat. 7enR)",
+        "artist": "O'Kenneth",
+        "from": "#66",
+        "to": "#58",
+        "movement": "↑8",
+        "action": "MOVE from #66 to #58"
+      },
+      {
+        "name": "Badman Fi Real",
+        "artist": "Shatta Wale",
+        "from": "#45",
+        "to": "#52",
+        "movement": "↓7",
+        "action": "MOVE from #45 to #52"
+      },
+      {
+        "name": "Mmerepa",
+        "artist": "Kweku Smoke",
+        "from": "#86",
+        "to": "#79",
+        "movement": "↑7",
+        "action": "MOVE from #86 to #79"
+      },
+      {
+        "name": "AMEN",
+        "artist": "Sarkodie",
+        "from": "#97",
+        "to": "#90",
+        "movement": "↑7",
+        "action": "MOVE from #97 to #90"
+      },
+      {
+        "name": "Find A Way",
+        "artist": "Black Sherif",
+        "from": "#39",
+        "to": "#45",
+        "movement": "↓6",
+        "action": "MOVE from #39 to #45"
+      },
+      {
+        "name": "Sisa",
+        "artist": "King Promise",
+        "from": "#60",
+        "to": "#66",
+        "movement": "↓6",
+        "action": "MOVE from #60 to #66"
+      },
+      {
+        "name": "Toxic Love City",
+        "artist": "Black Sherif",
+        "from": "#62",
+        "to": "#56",
+        "movement": "↑6",
+        "action": "MOVE from #62 to #56"
+      },
+      {
+        "name": "The Victory Song",
+        "artist": "Black Sherif",
+        "from": "#82",
+        "to": "#88",
+        "movement": "↓6",
+        "action": "MOVE from #82 to #88"
+      },
+      {
+        "name": "SAME TIMBS",
+        "artist": "Gonaboy",
+        "from": "#100",
+        "to": "#94",
+        "movement": "↑6",
+        "action": "MOVE from #100 to #94"
+      },
+      {
+        "name": "ASOƆDEN",
+        "artist": "O'Kenneth",
+        "from": "#29",
+        "to": "#24",
+        "movement": "↑5",
+        "action": "MOVE from #29 to #24"
+      },
+      {
+        "name": "Dreamer",
+        "artist": "Black Sherif",
+        "from": "#52",
+        "to": "#57",
+        "movement": "↓5",
+        "action": "MOVE from #52 to #57"
+      }
+    ],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 2,
+        "items": [
+          {
+            "track": "Pampaso",
+            "artist": "Oseikrom Sikanii",
+            "position": 97
+          },
+          {
+            "track": "Hustle (feat. O'Kenneth & Braabenk)",
+            "artist": "Oseikrom Sikanii",
+            "position": 99
+          }
+        ]
+      },
+      {
+        "action": "REMOVE_TRACKS",
+        "count": 2,
+        "items": [
+          {
+            "track": "No Bbf",
+            "artist": "Shatta Wale",
+            "reason": "dropped"
+          },
+          {
+            "track": "January 9th",
+            "artist": "Black Sherif",
+            "reason": "dropped"
+          }
+        ]
+      },
+      {
+        "action": "REORDER_TRACKS",
+        "count": 20,
+        "items": [
+          {
+            "track": "You Bad",
+            "artist": "Shatta Wale",
+            "from": 73,
+            "to": 91
+          },
+          {
+            "track": "Flash Lights",
+            "artist": "Shatta Wale",
+            "from": 67,
+            "to": 83
+          },
+          {
+            "track": "MO NTWƐN!",
+            "artist": "O'Kenneth",
+            "from": 88,
+            "to": 72
+          },
+          {
+            "track": "Baba (feat. Zlatan)",
+            "artist": "Hotkid",
+            "from": 64,
+            "to": 51
+          },
+          {
+            "track": "Rolls Royce To Pj",
+            "artist": "Shatta Wale",
+            "from": 83,
+            "to": 95
+          },
+          {
+            "track": "Soja",
+            "artist": "Black Sherif",
+            "from": 57,
+            "to": 67
+          },
+          {
+            "track": "Kwaku the Traveller",
+            "artist": "Black Sherif",
+            "from": 68,
+            "to": 78
+          },
+          {
+            "track": "Eye Open",
+            "artist": "Black Sherif",
+            "from": 70,
+            "to": 80
+          },
+          {
+            "track": "Oba",
+            "artist": "Asake",
+            "from": 91,
+            "to": 81
+          },
+          {
+            "track": "ME MPAEBƆ (feat. 7enR)",
+            "artist": "O'Kenneth",
+            "from": 66,
+            "to": 58
+          },
+          {
+            "track": "Badman Fi Real",
+            "artist": "Shatta Wale",
+            "from": 45,
+            "to": 52
+          },
+          {
+            "track": "Mmerepa",
+            "artist": "Kweku Smoke",
+            "from": 86,
+            "to": 79
+          },
+          {
+            "track": "AMEN",
+            "artist": "Sarkodie",
+            "from": 97,
+            "to": 90
+          },
+          {
+            "track": "Find A Way",
+            "artist": "Black Sherif",
+            "from": 39,
+            "to": 45
+          },
+          {
+            "track": "Sisa",
+            "artist": "King Promise",
+            "from": 60,
+            "to": 66
+          },
+          {
+            "track": "Toxic Love City",
+            "artist": "Black Sherif",
+            "from": 62,
+            "to": 56
+          },
+          {
+            "track": "The Victory Song",
+            "artist": "Black Sherif",
+            "from": 82,
+            "to": 88
+          },
+          {
+            "track": "SAME TIMBS",
+            "artist": "Gonaboy",
+            "from": 100,
+            "to": 94
+          },
+          {
+            "track": "ASOƆDEN",
+            "artist": "O'Kenneth",
+            "from": 29,
+            "to": 24
+          },
+          {
+            "track": "Dreamer",
+            "artist": "Black Sherif",
+            "from": 52,
+            "to": 57
+          }
+        ]
+      }
+    ],
+    "syncPlan": [
+      {
+        "type": "REMOVE",
+        "from": 98,
+        "track": "January 9th",
+        "artist": "Black Sherif",
+        "action": "REMOVE #98  Black Sherif - January 9th"
+      },
+      {
+        "type": "REMOVE",
+        "from": 90,
+        "track": "No Bbf",
+        "artist": "Shatta Wale",
+        "action": "REMOVE #90  Shatta Wale - No Bbf"
+      },
+      {
+        "type": "MOVE",
+        "from": 2,
+        "to": 1,
+        "track": "Forgiveness",
+        "artist": "Asake",
+        "action": "MOVE #2 -> #1  Asake - Forgiveness"
+      },
+      {
+        "type": "MOVE",
+        "from": 6,
+        "to": 5,
+        "track": "Gratitude",
+        "artist": "Asake",
+        "action": "MOVE #6 -> #5  Asake - Gratitude"
+      },
+      {
+        "type": "MOVE",
+        "from": 16,
+        "to": 12,
+        "track": "EASY",
+        "artist": "O'Kenneth",
+        "action": "MOVE #16 -> #12  O'Kenneth - EASY"
+      },
+      {
+        "type": "MOVE",
+        "from": 15,
+        "to": 13,
+        "track": "MENTUMI NKA",
+        "artist": "O'Kenneth",
+        "action": "MOVE #15 -> #13  O'Kenneth - MENTUMI NKA"
+      },
+      {
+        "type": "MOVE",
+        "from": 16,
+        "to": 15,
+        "track": "Wish I Had a Girlfriend",
+        "artist": "Reggie",
+        "action": "MOVE #16 -> #15  Reggie - Wish I Had a Girlfriend"
+      },
+      {
+        "type": "MOVE",
+        "from": 18,
+        "to": 17,
+        "track": "Dem Dey",
+        "artist": "Burna Boy",
+        "action": "MOVE #18 -> #17  Burna Boy - Dem Dey"
+      },
+      {
+        "type": "MOVE",
+        "from": 20,
+        "to": 19,
+        "track": "BB Lifestyle",
+        "artist": "Mavo",
+        "action": "MOVE #20 -> #19  Mavo - BB Lifestyle"
+      },
+      {
+        "type": "MOVE",
+        "from": 24,
+        "to": 23,
+        "track": "Elumelu",
+        "artist": "Young Jonn",
+        "action": "MOVE #24 -> #23  Young Jonn - Elumelu"
+      },
+      {
+        "type": "MOVE",
+        "from": 29,
+        "to": 24,
+        "track": "ASOƆDEN",
+        "artist": "O'Kenneth",
+        "action": "MOVE #29 -> #24  O'Kenneth - ASOƆDEN"
+      },
+      {
+        "type": "MOVE",
+        "from": 27,
+        "to": 25,
+        "track": "MCBH",
+        "artist": "Asake",
+        "action": "MOVE #27 -> #25  Asake - MCBH"
+      },
+      {
+        "type": "MOVE",
+        "from": 28,
+        "to": 26,
+        "track": "WORSHIP",
+        "artist": "Asake",
+        "action": "MOVE #28 -> #26  Asake - WORSHIP"
+      },
+      {
+        "type": "MOVE",
+        "from": 31,
+        "to": 29,
+        "track": "Yawa (Hosanna)",
+        "artist": "Kwesi Arthur",
+        "action": "MOVE #31 -> #29  Kwesi Arthur - Yawa (Hosanna)"
+      },
+      {
+        "type": "MOVE",
+        "from": 34,
+        "to": 31,
+        "track": "YIMAYƐ",
+        "artist": "O'Kenneth",
+        "action": "MOVE #34 -> #31  O'Kenneth - YIMAYƐ"
+      },
+      {
+        "type": "MOVE",
+        "from": 34,
+        "to": 33,
+        "track": "Come Closer (feat. Drake)",
+        "artist": "Wizkid",
+        "action": "MOVE #34 -> #33  Wizkid - Come Closer (feat. Drake)"
+      },
+      {
+        "type": "MOVE",
+        "from": 35,
+        "to": 34,
+        "track": "Wa",
+        "artist": "Asake",
+        "action": "MOVE #35 -> #34  Asake - Wa"
+      },
+      {
+        "type": "MOVE",
+        "from": 36,
+        "to": 35,
+        "track": "I AM",
+        "artist": "OMAH LAY",
+        "action": "MOVE #36 -> #35  OMAH LAY - I AM"
+      },
+      {
+        "type": "MOVE",
+        "from": 38,
+        "to": 37,
+        "track": "Jesus Christ 2 (feat. Black Sherif)",
+        "artist": "AratheJay",
+        "action": "MOVE #38 -> #37  AratheJay - Jesus Christ 2 (feat. Black Sherif)"
+      },
+      {
+        "type": "MOVE",
+        "from": 40,
+        "to": 38,
+        "track": "Young Boy",
+        "artist": "Kweku Smoke",
+        "action": "MOVE #40 -> #38  Kweku Smoke - Young Boy"
+      },
+      {
+        "type": "MOVE",
+        "from": 42,
+        "to": 39,
+        "track": "BALENCIAGA",
+        "artist": "O'Kenneth",
+        "action": "MOVE #42 -> #39  O'Kenneth - BALENCIAGA"
+      },
+      {
+        "type": "MOVE",
+        "from": 43,
+        "to": 41,
+        "track": "I Know Who I Be",
+        "artist": "Davido",
+        "action": "MOVE #43 -> #41  Davido - I Know Who I Be"
+      },
+      {
+        "type": "MOVE",
+        "from": 43,
+        "to": 42,
+        "track": "Change Your Mind (feat. Shaboozey)",
+        "artist": "Burna Boy",
+        "action": "MOVE #43 -> #42  Burna Boy - Change Your Mind (feat. Shaboozey)"
+      },
+      {
+        "type": "MOVE",
+        "from": 46,
+        "to": 43,
+        "track": "Hold Tight",
+        "artist": "Kweku Smoke",
+        "action": "MOVE #46 -> #43  Kweku Smoke - Hold Tight"
+      },
+      {
+        "type": "MOVE",
+        "from": 45,
+        "to": 44,
+        "track": "MONEY CONSTANT",
+        "artist": "DJ Maphorisa",
+        "action": "MOVE #45 -> #44  DJ Maphorisa - MONEY CONSTANT"
+      },
+      {
+        "type": "MOVE",
+        "from": 47,
+        "to": 46,
+        "track": "Adu the Borga",
+        "artist": "Kweku Smoke",
+        "action": "MOVE #47 -> #46  Kweku Smoke - Adu the Borga"
+      },
+      {
+        "type": "MOVE",
+        "from": 51,
+        "to": 47,
+        "track": "DANSO",
+        "artist": "O'Kenneth",
+        "action": "MOVE #51 -> #47  O'Kenneth - DANSO"
+      },
+      {
+        "type": "MOVE",
+        "from": 51,
+        "to": 48,
+        "track": "Jah Guide",
+        "artist": "Kweku Smoke",
+        "action": "MOVE #51 -> #48  Kweku Smoke - Jah Guide"
+      },
+      {
+        "type": "MOVE",
+        "from": 50,
+        "to": 49,
+        "track": "Jailer (feat. Victony)",
+        "artist": "Sarkodie",
+        "action": "MOVE #50 -> #49  Sarkodie - Jailer (feat. Victony)"
+      },
+      {
+        "type": "MOVE",
+        "from": 51,
+        "to": 50,
+        "track": "BADMAN GANGSTA",
+        "artist": "Asake",
+        "action": "MOVE #51 -> #50  Asake - BADMAN GANGSTA"
+      },
+      {
+        "type": "MOVE",
+        "from": 64,
+        "to": 51,
+        "track": "Baba (feat. Zlatan)",
+        "artist": "Hotkid",
+        "action": "MOVE #64 -> #51  Hotkid - Baba (feat. Zlatan)"
+      },
+      {
+        "type": "MOVE",
+        "from": 54,
+        "to": 53,
+        "track": "PAIN II",
+        "artist": "O'Kenneth",
+        "action": "MOVE #54 -> #53  O'Kenneth - PAIN II"
+      },
+      {
+        "type": "MOVE",
+        "from": 55,
+        "to": 54,
+        "track": "Turn on the Lights",
+        "artist": "Kwesi Arthur",
+        "action": "MOVE #55 -> #54  Kwesi Arthur - Turn on the Lights"
+      },
+      {
+        "type": "MOVE",
+        "from": 56,
+        "to": 55,
+        "track": "Big Bricks II (feat. Medikal & Lalid)",
+        "artist": "Essumann",
+        "action": "MOVE #56 -> #55  Essumann - Big Bricks II (feat. Medikal & Lalid)"
+      },
+      {
+        "type": "MOVE",
+        "from": 63,
+        "to": 56,
+        "track": "Toxic Love City",
+        "artist": "Black Sherif",
+        "action": "MOVE #63 -> #56  Black Sherif - Toxic Love City"
+      },
+      {
+        "type": "MOVE",
+        "from": 66,
+        "to": 58,
+        "track": "ME MPAEBƆ (feat. 7enR)",
+        "artist": "O'Kenneth",
+        "action": "MOVE #66 -> #58  O'Kenneth - ME MPAEBƆ (feat. 7enR)"
+      },
+      {
+        "type": "MOVE",
+        "from": 65,
+        "to": 59,
+        "track": "Winning (feat. VIC MENSA)",
+        "artist": "Kwesi Arthur",
+        "action": "MOVE #65 -> #59  Kwesi Arthur - Winning (feat. VIC MENSA)"
+      },
+      {
+        "type": "MOVE",
+        "from": 65,
+        "to": 60,
+        "track": "Bad Influence",
+        "artist": "OMAH LAY",
+        "action": "MOVE #65 -> #60  OMAH LAY - Bad Influence"
+      },
+      {
+        "type": "MOVE",
+        "from": 63,
+        "to": 62,
+        "track": "Amapiano",
+        "artist": "Asake",
+        "action": "MOVE #63 -> #62  Asake - Amapiano"
+      },
+      {
+        "type": "MOVE",
+        "from": 64,
+        "to": 63,
+        "track": "Gimme Dat Ting",
+        "artist": "Davido",
+        "action": "MOVE #64 -> #63  Davido - Gimme Dat Ting"
+      },
+      {
+        "type": "MOVE",
+        "from": 66,
+        "to": 64,
+        "track": "Ye",
+        "artist": "Burna Boy",
+        "action": "MOVE #66 -> #64  Burna Boy - Ye"
+      },
+      {
+        "type": "MOVE",
+        "from": 71,
+        "to": 65,
+        "track": "Sa Me (feat. City Boy)",
+        "artist": "Reggie",
+        "action": "MOVE #71 -> #65  Reggie - Sa Me (feat. City Boy)"
+      },
+      {
+        "type": "MOVE",
+        "from": 67,
+        "to": 66,
+        "track": "Sisa",
+        "artist": "King Promise",
+        "action": "MOVE #67 -> #66  King Promise - Sisa"
+      },
+      {
+        "type": "MOVE",
+        "from": 75,
+        "to": 68,
+        "track": "FAR FROM HOME",
+        "artist": "O'Kenneth",
+        "action": "MOVE #75 -> #68  O'Kenneth - FAR FROM HOME"
+      },
+      {
+        "type": "MOVE",
+        "from": 76,
+        "to": 69,
+        "track": "BALENCIAGA II (feat. SAMA', Oseikrom Sikanii & Joey B)",
+        "artist": "O'Kenneth",
+        "action": "MOVE #76 -> #69  O'Kenneth - BALENCIAGA II (feat. SAMA', Oseikrom Sikanii & Joey B)"
+      },
+      {
+        "type": "MOVE",
+        "from": 77,
+        "to": 70,
+        "track": "COLD SHOULDER",
+        "artist": "O'Kenneth",
+        "action": "MOVE #77 -> #70  O'Kenneth - COLD SHOULDER"
+      },
+      {
+        "type": "MOVE",
+        "from": 78,
+        "to": 71,
+        "track": "Rora",
+        "artist": "Asake",
+        "action": "MOVE #78 -> #71  Asake - Rora"
+      },
+      {
+        "type": "MOVE",
+        "from": 88,
+        "to": 72,
+        "track": "MO NTWƐN!",
+        "artist": "O'Kenneth",
+        "action": "MOVE #88 -> #72  O'Kenneth - MO NTWƐN!"
+      },
+      {
+        "type": "MOVE",
+        "from": 75,
+        "to": 73,
+        "track": "Body",
+        "artist": "Black Sherif",
+        "action": "MOVE #75 -> #73  Black Sherif - Body"
+      },
+      {
+        "type": "MOVE",
+        "from": 80,
+        "to": 74,
+        "track": "Sober",
+        "artist": "Kweku Smoke",
+        "action": "MOVE #80 -> #74  Kweku Smoke - Sober"
+      },
+      {
+        "type": "MOVE",
+        "from": 80,
+        "to": 75,
+        "track": "10 Toes (feat. Omah Lay)",
+        "artist": "King Promise",
+        "action": "MOVE #80 -> #75  King Promise - 10 Toes (feat. Omah Lay)"
+      },
+      {
+        "type": "MOVE",
+        "from": 79,
+        "to": 76,
+        "track": "UNAVAILABLE (feat. Musa Keys)",
+        "artist": "Davido",
+        "action": "MOVE #79 -> #76  Davido - UNAVAILABLE (feat. Musa Keys)"
+      },
+      {
+        "type": "MOVE",
+        "from": 82,
+        "to": 77,
+        "track": "Gymnastic",
+        "artist": "KiDi",
+        "action": "MOVE #82 -> #77  KiDi - Gymnastic"
+      },
+      {
+        "type": "MOVE",
+        "from": 79,
+        "to": 78,
+        "track": "Kwaku the Traveller",
+        "artist": "Black Sherif",
+        "action": "MOVE #79 -> #78  Black Sherif - Kwaku the Traveller"
+      },
+      {
+        "type": "MOVE",
+        "from": 87,
+        "to": 79,
+        "track": "Mmerepa",
+        "artist": "Kweku Smoke",
+        "action": "MOVE #87 -> #79  Kweku Smoke - Mmerepa"
+      },
+      {
+        "type": "MOVE",
+        "from": 81,
+        "to": 80,
+        "track": "Eye Open",
+        "artist": "Black Sherif",
+        "action": "MOVE #81 -> #80  Black Sherif - Eye Open"
+      },
+      {
+        "type": "MOVE",
+        "from": 90,
+        "to": 81,
+        "track": "Oba",
+        "artist": "Asake",
+        "action": "MOVE #90 -> #81  Asake - Oba"
+      },
+      {
+        "type": "MOVE",
+        "from": 84,
+        "to": 82,
+        "track": "Joro",
+        "artist": "Wizkid",
+        "action": "MOVE #84 -> #82  Wizkid - Joro"
+      },
+      {
+        "type": "MOVE",
+        "from": 87,
+        "to": 84,
+        "track": "Kakalika",
+        "artist": "DopeNation",
+        "action": "MOVE #87 -> #84  DopeNation - Kakalika"
+      },
+      {
+        "type": "MOVE",
+        "from": 88,
+        "to": 85,
+        "track": "Violence (feat. Kweku Smoke)",
+        "artist": "Sarkodie",
+        "action": "MOVE #88 -> #85  Sarkodie - Violence (feat. Kweku Smoke)"
+      },
+      {
+        "type": "MOVE",
+        "from": 89,
+        "to": 86,
+        "track": "Puul",
+        "artist": "Lasmid",
+        "action": "MOVE #89 -> #86  Lasmid - Puul"
+      },
+      {
+        "type": "MOVE",
+        "from": 90,
+        "to": 87,
+        "track": "Holy Ground (feat. Nicki Minaj)",
+        "artist": "Davido",
+        "action": "MOVE #90 -> #87  Davido - Holy Ground (feat. Nicki Minaj)"
+      },
+      {
+        "type": "MOVE",
+        "from": 89,
+        "to": 88,
+        "track": "The Victory Song",
+        "artist": "Black Sherif",
+        "action": "MOVE #89 -> #88  Black Sherif - The Victory Song"
+      },
+      {
+        "type": "MOVE",
+        "from": 92,
+        "to": 89,
+        "track": "MY SWING",
+        "artist": "O'Kenneth",
+        "action": "MOVE #92 -> #89  O'Kenneth - MY SWING"
+      },
+      {
+        "type": "MOVE",
+        "from": 96,
+        "to": 90,
+        "track": "AMEN",
+        "artist": "Sarkodie",
+        "action": "MOVE #96 -> #90  Sarkodie - AMEN"
+      },
+      {
+        "type": "MOVE",
+        "from": 93,
+        "to": 92,
+        "track": "Over",
+        "artist": "R2Bees",
+        "action": "MOVE #93 -> #92  R2Bees - Over"
+      },
+      {
+        "type": "MOVE",
+        "from": 95,
+        "to": 93,
+        "track": "Ayoo",
+        "artist": "Shatta Wale",
+        "action": "MOVE #95 -> #93  Shatta Wale - Ayoo"
+      },
+      {
+        "type": "MOVE",
+        "from": 98,
+        "to": 94,
+        "track": "SAME TIMBS",
+        "artist": "Gonaboy",
+        "action": "MOVE #98 -> #94  Gonaboy - SAME TIMBS"
+      },
+      {
+        "type": "ADD",
+        "to": 97,
+        "track": "Pampaso",
+        "artist": "Oseikrom Sikanii",
+        "action": "ADD #97  Oseikrom Sikanii - Pampaso"
+      },
+      {
+        "type": "MOVE",
+        "from": 99,
+        "to": 98,
+        "track": "ODO PA",
+        "artist": "Sarkodie",
+        "action": "MOVE #99 -> #98  Sarkodie - ODO PA"
+      },
+      {
+        "type": "ADD",
+        "to": 99,
+        "track": "Hustle (feat. O'Kenneth & Braabenk)",
+        "artist": "Oseikrom Sikanii",
+        "action": "ADD #99  Oseikrom Sikanii - Hustle (feat. O'Kenneth & Braabenk)"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Forgiveness",
+        "artist": "Asake"
+      },
+      {
+        "position": 2,
+        "name": "SLICK",
+        "artist": "Victony"
+      },
+      {
+        "position": 3,
+        "name": "Biggest Nathaniel",
+        "artist": "Lasmid"
+      },
+      {
+        "position": 4,
+        "name": "Signature",
+        "artist": "KiDi"
+      },
+      {
+        "position": 5,
+        "name": "Gratitude",
+        "artist": "Asake"
+      },
+      {
+        "position": 6,
+        "name": "Chanel (feat. Asake)",
+        "artist": "Blaqbonez"
+      },
+      {
+        "position": 7,
+        "name": "WHY LOVE",
+        "artist": "Asake"
+      },
+      {
+        "position": 8,
+        "name": "OTOTROBONSU",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 9,
+        "name": "PAIN III",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 10,
+        "name": "SWAGGA",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 11,
+        "name": "Major League",
+        "artist": "Sarkodie"
+      },
+      {
+        "position": 12,
+        "name": "EASY",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 13,
+        "name": "MENTUMI NKA",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 14,
+        "name": "Sacrifice",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 15,
+        "name": "Wish I Had a Girlfriend",
+        "artist": "Reggie"
+      },
+      {
+        "position": 16,
+        "name": "Top of the Morning",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 17,
+        "name": "Dem Dey",
+        "artist": "Burna Boy"
+      },
+      {
+        "position": 18,
+        "name": "PopStar",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 19,
+        "name": "BB Lifestyle",
+        "artist": "Mavo"
+      },
+      {
+        "position": 20,
+        "name": "God Of The Universe",
+        "artist": "Shatta Wale"
+      },
+      {
+        "position": 21,
+        "name": "Darkest Style",
+        "artist": "D Global"
+      },
+      {
+        "position": 22,
+        "name": "Soma Obi",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 23,
+        "name": "Elumelu",
+        "artist": "Young Jonn"
+      },
+      {
+        "position": 24,
+        "name": "ASOƆDEN",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 25,
+        "name": "MCBH",
+        "artist": "Asake"
+      },
+      {
+        "position": 26,
+        "name": "WORSHIP",
+        "artist": "Asake"
+      },
+      {
+        "position": 27,
+        "name": "So it Goes",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 28,
+        "name": "Nakupenda (feat. Al Xapo & Zlatan)",
+        "artist": "TxC"
+      },
+      {
+        "position": 29,
+        "name": "Yawa (Hosanna)",
+        "artist": "Kwesi Arthur"
+      },
+      {
+        "position": 30,
+        "name": "Yawa Ni (shatta music)",
+        "artist": "Shatta Wale"
+      },
+      {
+        "position": 31,
+        "name": "YIMAYƐ",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 32,
+        "name": "End Of Discussion",
+        "artist": "Shatta Wale"
+      },
+      {
+        "position": 33,
+        "name": "Come Closer (feat. Drake)",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 34,
+        "name": "Wa",
+        "artist": "Asake"
+      },
+      {
+        "position": 35,
+        "name": "I AM",
+        "artist": "OMAH LAY"
+      },
+      {
+        "position": 36,
+        "name": "Rebel Music",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 37,
+        "name": "Jesus Christ 2 (feat. Black Sherif)",
+        "artist": "AratheJay"
+      },
+      {
+        "position": 38,
+        "name": "Young Boy",
+        "artist": "Kweku Smoke"
+      },
+      {
+        "position": 39,
+        "name": "BALENCIAGA",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 40,
+        "name": "EVERLASTING",
+        "artist": "Sarkodie"
+      },
+      {
+        "position": 41,
+        "name": "I Know Who I Be",
+        "artist": "Davido"
+      },
+      {
+        "position": 42,
+        "name": "Change Your Mind (feat. Shaboozey)",
+        "artist": "Burna Boy"
+      },
+      {
+        "position": 43,
+        "name": "Hold Tight",
+        "artist": "Kweku Smoke"
+      },
+      {
+        "position": 44,
+        "name": "MONEY CONSTANT",
+        "artist": "DJ Maphorisa"
+      },
+      {
+        "position": 45,
+        "name": "Find A Way",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 46,
+        "name": "Adu the Borga",
+        "artist": "Kweku Smoke"
+      },
+      {
+        "position": 47,
+        "name": "DANSO",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 48,
+        "name": "Jah Guide",
+        "artist": "Kweku Smoke"
+      },
+      {
+        "position": 49,
+        "name": "Jailer (feat. Victony)",
+        "artist": "Sarkodie"
+      },
+      {
+        "position": 50,
+        "name": "BADMAN GANGSTA",
+        "artist": "Asake"
+      },
+      {
+        "position": 51,
+        "name": "Baba (feat. Zlatan)",
+        "artist": "Hotkid"
+      },
+      {
+        "position": 52,
+        "name": "Badman Fi Real",
+        "artist": "Shatta Wale"
+      },
+      {
+        "position": 53,
+        "name": "PAIN II",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 54,
+        "name": "Turn on the Lights",
+        "artist": "Kwesi Arthur"
+      },
+      {
+        "position": 55,
+        "name": "Big Bricks II (feat. Medikal & Lalid)",
+        "artist": "Essumann"
+      },
+      {
+        "position": 56,
+        "name": "Toxic Love City",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 57,
+        "name": "Dreamer",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 58,
+        "name": "ME MPAEBƆ (feat. 7enR)",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 59,
+        "name": "Winning (feat. VIC MENSA)",
+        "artist": "Kwesi Arthur"
+      },
+      {
+        "position": 60,
+        "name": "Bad Influence",
+        "artist": "OMAH LAY"
+      },
+      {
+        "position": 61,
+        "name": "Raindance",
+        "artist": "Dave"
+      },
+      {
+        "position": 62,
+        "name": "Amapiano",
+        "artist": "Asake"
+      },
+      {
+        "position": 63,
+        "name": "Gimme Dat Ting",
+        "artist": "Davido"
+      },
+      {
+        "position": 64,
+        "name": "Ye",
+        "artist": "Burna Boy"
+      },
+      {
+        "position": 65,
+        "name": "Sa Me (feat. City Boy)",
+        "artist": "Reggie"
+      },
+      {
+        "position": 66,
+        "name": "Sisa",
+        "artist": "King Promise"
+      },
+      {
+        "position": 67,
+        "name": "Soja",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 68,
+        "name": "FAR FROM HOME",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 69,
+        "name": "BALENCIAGA II (feat. SAMA', Oseikrom Sikanii & Joey B)",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 70,
+        "name": "COLD SHOULDER",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 71,
+        "name": "Rora",
+        "artist": "Asake"
+      },
+      {
+        "position": 72,
+        "name": "MO NTWƐN!",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 73,
+        "name": "Body",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 74,
+        "name": "Sober",
+        "artist": "Kweku Smoke"
+      },
+      {
+        "position": 75,
+        "name": "10 Toes (feat. Omah Lay)",
+        "artist": "King Promise"
+      },
+      {
+        "position": 76,
+        "name": "UNAVAILABLE (feat. Musa Keys)",
+        "artist": "Davido"
+      },
+      {
+        "position": 77,
+        "name": "Gymnastic",
+        "artist": "KiDi"
+      },
+      {
+        "position": 78,
+        "name": "Kwaku the Traveller",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 79,
+        "name": "Mmerepa",
+        "artist": "Kweku Smoke"
+      },
+      {
+        "position": 80,
+        "name": "Eye Open",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 81,
+        "name": "Oba",
+        "artist": "Asake"
+      },
+      {
+        "position": 82,
+        "name": "Joro",
+        "artist": "Wizkid"
+      },
+      {
+        "position": 83,
+        "name": "Flash Lights",
+        "artist": "Shatta Wale"
+      },
+      {
+        "position": 84,
+        "name": "Kakalika",
+        "artist": "DopeNation"
+      },
+      {
+        "position": 85,
+        "name": "Violence (feat. Kweku Smoke)",
+        "artist": "Sarkodie"
+      },
+      {
+        "position": 86,
+        "name": "Puul",
+        "artist": "Lasmid"
+      },
+      {
+        "position": 87,
+        "name": "Holy Ground (feat. Nicki Minaj)",
+        "artist": "Davido"
+      },
+      {
+        "position": 88,
+        "name": "The Victory Song",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 89,
+        "name": "MY SWING",
+        "artist": "O'Kenneth"
+      },
+      {
+        "position": 90,
+        "name": "AMEN",
+        "artist": "Sarkodie"
+      },
+      {
+        "position": 91,
+        "name": "You Bad",
+        "artist": "Shatta Wale"
+      },
+      {
+        "position": 92,
+        "name": "Over",
+        "artist": "R2Bees"
+      },
+      {
+        "position": 93,
+        "name": "Ayoo",
+        "artist": "Shatta Wale"
+      },
+      {
+        "position": 94,
+        "name": "SAME TIMBS",
+        "artist": "Gonaboy"
+      },
+      {
+        "position": 95,
+        "name": "Rolls Royce To Pj",
+        "artist": "Shatta Wale"
+      },
+      {
+        "position": 96,
+        "name": "One",
+        "artist": "Black Sherif"
+      },
+      {
+        "position": 97,
+        "name": "Pampaso",
+        "artist": "Oseikrom Sikanii"
+      },
+      {
+        "position": 98,
+        "name": "ODO PA",
+        "artist": "Sarkodie"
+      },
+      {
+        "position": 99,
+        "name": "Hustle (feat. O'Kenneth & Braabenk)",
+        "artist": "Oseikrom Sikanii"
+      },
+      {
+        "position": 100,
+        "name": "Body Pains",
+        "artist": "Shatta Wale"
+      }
+    ],
+    "baselineRun": false,
+    "mode": "delta"
+  },
+  {
+    "type": "daily",
+    "playlistName": "Top 100 Global",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T10:37:54.212Z",
+    "summary": {
+      "totalTracks": 100,
+      "newEntries": 6,
+      "removals": 6,
+      "movements": 25,
+      "staleRemoved": 0
+    },
+    "newEntries": [
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "position": 78,
+        "action": "ADD at #78"
+      },
+      {
+        "name": "Great Expectation",
+        "artist": "SIENNA SPIRO",
+        "position": 92,
+        "action": "ADD at #92"
+      },
+      {
+        "name": "Iris",
+        "artist": "The Goo Goo Dolls",
+        "position": 94,
+        "action": "ADD at #94"
+      },
+      {
+        "name": "American Girls",
+        "artist": "Harry Styles",
+        "position": 98,
+        "action": "ADD at #98"
+      },
+      {
+        "name": "Risk It All",
+        "artist": "Bruno Mars",
+        "position": 99,
+        "action": "ADD at #99"
+      },
+      {
+        "name": "Perfect",
+        "artist": "Ed Sheeran",
+        "position": 100,
+        "action": "ADD at #100"
+      }
+    ],
+    "removals": [
+      {
+        "name": "Bakuretsu Aishiteru",
+        "artist": "M!LK",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+        "artist": "DJ Khaled",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "Smooth Criminal",
+        "artist": "Michael Jackson",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "Yodaka",
+        "artist": "Kenshi Yonezu",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "Wasted On You",
+        "artist": "Morgan Wallen",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      }
+    ],
+    "movements": [
+      {
+        "name": "Ao To Natsu",
+        "artist": "Mrs. GREEN APPLE",
+        "from": "#79",
+        "to": "#97",
+        "movement": "↓18",
+        "action": "MOVE from #79 to #97"
+      },
+      {
+        "name": "Sukisugite METSU!",
+        "artist": "M!LK",
+        "from": "#57",
+        "to": "#74",
+        "movement": "↓17",
+        "action": "MOVE from #57 to #74"
+      },
+      {
+        "name": "Konnichiwa",
+        "artist": "Future",
+        "from": "#53",
+        "to": "#69",
+        "movement": "↓16",
+        "action": "MOVE from #53 to #69"
+      },
+      {
+        "name": "Look at My Life",
+        "artist": "Gracie Abrams",
+        "from": "#42",
+        "to": "#54",
+        "movement": "↓12",
+        "action": "MOVE from #42 to #54"
+      },
+      {
+        "name": "IRIS OUT",
+        "artist": "Kenshi Yonezu",
+        "from": "#77",
+        "to": "#89",
+        "movement": "↓12",
+        "action": "MOVE from #77 to #89"
+      },
+      {
+        "name": "God's Plan",
+        "artist": "Drake",
+        "from": "#62",
+        "to": "#53",
+        "movement": "↑9",
+        "action": "MOVE from #62 to #53"
+      },
+      {
+        "name": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "from": "#86",
+        "to": "#77",
+        "movement": "↑9",
+        "action": "MOVE from #86 to #77"
+      },
+      {
+        "name": "Wants and Needs (feat. Lil Baby)",
+        "artist": "Drake",
+        "from": "#93",
+        "to": "#84",
+        "movement": "↑9",
+        "action": "MOVE from #93 to #84"
+      },
+      {
+        "name": "Lilac",
+        "artist": "Mrs. GREEN APPLE",
+        "from": "#38",
+        "to": "#46",
+        "movement": "↓8",
+        "action": "MOVE from #38 to #46"
+      },
+      {
+        "name": "SWIM",
+        "artist": "BTS",
+        "from": "#71",
+        "to": "#63",
+        "movement": "↑8",
+        "action": "MOVE from #71 to #63"
+      },
+      {
+        "name": "Snow in Skyami",
+        "artist": "Future",
+        "from": "#82",
+        "to": "#90",
+        "movement": "↓8",
+        "action": "MOVE from #82 to #90"
+      },
+      {
+        "name": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "from": "#90",
+        "to": "#82",
+        "movement": "↑8",
+        "action": "MOVE from #90 to #82"
+      },
+      {
+        "name": "7 rings",
+        "artist": "Ariana Grande",
+        "from": "#51",
+        "to": "#44",
+        "movement": "↑7",
+        "action": "MOVE from #51 to #44"
+      },
+      {
+        "name": "weren't for the wind",
+        "artist": "Ella Langley",
+        "from": "#66",
+        "to": "#73",
+        "movement": "↓7",
+        "action": "MOVE from #66 to #73"
+      },
+      {
+        "name": "Ghetto Love Story",
+        "artist": "BabyChiefDoit",
+        "from": "#47",
+        "to": "#41",
+        "movement": "↑6",
+        "action": "MOVE from #47 to #41"
+      },
+      {
+        "name": "thank u, next",
+        "artist": "Ariana Grande",
+        "from": "#56",
+        "to": "#50",
+        "movement": "↑6",
+        "action": "MOVE from #56 to #50"
+      },
+      {
+        "name": "I'm The Problem",
+        "artist": "Morgan Wallen",
+        "from": "#29",
+        "to": "#34",
+        "movement": "↓5",
+        "action": "MOVE from #29 to #34"
+      },
+      {
+        "name": "Beat It",
+        "artist": "Michael Jackson",
+        "from": "#30",
+        "to": "#35",
+        "movement": "↓5",
+        "action": "MOVE from #30 to #35"
+      },
+      {
+        "name": "California Girls",
+        "artist": "Future",
+        "from": "#44",
+        "to": "#49",
+        "movement": "↓5",
+        "action": "MOVE from #44 to #49"
+      },
+      {
+        "name": "What I Want",
+        "artist": "Morgan Wallen",
+        "from": "#60",
+        "to": "#65",
+        "movement": "↓5",
+        "action": "MOVE from #60 to #65"
+      },
+      {
+        "name": "Be By You",
+        "artist": "Luke Combs",
+        "from": "#61",
+        "to": "#66",
+        "movement": "↓5",
+        "action": "MOVE from #61 to #66"
+      },
+      {
+        "name": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "from": "#65",
+        "to": "#60",
+        "movement": "↑5",
+        "action": "MOVE from #65 to #60"
+      },
+      {
+        "name": "Passionfruit",
+        "artist": "Drake",
+        "from": "#75",
+        "to": "#70",
+        "movement": "↑5",
+        "action": "MOVE from #75 to #70"
+      },
+      {
+        "name": "BAILE INoLVIDABLE",
+        "artist": "Bad Bunny",
+        "from": "#80",
+        "to": "#75",
+        "movement": "↑5",
+        "action": "MOVE from #80 to #75"
+      },
+      {
+        "name": "Thinkin’ Bout Me",
+        "artist": "Morgan Wallen",
+        "from": "#81",
+        "to": "#86",
+        "movement": "↓5",
+        "action": "MOVE from #81 to #86"
+      }
+    ],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 6,
+        "items": [
+          {
+            "track": "Blinding Lights",
+            "artist": "The Weeknd",
+            "position": 78
+          },
+          {
+            "track": "Great Expectation",
+            "artist": "SIENNA SPIRO",
+            "position": 92
+          },
+          {
+            "track": "Iris",
+            "artist": "The Goo Goo Dolls",
+            "position": 94
+          },
+          {
+            "track": "American Girls",
+            "artist": "Harry Styles",
+            "position": 98
+          },
+          {
+            "track": "Risk It All",
+            "artist": "Bruno Mars",
+            "position": 99
+          },
+          {
+            "track": "Perfect",
+            "artist": "Ed Sheeran",
+            "position": 100
+          }
+        ]
+      },
+      {
+        "action": "REMOVE_TRACKS",
+        "count": 6,
+        "items": [
+          {
+            "track": "Bakuretsu Aishiteru",
+            "artist": "M!LK",
+            "reason": "dropped"
+          },
+          {
+            "track": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+            "artist": "DJ Khaled",
+            "reason": "dropped"
+          },
+          {
+            "track": "A Bar Song (Tipsy)",
+            "artist": "Shaboozey",
+            "reason": "dropped"
+          },
+          {
+            "track": "Smooth Criminal",
+            "artist": "Michael Jackson",
+            "reason": "dropped"
+          },
+          {
+            "track": "Yodaka",
+            "artist": "Kenshi Yonezu",
+            "reason": "dropped"
+          },
+          {
+            "track": "Wasted On You",
+            "artist": "Morgan Wallen",
+            "reason": "dropped"
+          }
+        ]
+      },
+      {
+        "action": "REORDER_TRACKS",
+        "count": 25,
+        "items": [
+          {
+            "track": "Ao To Natsu",
+            "artist": "Mrs. GREEN APPLE",
+            "from": 79,
+            "to": 97
+          },
+          {
+            "track": "Sukisugite METSU!",
+            "artist": "M!LK",
+            "from": 57,
+            "to": 74
+          },
+          {
+            "track": "Konnichiwa",
+            "artist": "Future",
+            "from": 53,
+            "to": 69
+          },
+          {
+            "track": "Look at My Life",
+            "artist": "Gracie Abrams",
+            "from": 42,
+            "to": 54
+          },
+          {
+            "track": "IRIS OUT",
+            "artist": "Kenshi Yonezu",
+            "from": 77,
+            "to": 89
+          },
+          {
+            "track": "God's Plan",
+            "artist": "Drake",
+            "from": 62,
+            "to": 53
+          },
+          {
+            "track": "Cruel Summer",
+            "artist": "Taylor Swift",
+            "from": 86,
+            "to": 77
+          },
+          {
+            "track": "Wants and Needs (feat. Lil Baby)",
+            "artist": "Drake",
+            "from": 93,
+            "to": 84
+          },
+          {
+            "track": "Lilac",
+            "artist": "Mrs. GREEN APPLE",
+            "from": 38,
+            "to": 46
+          },
+          {
+            "track": "SWIM",
+            "artist": "BTS",
+            "from": 71,
+            "to": 63
+          },
+          {
+            "track": "Snow in Skyami",
+            "artist": "Future",
+            "from": 82,
+            "to": 90
+          },
+          {
+            "track": "Espresso",
+            "artist": "Sabrina Carpenter",
+            "from": 90,
+            "to": 82
+          },
+          {
+            "track": "7 rings",
+            "artist": "Ariana Grande",
+            "from": 51,
+            "to": 44
+          },
+          {
+            "track": "weren't for the wind",
+            "artist": "Ella Langley",
+            "from": 66,
+            "to": 73
+          },
+          {
+            "track": "Ghetto Love Story",
+            "artist": "BabyChiefDoit",
+            "from": 47,
+            "to": 41
+          },
+          {
+            "track": "thank u, next",
+            "artist": "Ariana Grande",
+            "from": 56,
+            "to": 50
+          },
+          {
+            "track": "I'm The Problem",
+            "artist": "Morgan Wallen",
+            "from": 29,
+            "to": 34
+          },
+          {
+            "track": "Beat It",
+            "artist": "Michael Jackson",
+            "from": 30,
+            "to": 35
+          },
+          {
+            "track": "California Girls",
+            "artist": "Future",
+            "from": 44,
+            "to": 49
+          },
+          {
+            "track": "What I Want",
+            "artist": "Morgan Wallen",
+            "from": 60,
+            "to": 65
+          },
+          {
+            "track": "Be By You",
+            "artist": "Luke Combs",
+            "from": 61,
+            "to": 66
+          },
+          {
+            "track": "Die With A Smile",
+            "artist": "Lady Gaga",
+            "from": 65,
+            "to": 60
+          },
+          {
+            "track": "Passionfruit",
+            "artist": "Drake",
+            "from": 75,
+            "to": 70
+          },
+          {
+            "track": "BAILE INoLVIDABLE",
+            "artist": "Bad Bunny",
+            "from": 80,
+            "to": 75
+          },
+          {
+            "track": "Thinkin’ Bout Me",
+            "artist": "Morgan Wallen",
+            "from": 81,
+            "to": 86
+          }
+        ]
+      }
+    ],
+    "syncPlan": [
+      {
+        "type": "REMOVE",
+        "from": 100,
+        "track": "Wasted On You",
+        "artist": "Morgan Wallen",
+        "action": "REMOVE #100  Morgan Wallen - Wasted On You"
+      },
+      {
+        "type": "REMOVE",
+        "from": 99,
+        "track": "Yodaka",
+        "artist": "Kenshi Yonezu",
+        "action": "REMOVE #99  Kenshi Yonezu - Yodaka"
+      },
+      {
+        "type": "REMOVE",
+        "from": 98,
+        "track": "Smooth Criminal",
+        "artist": "Michael Jackson",
+        "action": "REMOVE #98  Michael Jackson - Smooth Criminal"
+      },
+      {
+        "type": "REMOVE",
+        "from": 96,
+        "track": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "action": "REMOVE #96  Shaboozey - A Bar Song (Tipsy)"
+      },
+      {
+        "type": "REMOVE",
+        "from": 92,
+        "track": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+        "artist": "DJ Khaled",
+        "action": "REMOVE #92  DJ Khaled - Wild Thoughts (feat. Rihanna & Bryson Tiller)"
+      },
+      {
+        "type": "REMOVE",
+        "from": 83,
+        "track": "Bakuretsu Aishiteru",
+        "artist": "M!LK",
+        "action": "REMOVE #83  M!LK - Bakuretsu Aishiteru"
+      },
+      {
+        "type": "MOVE",
+        "from": 3,
+        "to": 1,
+        "track": "Dai Dai",
+        "artist": "Shakira",
+        "action": "MOVE #3 -> #1  Shakira - Dai Dai"
+      },
+      {
+        "type": "MOVE",
+        "from": 3,
+        "to": 2,
+        "track": "Janice STFU",
+        "artist": "Drake",
+        "action": "MOVE #3 -> #2  Drake - Janice STFU"
+      },
+      {
+        "type": "MOVE",
+        "from": 5,
+        "to": 4,
+        "track": "Dead Fresh",
+        "artist": "Lil Baby",
+        "action": "MOVE #5 -> #4  Lil Baby - Dead Fresh"
+      },
+      {
+        "type": "MOVE",
+        "from": 8,
+        "to": 7,
+        "track": "the cure",
+        "artist": "Olivia Rodrigo",
+        "action": "MOVE #8 -> #7  Olivia Rodrigo - the cure"
+      },
+      {
+        "type": "MOVE",
+        "from": 9,
+        "to": 8,
+        "track": "Beauty and a Beat (feat. Nicki Minaj)",
+        "artist": "Justin Bieber",
+        "action": "MOVE #9 -> #8  Justin Bieber - Beauty and a Beat (feat. Nicki Minaj)"
+      },
+      {
+        "type": "MOVE",
+        "from": 11,
+        "to": 10,
+        "track": "Shabang",
+        "artist": "Drake",
+        "action": "MOVE #11 -> #10  Drake - Shabang"
+      },
+      {
+        "type": "MOVE",
+        "from": 14,
+        "to": 13,
+        "track": "Man I Need",
+        "artist": "Olivia Dean",
+        "action": "MOVE #14 -> #13  Olivia Dean - Man I Need"
+      },
+      {
+        "type": "MOVE",
+        "from": 20,
+        "to": 19,
+        "track": "Cinderella (feat. Ty Dolla $ign)",
+        "artist": "Mac Miller",
+        "action": "MOVE #20 -> #19  Mac Miller - Cinderella (feat. Ty Dolla $ign)"
+      },
+      {
+        "type": "MOVE",
+        "from": 24,
+        "to": 23,
+        "track": "Boston",
+        "artist": "STELLA LEFTY",
+        "action": "MOVE #24 -> #23  STELLA LEFTY - Boston"
+      },
+      {
+        "type": "MOVE",
+        "from": 27,
+        "to": 25,
+        "track": "honeybee",
+        "artist": "Olivia Rodrigo",
+        "action": "MOVE #27 -> #25  Olivia Rodrigo - honeybee"
+      },
+      {
+        "type": "MOVE",
+        "from": 28,
+        "to": 27,
+        "track": "DAISIES",
+        "artist": "Justin Bieber",
+        "action": "MOVE #28 -> #27  Justin Bieber - DAISIES"
+      },
+      {
+        "type": "MOVE",
+        "from": 31,
+        "to": 29,
+        "track": "The Fate of Ophelia",
+        "artist": "Taylor Swift",
+        "action": "MOVE #31 -> #29  Taylor Swift - The Fate of Ophelia"
+      },
+      {
+        "type": "MOVE",
+        "from": 34,
+        "to": 30,
+        "track": "WAIT FOR U (feat. Drake & Tems)",
+        "artist": "Future",
+        "action": "MOVE #34 -> #30  Future - WAIT FOR U (feat. Drake & Tems)"
+      },
+      {
+        "type": "MOVE",
+        "from": 35,
+        "to": 31,
+        "track": "Freestyle",
+        "artist": "Lil Baby",
+        "action": "MOVE #35 -> #31  Lil Baby - Freestyle"
+      },
+      {
+        "type": "MOVE",
+        "from": 35,
+        "to": 32,
+        "track": "Baby (feat. Ludacris)",
+        "artist": "Justin Bieber",
+        "action": "MOVE #35 -> #32  Justin Bieber - Baby (feat. Ludacris)"
+      },
+      {
+        "type": "MOVE",
+        "from": 36,
+        "to": 33,
+        "track": "Whisper My Name",
+        "artist": "Drake",
+        "action": "MOVE #36 -> #33  Drake - Whisper My Name"
+      },
+      {
+        "type": "MOVE",
+        "from": 41,
+        "to": 38,
+        "track": "In A Minute",
+        "artist": "Lil Baby",
+        "action": "MOVE #41 -> #38  Lil Baby - In A Minute"
+      },
+      {
+        "type": "MOVE",
+        "from": 41,
+        "to": 39,
+        "track": "National Treasures",
+        "artist": "Drake",
+        "action": "MOVE #41 -> #39  Drake - National Treasures"
+      },
+      {
+        "type": "MOVE",
+        "from": 41,
+        "to": 40,
+        "track": "Last Night",
+        "artist": "Morgan Wallen",
+        "action": "MOVE #41 -> #40  Morgan Wallen - Last Night"
+      },
+      {
+        "type": "MOVE",
+        "from": 47,
+        "to": 41,
+        "track": "Ghetto Love Story",
+        "artist": "BabyChiefDoit",
+        "action": "MOVE #47 -> #41  BabyChiefDoit - Ghetto Love Story"
+      },
+      {
+        "type": "MOVE",
+        "from": 44,
+        "to": 42,
+        "track": "DtMF",
+        "artist": "Bad Bunny",
+        "action": "MOVE #44 -> #42  Bad Bunny - DtMF"
+      },
+      {
+        "type": "MOVE",
+        "from": 46,
+        "to": 43,
+        "track": "Yonaguni",
+        "artist": "Bad Bunny",
+        "action": "MOVE #46 -> #43  Bad Bunny - Yonaguni"
+      },
+      {
+        "type": "MOVE",
+        "from": 51,
+        "to": 44,
+        "track": "7 rings",
+        "artist": "Ariana Grande",
+        "action": "MOVE #51 -> #44  Ariana Grande - 7 rings"
+      },
+      {
+        "type": "MOVE",
+        "from": 48,
+        "to": 45,
+        "track": "Earrings",
+        "artist": "Malcolm Todd",
+        "action": "MOVE #48 -> #45  Malcolm Todd - Earrings"
+      },
+      {
+        "type": "MOVE",
+        "from": 51,
+        "to": 47,
+        "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+        "artist": "Future",
+        "action": "MOVE #51 -> #47  Future - LIKE ME (feat. 42 Dugg & Lil Baby)"
+      },
+      {
+        "type": "MOVE",
+        "from": 50,
+        "to": 48,
+        "track": "So Easy (To Fall In Love)",
+        "artist": "Olivia Dean",
+        "action": "MOVE #50 -> #48  Olivia Dean - So Easy (To Fall In Love)"
+      },
+      {
+        "type": "MOVE",
+        "from": 50,
+        "to": 49,
+        "track": "California Girls",
+        "artist": "Future",
+        "action": "MOVE #50 -> #49  Future - California Girls"
+      },
+      {
+        "type": "MOVE",
+        "from": 56,
+        "to": 50,
+        "track": "thank u, next",
+        "artist": "Ariana Grande",
+        "action": "MOVE #56 -> #50  Ariana Grande - thank u, next"
+      },
+      {
+        "type": "MOVE",
+        "from": 52,
+        "to": 51,
+        "track": "E85",
+        "artist": "Don Toliver",
+        "action": "MOVE #52 -> #51  Don Toliver - E85"
+      },
+      {
+        "type": "MOVE",
+        "from": 56,
+        "to": 52,
+        "track": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "action": "MOVE #56 -> #52  Kendrick Lamar - Not Like Us"
+      },
+      {
+        "type": "MOVE",
+        "from": 62,
+        "to": 53,
+        "track": "God's Plan",
+        "artist": "Drake",
+        "action": "MOVE #62 -> #53  Drake - God's Plan"
+      },
+      {
+        "type": "MOVE",
+        "from": 59,
+        "to": 56,
+        "track": "Orbiter",
+        "artist": "Noah Kahan",
+        "action": "MOVE #59 -> #56  Noah Kahan - Orbiter"
+      },
+      {
+        "type": "MOVE",
+        "from": 58,
+        "to": 57,
+        "track": "Just In Case",
+        "artist": "Morgan Wallen",
+        "action": "MOVE #58 -> #57  Morgan Wallen - Just In Case"
+      },
+      {
+        "type": "MOVE",
+        "from": 60,
+        "to": 58,
+        "track": "Mr. Brightside",
+        "artist": "The Killers",
+        "action": "MOVE #60 -> #58  The Killers - Mr. Brightside"
+      },
+      {
+        "type": "MOVE",
+        "from": 63,
+        "to": 59,
+        "track": "Into You",
+        "artist": "Ariana Grande",
+        "action": "MOVE #63 -> #59  Ariana Grande - Into You"
+      },
+      {
+        "type": "MOVE",
+        "from": 65,
+        "to": 60,
+        "track": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "action": "MOVE #65 -> #60  Lady Gaga - Die With A Smile"
+      },
+      {
+        "type": "MOVE",
+        "from": 65,
+        "to": 61,
+        "track": "Beautiful Things",
+        "artist": "Benson Boone",
+        "action": "MOVE #65 -> #61  Benson Boone - Beautiful Things"
+      },
+      {
+        "type": "MOVE",
+        "from": 69,
+        "to": 62,
+        "track": "Snooze",
+        "artist": "SZA",
+        "action": "MOVE #69 -> #62  SZA - Snooze"
+      },
+      {
+        "type": "MOVE",
+        "from": 71,
+        "to": 63,
+        "track": "SWIM",
+        "artist": "BTS",
+        "action": "MOVE #71 -> #63  BTS - SWIM"
+      },
+      {
+        "type": "MOVE",
+        "from": 71,
+        "to": 64,
+        "track": "Shape of You",
+        "artist": "Ed Sheeran",
+        "action": "MOVE #71 -> #64  Ed Sheeran - Shape of You"
+      },
+      {
+        "type": "MOVE",
+        "from": 67,
+        "to": 65,
+        "track": "What I Want",
+        "artist": "Morgan Wallen",
+        "action": "MOVE #67 -> #65  Morgan Wallen - What I Want"
+      },
+      {
+        "type": "MOVE",
+        "from": 68,
+        "to": 66,
+        "track": "Be By You",
+        "artist": "Luke Combs",
+        "action": "MOVE #68 -> #66  Luke Combs - Be By You"
+      },
+      {
+        "type": "MOVE",
+        "from": 72,
+        "to": 67,
+        "track": "Best I Ever Had",
+        "artist": "Drake",
+        "action": "MOVE #72 -> #67  Drake - Best I Ever Had"
+      },
+      {
+        "type": "MOVE",
+        "from": 71,
+        "to": 68,
+        "track": "LEMONADE",
+        "artist": "aespa",
+        "action": "MOVE #71 -> #68  aespa - LEMONADE"
+      },
+      {
+        "type": "MOVE",
+        "from": 75,
+        "to": 70,
+        "track": "Passionfruit",
+        "artist": "Drake",
+        "action": "MOVE #75 -> #70  Drake - Passionfruit"
+      },
+      {
+        "type": "MOVE",
+        "from": 73,
+        "to": 71,
+        "track": "Human Nature",
+        "artist": "Michael Jackson",
+        "action": "MOVE #73 -> #71  Michael Jackson - Human Nature"
+      },
+      {
+        "type": "MOVE",
+        "from": 74,
+        "to": 72,
+        "track": "ICONIC BY MISTAKE",
+        "artist": "LE SSERAFIM",
+        "action": "MOVE #74 -> #72  LE SSERAFIM - ICONIC BY MISTAKE"
+      },
+      {
+        "type": "MOVE",
+        "from": 74,
+        "to": 73,
+        "track": "weren't for the wind",
+        "artist": "Ella Langley",
+        "action": "MOVE #74 -> #73  Ella Langley - weren't for the wind"
+      },
+      {
+        "type": "MOVE",
+        "from": 80,
+        "to": 75,
+        "track": "BAILE INoLVIDABLE",
+        "artist": "Bad Bunny",
+        "action": "MOVE #80 -> #75  Bad Bunny - BAILE INoLVIDABLE"
+      },
+      {
+        "type": "MOVE",
+        "from": 77,
+        "to": 76,
+        "track": "maggots for brains",
+        "artist": "Olivia Rodrigo",
+        "action": "MOVE #77 -> #76  Olivia Rodrigo - maggots for brains"
+      },
+      {
+        "type": "MOVE",
+        "from": 85,
+        "to": 77,
+        "track": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "action": "MOVE #85 -> #77  Taylor Swift - Cruel Summer"
+      },
+      {
+        "type": "ADD",
+        "to": 78,
+        "track": "Blinding Lights",
+        "artist": "The Weeknd",
+        "action": "ADD #78  The Weeknd - Blinding Lights"
+      },
+      {
+        "type": "MOVE",
+        "from": 85,
+        "to": 80,
+        "track": "March Madness",
+        "artist": "Future",
+        "action": "MOVE #85 -> #80  Future - March Madness"
+      },
+      {
+        "type": "MOVE",
+        "from": 82,
+        "to": 81,
+        "track": "Cowgirls (feat. ERNEST)",
+        "artist": "Morgan Wallen",
+        "action": "MOVE #82 -> #81  Morgan Wallen - Cowgirls (feat. ERNEST)"
+      },
+      {
+        "type": "MOVE",
+        "from": 90,
+        "to": 82,
+        "track": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "action": "MOVE #90 -> #82  Sabrina Carpenter - Espresso"
+      },
+      {
+        "type": "MOVE",
+        "from": 87,
+        "to": 83,
+        "track": "I’m Spent",
+        "artist": "Drake",
+        "action": "MOVE #87 -> #83  Drake - I’m Spent"
+      },
+      {
+        "type": "MOVE",
+        "from": 92,
+        "to": 84,
+        "track": "Wants and Needs (feat. Lil Baby)",
+        "artist": "Drake",
+        "action": "MOVE #92 -> #84  Drake - Wants and Needs (feat. Lil Baby)"
+      },
+      {
+        "type": "MOVE",
+        "from": 90,
+        "to": 85,
+        "track": "B’s On The Table",
+        "artist": "Drake",
+        "action": "MOVE #90 -> #85  Drake - B’s On The Table"
+      },
+      {
+        "type": "MOVE",
+        "from": 88,
+        "to": 86,
+        "track": "Thinkin’ Bout Me",
+        "artist": "Morgan Wallen",
+        "action": "MOVE #88 -> #86  Morgan Wallen - Thinkin’ Bout Me"
+      },
+      {
+        "type": "MOVE",
+        "from": 91,
+        "to": 87,
+        "track": "Raindance",
+        "artist": "Dave",
+        "action": "MOVE #91 -> #87  Dave - Raindance"
+      },
+      {
+        "type": "MOVE",
+        "from": 91,
+        "to": 88,
+        "track": "I'M DAT NIGGA",
+        "artist": "Future",
+        "action": "MOVE #91 -> #88  Future - I'M DAT NIGGA"
+      },
+      {
+        "type": "MOVE",
+        "from": 91,
+        "to": 90,
+        "track": "Snow in Skyami",
+        "artist": "Future",
+        "action": "MOVE #91 -> #90  Future - Snow in Skyami"
+      },
+      {
+        "type": "MOVE",
+        "from": 94,
+        "to": 91,
+        "track": "Self Aware",
+        "artist": "Temper City",
+        "action": "MOVE #94 -> #91  Temper City - Self Aware"
+      },
+      {
+        "type": "ADD",
+        "to": 92,
+        "track": "Great Expectation",
+        "artist": "SIENNA SPIRO",
+        "action": "ADD #92  SIENNA SPIRO - Great Expectation"
+      },
+      {
+        "type": "MOVE",
+        "from": 94,
+        "to": 93,
+        "track": "Chicago",
+        "artist": "Michael Jackson",
+        "action": "MOVE #94 -> #93  Michael Jackson - Chicago"
+      },
+      {
+        "type": "ADD",
+        "to": 94,
+        "track": "Iris",
+        "artist": "The Goo Goo Dolls",
+        "action": "ADD #94  The Goo Goo Dolls - Iris"
+      },
+      {
+        "type": "MOVE",
+        "from": 97,
+        "to": 95,
+        "track": "Doors",
+        "artist": "Noah Kahan",
+        "action": "MOVE #97 -> #95  Noah Kahan - Doors"
+      },
+      {
+        "type": "MOVE",
+        "from": 97,
+        "to": 96,
+        "track": "What Do You Mean?",
+        "artist": "Justin Bieber",
+        "action": "MOVE #97 -> #96  Justin Bieber - What Do You Mean?"
+      },
+      {
+        "type": "ADD",
+        "to": 98,
+        "track": "American Girls",
+        "artist": "Harry Styles",
+        "action": "ADD #98  Harry Styles - American Girls"
+      },
+      {
+        "type": "ADD",
+        "to": 99,
+        "track": "Risk It All",
+        "artist": "Bruno Mars",
+        "action": "ADD #99  Bruno Mars - Risk It All"
+      },
+      {
+        "type": "ADD",
+        "to": 100,
+        "track": "Perfect",
+        "artist": "Ed Sheeran",
+        "action": "ADD #100  Ed Sheeran - Perfect"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Dai Dai",
+        "artist": "Shakira"
+      },
+      {
+        "position": 2,
+        "name": "Janice STFU",
+        "artist": "Drake"
+      },
+      {
+        "position": 3,
+        "name": "Choosin' Texas",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 4,
+        "name": "Dead Fresh",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 5,
+        "name": "hate that i made you love me",
+        "artist": "Ariana Grande"
+      },
+      {
+        "position": 6,
+        "name": "stupid song",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 7,
+        "name": "the cure",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 8,
+        "name": "Beauty and a Beat (feat. Nicki Minaj)",
+        "artist": "Justin Bieber"
+      },
+      {
+        "position": 9,
+        "name": "Wonderwall (Remastered)",
+        "artist": "Oasis"
+      },
+      {
+        "position": 10,
+        "name": "Shabang",
+        "artist": "Drake"
+      },
+      {
+        "position": 11,
+        "name": "Be Her",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 12,
+        "name": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 13,
+        "name": "Man I Need",
+        "artist": "Olivia Dean"
+      },
+      {
+        "position": 14,
+        "name": "I Can't Love You Anymore",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 15,
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "artist": "Taylor Swift"
+      },
+      {
+        "position": 16,
+        "name": "drop dead",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 17,
+        "name": "Spend Dat",
+        "artist": "Yung Miami"
+      },
+      {
+        "position": 18,
+        "name": "Ran To Atlanta",
+        "artist": "Drake"
+      },
+      {
+        "position": 19,
+        "name": "Cinderella (feat. Ty Dolla $ign)",
+        "artist": "Mac Miller"
+      },
+      {
+        "position": 20,
+        "name": "MORNING DEW (DONK)",
+        "artist": "Beyoncé"
+      },
+      {
+        "position": 21,
+        "name": "20 Cigarettes",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 22,
+        "name": "Golden",
+        "artist": "HUNTR/X"
+      },
+      {
+        "position": 23,
+        "name": "Boston",
+        "artist": "STELLA LEFTY"
+      },
+      {
+        "position": 24,
+        "name": "Brand New",
+        "artist": "Mrs. GREEN APPLE"
+      },
+      {
+        "position": 25,
+        "name": "honeybee",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 26,
+        "name": "It's Me",
+        "artist": "ILLIT"
+      },
+      {
+        "position": 27,
+        "name": "DAISIES",
+        "artist": "Justin Bieber"
+      },
+      {
+        "position": 28,
+        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone"
+      },
+      {
+        "position": 29,
+        "name": "The Fate of Ophelia",
+        "artist": "Taylor Swift"
+      },
+      {
+        "position": 30,
+        "name": "WAIT FOR U (feat. Drake & Tems)",
+        "artist": "Future"
+      },
+      {
+        "position": 31,
+        "name": "Freestyle",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 32,
+        "name": "Baby (feat. Ludacris)",
+        "artist": "Justin Bieber"
+      },
+      {
+        "position": 33,
+        "name": "Whisper My Name",
+        "artist": "Drake"
+      },
+      {
+        "position": 34,
+        "name": "I'm The Problem",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 35,
+        "name": "Beat It",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 36,
+        "name": "Hit the Wall",
+        "artist": "Gracie Abrams"
+      },
+      {
+        "position": 37,
+        "name": "Ordinary",
+        "artist": "Alex Warren"
+      },
+      {
+        "position": 38,
+        "name": "In A Minute",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 39,
+        "name": "National Treasures",
+        "artist": "Drake"
+      },
+      {
+        "position": 40,
+        "name": "Last Night",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 41,
+        "name": "Ghetto Love Story",
+        "artist": "BabyChiefDoit"
+      },
+      {
+        "position": 42,
+        "name": "DtMF",
+        "artist": "Bad Bunny"
+      },
+      {
+        "position": 43,
+        "name": "Yonaguni",
+        "artist": "Bad Bunny"
+      },
+      {
+        "position": 44,
+        "name": "7 rings",
+        "artist": "Ariana Grande"
+      },
+      {
+        "position": 45,
+        "name": "Earrings",
+        "artist": "Malcolm Todd"
+      },
+      {
+        "position": 46,
+        "name": "Lilac",
+        "artist": "Mrs. GREEN APPLE"
+      },
+      {
+        "position": 47,
+        "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+        "artist": "Future"
+      },
+      {
+        "position": 48,
+        "name": "So Easy (To Fall In Love)",
+        "artist": "Olivia Dean"
+      },
+      {
+        "position": 49,
+        "name": "California Girls",
+        "artist": "Future"
+      },
+      {
+        "position": 50,
+        "name": "thank u, next",
+        "artist": "Ariana Grande"
+      },
+      {
+        "position": 51,
+        "name": "E85",
+        "artist": "Don Toliver"
+      },
+      {
+        "position": 52,
+        "name": "Not Like Us",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "position": 53,
+        "name": "God's Plan",
+        "artist": "Drake"
+      },
+      {
+        "position": 54,
+        "name": "Look at My Life",
+        "artist": "Gracie Abrams"
+      },
+      {
+        "position": 55,
+        "name": "Spin You Around (1/24)",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 56,
+        "name": "Orbiter",
+        "artist": "Noah Kahan"
+      },
+      {
+        "position": 57,
+        "name": "Just In Case",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 58,
+        "name": "Mr. Brightside",
+        "artist": "The Killers"
+      },
+      {
+        "position": 59,
+        "name": "Into You",
+        "artist": "Ariana Grande"
+      },
+      {
+        "position": 60,
+        "name": "Die With A Smile",
+        "artist": "Lady Gaga"
+      },
+      {
+        "position": 61,
+        "name": "Beautiful Things",
+        "artist": "Benson Boone"
+      },
+      {
+        "position": 62,
+        "name": "Snooze",
+        "artist": "SZA"
+      },
+      {
+        "position": 63,
+        "name": "SWIM",
+        "artist": "BTS"
+      },
+      {
+        "position": 64,
+        "name": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "position": 65,
+        "name": "What I Want",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 66,
+        "name": "Be By You",
+        "artist": "Luke Combs"
+      },
+      {
+        "position": 67,
+        "name": "Best I Ever Had",
+        "artist": "Drake"
+      },
+      {
+        "position": 68,
+        "name": "LEMONADE",
+        "artist": "aespa"
+      },
+      {
+        "position": 69,
+        "name": "Konnichiwa",
+        "artist": "Future"
+      },
+      {
+        "position": 70,
+        "name": "Passionfruit",
+        "artist": "Drake"
+      },
+      {
+        "position": 71,
+        "name": "Human Nature",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 72,
+        "name": "ICONIC BY MISTAKE",
+        "artist": "LE SSERAFIM"
+      },
+      {
+        "position": 73,
+        "name": "weren't for the wind",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 74,
+        "name": "Sukisugite METSU!",
+        "artist": "M!LK"
+      },
+      {
+        "position": 75,
+        "name": "BAILE INoLVIDABLE",
+        "artist": "Bad Bunny"
+      },
+      {
+        "position": 76,
+        "name": "maggots for brains",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 77,
+        "name": "Cruel Summer",
+        "artist": "Taylor Swift"
+      },
+      {
+        "position": 78,
+        "name": "Blinding Lights",
+        "artist": "The Weeknd"
+      },
+      {
+        "position": 79,
+        "name": "RUBBERZ",
+        "artist": "Fenix Flexin"
+      },
+      {
+        "position": 80,
+        "name": "March Madness",
+        "artist": "Future"
+      },
+      {
+        "position": 81,
+        "name": "Cowgirls (feat. ERNEST)",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 82,
+        "name": "Espresso",
+        "artist": "Sabrina Carpenter"
+      },
+      {
+        "position": 83,
+        "name": "I’m Spent",
+        "artist": "Drake"
+      },
+      {
+        "position": 84,
+        "name": "Wants and Needs (feat. Lil Baby)",
+        "artist": "Drake"
+      },
+      {
+        "position": 85,
+        "name": "B’s On The Table",
+        "artist": "Drake"
+      },
+      {
+        "position": 86,
+        "name": "Thinkin’ Bout Me",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 87,
+        "name": "Raindance",
+        "artist": "Dave"
+      },
+      {
+        "position": 88,
+        "name": "I'M DAT NIGGA",
+        "artist": "Future"
+      },
+      {
+        "position": 89,
+        "name": "IRIS OUT",
+        "artist": "Kenshi Yonezu"
+      },
+      {
+        "position": 90,
+        "name": "Snow in Skyami",
+        "artist": "Future"
+      },
+      {
+        "position": 91,
+        "name": "Self Aware",
+        "artist": "Temper City"
+      },
+      {
+        "position": 92,
+        "name": "Great Expectation",
+        "artist": "SIENNA SPIRO"
+      },
+      {
+        "position": 93,
+        "name": "Chicago",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 94,
+        "name": "Iris",
+        "artist": "The Goo Goo Dolls"
+      },
+      {
+        "position": 95,
+        "name": "Doors",
+        "artist": "Noah Kahan"
+      },
+      {
+        "position": 96,
+        "name": "What Do You Mean?",
+        "artist": "Justin Bieber"
+      },
+      {
+        "position": 97,
+        "name": "Ao To Natsu",
+        "artist": "Mrs. GREEN APPLE"
+      },
+      {
+        "position": 98,
+        "name": "American Girls",
+        "artist": "Harry Styles"
+      },
+      {
+        "position": 99,
+        "name": "Risk It All",
+        "artist": "Bruno Mars"
+      },
+      {
+        "position": 100,
+        "name": "Perfect",
+        "artist": "Ed Sheeran"
+      }
+    ],
+    "baselineRun": false,
+    "mode": "delta"
+  },
+  {
+    "type": "daily",
+    "playlistName": "Top 100 US",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T10:38:00.696Z",
+    "summary": {
+      "totalTracks": 100,
+      "newEntries": 1,
+      "removals": 1,
+      "movements": 18,
+      "staleRemoved": 0
+    },
+    "newEntries": [
+      {
+        "name": "No Flockin",
+        "artist": "Kodak Black",
+        "position": 85,
+        "action": "ADD at #85"
+      }
+    ],
+    "removals": [
+      {
+        "name": "One Two",
+        "artist": "Future",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      }
+    ],
+    "movements": [
+      {
+        "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+        "artist": "DJ Khaled",
+        "from": "#82",
+        "to": "#98",
+        "movement": "↓16",
+        "action": "MOVE from #82 to #98"
+      },
+      {
+        "name": "Hit the Wall",
+        "artist": "Gracie Abrams",
+        "from": "#78",
+        "to": "#89",
+        "movement": "↓11",
+        "action": "MOVE from #78 to #89"
+      },
+      {
+        "name": "Fukk A Interview",
+        "artist": "Future",
+        "from": "#59",
+        "to": "#68",
+        "movement": "↓9",
+        "action": "MOVE from #59 to #68"
+      },
+      {
+        "name": "Wants and Needs (feat. Lil Baby)",
+        "artist": "Drake",
+        "from": "#42",
+        "to": "#34",
+        "movement": "↑8",
+        "action": "MOVE from #42 to #34"
+      },
+      {
+        "name": "Fast Car",
+        "artist": "Luke Combs",
+        "from": "#76",
+        "to": "#84",
+        "movement": "↓8",
+        "action": "MOVE from #76 to #84"
+      },
+      {
+        "name": "Great Expectation",
+        "artist": "SIENNA SPIRO",
+        "from": "#83",
+        "to": "#75",
+        "movement": "↑8",
+        "action": "MOVE from #83 to #75"
+      },
+      {
+        "name": "God's Plan",
+        "artist": "Drake",
+        "from": "#88",
+        "to": "#80",
+        "movement": "↑8",
+        "action": "MOVE from #88 to #80"
+      },
+      {
+        "name": "She Got the Best of Me",
+        "artist": "Luke Combs",
+        "from": "#89",
+        "to": "#97",
+        "movement": "↓8",
+        "action": "MOVE from #89 to #97"
+      },
+      {
+        "name": "Money In The Grave (feat. Rick Ross)",
+        "artist": "Drake",
+        "from": "#80",
+        "to": "#73",
+        "movement": "↑7",
+        "action": "MOVE from #80 to #73"
+      },
+      {
+        "name": "Now Who",
+        "artist": "YoungBoy Never Broke Again",
+        "from": "#99",
+        "to": "#92",
+        "movement": "↑7",
+        "action": "MOVE from #99 to #92"
+      },
+      {
+        "name": "National Treasures",
+        "artist": "Drake",
+        "from": "#48",
+        "to": "#42",
+        "movement": "↑6",
+        "action": "MOVE from #48 to #42"
+      },
+      {
+        "name": "Radio",
+        "artist": "Future",
+        "from": "#56",
+        "to": "#62",
+        "movement": "↓6",
+        "action": "MOVE from #56 to #62"
+      },
+      {
+        "name": "Knife Talk (feat. 21 Savage & Project Pat)",
+        "artist": "Drake",
+        "from": "#60",
+        "to": "#54",
+        "movement": "↑6",
+        "action": "MOVE from #60 to #54"
+      },
+      {
+        "name": "Where the Wild Things Are",
+        "artist": "Luke Combs",
+        "from": "#66",
+        "to": "#72",
+        "movement": "↓6",
+        "action": "MOVE from #66 to #72"
+      },
+      {
+        "name": "Beautiful Crazy",
+        "artist": "Luke Combs",
+        "from": "#84",
+        "to": "#90",
+        "movement": "↓6",
+        "action": "MOVE from #84 to #90"
+      },
+      {
+        "name": "Passionfruit",
+        "artist": "Drake",
+        "from": "#87",
+        "to": "#81",
+        "movement": "↑6",
+        "action": "MOVE from #87 to #81"
+      },
+      {
+        "name": "Like That",
+        "artist": "Future",
+        "from": "#70",
+        "to": "#65",
+        "movement": "↑5",
+        "action": "MOVE from #70 to #65"
+      },
+      {
+        "name": "Doors",
+        "artist": "Noah Kahan",
+        "from": "#74",
+        "to": "#79",
+        "movement": "↓5",
+        "action": "MOVE from #74 to #79"
+      }
+    ],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 1,
+        "items": [
+          {
+            "track": "No Flockin",
+            "artist": "Kodak Black",
+            "position": 85
+          }
+        ]
+      },
+      {
+        "action": "REMOVE_TRACKS",
+        "count": 1,
+        "items": [
+          {
+            "track": "One Two",
+            "artist": "Future",
+            "reason": "dropped"
+          }
+        ]
+      },
+      {
+        "action": "REORDER_TRACKS",
+        "count": 18,
+        "items": [
+          {
+            "track": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+            "artist": "DJ Khaled",
+            "from": 82,
+            "to": 98
+          },
+          {
+            "track": "Hit the Wall",
+            "artist": "Gracie Abrams",
+            "from": 78,
+            "to": 89
+          },
+          {
+            "track": "Fukk A Interview",
+            "artist": "Future",
+            "from": 59,
+            "to": 68
+          },
+          {
+            "track": "Wants and Needs (feat. Lil Baby)",
+            "artist": "Drake",
+            "from": 42,
+            "to": 34
+          },
+          {
+            "track": "Fast Car",
+            "artist": "Luke Combs",
+            "from": 76,
+            "to": 84
+          },
+          {
+            "track": "Great Expectation",
+            "artist": "SIENNA SPIRO",
+            "from": 83,
+            "to": 75
+          },
+          {
+            "track": "God's Plan",
+            "artist": "Drake",
+            "from": 88,
+            "to": 80
+          },
+          {
+            "track": "She Got the Best of Me",
+            "artist": "Luke Combs",
+            "from": 89,
+            "to": 97
+          },
+          {
+            "track": "Money In The Grave (feat. Rick Ross)",
+            "artist": "Drake",
+            "from": 80,
+            "to": 73
+          },
+          {
+            "track": "Now Who",
+            "artist": "YoungBoy Never Broke Again",
+            "from": 99,
+            "to": 92
+          },
+          {
+            "track": "National Treasures",
+            "artist": "Drake",
+            "from": 48,
+            "to": 42
+          },
+          {
+            "track": "Radio",
+            "artist": "Future",
+            "from": 56,
+            "to": 62
+          },
+          {
+            "track": "Knife Talk (feat. 21 Savage & Project Pat)",
+            "artist": "Drake",
+            "from": 60,
+            "to": 54
+          },
+          {
+            "track": "Where the Wild Things Are",
+            "artist": "Luke Combs",
+            "from": 66,
+            "to": 72
+          },
+          {
+            "track": "Beautiful Crazy",
+            "artist": "Luke Combs",
+            "from": 84,
+            "to": 90
+          },
+          {
+            "track": "Passionfruit",
+            "artist": "Drake",
+            "from": 87,
+            "to": 81
+          },
+          {
+            "track": "Like That",
+            "artist": "Future",
+            "from": 70,
+            "to": 65
+          },
+          {
+            "track": "Doors",
+            "artist": "Noah Kahan",
+            "from": 74,
+            "to": 79
+          }
+        ]
+      }
+    ],
+    "syncPlan": [
+      {
+        "type": "REMOVE",
+        "from": 96,
+        "track": "One Two",
+        "artist": "Future",
+        "action": "REMOVE #96  Future - One Two"
+      },
+      {
+        "type": "MOVE",
+        "from": 3,
+        "to": 1,
+        "track": "Dead Fresh",
+        "artist": "Lil Baby",
+        "action": "MOVE #3 -> #1  Lil Baby - Dead Fresh"
+      },
+      {
+        "type": "MOVE",
+        "from": 6,
+        "to": 5,
+        "track": "Shabang",
+        "artist": "Drake",
+        "action": "MOVE #6 -> #5  Drake - Shabang"
+      },
+      {
+        "type": "MOVE",
+        "from": 12,
+        "to": 11,
+        "track": "the cure",
+        "artist": "Olivia Rodrigo",
+        "action": "MOVE #12 -> #11  Olivia Rodrigo - the cure"
+      },
+      {
+        "type": "MOVE",
+        "from": 17,
+        "to": 16,
+        "track": "Dai Dai",
+        "artist": "Shakira",
+        "action": "MOVE #17 -> #16  Shakira - Dai Dai"
+      },
+      {
+        "type": "MOVE",
+        "from": 18,
+        "to": 17,
+        "track": "In A Minute",
+        "artist": "Lil Baby",
+        "action": "MOVE #18 -> #17  Lil Baby - In A Minute"
+      },
+      {
+        "type": "MOVE",
+        "from": 19,
+        "to": 18,
+        "track": "WAIT FOR U (feat. Drake & Tems)",
+        "artist": "Future",
+        "action": "MOVE #19 -> #18  Future - WAIT FOR U (feat. Drake & Tems)"
+      },
+      {
+        "type": "MOVE",
+        "from": 21,
+        "to": 20,
+        "track": "Ghetto Love Story",
+        "artist": "BabyChiefDoit",
+        "action": "MOVE #21 -> #20  BabyChiefDoit - Ghetto Love Story"
+      },
+      {
+        "type": "MOVE",
+        "from": 22,
+        "to": 21,
+        "track": "Boston",
+        "artist": "STELLA LEFTY",
+        "action": "MOVE #22 -> #21  STELLA LEFTY - Boston"
+      },
+      {
+        "type": "MOVE",
+        "from": 24,
+        "to": 22,
+        "track": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+        "artist": "Future",
+        "action": "MOVE #24 -> #22  Future - LIKE ME (feat. 42 Dugg & Lil Baby)"
+      },
+      {
+        "type": "MOVE",
+        "from": 26,
+        "to": 25,
+        "track": "Man I Need",
+        "artist": "Olivia Dean",
+        "action": "MOVE #26 -> #25  Olivia Dean - Man I Need"
+      },
+      {
+        "type": "MOVE",
+        "from": 31,
+        "to": 27,
+        "track": "Best I Ever Had",
+        "artist": "Drake",
+        "action": "MOVE #31 -> #27  Drake - Best I Ever Had"
+      },
+      {
+        "type": "MOVE",
+        "from": 30,
+        "to": 28,
+        "track": "Whisper My Name",
+        "artist": "Drake",
+        "action": "MOVE #30 -> #28  Drake - Whisper My Name"
+      },
+      {
+        "type": "MOVE",
+        "from": 33,
+        "to": 32,
+        "track": "March Madness",
+        "artist": "Future",
+        "action": "MOVE #33 -> #32  Future - March Madness"
+      },
+      {
+        "type": "MOVE",
+        "from": 42,
+        "to": 34,
+        "track": "Wants and Needs (feat. Lil Baby)",
+        "artist": "Drake",
+        "action": "MOVE #42 -> #34  Drake - Wants and Needs (feat. Lil Baby)"
+      },
+      {
+        "type": "MOVE",
+        "from": 37,
+        "to": 36,
+        "track": "I’m Spent",
+        "artist": "Drake",
+        "action": "MOVE #37 -> #36  Drake - I’m Spent"
+      },
+      {
+        "type": "MOVE",
+        "from": 42,
+        "to": 38,
+        "track": "I'M DAT NIGGA",
+        "artist": "Future",
+        "action": "MOVE #42 -> #38  Future - I'M DAT NIGGA"
+      },
+      {
+        "type": "MOVE",
+        "from": 40,
+        "to": 39,
+        "track": "Thinkin’ Bout Me",
+        "artist": "Morgan Wallen",
+        "action": "MOVE #40 -> #39  Morgan Wallen - Thinkin’ Bout Me"
+      },
+      {
+        "type": "MOVE",
+        "from": 41,
+        "to": 40,
+        "track": "Billie Jean",
+        "artist": "Michael Jackson",
+        "action": "MOVE #41 -> #40  Michael Jackson - Billie Jean"
+      },
+      {
+        "type": "MOVE",
+        "from": 48,
+        "to": 42,
+        "track": "National Treasures",
+        "artist": "Drake",
+        "action": "MOVE #48 -> #42  Drake - National Treasures"
+      },
+      {
+        "type": "MOVE",
+        "from": 46,
+        "to": 43,
+        "track": "E85",
+        "artist": "Don Toliver",
+        "action": "MOVE #46 -> #43  Don Toliver - E85"
+      },
+      {
+        "type": "MOVE",
+        "from": 48,
+        "to": 45,
+        "track": "Frozen",
+        "artist": "Lil Baby",
+        "action": "MOVE #48 -> #45  Lil Baby - Frozen"
+      },
+      {
+        "type": "MOVE",
+        "from": 47,
+        "to": 46,
+        "track": "Snow in Skyami",
+        "artist": "Future",
+        "action": "MOVE #47 -> #46  Future - Snow in Skyami"
+      },
+      {
+        "type": "MOVE",
+        "from": 50,
+        "to": 49,
+        "track": "Stick Talk",
+        "artist": "Future",
+        "action": "MOVE #50 -> #49  Future - Stick Talk"
+      },
+      {
+        "type": "MOVE",
+        "from": 54,
+        "to": 52,
+        "track": "Sum 2 Prove",
+        "artist": "Lil Baby",
+        "action": "MOVE #54 -> #52  Lil Baby - Sum 2 Prove"
+      },
+      {
+        "type": "MOVE",
+        "from": 60,
+        "to": 54,
+        "track": "Knife Talk (feat. 21 Savage & Project Pat)",
+        "artist": "Drake",
+        "action": "MOVE #60 -> #54  Drake - Knife Talk (feat. 21 Savage & Project Pat)"
+      },
+      {
+        "type": "MOVE",
+        "from": 58,
+        "to": 55,
+        "track": "Broken Window Serenade",
+        "artist": "Whiskey Myers",
+        "action": "MOVE #58 -> #55  Whiskey Myers - Broken Window Serenade"
+      },
+      {
+        "type": "MOVE",
+        "from": 61,
+        "to": 56,
+        "track": "Marvins Room",
+        "artist": "Drake",
+        "action": "MOVE #61 -> #56  Drake - Marvins Room"
+      },
+      {
+        "type": "MOVE",
+        "from": 62,
+        "to": 58,
+        "track": "Kacey Talk",
+        "artist": "YoungBoy Never Broke Again",
+        "action": "MOVE #62 -> #58  YoungBoy Never Broke Again - Kacey Talk"
+      },
+      {
+        "type": "MOVE",
+        "from": 63,
+        "to": 60,
+        "track": "Right On",
+        "artist": "Lil Baby",
+        "action": "MOVE #63 -> #60  Lil Baby - Right On"
+      },
+      {
+        "type": "MOVE",
+        "from": 62,
+        "to": 61,
+        "track": "You Proof",
+        "artist": "Morgan Wallen",
+        "action": "MOVE #62 -> #61  Morgan Wallen - You Proof"
+      },
+      {
+        "type": "MOVE",
+        "from": 64,
+        "to": 63,
+        "track": "Earrings",
+        "artist": "Malcolm Todd",
+        "action": "MOVE #64 -> #63  Malcolm Todd - Earrings"
+      },
+      {
+        "type": "MOVE",
+        "from": 67,
+        "to": 64,
+        "track": "Snooze",
+        "artist": "SZA",
+        "action": "MOVE #67 -> #64  SZA - Snooze"
+      },
+      {
+        "type": "MOVE",
+        "from": 70,
+        "to": 65,
+        "track": "Like That",
+        "artist": "Future",
+        "action": "MOVE #70 -> #65  Future - Like That"
+      },
+      {
+        "type": "MOVE",
+        "from": 67,
+        "to": 66,
+        "track": "What You Need",
+        "artist": "Tems",
+        "action": "MOVE #67 -> #66  Tems - What You Need"
+      },
+      {
+        "type": "MOVE",
+        "from": 70,
+        "to": 67,
+        "track": "Power Trip (feat. Miguel)",
+        "artist": "J. Cole",
+        "action": "MOVE #70 -> #67  J. Cole - Power Trip (feat. Miguel)"
+      },
+      {
+        "type": "MOVE",
+        "from": 70,
+        "to": 69,
+        "track": "B’s On The Table",
+        "artist": "Drake",
+        "action": "MOVE #70 -> #69  Drake - B’s On The Table"
+      },
+      {
+        "type": "MOVE",
+        "from": 71,
+        "to": 70,
+        "track": "honeybee",
+        "artist": "Olivia Rodrigo",
+        "action": "MOVE #71 -> #70  Olivia Rodrigo - honeybee"
+      },
+      {
+        "type": "MOVE",
+        "from": 73,
+        "to": 71,
+        "track": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "action": "MOVE #73 -> #71  Kendrick Lamar - Not Like Us"
+      },
+      {
+        "type": "MOVE",
+        "from": 80,
+        "to": 73,
+        "track": "Money In The Grave (feat. Rick Ross)",
+        "artist": "Drake",
+        "action": "MOVE #80 -> #73  Drake - Money In The Grave (feat. Rick Ross)"
+      },
+      {
+        "type": "MOVE",
+        "from": 83,
+        "to": 75,
+        "track": "Great Expectation",
+        "artist": "SIENNA SPIRO",
+        "action": "MOVE #83 -> #75  SIENNA SPIRO - Great Expectation"
+      },
+      {
+        "type": "MOVE",
+        "from": 77,
+        "to": 76,
+        "track": "Beauty and a Beat (feat. Nicki Minaj)",
+        "artist": "Justin Bieber",
+        "action": "MOVE #77 -> #76  Justin Bieber - Beauty and a Beat (feat. Nicki Minaj)"
+      },
+      {
+        "type": "MOVE",
+        "from": 79,
+        "to": 77,
+        "track": "30 For 30 (with Kendrick Lamar)",
+        "artist": "SZA",
+        "action": "MOVE #79 -> #77  SZA - 30 For 30 (with Kendrick Lamar)"
+      },
+      {
+        "type": "MOVE",
+        "from": 81,
+        "to": 78,
+        "track": "Low Down",
+        "artist": "Lil Baby",
+        "action": "MOVE #81 -> #78  Lil Baby - Low Down"
+      },
+      {
+        "type": "MOVE",
+        "from": 88,
+        "to": 80,
+        "track": "God's Plan",
+        "artist": "Drake",
+        "action": "MOVE #88 -> #80  Drake - God's Plan"
+      },
+      {
+        "type": "MOVE",
+        "from": 88,
+        "to": 81,
+        "track": "Passionfruit",
+        "artist": "Drake",
+        "action": "MOVE #88 -> #81  Drake - Passionfruit"
+      },
+      {
+        "type": "MOVE",
+        "from": 88,
+        "to": 82,
+        "track": "Broken Clocks",
+        "artist": "SZA",
+        "action": "MOVE #88 -> #82  SZA - Broken Clocks"
+      },
+      {
+        "type": "MOVE",
+        "from": 85,
+        "to": 83,
+        "track": "2 Hard 4 The Radio",
+        "artist": "Drake",
+        "action": "MOVE #85 -> #83  Drake - 2 Hard 4 The Radio"
+      },
+      {
+        "type": "ADD",
+        "to": 85,
+        "track": "No Flockin",
+        "artist": "Kodak Black",
+        "action": "ADD #85  Kodak Black - No Flockin"
+      },
+      {
+        "type": "MOVE",
+        "from": 89,
+        "to": 86,
+        "track": "Yonaguni",
+        "artist": "Bad Bunny",
+        "action": "MOVE #89 -> #86  Bad Bunny - Yonaguni"
+      },
+      {
+        "type": "MOVE",
+        "from": 91,
+        "to": 87,
+        "track": "Plot Twist",
+        "artist": "Drake",
+        "action": "MOVE #91 -> #87  Drake - Plot Twist"
+      },
+      {
+        "type": "MOVE",
+        "from": 92,
+        "to": 88,
+        "track": "Mr. Brightside",
+        "artist": "The Killers",
+        "action": "MOVE #92 -> #88  The Killers - Mr. Brightside"
+      },
+      {
+        "type": "MOVE",
+        "from": 91,
+        "to": 90,
+        "track": "Beautiful Crazy",
+        "artist": "Luke Combs",
+        "action": "MOVE #91 -> #90  Luke Combs - Beautiful Crazy"
+      },
+      {
+        "type": "MOVE",
+        "from": 96,
+        "to": 91,
+        "track": "Freakin’ Out",
+        "artist": "Dexter and The Moonrocks",
+        "action": "MOVE #96 -> #91  Dexter and The Moonrocks - Freakin’ Out"
+      },
+      {
+        "type": "MOVE",
+        "from": 99,
+        "to": 92,
+        "track": "Now Who",
+        "artist": "YoungBoy Never Broke Again",
+        "action": "MOVE #99 -> #92  YoungBoy Never Broke Again - Now Who"
+      },
+      {
+        "type": "MOVE",
+        "from": 96,
+        "to": 93,
+        "track": "FDO",
+        "artist": "Pooh Shiesty",
+        "action": "MOVE #96 -> #93  Pooh Shiesty - FDO"
+      },
+      {
+        "type": "MOVE",
+        "from": 96,
+        "to": 94,
+        "track": "Chicago",
+        "artist": "Michael Jackson",
+        "action": "MOVE #96 -> #94  Michael Jackson - Chicago"
+      },
+      {
+        "type": "MOVE",
+        "from": 97,
+        "to": 95,
+        "track": "Something in the Orange",
+        "artist": "Zach Bryan",
+        "action": "MOVE #97 -> #95  Zach Bryan - Something in the Orange"
+      },
+      {
+        "type": "MOVE",
+        "from": 98,
+        "to": 96,
+        "track": "Ordinary",
+        "artist": "Alex Warren",
+        "action": "MOVE #98 -> #96  Alex Warren - Ordinary"
+      },
+      {
+        "type": "MOVE",
+        "from": 98,
+        "to": 97,
+        "track": "She Got the Best of Me",
+        "artist": "Luke Combs",
+        "action": "MOVE #98 -> #97  Luke Combs - She Got the Best of Me"
+      },
+      {
+        "type": "MOVE",
+        "from": 100,
+        "to": 99,
+        "track": "Controlla",
+        "artist": "Drake",
+        "action": "MOVE #100 -> #99  Drake - Controlla"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Dead Fresh",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 2,
+        "name": "Choosin' Texas",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 3,
+        "name": "Janice STFU",
+        "artist": "Drake"
+      },
+      {
+        "position": 4,
+        "name": "Be Her",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 5,
+        "name": "Shabang",
+        "artist": "Drake"
+      },
+      {
+        "position": 6,
+        "name": "I Can't Love You Anymore",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 7,
+        "name": "Spend Dat",
+        "artist": "Yung Miami"
+      },
+      {
+        "position": 8,
+        "name": "stupid song",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 9,
+        "name": "20 Cigarettes",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 10,
+        "name": "Ran To Atlanta",
+        "artist": "Drake"
+      },
+      {
+        "position": 11,
+        "name": "the cure",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 12,
+        "name": "hate that i made you love me",
+        "artist": "Ariana Grande"
+      },
+      {
+        "position": 13,
+        "name": "Cinderella (feat. Ty Dolla $ign)",
+        "artist": "Mac Miller"
+      },
+      {
+        "position": 14,
+        "name": "I'm The Problem",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 15,
+        "name": "Freestyle",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 16,
+        "name": "Dai Dai",
+        "artist": "Shakira"
+      },
+      {
+        "position": 17,
+        "name": "In A Minute",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 18,
+        "name": "WAIT FOR U (feat. Drake & Tems)",
+        "artist": "Future"
+      },
+      {
+        "position": 19,
+        "name": "MORNING DEW (DONK)",
+        "artist": "Beyoncé"
+      },
+      {
+        "position": 20,
+        "name": "Ghetto Love Story",
+        "artist": "BabyChiefDoit"
+      },
+      {
+        "position": 21,
+        "name": "Boston",
+        "artist": "STELLA LEFTY"
+      },
+      {
+        "position": 22,
+        "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+        "artist": "Future"
+      },
+      {
+        "position": 23,
+        "name": "Wonderwall (Remastered)",
+        "artist": "Oasis"
+      },
+      {
+        "position": 24,
+        "name": "Last Night",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 25,
+        "name": "Man I Need",
+        "artist": "Olivia Dean"
+      },
+      {
+        "position": 26,
+        "name": "Spin You Around (1/24)",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 27,
+        "name": "Best I Ever Had",
+        "artist": "Drake"
+      },
+      {
+        "position": 28,
+        "name": "Whisper My Name",
+        "artist": "Drake"
+      },
+      {
+        "position": 29,
+        "name": "Just In Case",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 30,
+        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone"
+      },
+      {
+        "position": 31,
+        "name": "Konnichiwa",
+        "artist": "Future"
+      },
+      {
+        "position": 32,
+        "name": "March Madness",
+        "artist": "Future"
+      },
+      {
+        "position": 33,
+        "name": "California Girls",
+        "artist": "Future"
+      },
+      {
+        "position": 34,
+        "name": "Wants and Needs (feat. Lil Baby)",
+        "artist": "Drake"
+      },
+      {
+        "position": 35,
+        "name": "What I Want",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 36,
+        "name": "I’m Spent",
+        "artist": "Drake"
+      },
+      {
+        "position": 37,
+        "name": "weren't for the wind",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 38,
+        "name": "I'M DAT NIGGA",
+        "artist": "Future"
+      },
+      {
+        "position": 39,
+        "name": "Thinkin’ Bout Me",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 40,
+        "name": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 41,
+        "name": "Cowgirls (feat. ERNEST)",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 42,
+        "name": "National Treasures",
+        "artist": "Drake"
+      },
+      {
+        "position": 43,
+        "name": "E85",
+        "artist": "Don Toliver"
+      },
+      {
+        "position": 44,
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "artist": "Taylor Swift"
+      },
+      {
+        "position": 45,
+        "name": "Frozen",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 46,
+        "name": "Snow in Skyami",
+        "artist": "Future"
+      },
+      {
+        "position": 47,
+        "name": "Be By You",
+        "artist": "Luke Combs"
+      },
+      {
+        "position": 48,
+        "name": "RUBBERZ",
+        "artist": "Fenix Flexin"
+      },
+      {
+        "position": 49,
+        "name": "Stick Talk",
+        "artist": "Future"
+      },
+      {
+        "position": 50,
+        "name": "Wasted On You",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 51,
+        "name": "Orbiter",
+        "artist": "Noah Kahan"
+      },
+      {
+        "position": 52,
+        "name": "Sum 2 Prove",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 53,
+        "name": "drop dead",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 54,
+        "name": "Knife Talk (feat. 21 Savage & Project Pat)",
+        "artist": "Drake"
+      },
+      {
+        "position": 55,
+        "name": "Broken Window Serenade",
+        "artist": "Whiskey Myers"
+      },
+      {
+        "position": 56,
+        "name": "Marvins Room",
+        "artist": "Drake"
+      },
+      {
+        "position": 57,
+        "name": "I Got Better",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 58,
+        "name": "Kacey Talk",
+        "artist": "YoungBoy Never Broke Again"
+      },
+      {
+        "position": 59,
+        "name": "Don't We",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 60,
+        "name": "Right On",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 61,
+        "name": "You Proof",
+        "artist": "Morgan Wallen"
+      },
+      {
+        "position": 62,
+        "name": "Radio",
+        "artist": "Future"
+      },
+      {
+        "position": 63,
+        "name": "Earrings",
+        "artist": "Malcolm Todd"
+      },
+      {
+        "position": 64,
+        "name": "Snooze",
+        "artist": "SZA"
+      },
+      {
+        "position": 65,
+        "name": "Like That",
+        "artist": "Future"
+      },
+      {
+        "position": 66,
+        "name": "What You Need",
+        "artist": "Tems"
+      },
+      {
+        "position": 67,
+        "name": "Power Trip (feat. Miguel)",
+        "artist": "J. Cole"
+      },
+      {
+        "position": 68,
+        "name": "Fukk A Interview",
+        "artist": "Future"
+      },
+      {
+        "position": 69,
+        "name": "B’s On The Table",
+        "artist": "Drake"
+      },
+      {
+        "position": 70,
+        "name": "honeybee",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 71,
+        "name": "Not Like Us",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "position": 72,
+        "name": "Where the Wild Things Are",
+        "artist": "Luke Combs"
+      },
+      {
+        "position": 73,
+        "name": "Money In The Grave (feat. Rick Ross)",
+        "artist": "Drake"
+      },
+      {
+        "position": 74,
+        "name": "Tennessee Whiskey",
+        "artist": "Chris Stapleton"
+      },
+      {
+        "position": 75,
+        "name": "Great Expectation",
+        "artist": "SIENNA SPIRO"
+      },
+      {
+        "position": 76,
+        "name": "Beauty and a Beat (feat. Nicki Minaj)",
+        "artist": "Justin Bieber"
+      },
+      {
+        "position": 77,
+        "name": "30 For 30 (with Kendrick Lamar)",
+        "artist": "SZA"
+      },
+      {
+        "position": 78,
+        "name": "Low Down",
+        "artist": "Lil Baby"
+      },
+      {
+        "position": 79,
+        "name": "Doors",
+        "artist": "Noah Kahan"
+      },
+      {
+        "position": 80,
+        "name": "God's Plan",
+        "artist": "Drake"
+      },
+      {
+        "position": 81,
+        "name": "Passionfruit",
+        "artist": "Drake"
+      },
+      {
+        "position": 82,
+        "name": "Broken Clocks",
+        "artist": "SZA"
+      },
+      {
+        "position": 83,
+        "name": "2 Hard 4 The Radio",
+        "artist": "Drake"
+      },
+      {
+        "position": 84,
+        "name": "Fast Car",
+        "artist": "Luke Combs"
+      },
+      {
+        "position": 85,
+        "name": "No Flockin",
+        "artist": "Kodak Black"
+      },
+      {
+        "position": 86,
+        "name": "Yonaguni",
+        "artist": "Bad Bunny"
+      },
+      {
+        "position": 87,
+        "name": "Plot Twist",
+        "artist": "Drake"
+      },
+      {
+        "position": 88,
+        "name": "Mr. Brightside",
+        "artist": "The Killers"
+      },
+      {
+        "position": 89,
+        "name": "Hit the Wall",
+        "artist": "Gracie Abrams"
+      },
+      {
+        "position": 90,
+        "name": "Beautiful Crazy",
+        "artist": "Luke Combs"
+      },
+      {
+        "position": 91,
+        "name": "Freakin’ Out",
+        "artist": "Dexter and The Moonrocks"
+      },
+      {
+        "position": 92,
+        "name": "Now Who",
+        "artist": "YoungBoy Never Broke Again"
+      },
+      {
+        "position": 93,
+        "name": "FDO",
+        "artist": "Pooh Shiesty"
+      },
+      {
+        "position": 94,
+        "name": "Chicago",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 95,
+        "name": "Something in the Orange",
+        "artist": "Zach Bryan"
+      },
+      {
+        "position": 96,
+        "name": "Ordinary",
+        "artist": "Alex Warren"
+      },
+      {
+        "position": 97,
+        "name": "She Got the Best of Me",
+        "artist": "Luke Combs"
+      },
+      {
+        "position": 98,
+        "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+        "artist": "DJ Khaled"
+      },
+      {
+        "position": 99,
+        "name": "Controlla",
+        "artist": "Drake"
+      },
+      {
+        "position": 100,
+        "name": "Dandelion",
+        "artist": "Ella Langley"
+      }
+    ],
+    "baselineRun": false,
+    "mode": "delta"
+  },
+  {
+    "type": "daily",
+    "playlistName": "Top 100 UK",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T10:38:06.906Z",
+    "summary": {
+      "totalTracks": 100,
+      "newEntries": 4,
+      "removals": 4,
+      "movements": 8,
+      "staleRemoved": 0
+    },
+    "newEntries": [
+      {
+        "name": "Doors",
+        "artist": "Noah Kahan",
+        "position": 97,
+        "action": "ADD at #97"
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "position": 98,
+        "action": "ADD at #98"
+      },
+      {
+        "name": "no tears left to cry",
+        "artist": "Ariana Grande",
+        "position": 99,
+        "action": "ADD at #99"
+      },
+      {
+        "name": "Earrings",
+        "artist": "Malcolm Todd",
+        "position": 100,
+        "action": "ADD at #100"
+      }
+    ],
+    "removals": [
+      {
+        "name": "Danceteria",
+        "artist": "Madonna",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "Too Sweet",
+        "artist": "Hozier",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "Sex On Fire",
+        "artist": "Kings of Leon",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      },
+      {
+        "name": "Go Your Own Way",
+        "artist": "Fleetwood Mac",
+        "reason": "dropped",
+        "age": "unknown",
+        "action": "REMOVE"
+      }
+    ],
+    "movements": [
+      {
+        "name": "Hold On, We're Going Home",
+        "artist": "Drake",
+        "from": "#100",
+        "to": "#92",
+        "movement": "↑8",
+        "action": "MOVE from #100 to #92"
+      },
+      {
+        "name": "Golden",
+        "artist": "HUNTR/X",
+        "from": "#43",
+        "to": "#50",
+        "movement": "↓7",
+        "action": "MOVE from #43 to #50"
+      },
+      {
+        "name": "Great Expectation",
+        "artist": "SIENNA SPIRO",
+        "from": "#47",
+        "to": "#40",
+        "movement": "↑7",
+        "action": "MOVE from #47 to #40"
+      },
+      {
+        "name": "Baby Steps",
+        "artist": "Olivia Dean",
+        "from": "#76",
+        "to": "#82",
+        "movement": "↓6",
+        "action": "MOVE from #76 to #82"
+      },
+      {
+        "name": "Dog Days Are Over",
+        "artist": "Florence + the Machine",
+        "from": "#84",
+        "to": "#78",
+        "movement": "↑6",
+        "action": "MOVE from #84 to #78"
+      },
+      {
+        "name": "Homewrecker",
+        "artist": "sombr",
+        "from": "#49",
+        "to": "#44",
+        "movement": "↑5",
+        "action": "MOVE from #49 to #44"
+      },
+      {
+        "name": "Iris",
+        "artist": "The Goo Goo Dolls",
+        "from": "#52",
+        "to": "#47",
+        "movement": "↑5",
+        "action": "MOVE from #52 to #47"
+      },
+      {
+        "name": "Let Me Be In Your Arms",
+        "artist": "Sonny Fodera",
+        "from": "#86",
+        "to": "#81",
+        "movement": "↑5",
+        "action": "MOVE from #86 to #81"
+      }
+    ],
+    "instructions": [
+      {
+        "action": "ADD_TRACKS",
+        "count": 4,
+        "items": [
+          {
+            "track": "Doors",
+            "artist": "Noah Kahan",
+            "position": 97
+          },
+          {
+            "track": "Blinding Lights",
+            "artist": "The Weeknd",
+            "position": 98
+          },
+          {
+            "track": "no tears left to cry",
+            "artist": "Ariana Grande",
+            "position": 99
+          },
+          {
+            "track": "Earrings",
+            "artist": "Malcolm Todd",
+            "position": 100
+          }
+        ]
+      },
+      {
+        "action": "REMOVE_TRACKS",
+        "count": 4,
+        "items": [
+          {
+            "track": "Danceteria",
+            "artist": "Madonna",
+            "reason": "dropped"
+          },
+          {
+            "track": "Too Sweet",
+            "artist": "Hozier",
+            "reason": "dropped"
+          },
+          {
+            "track": "Sex On Fire",
+            "artist": "Kings of Leon",
+            "reason": "dropped"
+          },
+          {
+            "track": "Go Your Own Way",
+            "artist": "Fleetwood Mac",
+            "reason": "dropped"
+          }
+        ]
+      },
+      {
+        "action": "REORDER_TRACKS",
+        "count": 8,
+        "items": [
+          {
+            "track": "Hold On, We're Going Home",
+            "artist": "Drake",
+            "from": 100,
+            "to": 92
+          },
+          {
+            "track": "Golden",
+            "artist": "HUNTR/X",
+            "from": 43,
+            "to": 50
+          },
+          {
+            "track": "Great Expectation",
+            "artist": "SIENNA SPIRO",
+            "from": 47,
+            "to": 40
+          },
+          {
+            "track": "Baby Steps",
+            "artist": "Olivia Dean",
+            "from": 76,
+            "to": 82
+          },
+          {
+            "track": "Dog Days Are Over",
+            "artist": "Florence + the Machine",
+            "from": 84,
+            "to": 78
+          },
+          {
+            "track": "Homewrecker",
+            "artist": "sombr",
+            "from": 49,
+            "to": 44
+          },
+          {
+            "track": "Iris",
+            "artist": "The Goo Goo Dolls",
+            "from": 52,
+            "to": 47
+          },
+          {
+            "track": "Let Me Be In Your Arms",
+            "artist": "Sonny Fodera",
+            "from": 86,
+            "to": 81
+          }
+        ]
+      }
+    ],
+    "syncPlan": [
+      {
+        "type": "REMOVE",
+        "from": 99,
+        "track": "Go Your Own Way",
+        "artist": "Fleetwood Mac",
+        "action": "REMOVE #99  Fleetwood Mac - Go Your Own Way"
+      },
+      {
+        "type": "REMOVE",
+        "from": 98,
+        "track": "Sex On Fire",
+        "artist": "Kings of Leon",
+        "action": "REMOVE #98  Kings of Leon - Sex On Fire"
+      },
+      {
+        "type": "REMOVE",
+        "from": 97,
+        "track": "Too Sweet",
+        "artist": "Hozier",
+        "action": "REMOVE #97  Hozier - Too Sweet"
+      },
+      {
+        "type": "REMOVE",
+        "from": 95,
+        "track": "Danceteria",
+        "artist": "Madonna",
+        "action": "REMOVE #95  Madonna - Danceteria"
+      },
+      {
+        "type": "MOVE",
+        "from": 2,
+        "to": 1,
+        "track": "Dai Dai",
+        "artist": "Shakira",
+        "action": "MOVE #2 -> #1  Shakira - Dai Dai"
+      },
+      {
+        "type": "MOVE",
+        "from": 8,
+        "to": 7,
+        "track": "stupid song",
+        "artist": "Olivia Rodrigo",
+        "action": "MOVE #8 -> #7  Olivia Rodrigo - stupid song"
+      },
+      {
+        "type": "MOVE",
+        "from": 9,
+        "to": 8,
+        "track": "the cure",
+        "artist": "Olivia Rodrigo",
+        "action": "MOVE #9 -> #8  Olivia Rodrigo - the cure"
+      },
+      {
+        "type": "MOVE",
+        "from": 12,
+        "to": 11,
+        "track": "Janice STFU",
+        "artist": "Drake",
+        "action": "MOVE #12 -> #11  Drake - Janice STFU"
+      },
+      {
+        "type": "MOVE",
+        "from": 17,
+        "to": 16,
+        "track": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "artist": "Taylor Swift",
+        "action": "MOVE #17 -> #16  Taylor Swift - I Knew It, I Knew You (From \"Toy Story 5\")"
+      },
+      {
+        "type": "MOVE",
+        "from": 20,
+        "to": 17,
+        "track": "New Religion",
+        "artist": "Bebe Rexha",
+        "action": "MOVE #20 -> #17  Bebe Rexha - New Religion"
+      },
+      {
+        "type": "MOVE",
+        "from": 19,
+        "to": 18,
+        "track": "Nice To Each Other",
+        "artist": "Olivia Dean",
+        "action": "MOVE #19 -> #18  Olivia Dean - Nice To Each Other"
+      },
+      {
+        "type": "MOVE",
+        "from": 25,
+        "to": 24,
+        "track": "iloveitiloveitiloveit",
+        "artist": "Bella Kay",
+        "action": "MOVE #25 -> #24  Bella Kay - iloveitiloveitiloveit"
+      },
+      {
+        "type": "MOVE",
+        "from": 38,
+        "to": 37,
+        "track": "On 2nite",
+        "artist": "Silva Bumpa",
+        "action": "MOVE #38 -> #37  Silva Bumpa - On 2nite"
+      },
+      {
+        "type": "MOVE",
+        "from": 47,
+        "to": 40,
+        "track": "Great Expectation",
+        "artist": "SIENNA SPIRO",
+        "action": "MOVE #47 -> #40  SIENNA SPIRO - Great Expectation"
+      },
+      {
+        "type": "MOVE",
+        "from": 49,
+        "to": 44,
+        "track": "Homewrecker",
+        "artist": "sombr",
+        "action": "MOVE #49 -> #44  sombr - Homewrecker"
+      },
+      {
+        "type": "MOVE",
+        "from": 46,
+        "to": 45,
+        "track": "Sign of the Times",
+        "artist": "Harry Styles",
+        "action": "MOVE #46 -> #45  Harry Styles - Sign of the Times"
+      },
+      {
+        "type": "MOVE",
+        "from": 49,
+        "to": 46,
+        "track": "Beautiful Things",
+        "artist": "Benson Boone",
+        "action": "MOVE #49 -> #46  Benson Boone - Beautiful Things"
+      },
+      {
+        "type": "MOVE",
+        "from": 52,
+        "to": 47,
+        "track": "Iris",
+        "artist": "The Goo Goo Dolls",
+        "action": "MOVE #52 -> #47  The Goo Goo Dolls - Iris"
+      },
+      {
+        "type": "MOVE",
+        "from": 50,
+        "to": 48,
+        "track": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone",
+        "action": "MOVE #50 -> #48  Post Malone - I Had Some Help (feat. Morgan Wallen)"
+      },
+      {
+        "type": "MOVE",
+        "from": 50,
+        "to": 49,
+        "track": "Dreams",
+        "artist": "Fleetwood Mac",
+        "action": "MOVE #50 -> #49  Fleetwood Mac - Dreams"
+      },
+      {
+        "type": "MOVE",
+        "from": 52,
+        "to": 51,
+        "track": "Be Her",
+        "artist": "Ella Langley",
+        "action": "MOVE #52 -> #51  Ella Langley - Be Her"
+      },
+      {
+        "type": "MOVE",
+        "from": 53,
+        "to": 52,
+        "track": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "action": "MOVE #53 -> #52  Sabrina Carpenter - Espresso"
+      },
+      {
+        "type": "MOVE",
+        "from": 58,
+        "to": 55,
+        "track": "Blessings",
+        "artist": "Calvin Harris",
+        "action": "MOVE #58 -> #55  Calvin Harris - Blessings"
+      },
+      {
+        "type": "MOVE",
+        "from": 57,
+        "to": 56,
+        "track": "Don't Look Back in Anger (Remastered)",
+        "artist": "Oasis",
+        "action": "MOVE #57 -> #56  Oasis - Don't Look Back in Anger (Remastered)"
+      },
+      {
+        "type": "MOVE",
+        "from": 61,
+        "to": 57,
+        "track": "honeybee",
+        "artist": "Olivia Rodrigo",
+        "action": "MOVE #61 -> #57  Olivia Rodrigo - honeybee"
+      },
+      {
+        "type": "MOVE",
+        "from": 64,
+        "to": 61,
+        "track": "Material Lover",
+        "artist": "SIENNA SPIRO",
+        "action": "MOVE #64 -> #61  SIENNA SPIRO - Material Lover"
+      },
+      {
+        "type": "MOVE",
+        "from": 64,
+        "to": 63,
+        "track": "Perfect",
+        "artist": "Ed Sheeran",
+        "action": "MOVE #64 -> #63  Ed Sheeran - Perfect"
+      },
+      {
+        "type": "MOVE",
+        "from": 67,
+        "to": 66,
+        "track": "Shape of You",
+        "artist": "Ed Sheeran",
+        "action": "MOVE #67 -> #66  Ed Sheeran - Shape of You"
+      },
+      {
+        "type": "MOVE",
+        "from": 69,
+        "to": 68,
+        "track": "The Way You Make Me Feel (2012 Remaster)",
+        "artist": "Michael Jackson",
+        "action": "MOVE #69 -> #68  Michael Jackson - The Way You Make Me Feel (2012 Remaster)"
+      },
+      {
+        "type": "MOVE",
+        "from": 71,
+        "to": 69,
+        "track": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "action": "MOVE #71 -> #69  Lady Gaga - Die With A Smile"
+      },
+      {
+        "type": "MOVE",
+        "from": 73,
+        "to": 71,
+        "track": "Into You",
+        "artist": "Ariana Grande",
+        "action": "MOVE #73 -> #71  Ariana Grande - Into You"
+      },
+      {
+        "type": "MOVE",
+        "from": 73,
+        "to": 72,
+        "track": "Naive",
+        "artist": "The Kooks",
+        "action": "MOVE #73 -> #72  The Kooks - Naive"
+      },
+      {
+        "type": "MOVE",
+        "from": 78,
+        "to": 76,
+        "track": "Lose Control",
+        "artist": "Teddy Swims",
+        "action": "MOVE #78 -> #76  Teddy Swims - Lose Control"
+      },
+      {
+        "type": "MOVE",
+        "from": 78,
+        "to": 77,
+        "track": "Stick Season",
+        "artist": "Noah Kahan",
+        "action": "MOVE #78 -> #77  Noah Kahan - Stick Season"
+      },
+      {
+        "type": "MOVE",
+        "from": 84,
+        "to": 78,
+        "track": "Dog Days Are Over",
+        "artist": "Florence + the Machine",
+        "action": "MOVE #84 -> #78  Florence + the Machine - Dog Days Are Over"
+      },
+      {
+        "type": "MOVE",
+        "from": 81,
+        "to": 79,
+        "track": "White Keys",
+        "artist": "Dominic Fike",
+        "action": "MOVE #81 -> #79  Dominic Fike - White Keys"
+      },
+      {
+        "type": "MOVE",
+        "from": 81,
+        "to": 80,
+        "track": "The Chain",
+        "artist": "Fleetwood Mac",
+        "action": "MOVE #81 -> #80  Fleetwood Mac - The Chain"
+      },
+      {
+        "type": "MOVE",
+        "from": 86,
+        "to": 81,
+        "track": "Let Me Be In Your Arms",
+        "artist": "Sonny Fodera",
+        "action": "MOVE #86 -> #81  Sonny Fodera - Let Me Be In Your Arms"
+      },
+      {
+        "type": "MOVE",
+        "from": 85,
+        "to": 84,
+        "track": "Stateside (with Zara Larsson)",
+        "artist": "PinkPantheress",
+        "action": "MOVE #85 -> #84  PinkPantheress - Stateside (with Zara Larsson)"
+      },
+      {
+        "type": "MOVE",
+        "from": 88,
+        "to": 87,
+        "track": "Cinderella (feat. Ty Dolla $ign)",
+        "artist": "Mac Miller",
+        "action": "MOVE #88 -> #87  Mac Miller - Cinderella (feat. Ty Dolla $ign)"
+      },
+      {
+        "type": "MOVE",
+        "from": 91,
+        "to": 88,
+        "track": "Orbiter",
+        "artist": "Noah Kahan",
+        "action": "MOVE #91 -> #88  Noah Kahan - Orbiter"
+      },
+      {
+        "type": "MOVE",
+        "from": 92,
+        "to": 90,
+        "track": "How Deep Is Your Love",
+        "artist": "Calvin Harris",
+        "action": "MOVE #92 -> #90  Calvin Harris - How Deep Is Your Love"
+      },
+      {
+        "type": "MOVE",
+        "from": 92,
+        "to": 91,
+        "track": "Dracula (JENNIE Remix)",
+        "artist": "Tame Impala",
+        "action": "MOVE #92 -> #91  Tame Impala - Dracula (JENNIE Remix)"
+      },
+      {
+        "type": "MOVE",
+        "from": 96,
+        "to": 92,
+        "track": "Hold On, We're Going Home",
+        "artist": "Drake",
+        "action": "MOVE #96 -> #92  Drake - Hold On, We're Going Home"
+      },
+      {
+        "type": "MOVE",
+        "from": 95,
+        "to": 94,
+        "track": "A Couple Minutes",
+        "artist": "Olivia Dean",
+        "action": "MOVE #95 -> #94  Olivia Dean - A Couple Minutes"
+      },
+      {
+        "type": "ADD",
+        "to": 97,
+        "track": "Doors",
+        "artist": "Noah Kahan",
+        "action": "ADD #97  Noah Kahan - Doors"
+      },
+      {
+        "type": "ADD",
+        "to": 98,
+        "track": "Blinding Lights",
+        "artist": "The Weeknd",
+        "action": "ADD #98  The Weeknd - Blinding Lights"
+      },
+      {
+        "type": "ADD",
+        "to": 99,
+        "track": "no tears left to cry",
+        "artist": "Ariana Grande",
+        "action": "ADD #99  Ariana Grande - no tears left to cry"
+      },
+      {
+        "type": "ADD",
+        "to": 100,
+        "track": "Earrings",
+        "artist": "Malcolm Todd",
+        "action": "ADD #100  Malcolm Todd - Earrings"
+      }
+    ],
+    "topTracks": [
+      {
+        "position": 1,
+        "name": "Dai Dai",
+        "artist": "Shakira"
+      },
+      {
+        "position": 2,
+        "name": "Man I Need",
+        "artist": "Olivia Dean"
+      },
+      {
+        "position": 3,
+        "name": "Rein Me In",
+        "artist": "Sam Fender"
+      },
+      {
+        "position": 4,
+        "name": "Movin' To The Sun",
+        "artist": "HUGEL"
+      },
+      {
+        "position": 5,
+        "name": "Talk To You (feat. 54 Ultra)",
+        "artist": "ANOTR"
+      },
+      {
+        "position": 6,
+        "name": "Choosin' Texas",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 7,
+        "name": "stupid song",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 8,
+        "name": "the cure",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 9,
+        "name": "Wonderwall (Remastered)",
+        "artist": "Oasis"
+      },
+      {
+        "position": 10,
+        "name": "Free Your Mind",
+        "artist": "Prospa"
+      },
+      {
+        "position": 11,
+        "name": "Janice STFU",
+        "artist": "Drake"
+      },
+      {
+        "position": 12,
+        "name": "FEVER DREAM",
+        "artist": "Alex Warren"
+      },
+      {
+        "position": 13,
+        "name": "hate that i made you love me",
+        "artist": "Ariana Grande"
+      },
+      {
+        "position": 14,
+        "name": "Lush Life",
+        "artist": "Zara Larsson"
+      },
+      {
+        "position": 15,
+        "name": "Ordinary",
+        "artist": "Alex Warren"
+      },
+      {
+        "position": 16,
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "artist": "Taylor Swift"
+      },
+      {
+        "position": 17,
+        "name": "New Religion",
+        "artist": "Bebe Rexha"
+      },
+      {
+        "position": 18,
+        "name": "Nice To Each Other",
+        "artist": "Olivia Dean"
+      },
+      {
+        "position": 19,
+        "name": "Billie Jean",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 20,
+        "name": "American Girls",
+        "artist": "Harry Styles"
+      },
+      {
+        "position": 21,
+        "name": "Mr. Brightside",
+        "artist": "The Killers"
+      },
+      {
+        "position": 22,
+        "name": "Raindance",
+        "artist": "Dave"
+      },
+      {
+        "position": 23,
+        "name": "Midnight Sun",
+        "artist": "Zara Larsson"
+      },
+      {
+        "position": 24,
+        "name": "iloveitiloveitiloveit",
+        "artist": "Bella Kay"
+      },
+      {
+        "position": 25,
+        "name": "Go (feat. Q-Tip)",
+        "artist": "The Chemical Brothers"
+      },
+      {
+        "position": 26,
+        "name": "So Easy (To Fall In Love)",
+        "artist": "Olivia Dean"
+      },
+      {
+        "position": 27,
+        "name": "drop dead",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 28,
+        "name": "WHERE IS MY HUSBAND!",
+        "artist": "RAYE"
+      },
+      {
+        "position": 29,
+        "name": "The Fate of Ophelia",
+        "artist": "Taylor Swift"
+      },
+      {
+        "position": 30,
+        "name": "Boston",
+        "artist": "STELLA LEFTY"
+      },
+      {
+        "position": 31,
+        "name": "Beauty and a Beat (feat. Nicki Minaj)",
+        "artist": "Justin Bieber"
+      },
+      {
+        "position": 32,
+        "name": "I Just Might",
+        "artist": "Bruno Mars"
+      },
+      {
+        "position": 33,
+        "name": "Satisfy",
+        "artist": "Calvin Harris"
+      },
+      {
+        "position": 34,
+        "name": "Somedays",
+        "artist": "Sonny Fodera"
+      },
+      {
+        "position": 35,
+        "name": "12 to 12",
+        "artist": "sombr"
+      },
+      {
+        "position": 36,
+        "name": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey"
+      },
+      {
+        "position": 37,
+        "name": "On 2nite",
+        "artist": "Silva Bumpa"
+      },
+      {
+        "position": 38,
+        "name": "Beat It",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 39,
+        "name": "Stargazing",
+        "artist": "Myles Smith"
+      },
+      {
+        "position": 40,
+        "name": "Great Expectation",
+        "artist": "SIENNA SPIRO"
+      },
+      {
+        "position": 41,
+        "name": "Hit the Wall",
+        "artist": "Gracie Abrams"
+      },
+      {
+        "position": 42,
+        "name": "Opalite",
+        "artist": "Taylor Swift"
+      },
+      {
+        "position": 43,
+        "name": "That’s So True",
+        "artist": "Gracie Abrams"
+      },
+      {
+        "position": 44,
+        "name": "Homewrecker",
+        "artist": "sombr"
+      },
+      {
+        "position": 45,
+        "name": "Sign of the Times",
+        "artist": "Harry Styles"
+      },
+      {
+        "position": 46,
+        "name": "Beautiful Things",
+        "artist": "Benson Boone"
+      },
+      {
+        "position": 47,
+        "name": "Iris",
+        "artist": "The Goo Goo Dolls"
+      },
+      {
+        "position": 48,
+        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone"
+      },
+      {
+        "position": 49,
+        "name": "Dreams",
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "position": 50,
+        "name": "Golden",
+        "artist": "HUNTR/X"
+      },
+      {
+        "position": 51,
+        "name": "Be Her",
+        "artist": "Ella Langley"
+      },
+      {
+        "position": 52,
+        "name": "Espresso",
+        "artist": "Sabrina Carpenter"
+      },
+      {
+        "position": 53,
+        "name": "Watermelon Sugar",
+        "artist": "Harry Styles"
+      },
+      {
+        "position": 54,
+        "name": "Locked Out of Heaven",
+        "artist": "Bruno Mars"
+      },
+      {
+        "position": 55,
+        "name": "Blessings",
+        "artist": "Calvin Harris"
+      },
+      {
+        "position": 56,
+        "name": "Don't Look Back in Anger (Remastered)",
+        "artist": "Oasis"
+      },
+      {
+        "position": 57,
+        "name": "honeybee",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 58,
+        "name": "Look at My Life",
+        "artist": "Gracie Abrams"
+      },
+      {
+        "position": 59,
+        "name": "Good Reason",
+        "artist": "Gracie Abrams"
+      },
+      {
+        "position": 60,
+        "name": "One Kiss",
+        "artist": "Calvin Harris"
+      },
+      {
+        "position": 61,
+        "name": "Material Lover",
+        "artist": "SIENNA SPIRO"
+      },
+      {
+        "position": 62,
+        "name": "New Rules",
+        "artist": "Dua Lipa"
+      },
+      {
+        "position": 63,
+        "name": "Perfect",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "position": 64,
+        "name": "Castle on the Hill",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "position": 65,
+        "name": "Die On This Hill",
+        "artist": "SIENNA SPIRO"
+      },
+      {
+        "position": 66,
+        "name": "Shape of You",
+        "artist": "Ed Sheeran"
+      },
+      {
+        "position": 67,
+        "name": "Human Nature",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 68,
+        "name": "The Way You Make Me Feel (2012 Remaster)",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 69,
+        "name": "Die With A Smile",
+        "artist": "Lady Gaga"
+      },
+      {
+        "position": 70,
+        "name": "Smooth Criminal",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 71,
+        "name": "Into You",
+        "artist": "Ariana Grande"
+      },
+      {
+        "position": 72,
+        "name": "Naive",
+        "artist": "The Kooks"
+      },
+      {
+        "position": 73,
+        "name": "No Broke Boys",
+        "artist": "Disco Lines"
+      },
+      {
+        "position": 74,
+        "name": "maggots for brains",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 75,
+        "name": "Viva La Vida",
+        "artist": "Coldplay"
+      },
+      {
+        "position": 76,
+        "name": "Lose Control",
+        "artist": "Teddy Swims"
+      },
+      {
+        "position": 77,
+        "name": "Stick Season",
+        "artist": "Noah Kahan"
+      },
+      {
+        "position": 78,
+        "name": "Dog Days Are Over",
+        "artist": "Florence + the Machine"
+      },
+      {
+        "position": 79,
+        "name": "White Keys",
+        "artist": "Dominic Fike"
+      },
+      {
+        "position": 80,
+        "name": "The Chain",
+        "artist": "Fleetwood Mac"
+      },
+      {
+        "position": 81,
+        "name": "Let Me Be In Your Arms",
+        "artist": "Sonny Fodera"
+      },
+      {
+        "position": 82,
+        "name": "Baby Steps",
+        "artist": "Olivia Dean"
+      },
+      {
+        "position": 83,
+        "name": "The Door",
+        "artist": "Teddy Swims"
+      },
+      {
+        "position": 84,
+        "name": "Stateside (with Zara Larsson)",
+        "artist": "PinkPantheress"
+      },
+      {
+        "position": 85,
+        "name": "DAISIES",
+        "artist": "Justin Bieber"
+      },
+      {
+        "position": 86,
+        "name": "expectations",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "position": 87,
+        "name": "Cinderella (feat. Ty Dolla $ign)",
+        "artist": "Mac Miller"
+      },
+      {
+        "position": 88,
+        "name": "Orbiter",
+        "artist": "Noah Kahan"
+      },
+      {
+        "position": 89,
+        "name": "Bad (2012 Remaster)",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 90,
+        "name": "How Deep Is Your Love",
+        "artist": "Calvin Harris"
+      },
+      {
+        "position": 91,
+        "name": "Dracula (JENNIE Remix)",
+        "artist": "Tame Impala"
+      },
+      {
+        "position": 92,
+        "name": "Hold On, We're Going Home",
+        "artist": "Drake"
+      },
+      {
+        "position": 93,
+        "name": "Just Keep Watching",
+        "artist": "Tate McRae"
+      },
+      {
+        "position": 94,
+        "name": "A Couple Minutes",
+        "artist": "Olivia Dean"
+      },
+      {
+        "position": 95,
+        "name": "Man In the Mirror",
+        "artist": "Michael Jackson"
+      },
+      {
+        "position": 96,
+        "name": "House Tour",
+        "artist": "Sabrina Carpenter"
+      },
+      {
+        "position": 97,
+        "name": "Doors",
+        "artist": "Noah Kahan"
+      },
+      {
+        "position": 98,
+        "name": "Blinding Lights",
+        "artist": "The Weeknd"
+      },
+      {
+        "position": 99,
+        "name": "no tears left to cry",
+        "artist": "Ariana Grande"
+      },
+      {
+        "position": 100,
+        "name": "Earrings",
+        "artist": "Malcolm Todd"
+      }
+    ],
+    "baselineRun": false,
+    "mode": "delta"
+  }
+]

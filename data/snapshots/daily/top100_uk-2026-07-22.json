@@ -1,0 +1,831 @@
+{
+  "playlistName": "Top 100 UK",
+  "timestamp": "2026-07-22T10:38:06.905Z",
+  "baselineRun": false,
+  "trackCount": 100,
+  "tracks": [
+    {
+      "id": "dai-dai-shakira",
+      "name": "Dai Dai",
+      "artist": "Shakira",
+      "performanceScore": 99.4,
+      "appearances": 1
+    },
+    {
+      "id": "man-i-need-olivia-dean",
+      "name": "Man I Need",
+      "artist": "Olivia Dean",
+      "performanceScore": 98.8,
+      "appearances": 1
+    },
+    {
+      "id": "rein-me-in-sam-fender",
+      "name": "Rein Me In",
+      "artist": "Sam Fender",
+      "performanceScore": 98.2,
+      "appearances": 1
+    },
+    {
+      "id": "movin'-to-the-sun-hugel",
+      "name": "Movin' To The Sun",
+      "artist": "HUGEL",
+      "performanceScore": 97.6,
+      "appearances": 1
+    },
+    {
+      "id": "talk-to-you-(feat.-54-ultra)-anotr",
+      "name": "Talk To You (feat. 54 Ultra)",
+      "artist": "ANOTR",
+      "performanceScore": 97,
+      "appearances": 1
+    },
+    {
+      "id": "choosin'-texas-ella-langley",
+      "name": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "performanceScore": 96.4,
+      "appearances": 1
+    },
+    {
+      "id": "stupid-song-olivia-rodrigo",
+      "name": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 95.8,
+      "appearances": 1
+    },
+    {
+      "id": "the-cure-olivia-rodrigo",
+      "name": "the cure",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 95.2,
+      "appearances": 1
+    },
+    {
+      "id": "wonderwall-(remastered)-oasis",
+      "name": "Wonderwall (Remastered)",
+      "artist": "Oasis",
+      "performanceScore": 94.6,
+      "appearances": 1
+    },
+    {
+      "id": "free-your-mind-prospa",
+      "name": "Free Your Mind",
+      "artist": "Prospa",
+      "performanceScore": 94,
+      "appearances": 1
+    },
+    {
+      "id": "janice-stfu-drake",
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "performanceScore": 93.4,
+      "appearances": 1
+    },
+    {
+      "id": "fever-dream-alex-warren",
+      "name": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "performanceScore": 92.8,
+      "appearances": 1
+    },
+    {
+      "id": "hate-that-i-made-you-love-me-ariana-grande",
+      "name": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "performanceScore": 92.2,
+      "appearances": 1
+    },
+    {
+      "id": "lush-life-zara-larsson",
+      "name": "Lush Life",
+      "artist": "Zara Larsson",
+      "performanceScore": 91.6,
+      "appearances": 1
+    },
+    {
+      "id": "ordinary-alex-warren",
+      "name": "Ordinary",
+      "artist": "Alex Warren",
+      "performanceScore": 91,
+      "appearances": 1
+    },
+    {
+      "id": "i-knew-it,-i-knew-you-(from-\"toy-story-5\")-taylor-swift",
+      "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artist": "Taylor Swift",
+      "performanceScore": 90.4,
+      "appearances": 1
+    },
+    {
+      "id": "new-religion-bebe-rexha",
+      "name": "New Religion",
+      "artist": "Bebe Rexha",
+      "performanceScore": 89.8,
+      "appearances": 1
+    },
+    {
+      "id": "nice-to-each-other-olivia-dean",
+      "name": "Nice To Each Other",
+      "artist": "Olivia Dean",
+      "performanceScore": 89.2,
+      "appearances": 1
+    },
+    {
+      "id": "billie-jean-michael-jackson",
+      "name": "Billie Jean",
+      "artist": "Michael Jackson",
+      "performanceScore": 88.6,
+      "appearances": 1
+    },
+    {
+      "id": "american-girls-harry-styles",
+      "name": "American Girls",
+      "artist": "Harry Styles",
+      "performanceScore": 88,
+      "appearances": 1
+    },
+    {
+      "id": "mr.-brightside-the-killers",
+      "name": "Mr. Brightside",
+      "artist": "The Killers",
+      "performanceScore": 87.4,
+      "appearances": 1
+    },
+    {
+      "id": "raindance-dave",
+      "name": "Raindance",
+      "artist": "Dave",
+      "performanceScore": 86.8,
+      "appearances": 1
+    },
+    {
+      "id": "midnight-sun-zara-larsson",
+      "name": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "performanceScore": 86.2,
+      "appearances": 1
+    },
+    {
+      "id": "iloveitiloveitiloveit-bella-kay",
+      "name": "iloveitiloveitiloveit",
+      "artist": "Bella Kay",
+      "performanceScore": 85.6,
+      "appearances": 1
+    },
+    {
+      "id": "go-(feat.-q-tip)-the-chemical-brothers",
+      "name": "Go (feat. Q-Tip)",
+      "artist": "The Chemical Brothers",
+      "performanceScore": 85,
+      "appearances": 1
+    },
+    {
+      "id": "so-easy-(to-fall-in-love)-olivia-dean",
+      "name": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "performanceScore": 84.4,
+      "appearances": 1
+    },
+    {
+      "id": "drop-dead-olivia-rodrigo",
+      "name": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 83.8,
+      "appearances": 1
+    },
+    {
+      "id": "where-is-my-husband!-raye",
+      "name": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "performanceScore": 83.2,
+      "appearances": 1
+    },
+    {
+      "id": "the-fate-of-ophelia-taylor-swift",
+      "name": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "performanceScore": 82.6,
+      "appearances": 1
+    },
+    {
+      "id": "boston-stella-lefty",
+      "name": "Boston",
+      "artist": "STELLA LEFTY",
+      "performanceScore": 82,
+      "appearances": 1
+    },
+    {
+      "id": "beauty-and-a-beat-(feat.-nicki-minaj)-justin-bieber",
+      "name": "Beauty and a Beat (feat. Nicki Minaj)",
+      "artist": "Justin Bieber",
+      "performanceScore": 81.4,
+      "appearances": 1
+    },
+    {
+      "id": "i-just-might-bruno-mars",
+      "name": "I Just Might",
+      "artist": "Bruno Mars",
+      "performanceScore": 80.8,
+      "appearances": 1
+    },
+    {
+      "id": "satisfy-calvin-harris",
+      "name": "Satisfy",
+      "artist": "Calvin Harris",
+      "performanceScore": 80.2,
+      "appearances": 1
+    },
+    {
+      "id": "somedays-sonny-fodera",
+      "name": "Somedays",
+      "artist": "Sonny Fodera",
+      "performanceScore": 79.6,
+      "appearances": 1
+    },
+    {
+      "id": "12-to-12-sombr",
+      "name": "12 to 12",
+      "artist": "sombr",
+      "performanceScore": 79,
+      "appearances": 1
+    },
+    {
+      "id": "a-bar-song-(tipsy)-shaboozey",
+      "name": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "performanceScore": 78.4,
+      "appearances": 1
+    },
+    {
+      "id": "on-2nite-silva-bumpa",
+      "name": "On 2nite",
+      "artist": "Silva Bumpa",
+      "performanceScore": 77.8,
+      "appearances": 1
+    },
+    {
+      "id": "beat-it-michael-jackson",
+      "name": "Beat It",
+      "artist": "Michael Jackson",
+      "performanceScore": 77.2,
+      "appearances": 1
+    },
+    {
+      "id": "stargazing-myles-smith",
+      "name": "Stargazing",
+      "artist": "Myles Smith",
+      "performanceScore": 76.6,
+      "appearances": 1
+    },
+    {
+      "id": "great-expectation-sienna-spiro",
+      "name": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "performanceScore": 76,
+      "appearances": 1
+    },
+    {
+      "id": "hit-the-wall-gracie-abrams",
+      "name": "Hit the Wall",
+      "artist": "Gracie Abrams",
+      "performanceScore": 75.4,
+      "appearances": 1
+    },
+    {
+      "id": "opalite-taylor-swift",
+      "name": "Opalite",
+      "artist": "Taylor Swift",
+      "performanceScore": 74.8,
+      "appearances": 1
+    },
+    {
+      "id": "that’s-so-true-gracie-abrams",
+      "name": "That’s So True",
+      "artist": "Gracie Abrams",
+      "performanceScore": 74.2,
+      "appearances": 1
+    },
+    {
+      "id": "homewrecker-sombr",
+      "name": "Homewrecker",
+      "artist": "sombr",
+      "performanceScore": 73.6,
+      "appearances": 1
+    },
+    {
+      "id": "sign-of-the-times-harry-styles",
+      "name": "Sign of the Times",
+      "artist": "Harry Styles",
+      "performanceScore": 73,
+      "appearances": 1
+    },
+    {
+      "id": "beautiful-things-benson-boone",
+      "name": "Beautiful Things",
+      "artist": "Benson Boone",
+      "performanceScore": 72.4,
+      "appearances": 1
+    },
+    {
+      "id": "iris-the-goo-goo-dolls",
+      "name": "Iris",
+      "artist": "The Goo Goo Dolls",
+      "performanceScore": 71.8,
+      "appearances": 1
+    },
+    {
+      "id": "i-had-some-help-(feat.-morgan-wallen)-post-malone",
+      "name": "I Had Some Help (feat. Morgan Wallen)",
+      "artist": "Post Malone",
+      "performanceScore": 71.2,
+      "appearances": 1
+    },
+    {
+      "id": "dreams-fleetwood-mac",
+      "name": "Dreams",
+      "artist": "Fleetwood Mac",
+      "performanceScore": 70.6,
+      "appearances": 1
+    },
+    {
+      "id": "golden-huntr/x",
+      "name": "Golden",
+      "artist": "HUNTR/X",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "be-her-ella-langley",
+      "name": "Be Her",
+      "artist": "Ella Langley",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "espresso-sabrina-carpenter",
+      "name": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "watermelon-sugar-harry-styles",
+      "name": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "locked-out-of-heaven-bruno-mars",
+      "name": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "blessings-calvin-harris",
+      "name": "Blessings",
+      "artist": "Calvin Harris",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "don't-look-back-in-anger-(remastered)-oasis",
+      "name": "Don't Look Back in Anger (Remastered)",
+      "artist": "Oasis",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "honeybee-olivia-rodrigo",
+      "name": "honeybee",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "look-at-my-life-gracie-abrams",
+      "name": "Look at My Life",
+      "artist": "Gracie Abrams",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "good-reason-gracie-abrams",
+      "name": "Good Reason",
+      "artist": "Gracie Abrams",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "one-kiss-calvin-harris",
+      "name": "One Kiss",
+      "artist": "Calvin Harris",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "material-lover-sienna-spiro",
+      "name": "Material Lover",
+      "artist": "SIENNA SPIRO",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "new-rules-dua-lipa",
+      "name": "New Rules",
+      "artist": "Dua Lipa",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "perfect-ed-sheeran",
+      "name": "Perfect",
+      "artist": "Ed Sheeran",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "castle-on-the-hill-ed-sheeran",
+      "name": "Castle on the Hill",
+      "artist": "Ed Sheeran",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "die-on-this-hill-sienna-spiro",
+      "name": "Die On This Hill",
+      "artist": "SIENNA SPIRO",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "shape-of-you-ed-sheeran",
+      "name": "Shape of You",
+      "artist": "Ed Sheeran",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "human-nature-michael-jackson",
+      "name": "Human Nature",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "the-way-you-make-me-feel-(2012-remaster)-michael-jackson",
+      "name": "The Way You Make Me Feel (2012 Remaster)",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "die-with-a-smile-lady-gaga",
+      "name": "Die With A Smile",
+      "artist": "Lady Gaga",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "smooth-criminal-michael-jackson",
+      "name": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "into-you-ariana-grande",
+      "name": "Into You",
+      "artist": "Ariana Grande",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "naive-the-kooks",
+      "name": "Naive",
+      "artist": "The Kooks",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "no-broke-boys-disco-lines",
+      "name": "No Broke Boys",
+      "artist": "Disco Lines",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "maggots-for-brains-olivia-rodrigo",
+      "name": "maggots for brains",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "viva-la-vida-coldplay",
+      "name": "Viva La Vida",
+      "artist": "Coldplay",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "lose-control-teddy-swims",
+      "name": "Lose Control",
+      "artist": "Teddy Swims",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "stick-season-noah-kahan",
+      "name": "Stick Season",
+      "artist": "Noah Kahan",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "dog-days-are-over-florence-+-the-machine",
+      "name": "Dog Days Are Over",
+      "artist": "Florence + the Machine",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "white-keys-dominic-fike",
+      "name": "White Keys",
+      "artist": "Dominic Fike",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "the-chain-fleetwood-mac",
+      "name": "The Chain",
+      "artist": "Fleetwood Mac",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "let-me-be-in-your-arms-sonny-fodera",
+      "name": "Let Me Be In Your Arms",
+      "artist": "Sonny Fodera",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "baby-steps-olivia-dean",
+      "name": "Baby Steps",
+      "artist": "Olivia Dean",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "the-door-teddy-swims",
+      "name": "The Door",
+      "artist": "Teddy Swims",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "stateside-(with-zara-larsson)-pinkpantheress",
+      "name": "Stateside (with Zara Larsson)",
+      "artist": "PinkPantheress",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "daisies-justin-bieber",
+      "name": "DAISIES",
+      "artist": "Justin Bieber",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "expectations-olivia-rodrigo",
+      "name": "expectations",
+      "artist": "Olivia Rodrigo",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "cinderella-(feat.-ty-dolla-$ign)-mac-miller",
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "orbiter-noah-kahan",
+      "name": "Orbiter",
+      "artist": "Noah Kahan",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "bad-(2012-remaster)-michael-jackson",
+      "name": "Bad (2012 Remaster)",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "how-deep-is-your-love-calvin-harris",
+      "name": "How Deep Is Your Love",
+      "artist": "Calvin Harris",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "dracula-(jennie-remix)-tame-impala",
+      "name": "Dracula (JENNIE Remix)",
+      "artist": "Tame Impala",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "hold-on,-we're-going-home-drake",
+      "name": "Hold On, We're Going Home",
+      "artist": "Drake",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "just-keep-watching-tate-mcrae",
+      "name": "Just Keep Watching",
+      "artist": "Tate McRae",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "a-couple-minutes-olivia-dean",
+      "name": "A Couple Minutes",
+      "artist": "Olivia Dean",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "man-in-the-mirror-michael-jackson",
+      "name": "Man In the Mirror",
+      "artist": "Michael Jackson",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "house-tour-sabrina-carpenter",
+      "name": "House Tour",
+      "artist": "Sabrina Carpenter",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "doors-noah-kahan",
+      "name": "Doors",
+      "artist": "Noah Kahan",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "blinding-lights-the-weeknd",
+      "name": "Blinding Lights",
+      "artist": "The Weeknd",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "no-tears-left-to-cry-ariana-grande",
+      "name": "no tears left to cry",
+      "artist": "Ariana Grande",
+      "performanceScore": 70,
+      "appearances": 1
+    },
+    {
+      "id": "earrings-malcolm-todd",
+      "name": "Earrings",
+      "artist": "Malcolm Todd",
+      "performanceScore": 70,
+      "appearances": 1
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "Doors",
+        "artist": "Noah Kahan",
+        "position": 97,
+        "score": 70
+      },
+      {
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "position": 98,
+        "score": 70
+      },
+      {
+        "name": "no tears left to cry",
+        "artist": "Ariana Grande",
+        "position": 99,
+        "score": 70
+      },
+      {
+        "name": "Earrings",
+        "artist": "Malcolm Todd",
+        "position": 100,
+        "score": 70
+      }
+    ],
+    "removed": [
+      {
+        "name": "Danceteria",
+        "artist": "Madonna",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Too Sweet",
+        "artist": "Hozier",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Sex On Fire",
+        "artist": "Kings of Leon",
+        "reason": "dropped",
+        "age": 0
+      },
+      {
+        "name": "Go Your Own Way",
+        "artist": "Fleetwood Mac",
+        "reason": "dropped",
+        "age": 0
+      }
+    ],
+    "moved": [
+      {
+        "name": "Hold On, We're Going Home",
+        "artist": "Drake",
+        "from": 100,
+        "to": 92,
+        "movement": "↑8",
+        "direction": "up"
+      },
+      {
+        "name": "Golden",
+        "artist": "HUNTR/X",
+        "from": 43,
+        "to": 50,
+        "movement": "↓7",
+        "direction": "down"
+      },
+      {
+        "name": "Great Expectation",
+        "artist": "SIENNA SPIRO",
+        "from": 47,
+        "to": 40,
+        "movement": "↑7",
+        "direction": "up"
+      },
+      {
+        "name": "Baby Steps",
+        "artist": "Olivia Dean",
+        "from": 76,
+        "to": 82,
+        "movement": "↓6",
+        "direction": "down"
+      },
+      {
+        "name": "Dog Days Are Over",
+        "artist": "Florence + the Machine",
+        "from": 84,
+        "to": 78,
+        "movement": "↑6",
+        "direction": "up"
+      },
+      {
+        "name": "Homewrecker",
+        "artist": "sombr",
+        "from": 49,
+        "to": 44,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "Iris",
+        "artist": "The Goo Goo Dolls",
+        "from": 52,
+        "to": 47,
+        "movement": "↑5",
+        "direction": "up"
+      },
+      {
+        "name": "Let Me Be In Your Arms",
+        "artist": "Sonny Fodera",
+        "from": 86,
+        "to": 81,
+        "movement": "↑5",
+        "direction": "up"
+      }
+    ],
+    "stale": [],
+    "timestamp": "2026-07-22T10:38:06.905Z",
+    "playlistName": "Top 100 UK"
+  }
+}
